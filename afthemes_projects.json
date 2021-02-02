@@ -10,6 +10,17 @@
         "upgrade":false,
         "catgory":"Default",
         "screenshot":"",
+        "preview": "https://demo.afthemes.com/covernews/"
+      },
+      "default-pro":{
+        "name":"Covernews Pro",
+        "data":"covernews",
+        "free": "",
+        "premium": "covernews-pro",
+        "parent": "",
+        "upgrade":true,
+        "catgory":"Default",
+        "screenshot":"",
         "preview": "https://demo.afthemes.com/covernews-pro/"
       },
       "sport":{
@@ -21,7 +32,7 @@
         "upgrade":false,        
         "catgory":"Sport",
         "screenshot":"-sport",
-        "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/sport/"
       },
       "sport-pro":{
         "name":"Sport Pro",
@@ -43,7 +54,7 @@
         "upgrade":false,
         "catgory":"Business",
         "screenshot":"-business",
-        "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/business/"
       },
       "business-pro":{
         "name":"Business Pro",
@@ -65,7 +76,7 @@
         "upgrade":false,
         "catgory":"Gadgets",
         "screenshot":"-gadgets",
-        "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/gadgets/"
       },
       "gadgets-pro":{
         "name":"Gadgets Pro",
@@ -87,7 +98,7 @@
         "upgrade":false,
         "catgory":"Wedding",
         "screenshot":"-wedding",
-        "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/wedding/"
       },
       "wedding-pro":{
         "name":"Wedding Pro",
@@ -101,17 +112,17 @@
         "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
       }
     },
-    "covernews-pro":{      
+    "covernews-pro":{
       "default-pro":{
         "name":"Sport Pro",
         "data":"covernews-pro",
         "free": "covernews",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,        
+        "upgrade":false,
         "catgory":"Sport",
         "screenshot":"-default",
-        "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/sport/"
       },
       "sport-pro":{
         "name":"Sport Pro",
@@ -133,7 +144,7 @@
         "upgrade":false,
         "catgory":"Fashion",
         "screenshot":"-fashion",
-        "preview": "https://demo.afthemes.com/covernews-pro/fashion-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/fashion/"
       },
       "beauty-pro":{
         "name":"Beauty Pro",
