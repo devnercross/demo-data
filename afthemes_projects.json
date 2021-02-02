@@ -1,61 +1,62 @@
 {
   "democontent":{
-    "covernews":{
-      "default":{
-        "name":"Default",
-        "data":"covernews",
+    "covernews": {
+      "default": {
+        "name": "Default",
+        "data": "covernews",
         "free": "",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,
-        "catgory":"Default",
-        "screenshot":"",
+        "upgrade": false,
+        "catgory": "Default",
+        "screenshot": "",
         "preview": "https://demo.afthemes.com/covernews/"
       },
-      "sport":{
-        "name":"Sport",
-        "data":"covernews",
+      "sport": {
+        "name": "Sport",
+        "data": "covernews",
         "free": "",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,        
-        "catgory":"Sport",
-        "screenshot":"-sport",
+        "upgrade": false,
+        "catgory": "Sport",
+        "screenshot": "-sport",
         "preview": "https://demo.afthemes.com/covernews-pro/sport/"
       },
-      "business":{
-        "name":"Business",
-        "data":"covernews",
+      "business": {
+        "name": "Business",
+        "data": "covernews",
         "free": "",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,
-        "catgory":"Business",
-        "screenshot":"-business",
+        "upgrade": false,
+        "catgory": "Business",
+        "screenshot": "-business",
         "preview": "https://demo.afthemes.com/covernews-pro/business/"
       },
-      "gadgets":{
-        "name":"Gadgets",
-        "data":"covernews",
+      "gadgets": {
+        "name": "Gadgets",
+        "data": "covernews",
         "free": "",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,
-        "catgory":"Gadgets",
-        "screenshot":"-gadgets",
+        "upgrade": false,
+        "catgory": "Gadgets",
+        "screenshot": "-gadgets",
         "preview": "https://demo.afthemes.com/covernews-pro/gadgets/"
       },
-      "wedding":{
-        "name":"Wedding",
-        "data":"covernews",
+      "wedding": {
+        "name": "Wedding",
+        "data": "covernews",
         "free": "",
         "premium": "covernews-pro",
         "parent": "",
-        "upgrade":false,
-        "catgory":"Wedding",
-        "screenshot":"-wedding",
+        "upgrade": false,
+        "catgory": "Wedding",
+        "screenshot": "-wedding",
         "preview": "https://demo.afthemes.com/covernews-pro/wedding/"
-      },
+      }
+    },
     "covernews-pro":{
       "default-pro":{
         "name":"Sport Pro",
