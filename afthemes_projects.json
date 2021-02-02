@@ -9,32 +9,32 @@
         "default": {
           "name": "Default",
           "catgory": "Default",
-          "slug": "",
+          "slug": "covernews",
           "preview": "https://demo.afthemes.com/covernews/"
         },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/covernews-pro/sport/"
+          "preview": "https://demo.afthemes.com/covernews/sport/"
         },
         "business": {
           "name": "Business",
           "catgory": "Business",
           "slug": "business",
-          "preview": "https://demo.afthemes.com/covernews-pro/business/"
+          "preview": "https://demo.afthemes.com/covernews/business/"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "General",
           "slug": "gadgets",
-          "preview": "https://demo.afthemes.com/covernews-pro/gadgets/"
+          "preview": "https://demo.afthemes.com/covernews/gadgets/"
         },
         "wedding": {
           "name": "Wedding",
           "catgory": "General",
           "slug": "wedding",
-          "preview": "https://demo.afthemes.com/covernews-pro/wedding/"
+          "preview": "https://demo.afthemes.com/covernews/wedding/"
         }
       }
     },
@@ -47,8 +47,8 @@
       "default-pro": {
         "name": "Default Pro",
         "catgory": "General",
-        "slug": "default-pro",
-        "preview": "https://demo.afthemes.com/covernews-pro/sport/"
+        "slug": "covernews-pro",
+        "preview": "https://demo.afthemes.com/covernews-pro/"
       },
       "sport-pro": {
         "name": "Sport Pro",
@@ -60,7 +60,7 @@
         "name": "Fashion Pro",
         "catgory": "Fashion",
         "slug": "fashion-pro",
-        "preview": "https://demo.afthemes.com/covernews-pro/fashion/"
+        "preview": "https://demo.afthemes.com/covernews-pro/fashion-pro/"
       },
       "beauty-pro": {
         "name": "Beauty Pro",
@@ -78,13 +78,13 @@
         "name": "Classic Pro",
         "catgory": "General",
         "slug": "classic-pro",
-        "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/classic-pro/"
       },
       "gadgets-pro": {
         "name": "Gadgets Pro",
         "catgory": "General",
         "slug": "gadgets-pro",
-        "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
+        "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
       },
       "general-pro": {
         "name": "General Pro",
