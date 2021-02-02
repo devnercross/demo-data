@@ -8,31 +8,31 @@
         "default": {
           "name": "Default",
           "catgory": "Default",
-          "screenshot": "",
+          "slug": "",
           "preview": "https://demo.afthemes.com/covernews/"
         },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
-          "screenshot": "-sport",
+          "slug": "sport",
           "preview": "https://demo.afthemes.com/covernews-pro/sport/"
         },
         "business": {
           "name": "Business",
           "catgory": "Business",
-          "screenshot": "-business",
+          "slug": "business",
           "preview": "https://demo.afthemes.com/covernews-pro/business/"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "General",
-          "screenshot": "-gadgets",
+          "slug": "gadgets",
           "preview": "https://demo.afthemes.com/covernews-pro/gadgets/"
         },
         "wedding": {
           "name": "Wedding",
           "catgory": "General",
-          "screenshot": "-wedding",
+          "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews-pro/wedding/"
         }
       }
@@ -46,79 +46,79 @@
       "default-pro": {
         "name": "Default Pro",
         "catgory": "General",
-        "screenshot": "-default",
+        "slug": "default-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/sport/"
       },
       "sport-pro": {
         "name": "Sport Pro",
         "catgory": "Sport",
-        "screenshot": "-sport",
+        "slug": "sport-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
       },
       "fashion-pro": {
         "name": "Fashion Pro",
         "catgory": "Fashion",
-        "screenshot": "-fashion",
+        "slug": "fashion-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/fashion/"
       },
       "beauty-pro": {
         "name": "Beauty Pro",
         "catgory": "Beauty",
-        "screenshot": "-beauty",
+        "slug": "beauty-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/beauty-pro/"
       },
       "business-pro": {
         "name": "Business Pro",
         "catgory": "Business",
-        "screenshot": "-business",
+        "slug": "business-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
       },
       "classic-pro": {
         "name": "Classic Pro",
         "catgory": "General",
-        "screenshot": "-classic",
+        "slug": "classic-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
       },
       "gadgets-pro": {
         "name": "Gadgets Pro",
         "catgory": "General",
-        "screenshot": "-gadgets",
+        "slug": "gadgets-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
       },
       "general-pro": {
         "name": "General Pro",
         "catgory": "General",
-        "screenshot": "-general",
+        "slug": "general-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/general-pro/"
       },
       "minimal-pro": {
         "name": "Minimal Pro",
         "catgory": "General",
-        "screenshot": "-minimal",
+        "slug": "minimal-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/minimal-pro/"
       },
       "onlinenews-pro": {
         "name": "Online News Pro",
         "catgory": "General",
-        "screenshot": "-onlinenews",
+        "slug": "onlinenews-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/onlinenews-pro/"
       },
       "topnews-pro": {
         "name": "Top News Pro",
         "catgory": "Top News",
-        "screenshot": "-topnews",
+        "slug": "topnews-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/topnews-pro/"
       },
       "travel-pro": {
         "name": "Travel Pro",
         "catgory": "General",
-        "screenshot": "-travel",
+        "slug": "travel-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/travel-pro/"
       },
       "wedding-pro": {
         "name": "Wedding Pro",
         "catgory": "General",
-        "screenshot": "-wedding",
+        "slug": "wedding-pro",
         "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
       }
     }
