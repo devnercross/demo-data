@@ -4,6 +4,7 @@
       "data": "covernews",
       "free": "",
       "premium": "covernews-pro",
+      "demourl": "https://demo.afthemes.com/",
       "demodata": {
         "default": {
           "name": "Default",
@@ -38,10 +39,10 @@
       }
     },
     "covernews-pro": {
-
       "data": "covernews-pro",
       "free": "covernews",
       "premium": "",
+      "demourl": "https://demo.afthemes.com/",
       "demodata": {      
       "default-pro": {
         "name": "Default Pro",
