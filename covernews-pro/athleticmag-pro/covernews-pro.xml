@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-02-01 08:53" -->
+	<!-- generator="WordPress/5.6" created="2021-02-03 09:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Athletics Mag</title>
 	<link>https://demo.afthemes.com/covernews-pro/athletics-mag</link>
-	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Mon, 01 Feb 2021 08:53:45 +0000</pubDate>
+	<description>Just another CoverNews Pro Site</description>
+	<pubDate>Wed, 03 Feb 2021 09:11:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -368,10 +368,8 @@
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/afa-athlete-blood-70567.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:32:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:32:22]]></wp:post_date_gmt>
@@ -417,10 +415,8 @@
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-1191548.jpeg</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:35:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:35:01]]></wp:post_date_gmt>
@@ -972,11 +968,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[estory]]></wp:meta_value>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.0186519865271090878877657814882695674896240234375;s:5:"bytes";i:13857;s:11:"size_before";i:276110;s:10:"size_after";i:262253;s:4:"time";d:0.2600000000000000088817841970012523233890533447265625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.79999999999999982236431605997495353221893310546875;s:5:"bytes";i:256;s:11:"size_before";i:4417;s:10:"size_after";i:4161;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.30999999999999960920149533194489777088165283203125;s:5:"bytes";i:237;s:11:"size_before";i:4463;s:10:"size_after";i:4226;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:6.660000000000000142108547152020037174224853515625;s:5:"bytes";i:1305;s:11:"size_before";i:19607;s:10:"size_after";i:18302;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.4199999999999999289457264239899814128875732421875;s:5:"bytes";i:1974;s:11:"size_before";i:30728;s:10:"size_after";i:28754;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:5.25;s:5:"bytes";i:3889;s:11:"size_before";i:74098;s:10:"size_after";i:70209;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.17999999999999971578290569595992565155029296875;s:5:"bytes";i:2739;s:11:"size_before";i:52847;s:10:"size_after";i:50108;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:28754;s:10:"size_after";i:28754;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:5.6699999999999999289457264239899814128875732421875;s:5:"bytes";i:1643;s:11:"size_before";i:28986;s:10:"size_after";i:27343;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:5.62999999999999989341858963598497211933135986328125;s:5:"bytes";i:1814;s:11:"size_before";i:32210;s:10:"size_after";i:30396;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1612335973]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1121,14 +1121,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533003942]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1922,14 +1914,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:396;s:4:"file";s:44:"2018/07/cropped-pexels-photo-596815-1-1.jpeg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:43:"cropped-pexels-photo-596815-1-1-300x63.jpeg";s:5:"width";i:300;s:6:"height";i:63;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"cropped-pexels-photo-596815-1-1-1024x213.jpeg";s:5:"width";i:1024;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"cropped-pexels-photo-596815-1-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"cropped-pexels-photo-596815-1-1-768x160.jpeg";s:5:"width";i:768;s:6:"height";i:160;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:45:"cropped-pexels-photo-596815-1-1-1536x320.jpeg";s:5:"width";i:1536;s:6:"height";i:320;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:45:"cropped-pexels-photo-596815-1-1-1115x396.jpeg";s:5:"width";i:1115;s:6:"height";i:396;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:44:"cropped-pexels-photo-596815-1-1-800x396.jpeg";s:5:"width";i:800;s:6:"height";i:396;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:45:"cropped-pexels-photo-596815-1-1-1024x213.jpeg";s:5:"width";i:1024;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:44:"cropped-pexels-photo-596815-1-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:44:"cropped-pexels-photo-596815-1-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612162057]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
