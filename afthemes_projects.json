@@ -7,7 +7,7 @@
       "demodata": {
         "default": {
           "name": "Default",
-          "catgory": "Default",
+          "catgory": "General",
           "slug": "covernews",
           "preview": "https://demo.afthemes.com/covernews/"
         },
@@ -25,13 +25,13 @@
         },
         "gadgets": {
           "name": "Gadgets",
-          "catgory": "General",
+          "catgory": "Business",
           "slug": "gadgets",
           "preview": "https://demo.afthemes.com/covernews/gadgets/"
         },
         "wedding": {
           "name": "Wedding",
-          "catgory": "General",
+          "catgory": "Blog",
           "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews/wedding/"
         }
@@ -72,6 +72,12 @@
         "slug": "business",
         "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
       },
+        "athletics-mag": {
+          "name": "Athletics Mag",
+          "catgory": "Sport",
+          "slug": "athletics-mag",
+          "preview": "https://demo.afthemes.com/covernews-pro/athletics-mag/"
+        },
       "classic-pro": {
         "name": "Classic Pro",
         "catgory": "General",
@@ -80,7 +86,7 @@
       },
       "gadgets-pro": {
         "name": "Gadgets Pro",
-        "catgory": "General",
+        "catgory": "Business",
         "slug": "gadgets",
         "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
       },
@@ -92,7 +98,7 @@
       },
       "minimal-pro": {
         "name": "Minimal Pro",
-        "catgory": "General",
+        "catgory": "Blog",
         "slug": "minimal",
         "preview": "https://demo.afthemes.com/covernews-pro/minimal-pro/"
       },
@@ -104,19 +110,19 @@
       },
       "topnews-pro": {
         "name": "Top News Pro",
-        "catgory": "Top News",
+        "catgory": "General",
         "slug": "top-news",
         "preview": "https://demo.afthemes.com/covernews-pro/topnews-pro/"
       },
       "travel-pro": {
         "name": "Travel Pro",
-        "catgory": "General",
+        "catgory": "Blog",
         "slug": "travel",
         "preview": "https://demo.afthemes.com/covernews-pro/travel-pro/"
       },
       "wedding-pro": {
         "name": "Wedding Pro",
-        "catgory": "General",
+        "catgory": "Blog",
         "slug": "wedding",
         "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
       }
