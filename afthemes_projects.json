@@ -1,5 +1,18 @@
 {
   "democontent": {
+    "coverstory": {
+      "data": "coverstory",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "CoverStory",
+          "catgory": "General",
+          "slug": "coverstory",
+          "preview": "https://demo.afthemes.com/covernews/coverstory/"
+        }
+      }
+    },
     "covernews": {
       "data": "covernews",
       "free": "",
