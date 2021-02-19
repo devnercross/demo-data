@@ -13,6 +13,84 @@
         }
       }
     },
+    "hardnews": {
+      "data": "hardnews",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "HardNews",
+          "catgory": "General",
+          "slug": "hardnews",
+          "preview": "https://demo.afthemes.com/covernews/hardnews/"
+        }
+      }
+    },
+    "daily-newscast": {
+      "data": "daily-newscast",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "Daily Newscast",
+          "catgory": "General",
+          "slug": "daily-newscast",
+          "preview": "https://demo.afthemes.com/covernews/daily-newscast/"
+        }
+      }
+    },
+    "covermag": {
+      "data": "covermag",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "CoverMag",
+          "catgory": "General",
+          "slug": "covermag",
+          "preview": "https://demo.afthemes.com/covernews/covermag/"
+        }
+      }
+    },
+    "newsport": {
+      "data": "newsport",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsport",
+          "catgory": "General",
+          "slug": "newsport",
+          "preview": "https://demo.afthemes.com/covernews/newsport/"
+        }
+      }
+    },
+    "newswords": {
+      "data": "newswords",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsWords",
+          "catgory": "General",
+          "slug": "newswords",
+          "preview": "https://demo.afthemes.com/covernews/newswords/"
+        }
+      }
+    },
+    "newsquare": {
+      "data": "newsquare",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsQuare",
+          "catgory": "General",
+          "slug": "newsquare",
+          "preview": "https://demo.afthemes.com/covernews/newsquare/"
+        }
+      }
+    },
     "covernews": {
       "data": "covernews",
       "free": "",
