@@ -224,6 +224,128 @@
         "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
       }
     }
+    },
+    "newsever": {
+      "data": "newsever",
+      "free": "",
+      "premium": "newsever-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsever",
+          "catgory": "General",
+          "slug": "newsever",
+          "preview": "https://demo.afthemes.com/newsever/"
+        },
+        "dark": {
+          "name": "Newsever",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/newsever/dark/"
+        },
+        "light": {
+          "name": "Newsever",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/newsever/light/"
+        },
+        "fashion": {
+          "name": "Newsever",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/newsever/fashion/"
+        },
+        "sport": {
+          "name": "Newsever",
+          "catgory": "Fashion",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/newsever/sport/"
+        },
+        "classic": {
+          "name": "Newsever",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/newsever/classic/"
+        }
+      }
+    },
+    "newsever-pro": {
+      "data": "newsever-pro",
+      "free": "newsever",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Newsever Pro",
+          "catgory": "General",
+          "slug": "newsever",
+          "preview": "https://demo.afthemes.com/newsever-pro/"
+        },
+        "light": {
+          "name": "Light Pro",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/newsever-pro/light/"
+        },
+        "dark": {
+          "name": "Dark Pro",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/newsever-pro/dark/"
+        },
+        "classic": {
+          "name": "Classic Pro",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/newsever-pro/classic/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/newsever-pro/fashion/"
+        },
+        "sport": {
+          "name": "Fashion Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/newsever-pro/sport/"
+        },
+        "gadgets": {
+          "name": "Gadgets Pro",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/newsever-pro/gadgets/"
+        },
+        "business": {
+          "name": "Business Pro",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/newsever-pro/business/"
+        },
+        "masonry": {
+          "name": "Masonry Pro",
+          "catgory": "Blog",
+          "slug": "masonry",
+          "preview": "https://demo.afthemes.com/newsever-pro/masonry/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demo.afthemes.com/newsever-pro/recipe/"
+        },
+        "lifestyle": {
+          "name": "Lifestyle Pro",
+          "catgory": "Blog",
+          "slug": "lifestyle",
+          "preview": "https://demo.afthemes.com/newsever-pro/lifestyle/"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/newsever-pro/travel/"
+        }
+      }
     }
   }
 }
