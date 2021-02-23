@@ -138,92 +138,92 @@
       "data": "covernews-pro",
       "free": "covernews",
       "premium": "",
-      "demodata": {      
-      "default-pro": {
-        "name": "CoverNews Pro",
-        "catgory": "General",
-        "slug": "covernews",
-        "preview": "https://demo.afthemes.com/covernews-pro/"
-      },
-      "sport-pro": {
-        "name": "Sport Pro",
-        "catgory": "Sport",
-        "slug": "sport",
-        "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
-      },
-      "fashion-pro": {
-        "name": "Fashion Pro",
-        "catgory": "Fashion",
-        "slug": "fashion",
-        "preview": "https://demo.afthemes.com/covernews-pro/fashion-pro/"
-      },
-      "beauty-mag-pro": {
-        "name": "Beauty Pro",
-        "catgory": "Fashion",
-        "slug": "beauty-mag",
-        "preview": "https://demo.afthemes.com/covernews-pro/beauty-mag/"
-      },
-      "business-pro": {
-        "name": "Business Pro",
-        "catgory": "Business",
-        "slug": "business",
-        "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
-      },
+      "demodata": {
+        "default-pro": {
+          "name": "CoverNews Pro",
+          "catgory": "General",
+          "slug": "covernews",
+          "preview": "https://demo.afthemes.com/covernews-pro/"
+        },
+        "sport-pro": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
+        },
+        "fashion-pro": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/covernews-pro/fashion-pro/"
+        },
+        "beauty-mag-pro": {
+          "name": "Beauty Pro",
+          "catgory": "Fashion",
+          "slug": "beauty-mag",
+          "preview": "https://demo.afthemes.com/covernews-pro/beauty-mag/"
+        },
+        "business-pro": {
+          "name": "Business Pro",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
+        },
         "athletics-mag": {
           "name": "Athletics Mag",
           "catgory": "Sport",
           "slug": "athletics-mag",
           "preview": "https://demo.afthemes.com/covernews-pro/athletics-mag/"
         },
-      "classic-pro": {
-        "name": "Classic Pro",
-        "catgory": "General",
-        "slug": "classic",
-        "preview": "https://demo.afthemes.com/covernews-pro/classic-pro/"
-      },
-      "gadgets-pro": {
-        "name": "Gadgets Pro",
-        "catgory": "Business",
-        "slug": "gadgets",
-        "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
-      },
-      "general-news-pro": {
-        "name": "General Pro",
-        "catgory": "General",
-        "slug": "general-news",
-        "preview": "https://demo.afthemes.com/covernews-pro/general-news/"
-      },
-      "minimal-pro": {
-        "name": "Minimal Pro",
-        "catgory": "Blog",
-        "slug": "minimal",
-        "preview": "https://demo.afthemes.com/covernews-pro/minimal-pro/"
-      },
-      "onlinenews-pro": {
-        "name": "Online News Pro",
-        "catgory": "General",
-        "slug": "online-news",
-        "preview": "https://demo.afthemes.com/covernews-pro/online-news/"
-      },
-      "topnews-pro": {
-        "name": "Top News Pro",
-        "catgory": "General",
-        "slug": "top-news",
-        "preview": "https://demo.afthemes.com/covernews-pro/top-news/"
-      },
-      "travel-pro": {
-        "name": "Travel Pro",
-        "catgory": "Blog",
-        "slug": "travel",
-        "preview": "https://demo.afthemes.com/covernews-pro/travel-pro/"
-      },
-      "wedding-pro": {
-        "name": "Wedding Pro",
-        "catgory": "Blog",
-        "slug": "wedding",
-        "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
+        "classic-pro": {
+          "name": "Classic Pro",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/covernews-pro/classic-pro/"
+        },
+        "gadgets-pro": {
+          "name": "Gadgets Pro",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
+        },
+        "general-news-pro": {
+          "name": "General Pro",
+          "catgory": "General",
+          "slug": "general-news",
+          "preview": "https://demo.afthemes.com/covernews-pro/general-news/"
+        },
+        "minimal-pro": {
+          "name": "Minimal Pro",
+          "catgory": "Blog",
+          "slug": "minimal",
+          "preview": "https://demo.afthemes.com/covernews-pro/minimal-pro/"
+        },
+        "onlinenews-pro": {
+          "name": "Online News Pro",
+          "catgory": "General",
+          "slug": "online-news",
+          "preview": "https://demo.afthemes.com/covernews-pro/online-news/"
+        },
+        "topnews-pro": {
+          "name": "Top News Pro",
+          "catgory": "General",
+          "slug": "top-news",
+          "preview": "https://demo.afthemes.com/covernews-pro/top-news/"
+        },
+        "travel-pro": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/covernews-pro/travel-pro/"
+        },
+        "wedding-pro": {
+          "name": "Wedding Pro",
+          "catgory": "Blog",
+          "slug": "wedding",
+          "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
+        }
       }
-    }
     },
     "newsever": {
       "data": "newsever",
@@ -236,35 +236,35 @@
           "slug": "newsever",
           "preview": "https://demo.afthemes.com/newsever/"
         },
-        "dark": {
-          "name": "Newsever",
-          "catgory": "General",
-          "slug": "dark",
-          "preview": "https://demo.afthemes.com/newsever/dark/"
-        },
         "light": {
-          "name": "Newsever",
+          "name": "Light",
           "catgory": "General",
           "slug": "light",
           "preview": "https://demo.afthemes.com/newsever/light/"
         },
+        "dark": {
+          "name": "Dark",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/newsever/dark/"
+        },
+        "classic": {
+          "name": "Classic",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/newsever/classic/"
+        },
         "fashion": {
-          "name": "Newsever",
+          "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
           "preview": "https://demo.afthemes.com/newsever/fashion/"
         },
         "sport": {
-          "name": "Newsever",
+          "name": "Sport",
           "catgory": "Fashion",
           "slug": "sport",
           "preview": "https://demo.afthemes.com/newsever/sport/"
-        },
-        "classic": {
-          "name": "Newsever",
-          "catgory": "General",
-          "slug": "classic",
-          "preview": "https://demo.afthemes.com/newsever/classic/"
         }
       }
     },
