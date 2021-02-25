@@ -346,6 +346,104 @@
           "preview": "https://demo.afthemes.com/newsever-pro/travel/"
         }
       }
+    },
+    "newsium": {
+      "data": "newsium",
+      "free": "",
+      "premium": "newsium-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsium",
+          "catgory": "General",
+          "slug": "newsium",
+          "preview": "https://demo.afthemes.com/newsium/"
+        },
+        "classic": {
+          "name": "Classic",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/newsium/classic/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/newsium/fashion/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/newsium/sport/"
+        },
+        "lifestyle": {
+          "name": "Lifestyle",
+          "catgory": "Blog",
+          "slug": "lifestyle",
+          "preview": "https://demo.afthemes.com/newsium/lifestyle/"
+        },
+        "gadgets": {
+          "name": "Gadgets",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/newsium/gadgets/"
+        }
+      }
+    },
+    "newsium-pro": {
+      "data": "newsium-pro",
+      "free": "newsium",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Newsium Pro",
+          "catgory": "General",
+          "slug": "newsium-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/"
+        },
+        "light": {
+          "name": "Light Pro",
+          "catgory": "General",
+          "slug": "newsium-light",
+          "preview": "https://demo.afthemes.com/newsium-pro/newsium-light/"
+        },
+        "dark": {
+          "name": "Dark Pro",
+          "catgory": "General",
+          "slug": "newsium-dark",
+          "preview": "https://demo.afthemes.com/newsium-pro/newsium-dark/"
+        },
+        "classic": {
+          "name": "Classic Pro",
+          "catgory": "General",
+          "slug": "classic-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/classic-pro/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/fashion-pro/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/sport-pro/"
+        },
+        "gadgets": {
+          "name": "Gadgets Pro",
+          "catgory": "Business",
+          "slug": "gadgets-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/gadgets-pro/"
+        },
+        "lifestyle": {
+          "name": "Lifestyle Pro",
+          "catgory": "Blog",
+          "slug": "lifestyle-pro",
+          "preview": "https://demo.afthemes.com/newsium-pro/lifestyle-pro/"
+        }
+      }
     }
   }
 }
