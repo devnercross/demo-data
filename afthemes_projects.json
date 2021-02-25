@@ -444,6 +444,92 @@
           "preview": "https://demo.afthemes.com/newsium-pro/lifestyle-pro/"
         }
       }
+    },
+    "newsphere": {
+      "data": "newsphere",
+      "free": "",
+      "premium": "newsphere-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsphere",
+          "catgory": "General",
+          "slug": "newsphere",
+          "preview": "https://demo.afthemes.com/newsphere/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/newsphere/fashion/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/newsphere/sport/"
+        }
+      }
+    },
+    "newsphere-pro": {
+      "data": "newsphere-pro",
+      "free": "newsphere",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Newsium Pro",
+          "catgory": "General",
+          "slug": "newsphere-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/"
+        },
+        "light": {
+          "name": "Light Pro",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/newsphere-pro/light/"
+        },
+        "dark": {
+          "name": "Dark Pro",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/newsphere-pro/dark/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/fashion-pro/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/sport-pro/"
+        },
+        "masonry": {
+          "name": "Masonry Pro",
+          "catgory": "Blog",
+          "slug": "masonry-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/masonry-pro/"
+        },
+        "minimal": {
+          "name": "Minimal Pro",
+          "catgory": "Blog",
+          "slug": "minimal-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/minimal-pro/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/recipe-pro/"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel-pro",
+          "preview": "https://demo.afthemes.com/newsphere-pro/travel-pro/"
+        }
+      }
     }
   }
 }
