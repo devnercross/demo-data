@@ -445,6 +445,46 @@
         }
       }
     },
+    "magcess": {
+      "data": "magcess",
+      "free": "newsphere",
+      "premium": "newsphere-pro",
+      "demodata": {
+        "default": {
+          "name": "Magcess",
+          "catgory": "General",
+          "slug": "magcess",
+          "preview": "https://demo.afthemes.com/newsphere/magcess/"
+        }
+      }
+    },
+    "newspin": {
+      "data": "newspin",
+      "free": "newsphere",
+      "premium": "newsphere-pro",
+      "demodata": {
+        "default": {
+          "name": "Newspin",
+          "catgory": "General",
+          "slug": "newspin",
+          "preview": "https://demo.afthemes.com/newsphere/newspin/"
+        }
+      }
+    }
+    ,
+    "sportion": {
+      "data": "sportion",
+      "free": "newsphere",
+      "premium": "newsphere-pro",
+      "demodata": {
+        "default": {
+          "name": "Sportion",
+          "catgory": "Sport",
+          "slug": "sportion",
+          "preview": "https://demo.afthemes.com/newsphere/sportion/"
+        }
+      }
+    },
     "newsphere": {
       "data": "newsphere",
       "free": "",
@@ -528,6 +568,74 @@
           "catgory": "Blog",
           "slug": "travel-pro",
           "preview": "https://demo.afthemes.com/newsphere-pro/travel-pro/"
+        }
+      }
+    },
+    "storship": {
+      "data": "storship",
+      "free": "",
+      "premium": "storship-pro",
+      "demodata": {
+        "default": {
+          "name": "Storeship",
+          "catgory": "General",
+          "slug": "storship",
+          "preview": "https://demo.afthemes.com/storship/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/storship/fashion/"
+        },
+        "furniture": {
+          "name": "Furniture",
+          "catgory": "Furniture",
+          "slug": "furniture",
+          "preview": "https://demo.afthemes.com/storship/furniture/"
+        }
+      }
+    },
+    "storeship-pro": {
+      "data": "storeship-pro",
+      "free": "storeship",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Storeship Pro",
+          "catgory": "General",
+          "slug": "storeship-pro",
+          "preview": "https://demo.afthemes.com/storeship-pro/"
+        },
+        "liquor": {
+          "name": "Liquor Pro",
+          "catgory": "Food and Beverage",
+          "slug": "liquor",
+          "preview": "https://demo.afthemes.com/storeship-pro/liquor/"
+        },
+        "retailer": {
+          "name": "Retailer Pro",
+          "catgory": "General",
+          "slug": "retailer",
+          "preview": "https://demo.afthemes.com/storeship-pro/retailer/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/storeship-pro/fashion/"
+        },
+        "furniture": {
+          "name": "Furniture Pro",
+          "catgory": "Furniture",
+          "slug": "furniture",
+          "preview": "https://demo.afthemes.com/storeship-pro/furniture/"
+        },
+        "restaurant": {
+          "name": "Restaurant Pro",
+          "catgory": "Food and Beverage",
+          "slug": "restaurant",
+          "preview": "https://demo.afthemes.com/storeship-pro/restaurant/"
         }
       }
     }
