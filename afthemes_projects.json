@@ -638,6 +638,98 @@
           "preview": "https://demo.afthemes.com/storeship-pro/restaurant/"
         }
       }
+    },
+    "kreeti-lite": {
+      "data": "kreeti-lite",
+      "free": "",
+      "premium": "kreeti",
+      "demodata": {
+        "default": {
+          "name": "Kreeti Lite",
+          "catgory": "General",
+          "slug": "kreeti-lite",
+          "preview": "https://demo.afthemes.com/kreeti-lite/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/kreeti-lite/fashion/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/kreeti-lite/sport/"
+        },
+        "gadgets": {
+          "name": "Gadgets",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/kreeti-lite/gadgets/"
+        },
+        "wedding": {
+          "name": "Wedding",
+          "catgory": "Blog",
+          "slug": "wedding",
+          "preview": "https://demo.afthemes.com/kreeti-lite/wedding/"
+        }
+      }
+    },
+    "kreeti": {
+      "data": "kreeti",
+      "free": "kreeti-lite",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Newsphere Pro",
+          "catgory": "General",
+          "slug": "kreeti",
+          "preview": "https://demo.afthemes.com/kreeti/"
+        },
+        "dark": {
+          "name": "Dark Pro",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/kreeti/dark/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/kreeti/fashion/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/kreeti/sport/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demo.afthemes.com/kreeti/recipe/"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/kreeti/travel/"
+        },
+        "wedding": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "wedding",
+          "preview": "https://demo.afthemes.com/kreeti/wedding/"
+        },
+        "lifestyle": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "lifestyle",
+          "preview": "https://demo.afthemes.com/kreeti/lifestyle/"
+        }
+      }
     }
   }
 }
