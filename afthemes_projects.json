@@ -741,12 +741,12 @@
           "catgory": "General",
           "slug": "enternews",
           "preview": "https://demo.afthemes.com/enternews/"
-        }        ,
-        "classic": {
+        },
+        "dark": {
           "name": "Dark",
           "catgory": "General",
-          "slug": "classic",
-          "preview": "https://demo.afthemes.com/enternews/classic/"
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/enternews/dark/"
         },
         "sport": {
           "name": "Sport",
@@ -759,18 +759,18 @@
           "catgory": "Fashion",
           "slug": "fashion",
           "preview": "https://demo.afthemes.com/enternews/fashion/"
+        } ,
+        "classic": {
+          "name": "Classic",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/enternews/classic/"
         },
         "recipe": {
           "name": "Recipe",
           "catgory": "Blog",
           "slug": "recipe",
           "preview": "https://demo.afthemes.com/enternews/recipe/"
-        },
-        "dark": {
-          "name": "Dark",
-          "catgory": "General",
-          "slug": "dark",
-          "preview": "https://demo.afthemes.com/enternews/dark/"
         }
       }
     }
