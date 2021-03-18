@@ -773,6 +773,85 @@
           "preview": "https://demo.afthemes.com/enternews/recipe/"
         }
       }
+    },
+    "enternews-pro": {
+      "data": "enternews-pro",
+      "free": "enternews",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "EnterNews Pro",
+          "catgory": "General",
+          "slug": "enternews",
+          "preview": "https://demo.afthemes.com/enternews-pro/"
+        },
+        "light": {
+          "name": "Light Pro",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/enternews-pro/light/"
+        },
+        "dark": {
+          "name": "Dark Pro",
+          "catgory": "General",
+          "slug": "dark",
+          "preview": "https://demo.afthemes.com/enternews-pro/dark/"
+        },
+        "classic": {
+          "name": "Classic Pro",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/enternews-pro/classic/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/enternews-pro/fashion/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/enternews-pro/sport/"
+        },
+        "online-news": {
+          "name": "Online News",
+          "catgory": "General",
+          "slug": "online-news",
+          "preview": "https://demo.afthemes.com/enternews-pro/online-news/"
+        },
+        "business": {
+          "name": "Business Pro",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/enternews-pro/business/"
+        },
+        "top-news": {
+          "name": "Top News",
+          "catgory": "General",
+          "slug": "top-news",
+          "preview": "https://demo.afthemes.com/enternews-pro/top-news/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demo.afthemes.com/enternews-pro/recipe/"
+        },
+        "general-news": {
+          "name": "Lifestyle Pro",
+          "catgory": "Blog",
+          "slug": "general-news",
+          "preview": "https://demo.afthemes.com/enternews-pro/general-news/"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/enternews-pro/travel/"
+        }
+      }
     }
   }
 }
