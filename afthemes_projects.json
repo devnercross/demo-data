@@ -852,6 +852,49 @@
           "preview": "https://demo.afthemes.com/enternews-pro/general-news/"
         }
       }
+    },
+    "darknews": {
+      "data": "darknews",
+      "free": "",
+      "premium": "darknews-pro",
+      "demodata": {
+        "default": {
+          "name": "DarkNews",
+          "catgory": "General",
+          "slug": "darknews",
+          "preview": "https://demo.afthemes.com/darknews/"
+        },
+        "dark": {
+          "name": "Light",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/darknews/light/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/darknews/sport/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/darknews/fashion/"
+        } ,
+        "classic": {
+          "name": "Classic",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/darknews/classic/"
+        },
+        "recipe": {
+          "name": "Gaming",
+          "catgory": "Blog",
+          "slug": "gaming",
+          "preview": "https://demo.afthemes.com/darknews/gaming/"
+        }
+      }
     }
   }
 }
