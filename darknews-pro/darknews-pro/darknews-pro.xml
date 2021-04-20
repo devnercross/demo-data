@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-04-15 08:31" -->
+	<!-- generator="WordPress/5.7" created="2021-04-16 10:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>DarkNews Pro</title>
 	<link>https://demo.afthemes.com/darknews-pro</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 15 Apr 2021 08:31:58 +0000</pubDate>
+	<pubDate>Fri, 16 Apr 2021 10:04:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/darknews-pro/</wp:base_site_url>
@@ -3413,8 +3413,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Archives Layouts]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/12/archives-layouts/</link>
+		<title><![CDATA[Archives]]></title>
+		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/15/archives-layouts/</link>
 		<pubDate>Sat, 10 Apr 2021 11:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/blog/2021/04/10/archives-layouts/</guid>
@@ -3422,10 +3422,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>836</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-12 08:10:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-04-15 12:12:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-10 11:26:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-12 08:10:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-12 08:10:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-15 12:12:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-15 12:12:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archives-layouts]]></wp:post_name>
@@ -3472,10 +3472,14 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-12]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Main Banner Layouts]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/12/main-banner-layouts/</link>
+		<title><![CDATA[Main Banners]]></title>
+		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/15/main-banner-layouts/</link>
 		<pubDate>Sat, 10 Apr 2021 11:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/blog/2021/04/10/main-banner-layouts/</guid>
@@ -3483,10 +3487,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>837</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-12 08:10:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-04-15 12:12:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-10 11:26:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-12 08:10:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-12 08:10:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-15 12:12:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-15 12:12:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[main-banner-layouts]]></wp:post_name>
@@ -3533,10 +3537,14 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-12]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Single Page Layouts]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/12/single-page-layouts/</link>
+		<title><![CDATA[Single Pages]]></title>
+		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/15/single-page-layouts/</link>
 		<pubDate>Sat, 10 Apr 2021 11:26:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/blog/2021/04/10/single-page-layouts/</guid>
@@ -3544,10 +3552,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>838</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-12 08:10:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-04-15 12:12:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-10 11:26:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-12 08:10:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-12 08:10:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-15 12:12:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-15 12:12:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-page-layouts]]></wp:post_name>
@@ -3594,10 +3602,14 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-12]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demo]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/10/all-demo/</link>
+		<link>https://demo.afthemes.com/darknews-pro/blog/2021/04/15/all-demo/</link>
 		<pubDate>Sat, 10 Apr 2021 12:34:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/blog/2021/04/10/all-demo/</guid>
@@ -3605,10 +3617,10 @@
 		<content:encoded><![CDATA[12+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>870</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-10 12:48:13]]></wp:post_date>
+		<wp:post_date><![CDATA[2021-04-15 11:03:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-10 12:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:48:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:48:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-15 11:03:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-15 11:03:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demo]]></wp:post_name>
@@ -3649,7 +3661,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://afthemes.com/darknews-pro-the-best-responsive-news-and-magazine-wordpress-theme/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://afthemes.com/darknews-pro-the-advanced-dark-wordpress-theme/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4398,8 +4414,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#393a3a"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#393a3a">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -4443,8 +4459,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 05:51:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 05:51:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:16:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:16:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -4488,6 +4504,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[darknews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4557,8 +4577,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#393a3a"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#393a3a">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -4602,8 +4622,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 12:32:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 12:32:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:16:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:16:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
@@ -4635,7 +4655,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4717,8 +4737,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#343535"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#343535">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -4762,8 +4782,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 12:32:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 12:32:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:16:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:16:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -4799,7 +4819,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -4877,8 +4897,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#404141"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#404141">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -4922,8 +4942,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 12:38:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 12:38:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:15:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:15:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -4956,7 +4976,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5038,8 +5058,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#353637"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#353637">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -5083,8 +5103,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 12:38:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 12:38:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:15:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:15:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -5122,7 +5142,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -5200,8 +5220,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#3b3c3c"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#3b3c3c">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -5245,8 +5265,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 12:38:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 12:38:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:14:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:14:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fisherman-swap-petrol-motors-for-electric-engines]]></wp:post_name>
@@ -5283,7 +5303,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -5365,8 +5385,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#3f4041"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#3f4041">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -5410,8 +5430,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:07:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:07:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:14:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:14:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-are-qanon-believers-obsessed-with-4-march]]></wp:post_name>
@@ -5452,7 +5472,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -5530,8 +5550,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray","textColor":"black"} -->
-<p class="has-black-color has-very-light-gray-background-color has-text-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#252525"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#252525">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -5575,8 +5595,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-10 12:05:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-10 12:05:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:13:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:13:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[musks-spacex-starship-lands-safely-then-explodes]]></wp:post_name>
@@ -5626,7 +5646,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -5800,7 +5820,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[73]]></wp:meta_value>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
@@ -5886,8 +5906,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <blockquote class="wp-block-quote"><p>Delectus mollis natus, mauris placeat congue laudantium nunc, voluptatibus fugit donec cras! Tempora! Mollit, eveniet, wisi, eiusmod! Eaque, eius fuga minima temporibus quidem taciti bibendum!</p></blockquote>
 <!-- /wp:quote -->
 
-<!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<!-- wp:paragraph {"style":{"color":{"background":"#383839"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-background" style="background-color:#383839">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -5931,8 +5951,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:03:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-09 05:51:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-09 05:51:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-04-16 09:17:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-16 09:17:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -5964,7 +5984,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5973,6 +5993,18 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[darknews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[darknews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
