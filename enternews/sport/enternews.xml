@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-03-18 06:43" -->
+	<!-- generator="WordPress/5.7.2" created="2021-05-13 10:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sport</title>
 	<link>https://demo.afthemes.com/enternews/sport</link>
 	<description>Just another EnterNews site</description>
-	<pubDate>Thu, 18 Mar 2021 06:43:52 +0000</pubDate>
+	<pubDate>Thu, 13 May 2021 10:23:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/enternews/</wp:base_site_url>
@@ -238,7 +238,7 @@
 	<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top Menu Items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2018/08/af-themes-main-dark-1-150x150.png</url>
@@ -590,79 +590,121 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[banner-promo-1120-wu-1]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/banner-promo-1120-wu-1/</link>
-		<pubDate>Mon, 30 Jul 2018 16:01:13 +0000</pubDate>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/2018/07/30/facebook/</link>
+		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/banner-promo-1120-wu-1.png</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 						]]></content:encoded>
 		<excerpt:encoded><![CDATA[
 						]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 16:01:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 16:01:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 16:01:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 16:01:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner-promo-1120-wu-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2018/07/banner-promo-1120-wu-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/banner-promo-1120-wu-1.png]]></wp:meta_value>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:34:"2018/07/banner-promo-1120-wu-1.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:33:"banner-promo-1120-wu-1-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:34:"banner-promo-1120-wu-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"banner-promo-1120-wu-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:33:"banner-promo-1120-wu-1-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";}s:18:"enternews-featured";a:4:{s:4:"file";s:34:"banner-promo-1120-wu-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:16:"enternews-medium";a:4:{s:4:"file";s:33:"banner-promo-1120-wu-1-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:24.6114482305551263152665342204272747039794921875;s:5:"bytes";i:28472;s:11:"size_before";i:115686;s:10:"size_after";i:87214;s:4:"time";d:0.74000000000000010214051826551440171897411346435546875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:33.57000000000000028421709430404007434844970703125;s:5:"bytes";i:2227;s:11:"size_before";i:6634;s:10:"size_after";i:4407;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:31.739999999999998436805981327779591083526611328125;s:5:"bytes";i:13394;s:11:"size_before";i:42196;s:10:"size_after";i:28802;s:4:"time";d:0.2300000000000000099920072216264088638126850128173828125;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:45.5499999999999971578290569595992565155029296875;s:5:"bytes";i:804;s:11:"size_before";i:1765;s:10:"size_after";i:961;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:30.92999999999999971578290569595992565155029296875;s:5:"bytes";i:8018;s:11:"size_before";i:25924;s:10:"size_after";i:17906;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}s:15:"kreeti-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:28802;s:10:"size_after";i:28802;s:4:"time";d:0.2200000000000000011102230246251565404236316680908203125;}s:13:"kreeti-medium";O:8:"stdClass":5:{s:7:"percent";d:37.3900000000000005684341886080801486968994140625;s:5:"bytes";i:2749;s:11:"size_before";i:7352;s:10:"size_after";i:4603;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;}s:20:"kreeti-medium-square";O:8:"stdClass":5:{s:7:"percent";d:42.47999999999999687361196265555918216705322265625;s:5:"bytes";i:1280;s:11:"size_before";i:3013;s:10:"size_after";i:1733;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[banner-promo-blue]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/banner-promo-blue/</link>
-		<pubDate>Tue, 31 Jul 2018 11:09:36 +0000</pubDate>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/2018/07/30/twitter/</link>
+		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/sport-pro/wp-content/uploads/sites/2/2018/07/banner-promo-blue.png</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=44</guid>
 		<description></description>
-		<content:encoded><![CDATA[						]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-31 11:09:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-31 11:09:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-31 11:09:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-31 11:09:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<content:encoded><![CDATA[
+						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner-promo-blue]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[twitter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2018/07/banner-promo-blue.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/banner-promo-blue.png]]></wp:meta_value>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:29:"2018/07/banner-promo-blue.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:28:"banner-promo-blue-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:29:"banner-promo-blue-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner-promo-blue-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:28:"banner-promo-blue-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";}s:18:"enternews-featured";a:4:{s:4:"file";s:29:"banner-promo-blue-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:16:"enternews-medium";a:4:{s:4:"file";s:28:"banner-promo-blue-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:24.499626276887301656870477017946541309356689453125;s:5:"bytes";i:41300;s:11:"size_before";i:168574;s:10:"size_after";i:127274;s:4:"time";d:1.3200000000000000621724893790087662637233734130859375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:31.35000000000000142108547152020037174224853515625;s:5:"bytes";i:2442;s:11:"size_before";i:7790;s:10:"size_after";i:5348;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:33.17999999999999971578290569595992565155029296875;s:5:"bytes";i:22070;s:11:"size_before";i:66514;s:10:"size_after";i:44444;s:4:"time";d:0.5300000000000000266453525910037569701671600341796875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:44.47999999999999687361196265555918216705322265625;s:5:"bytes";i:859;s:11:"size_before";i:1931;s:10:"size_after";i:1072;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:30.410000000000000142108547152020037174224853515625;s:5:"bytes";i:10893;s:11:"size_before";i:35818;s:10:"size_after";i:24925;s:4:"time";d:0.2300000000000000099920072216264088638126850128173828125;}s:15:"kreeti-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:44444;s:10:"size_after";i:44444;s:4:"time";d:0.25;}s:13:"kreeti-medium";O:8:"stdClass":5:{s:7:"percent";d:40.47999999999999687361196265555918216705322265625;s:5:"bytes";i:3521;s:11:"size_before";i:8699;s:10:"size_after";i:5178;s:4:"time";d:0.2099999999999999922284388276239042170345783233642578125;}s:20:"kreeti-medium-square";O:8:"stdClass":5:{s:7:"percent";d:44.85000000000000142108547152020037174224853515625;s:5:"bytes";i:1515;s:11:"size_before";i:3378;s:10:"size_after";i:1863;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -792,49 +834,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.56059114234359785911010476411320269107818603515625;s:5:"bytes";i:46931;s:11:"size_before";i:843993;s:10:"size_after";i:797062;s:4:"time";d:0.54000000000000003552713678800500929355621337890625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.79999999999999982236431605997495353221893310546875;s:5:"bytes";i:539;s:11:"size_before";i:9298;s:10:"size_after";i:8759;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.1699999999999999289457264239899814128875732421875;s:5:"bytes";i:5831;s:11:"size_before";i:94511;s:10:"size_after";i:88680;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:7.20999999999999996447286321199499070644378662109375;s:5:"bytes";i:738;s:11:"size_before";i:10241;s:10:"size_after";i:9503;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";i:6;s:5:"bytes";i:3349;s:11:"size_before";i:55859;s:10:"size_after";i:52510;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:9:"1536x1536";O:8:"stdClass":5:{s:7:"percent";d:5.7599999999999997868371792719699442386627197265625;s:5:"bytes";i:10799;s:11:"size_before";i:187340;s:10:"size_after";i:176541;s:4:"time";d:0.1499999999999999944488848768742172978818416595458984375;}s:18:"kreeti-slider-full";O:8:"stdClass":5:{s:7:"percent";d:6.1500000000000003552713678800500929355621337890625;s:5:"bytes";i:13852;s:11:"size_before";i:225410;s:10:"size_after";i:211558;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}s:15:"kreeti-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:88680;s:10:"size_after";i:88680;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:13:"kreeti-medium";O:8:"stdClass":5:{s:7:"percent";d:6.5;s:5:"bytes";i:8016;s:11:"size_before";i:123280;s:10:"size_after";i:115264;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:20:"kreeti-medium-square";O:8:"stdClass":5:{s:7:"percent";d:7.70999999999999996447286321199499070644378662109375;s:5:"bytes";i:3807;s:11:"size_before";i:49374;s:10:"size_after";i:45567;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-banner-promo-blue.png]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/cropped-banner-promo-blue-png/</link>
-		<pubDate>Tue, 30 Apr 2019 07:04:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/sport-pro/wp-content/uploads/sites/5/2018/07/cropped-banner-promo-blue.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				https://demo.afthemes.com/newsphere-pro/sport-pro/wp-content/uploads/sites/5/2018/07/cropped-banner-promo-blue.png		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>108</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-30 07:04:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-30 07:04:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-30 07:04:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-30 07:04:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-banner-promo-blue-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2018/07/cropped-banner-promo-blue.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/cropped-banner-promo-blue.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:837;s:6:"height";i:90;s:4:"file";s:37:"2018/07/cropped-banner-promo-blue.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:36:"cropped-banner-promo-blue-300x32.png";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"cropped-banner-promo-blue-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:36:"cropped-banner-promo-blue-768x83.png";s:5:"width";i:768;s:6:"height";i:83;s:9:"mime-type";s:9:"image/png";}s:16:"enternews-medium";a:4:{s:4:"file";s:36:"cropped-banner-promo-blue-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:36.6758459152343903042492456734180450439453125;s:5:"bytes";i:23174;s:11:"size_before";i:63186;s:10:"size_after";i:40012;s:4:"time";d:0.4899999999999999911182158029987476766109466552734375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:30.440000000000001278976924368180334568023681640625;s:5:"bytes";i:2818;s:11:"size_before";i:9257;s:10:"size_after";i:6439;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:49.74000000000000198951966012828052043914794921875;s:5:"bytes";i:1826;s:11:"size_before";i:3671;s:10:"size_after";i:1845;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:31.969999999999998863131622783839702606201171875;s:5:"bytes";i:11053;s:11:"size_before";i:34568;s:10:"size_after";i:23515;s:4:"time";d:0.1499999999999999944488848768742172978818416595458984375;}s:13:"kreeti-medium";O:8:"stdClass":5:{s:7:"percent";d:46.5;s:5:"bytes";i:4394;s:11:"size_before";i:9450;s:10:"size_after";i:5056;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:20:"kreeti-medium-square";O:8:"stdClass":5:{s:7:"percent";d:49.409999999999996589394868351519107818603515625;s:5:"bytes";i:3083;s:11:"size_before";i:6240;s:10:"size_after";i:3157;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1022,154 +1021,161 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[structure-people-game-crowd-audience-soccer-1364962-pxhere.com]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/structure-people-game-crowd-audience-soccer-1364962-pxhere-com/</link>
-		<pubDate>Tue, 16 Mar 2021 11:24:08 +0000</pubDate>
+		<title><![CDATA[cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere-com_-jpg/</link>
+		<pubDate>Tue, 16 Mar 2021 11:24:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 11:24:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 11:24:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-16 11:24:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-16 11:24:08]]></wp:post_modified_gmt>
+		<wp:post_id>173</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-16 11:24:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-16 11:24:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-16 11:24:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-16 11:24:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[structure-people-game-crowd-audience-soccer-1364962-pxhere-com]]></wp:post_name>
+		<wp:post_name><![CDATA[cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere-com_-jpg]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/03/structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:472;s:4:"file";s:75:"2021/03/structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:75:"structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-300x138.jpg";s:5:"width";i:300;s:6:"height";i:138;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:75:"structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:75:"structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-768x354.jpg";s:5:"width";i:768;s:6:"height";i:354;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:75:"structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-720x472.jpg";s:5:"width";i:720;s:6:"height";i:472;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1440;s:6:"height";i:399;s:4:"file";s:83:"2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:82:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1024x284.jpg";s:5:"width";i:1024;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-768x213.jpg";s:5:"width";i:768;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1280x399.jpg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1024x284.jpg";s:5:"width";i:1024;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-720x399.jpg";s:5:"width";i:720;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:172;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_enternews]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1615894313]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enternews]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/2018/07/30/facebook/</link>
-		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
+		<title><![CDATA[banner-promo-full-green]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/banner-promo-full-green/</link>
+		<pubDate>Tue, 16 Mar 2021 11:57:48 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=43</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/banner-promo-full-green.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>174</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-16 11:57:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-16 11:57:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-16 11:57:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-16 11:57:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-promo-full-green]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/banner-promo-full-green.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021/03/banner-promo-full-green.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:120;s:4:"file";s:35:"2021/03/banner-promo-full-green.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:34:"banner-promo-full-green-300x39.jpg";s:5:"width";i:300;s:6:"height";i:39;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"banner-promo-full-green-150x120.jpg";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"banner-promo-full-green-768x99.jpg";s:5:"width";i:768;s:6:"height";i:99;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:35:"banner-promo-full-green-720x120.jpg";s:5:"width";i:720;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/sample-page/</link>
+		<pubDate>Mon, 08 Mar 2021 06:26:24 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-08 06:26:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-08 06:26:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-08 06:26:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-08 06:26:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/</link>
+		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[
 						]]></content:encoded>
 		<excerpt:encoded><![CDATA[
 						]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[43]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/2018/07/30/twitter/</link>
-		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=44</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[twitter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1895,81 +1901,35 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere-com_-jpg/</link>
-		<pubDate>Tue, 16 Mar 2021 11:24:17 +0000</pubDate>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/blog/</link>
+		<pubDate>Mon, 08 Mar 2021 07:03:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?page_id=166</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 11:24:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 11:24:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-16 11:24:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-16 11:24:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>166</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-08 07:03:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-08 07:03:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-08 07:03:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-08 07:03:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere-com_-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1440;s:6:"height";i:399;s:4:"file";s:83:"2021/03/cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:82:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1024x284.jpg";s:5:"width";i:1024;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-768x213.jpg";s:5:"width";i:768;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1280x399.jpg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:84:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-1024x284.jpg";s:5:"width";i:1024;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:83:"cropped-structure-people-game-crowd-audience-soccer-1364962-pxhere.com_-720x399.jpg";s:5:"width";i:720;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:172;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_enternews]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1615894313]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[enternews]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[banner-promo-full-green]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/banner-promo-full-green/</link>
-		<pubDate>Tue, 16 Mar 2021 11:57:48 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/banner-promo-full-green.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-16 11:57:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-16 11:57:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-16 11:57:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-16 11:57:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner-promo-full-green]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews/sport/wp-content/uploads/sites/4/2021/03/banner-promo-full-green.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021/03/banner-promo-full-green.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:120;s:4:"file";s:35:"2021/03/banner-promo-full-green.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:34:"banner-promo-full-green-300x39.jpg";s:5:"width";i:300;s:6:"height";i:39;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"banner-promo-full-green-150x120.jpg";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"banner-promo-full-green-768x99.jpg";s:5:"width";i:768;s:6:"height";i:99;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:35:"banner-promo-full-green-720x120.jpg";s:5:"width";i:720;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2201,106 +2161,60 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/?p=1</link>
-		<pubDate>Mon, 08 Mar 2021 06:26:24 +0000</pubDate>
+		<title><![CDATA[Recipe]]></title>
+		<link>https://demo.afthemes.com/enternews/sport/2021/03/18/recipe/</link>
+		<pubDate>Thu, 18 Mar 2021 06:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?p=1</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?p=183</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.afthemes.com/enternews/">EnterNews Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-08 06:26:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-08 06:26:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-08 06:58:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-08 06:58:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1615186702]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demo.afthemes.com/enternews/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-03-08 06:26:24]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-03-08 06:26:24]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/sample-page/</link>
-		<pubDate>Mon, 08 Mar 2021 06:26:24 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-08 06:26:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-08 06:26:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-08 06:26:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-08 06:26:24]]></wp:post_modified_gmt>
+		<wp:post_id>183</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 06:22:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-18 06:22:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 06:22:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 06:22:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[recipe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[183]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews/recipe/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2646,245 +2560,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/</link>
-		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/?page_id=157</link>
-		<pubDate>Tue, 08 Dec 2020 09:38:24 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/sport/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-08 09:38:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-08 09:38:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-08 07:03:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-08 07:03:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1615187013]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/?page_id=158</link>
-		<pubDate>Tue, 13 Oct 2020 16:03:03 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti-lite/sport/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/kreeti-lite/sport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-13 16:03:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-13 16:03:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-08 07:03:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-08 07:03:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1615187013]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page-2-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/blog/</link>
-		<pubDate>Mon, 08 Mar 2021 07:03:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?page_id=166</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>166</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-08 07:03:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-08 07:03:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-08 07:03:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-08 07:03:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Recipe]]></title>
-		<link>https://demo.afthemes.com/enternews/sport/2021/03/18/recipe/</link>
-		<pubDate>Thu, 18 Mar 2021 06:22:46 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews/sport/?p=183</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>183</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 06:22:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-18 06:22:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 06:22:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 06:22:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[recipe]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[183]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews/recipe/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

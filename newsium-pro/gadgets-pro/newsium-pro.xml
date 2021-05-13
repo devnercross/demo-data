@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-02-03 08:13" -->
+	<!-- generator="WordPress/5.7" created="2021-05-13 12:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Gadgets Pro</title>
 	<link>https://demo.afthemes.com/newsium-pro/gadgets-pro</link>
 	<description>Just another Newsium Pro site</description>
-	<pubDate>Wed, 03 Feb 2021 08:13:16 +0000</pubDate>
+	<pubDate>Thu, 13 May 2021 12:15:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/newsium-pro/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/newsium-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/newsium-pro/gadgets-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -212,10 +212,18 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://demo.afthemes.com/newsium-pro/gadgets-pro/wp-content/uploads/sites/9/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
+	<title>Gadgets Pro</title>
+	<link>https://demo.afthemes.com/newsium-pro/gadgets-pro</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
-		<title>af-themes main dark</title>
+		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/af-themes-main-dark/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:33 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -226,6 +234,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-01 03:20:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-01 03:20:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-01 03:20:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-01 03:20:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[af-themes-main-dark]]></wp:post_name>
@@ -250,7 +260,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-af-themes-main-dark.png</title>
+		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -261,6 +271,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-01 03:20:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-01 03:20:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-01 03:20:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-01 03:20:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-af-themes-main-dark-png]]></wp:post_name>
@@ -289,7 +301,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blurred-background-cellphone-cellular-telephone-1866703</title>
+		<title><![CDATA[blurred-background-cellphone-cellular-telephone-1866703]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/blurred-background-cellphone-cellular-telephone-1866703/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:55 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -300,6 +312,8 @@
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:17:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:17:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:17:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:17:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blurred-background-cellphone-cellular-telephone-1866703]]></wp:post_name>
@@ -320,7 +334,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cellphone-device-electronics-2530428</title>
+		<title><![CDATA[cellphone-device-electronics-2530428]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cellphone-device-electronics-2530428/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:57 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -331,6 +345,8 @@
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:17:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:17:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:17:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:17:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cellphone-device-electronics-2530428]]></wp:post_name>
@@ -351,7 +367,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>connection-desk-device-400678</title>
+		<title><![CDATA[connection-desk-device-400678]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/connection-desk-device-400678/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -362,6 +378,8 @@
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:17:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:17:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:17:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:17:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[connection-desk-device-400678]]></wp:post_name>
@@ -382,7 +400,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>computer-device-display-2473167</title>
+		<title><![CDATA[computer-device-display-2473167]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/computer-device-display-2473167/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -393,6 +411,8 @@
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[computer-device-display-2473167]]></wp:post_name>
@@ -413,7 +433,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gadgets-iphone-laptop-163143</title>
+		<title><![CDATA[gadgets-iphone-laptop-163143]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/gadgets-iphone-laptop-163143/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -424,6 +444,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets-iphone-laptop-163143]]></wp:post_name>
@@ -448,7 +470,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-blur-drone-1686869</title>
+		<title><![CDATA[action-blur-drone-1686869]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/action-blur-drone-1686869/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -459,6 +481,8 @@
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-blur-drone-1686869]]></wp:post_name>
@@ -479,7 +503,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blur-cellphone-close-up-1826060</title>
+		<title><![CDATA[blur-cellphone-close-up-1826060]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/blur-cellphone-close-up-1826060/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -490,6 +514,8 @@
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blur-cellphone-close-up-1826060]]></wp:post_name>
@@ -510,7 +536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>audio-brown-connection-1337753</title>
+		<title><![CDATA[audio-brown-connection-1337753]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/audio-brown-connection-1337753/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:13 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -521,6 +547,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[audio-brown-connection-1337753]]></wp:post_name>
@@ -541,7 +569,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>camera-desk-device-265014</title>
+		<title><![CDATA[camera-desk-device-265014]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/camera-desk-device-265014/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:16 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -552,6 +580,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[camera-desk-device-265014]]></wp:post_name>
@@ -572,7 +602,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>black-blank-cellular-telephone-947407</title>
+		<title><![CDATA[black-blank-cellular-telephone-947407]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/black-blank-cellular-telephone-947407/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:19 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -583,6 +613,8 @@
 		<wp:post_id>197</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[black-blank-cellular-telephone-947407]]></wp:post_name>
@@ -603,7 +635,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>black-connection-curve-414831</title>
+		<title><![CDATA[black-connection-curve-414831]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/black-connection-curve-414831/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -614,6 +646,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 08:18:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 08:18:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 08:18:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 08:18:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[black-connection-curve-414831]]></wp:post_name>
@@ -634,7 +668,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-blur-cellphone-close-up-1826060.jpg</title>
+		<title><![CDATA[cropped-blur-cellphone-close-up-1826060.jpg]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cropped-blur-cellphone-close-up-1826060-jpg/</link>
 		<pubDate>Fri, 30 Aug 2019 06:52:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -645,6 +679,8 @@
 		<wp:post_id>203</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-30 06:52:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-30 06:52:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-30 06:52:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-30 06:52:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-blur-cellphone-close-up-1826060-jpg]]></wp:post_name>
@@ -677,7 +713,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promotion</title>
+		<title><![CDATA[banner-promotion]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/banner-promotion/</link>
 		<pubDate>Tue, 10 Sep 2019 09:48:41 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -688,6 +724,8 @@
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-10 09:48:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-10 09:48:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-10 09:48:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-10 09:48:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promotion]]></wp:post_name>
@@ -708,7 +746,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promotion-bri</title>
+		<title><![CDATA[banner-promotion-bri]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/banner-promotion-bri/</link>
 		<pubDate>Tue, 10 Sep 2019 09:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -719,6 +757,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-10 09:53:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-10 09:53:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-10 09:53:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-10 09:53:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promotion-bri]]></wp:post_name>
@@ -739,7 +779,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-computer-device-display-2473167.jpg</title>
+		<title><![CDATA[cropped-computer-device-display-2473167.jpg]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cropped-computer-device-display-2473167-jpg/</link>
 		<pubDate>Mon, 25 Nov 2019 06:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -750,6 +790,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-25 06:32:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-25 06:32:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-25 06:32:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-25 06:32:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-computer-device-display-2473167-jpg]]></wp:post_name>
@@ -782,7 +824,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-gadgets-iphone-laptop-163143.jpg</title>
+		<title><![CDATA[cropped-gadgets-iphone-laptop-163143.jpg]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cropped-gadgets-iphone-laptop-163143-jpg/</link>
 		<pubDate>Mon, 25 Nov 2019 06:32:29 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -793,6 +835,8 @@
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-25 06:32:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-25 06:32:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-25 06:32:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-25 06:32:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-gadgets-iphone-laptop-163143-jpg]]></wp:post_name>
@@ -825,7 +869,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-black-blank-cellular-telephone-947407-2.jpg</title>
+		<title><![CDATA[cropped-black-blank-cellular-telephone-947407-2.jpg]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/cropped-black-blank-cellular-telephone-947407-jpg/</link>
 		<pubDate>Mon, 25 Nov 2019 06:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -836,6 +880,8 @@
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-25 06:34:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-25 06:34:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-25 06:34:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-25 06:34:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-black-blank-cellular-telephone-947407-jpg]]></wp:post_name>
@@ -868,7 +914,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>top-view-of-a-pen-on-a-notepad-sunglasses-and-various-3228418</title>
+		<title><![CDATA[top-view-of-a-pen-on-a-notepad-sunglasses-and-various-3228418]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/top-view-of-a-pen-on-a-notepad-sunglasses-and-various-3228418/</link>
 		<pubDate>Mon, 25 Nov 2019 06:50:59 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -879,6 +925,8 @@
 		<wp:post_id>248</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-25 06:50:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-25 06:50:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-25 06:50:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-25 06:50:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-view-of-a-pen-on-a-notepad-sunglasses-and-various-3228418]]></wp:post_name>
@@ -903,7 +951,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/facebook/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -914,6 +962,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -958,7 +1008,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/twitter/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -969,6 +1019,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -1013,7 +1065,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube</title>
+		<title><![CDATA[Youtube]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/youtube/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1024,6 +1076,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -1068,7 +1122,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Instagram</title>
+		<title><![CDATA[Instagram]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/instagram/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1079,6 +1133,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -1123,7 +1179,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Linkedin</title>
+		<title><![CDATA[Linkedin]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/linkedin/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1134,6 +1190,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -1178,7 +1236,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/51/</link>
 		<pubDate>Wed, 18 Jul 2018 12:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1189,6 +1247,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:09:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:09:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:09:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[51]]></wp:post_name>
@@ -1233,7 +1293,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/60/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1244,6 +1304,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[60]]></wp:post_name>
@@ -1288,7 +1350,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/61/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1299,6 +1361,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[61]]></wp:post_name>
@@ -1343,7 +1407,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/62/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1354,6 +1418,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[62]]></wp:post_name>
@@ -1398,7 +1464,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/63/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1409,6 +1475,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -1453,7 +1521,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/64/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1464,6 +1532,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[64]]></wp:post_name>
@@ -1508,7 +1578,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/65/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1519,6 +1589,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[65]]></wp:post_name>
@@ -1563,7 +1635,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/66/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1574,6 +1646,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[66]]></wp:post_name>
@@ -1618,7 +1692,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/67/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1629,6 +1703,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 12:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[67]]></wp:post_name>
@@ -1673,7 +1749,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/83/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1684,6 +1760,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:23:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:23:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:23:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:23:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -1728,7 +1806,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/86/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1739,6 +1817,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:23:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:23:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:23:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:23:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[86]]></wp:post_name>
@@ -1783,7 +1863,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/97/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1794,6 +1874,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[97]]></wp:post_name>
@@ -1838,7 +1920,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/98/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1849,6 +1931,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[98]]></wp:post_name>
@@ -1893,7 +1977,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/99/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1904,6 +1988,8 @@
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[99]]></wp:post_name>
@@ -1948,7 +2034,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/mc4wp-form/174/</link>
 		<pubDate>Wed, 26 Jun 2019 07:53:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -1966,6 +2052,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 07:53:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 07:53:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 07:53:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 07:53:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -2017,7 +2105,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/sample-page/</link>
 		<pubDate>Mon, 25 Nov 2019 05:52:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2046,6 +2134,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-25 05:52:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-25 05:52:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-25 05:52:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-25 05:52:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2061,7 +2151,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The full story of Thailand’s extraordinary cave rescue</title>
+		<title><![CDATA[The full story of Thailand’s extraordinary cave rescue]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2076,6 +2166,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:03:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:03:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -2110,7 +2202,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why local US newspapers are sounding the alarm</title>
+		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2125,6 +2217,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:07:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -2154,7 +2248,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Searching for the &#039;angel&#039; who held me on Westminster Bridge</title>
+		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2169,6 +2263,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:10:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:10:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:10:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
@@ -2203,7 +2299,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>All you need to know about penalty shootouts</title>
+		<title><![CDATA[All you need to know about penalty shootouts]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2218,6 +2314,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:16:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -2259,7 +2357,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The man who saved thousands of people from HIV</title>
+		<title><![CDATA[The man who saved thousands of people from HIV]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2272,6 +2370,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:24:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -2314,7 +2414,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Searching for the forgotten heroes of World War Two</title>
+		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2329,6 +2429,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:26:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -2367,7 +2469,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>&#039;Somebody threatened to burn the school down&#039;</title>
+		<title><![CDATA['Somebody threatened to burn the school down']]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2382,6 +2484,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:38:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
@@ -2424,7 +2528,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Trump-Putin: Your toolkit to help understand the story</title>
+		<title><![CDATA[Trump-Putin: Your toolkit to help understand the story]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2437,6 +2541,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:41:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
@@ -2478,7 +2584,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Business booming for giant cargo planes</title>
+		<title><![CDATA[Business booming for giant cargo planes]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2491,6 +2597,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:43:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -2532,7 +2640,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Google hit with record EU fine over Shopping service</title>
+		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2545,6 +2653,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -2587,7 +2697,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/</link>
 		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2598,6 +2708,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:55:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:55:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:55:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2637,7 +2749,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/100/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2648,6 +2760,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[100]]></wp:post_name>
@@ -2692,7 +2806,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/blog/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2703,6 +2817,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 14:02:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 14:02:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 14:02:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 14:02:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2722,7 +2838,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/07/30/111/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2733,6 +2849,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 14:02:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 14:02:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[111]]></wp:post_name>
@@ -2777,7 +2895,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>All Demos</title>
+		<title><![CDATA[All Demos]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2018/08/02/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 03:37:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2788,6 +2906,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:37:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:37:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -2832,7 +2952,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/?page_id=145</link>
 		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2843,6 +2963,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-08 05:09:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-08 05:09:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -2858,7 +2980,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2019/08/30/home/</link>
 		<pubDate>Fri, 30 Aug 2019 06:53:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2869,6 +2991,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-30 06:53:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-30 06:53:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2913,7 +3037,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Buy Now</title>
+		<title><![CDATA[Buy Now]]></title>
 		<link>https://demo.afthemes.com/newsium-pro/gadgets-pro/2019/12/03/buy-now/</link>
 		<pubDate>Tue, 03 Dec 2019 02:40:31 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
@@ -2924,6 +3048,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>262</wp:post_id>
 		<wp:post_date><![CDATA[2019-12-03 02:40:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-03 02:40:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-03 02:40:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[buy-now]]></wp:post_name>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.1" created="2021-02-17 08:37" -->
+	<!-- generator="WordPress/5.7.1" created="2021-05-13 11:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Travel Pro</title>
 	<link>https://demo.afthemes.com/newsever-pro/travel</link>
 	<description>Just another Newsever Pro site</description>
-	<pubDate>Wed, 17 Feb 2021 08:37:56 +0000</pubDate>
+	<pubDate>Thu, 13 May 2021 11:04:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/newsever-pro/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/newsever-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/newsever-pro/travel</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF themes]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -161,133 +161,18 @@
 	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2019/04/cropped-af-themes-main-dark-150x150.png</url>
+	<title>Travel Pro</title>
+	<link>https://demo.afthemes.com/newsever-pro/travel</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
-		<title>cropped-pexels-photo-358482.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-358482-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 08:51:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-358482.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 08:51:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 08:51:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-358482-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-358482.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-358482.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:249;s:4:"file";s:40:"2018/04/cropped-pexels-photo-358482.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-358482-300x53.jpeg";s:5:"width";i:300;s:6:"height";i:53;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-358482-1024x182.jpeg";s:5:"width";i:1024;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-358482-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-358482-768x137.jpeg";s:5:"width";i:768;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-358482-1280x249.jpeg";s:5:"width";i:1280;s:6:"height";i:249;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-358482-1024x182.jpeg";s:5:"width";i:1024;s:6:"height";i:182;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-358482-720x249.jpeg";s:5:"width";i:720;s:6:"height";i:249;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.673021657515317173192670452408492565155029296875;s:5:"bytes";i:4639;s:11:"size_before";i:81773;s:10:"size_after";i:77134;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.17999999999999971578290569595992565155029296875;s:5:"bytes";i:263;s:11:"size_before";i:5076;s:10:"size_after";i:4813;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.36000000000000031974423109204508364200592041015625;s:5:"bytes";i:366;s:11:"size_before";i:5752;s:10:"size_after";i:5386;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.6500000000000003552713678800500929355621337890625;s:5:"bytes";i:1482;s:11:"size_before";i:26224;s:10:"size_after";i:24742;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.63999999999999968025576890795491635799407958984375;s:5:"bytes";i:2352;s:11:"size_before";i:41701;s:10:"size_after";i:39349;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:5.8300000000000000710542735760100185871124267578125;s:5:"bytes";i:176;s:11:"size_before";i:3020;s:10:"size_after";i:2844;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-206660.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-206660-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 09:00:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-206660.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:00:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:00:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-206660-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-206660.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-206660.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:250;s:4:"file";s:40:"2018/04/cropped-pexels-photo-206660.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-206660-300x54.jpeg";s:5:"width";i:300;s:6:"height";i:54;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-206660-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-206660-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-206660-768x137.jpeg";s:5:"width";i:768;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-206660-1280x250.jpeg";s:5:"width";i:1280;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-206660-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-206660-720x250.jpeg";s:5:"width";i:720;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.47299929545360352989291641279123723506927490234375;s:5:"bytes";i:1676;s:11:"size_before";i:48258;s:10:"size_after";i:46582;s:4:"time";d:0.11000000000000000055511151231257827021181583404541015625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.57000000000000028421709430404007434844970703125;s:5:"bytes";i:169;s:11:"size_before";i:3701;s:10:"size_after";i:3532;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.230000000000000426325641456060111522674560546875;s:5:"bytes";i:203;s:11:"size_before";i:3879;s:10:"size_after";i:3676;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:2.979999999999999982236431605997495353221893310546875;s:5:"bytes";i:451;s:11:"size_before";i:15154;s:10:"size_after";i:14703;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.109999999999999875655021241982467472553253173828125;s:5:"bytes";i:723;s:11:"size_before";i:23224;s:10:"size_after";i:22501;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:5.6500000000000003552713678800500929355621337890625;s:5:"bytes";i:130;s:11:"size_before";i:2300;s:10:"size_after";i:2170;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-358482-1.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-358482-1-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 09:06:15 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-358482-1.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:06:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:06:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-358482-1-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-358482-1.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-358482-1.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:364;s:4:"file";s:42:"2018/04/cropped-pexels-photo-358482-1.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-358482-1-300x78.jpeg";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-358482-1-1024x266.jpeg";s:5:"width";i:1024;s:6:"height";i:266;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-358482-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-358482-1-768x200.jpeg";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-358482-1-1280x364.jpeg";s:5:"width";i:1280;s:6:"height";i:364;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-358482-1-1024x266.jpeg";s:5:"width";i:1024;s:6:"height";i:266;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-358482-1-720x364.jpeg";s:5:"width";i:720;s:6:"height";i:364;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.61245097071257337262295550317503511905670166015625;s:5:"bytes";i:6253;s:11:"size_before";i:111413;s:10:"size_after";i:105160;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.3300000000000000710542735760100185871124267578125;s:5:"bytes";i:286;s:11:"size_before";i:5362;s:10:"size_after";i:5076;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.62000000000000010658141036401502788066864013671875;s:5:"bytes";i:520;s:11:"size_before";i:7854;s:10:"size_after";i:7334;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.61000000000000031974423109204508364200592041015625;s:5:"bytes";i:2023;s:11:"size_before";i:36032;s:10:"size_after";i:34009;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.45999999999999996447286321199499070644378662109375;s:5:"bytes";i:3221;s:11:"size_before";i:58958;s:10:"size_after";i:55737;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:6.3300000000000000710542735760100185871124267578125;s:5:"bytes";i:203;s:11:"size_before";i:3207;s:10:"size_after";i:3004;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-196666.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-196666.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-196666-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 09:10:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -300,6 +185,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:10:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:10:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:10:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:10:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-196666-jpeg]]></wp:post_name>
@@ -328,48 +215,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-414017.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-414017-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 09:21:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-414017.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:21:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:21:37]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-414017-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-414017.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-414017.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:382;s:4:"file";s:40:"2018/04/cropped-pexels-photo-414017.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-414017-300x82.jpeg";s:5:"width";i:300;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-414017-1024x279.jpeg";s:5:"width";i:1024;s:6:"height";i:279;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-414017-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-414017-768x210.jpeg";s:5:"width";i:768;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-414017-1280x382.jpeg";s:5:"width";i:1280;s:6:"height";i:382;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-414017-1024x279.jpeg";s:5:"width";i:1024;s:6:"height";i:279;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-414017-720x382.jpeg";s:5:"width";i:720;s:6:"height";i:382;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.9783171294677206475398634211160242557525634765625;s:5:"bytes";i:2847;s:11:"size_before";i:57188;s:10:"size_after";i:54341;s:4:"time";d:0.09999999999999999167332731531132594682276248931884765625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.32000000000000028421709430404007434844970703125;s:5:"bytes";i:205;s:11:"size_before";i:3853;s:10:"size_after";i:3648;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.2599999999999997868371792719699442386627197265625;s:5:"bytes";i:230;s:11:"size_before";i:4372;s:10:"size_after";i:4142;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.62000000000000010658141036401502788066864013671875;s:5:"bytes";i:838;s:11:"size_before";i:18157;s:10:"size_after";i:17319;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.05999999999999960920149533194489777088165283203125;s:5:"bytes";i:1439;s:11:"size_before";i:28414;s:10:"size_after";i:26975;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:5.63999999999999968025576890795491635799407958984375;s:5:"bytes";i:135;s:11:"size_before";i:2392;s:10:"size_after";i:2257;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>pexels-photo</title>
+		<title><![CDATA[pexels-photo]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo/</link>
 		<pubDate>Sat, 07 Apr 2018 09:24:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -380,6 +226,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:24:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:24:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:24:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:24:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo]]></wp:post_name>
@@ -404,7 +252,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo.jpg</title>
+		<title><![CDATA[cropped-pexels-photo.jpg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-jpg/</link>
 		<pubDate>Sat, 07 Apr 2018 09:25:01 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -417,6 +265,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:25:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:25:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:25:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:25:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-jpg]]></wp:post_name>
@@ -445,7 +295,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-421759</title>
+		<title><![CDATA[pexels-photo-421759]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/pexels-photo-421759/</link>
 		<pubDate>Sat, 07 Apr 2018 09:34:55 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -456,6 +306,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:34:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:34:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-421759]]></wp:post_name>
@@ -480,7 +332,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-307008</title>
+		<title><![CDATA[pexels-photo-307008]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/pexels-photo-307008/</link>
 		<pubDate>Sat, 07 Apr 2018 09:36:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -491,6 +343,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:36:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:36:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-307008]]></wp:post_name>
@@ -519,7 +373,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-238622</title>
+		<title><![CDATA[pexels-photo-238622]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/pexels-photo-238622/</link>
 		<pubDate>Sat, 07 Apr 2018 09:39:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -530,6 +384,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:39:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:39:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-238622]]></wp:post_name>
@@ -558,7 +414,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-413960</title>
+		<title><![CDATA[pexels-photo-413960]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/pexels-photo-413960/</link>
 		<pubDate>Sat, 07 Apr 2018 09:40:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -569,6 +425,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:40:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:40:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-413960]]></wp:post_name>
@@ -593,7 +451,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-378153</title>
+		<title><![CDATA[pexels-photo-378153]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/pexels-photo-378153/</link>
 		<pubDate>Sat, 07 Apr 2018 09:41:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -604,6 +462,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:41:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:41:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-378153]]></wp:post_name>
@@ -628,7 +488,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-291732</title>
+		<title><![CDATA[pexels-photo-291732]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-291732/</link>
 		<pubDate>Sat, 07 Apr 2018 09:46:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -639,6 +499,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:46:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:46:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-291732]]></wp:post_name>
@@ -663,7 +525,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-745119</title>
+		<title><![CDATA[pexels-photo-745119]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-745119/</link>
 		<pubDate>Sat, 07 Apr 2018 09:47:01 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -674,6 +536,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:47:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:47:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-745119]]></wp:post_name>
@@ -698,7 +562,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-720598</title>
+		<title><![CDATA[pexels-photo-720598]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-720598/</link>
 		<pubDate>Sat, 07 Apr 2018 09:55:22 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -709,6 +573,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:55:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:55:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:55:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:55:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-720598]]></wp:post_name>
@@ -733,7 +599,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-746801</title>
+		<title><![CDATA[pexels-photo-746801]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-746801/</link>
 		<pubDate>Sat, 07 Apr 2018 10:02:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -744,6 +610,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:02:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:02:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 10:02:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 10:02:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-746801]]></wp:post_name>
@@ -772,7 +640,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-355770</title>
+		<title><![CDATA[pexels-photo-355770]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-355770/</link>
 		<pubDate>Sat, 07 Apr 2018 10:04:14 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -783,6 +651,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:04:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:04:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 10:04:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 10:04:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-355770]]></wp:post_name>
@@ -807,7 +677,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-355770.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-355770.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-355770-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 10:04:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -820,6 +690,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:04:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:04:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 10:04:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 10:04:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-355770-jpeg]]></wp:post_name>
@@ -848,87 +720,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-581669</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-581669/</link>
-		<pubDate>Sat, 07 Apr 2018 10:06:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-581669.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[						]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 10:06:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 10:06:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-photo-581669]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/pexels-photo-581669.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/pexels-photo-581669.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1290;s:4:"file";s:32:"2018/04/pexels-photo-581669.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-581669-300x202.jpeg";s:5:"width";i:300;s:6:"height";i:202;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-581669-1024x688.jpeg";s:5:"width";i:1024;s:6:"height";i:688;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-581669-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-581669-768x516.jpeg";s:5:"width";i:768;s:6:"height";i:516;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-581669-1536x1032.jpeg";s:5:"width";i:1536;s:6:"height";i:1032;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-581669-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:33:"pexels-photo-581669-1024x688.jpeg";s:5:"width";i:1024;s:6:"height";i:688;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:32:"pexels-photo-581669-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:16.54103340903632357594688073731958866119384765625;s:5:"bytes";i:39257;s:11:"size_before";i:237331;s:10:"size_after";i:198074;s:4:"time";d:0.340000000000000024424906541753443889319896697998046875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:11:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.25;s:5:"bytes";i:284;s:11:"size_before";i:2273;s:10:"size_after";i:2131;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.230000000000000426325641456060111522674560546875;s:5:"bytes";i:440;s:11:"size_before";i:4203;s:10:"size_after";i:3983;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:12.589999999999999857891452847979962825775146484375;s:5:"bytes";i:4028;s:11:"size_before";i:15999;s:10:"size_after";i:13985;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:15.82000000000000028421709430404007434844970703125;s:5:"bytes";i:7910;s:11:"size_before";i:25003;s:10:"size_after";i:21048;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:20:"storymag-slider-full";O:8:"stdClass":5:{s:7:"percent";d:20.92999999999999971578290569595992565155029296875;s:5:"bytes";i:9932;s:11:"size_before";i:47453;s:10:"size_after";i:37521;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:22:"storymag-slider-center";O:8:"stdClass":5:{s:7:"percent";d:18.309999999999998721023075631819665431976318359375;s:5:"bytes";i:5079;s:11:"size_before";i:27745;s:10:"size_after";i:22666;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:17:"storymag-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:21048;s:10:"size_after";i:21048;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:15:"storymag-medium";O:8:"stdClass":5:{s:7:"percent";d:11.1099999999999994315658113919198513031005859375;s:5:"bytes";i:1279;s:11:"size_before";i:11508;s:10:"size_after";i:10229;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:22:"storymag-medium-square";O:8:"stdClass":5:{s:7:"percent";d:11.1899999999999995026200849679298698902130126953125;s:5:"bytes";i:1480;s:11:"size_before";i:13229;s:10:"size_after";i:11749;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:30:"twentyseventeen-featured-image";O:8:"stdClass":5:{s:7:"percent";d:22.35000000000000142108547152020037174224853515625;s:5:"bytes";i:15030;s:11:"size_before";i:67259;s:10:"size_after";i:52229;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:7.82000000000000028421709430404007434844970703125;s:5:"bytes";i:126;s:11:"size_before";i:1611;s:10:"size_after";i:1485;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kriti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-581669.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-581669-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 10:07:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-581669.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 10:07:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 10:07:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-581669-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-581669.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-581669.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:250;s:4:"file";s:40:"2018/04/cropped-pexels-photo-581669.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-581669-300x54.jpeg";s:5:"width";i:300;s:6:"height";i:54;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-581669-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-581669-768x137.jpeg";s:5:"width";i:768;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-1280x250.jpeg";s:5:"width";i:1280;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-581669-720x250.jpeg";s:5:"width";i:720;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.3776460626587638813589364872314035892486572265625;s:5:"bytes";i:1772;s:11:"size_before";i:18896;s:10:"size_after";i:17124;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:10.21000000000000085265128291212022304534912109375;s:5:"bytes";i:180;s:11:"size_before";i:1763;s:10:"size_after";i:1583;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.37999999999999989341858963598497211933135986328125;s:5:"bytes";i:142;s:11:"size_before";i:1924;s:10:"size_after";i:1782;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:7.57000000000000028421709430404007434844970703125;s:5:"bytes";i:423;s:11:"size_before";i:5589;s:10:"size_after";i:5166;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:10.6699999999999999289457264239899814128875732421875;s:5:"bytes";i:887;s:11:"size_before";i:8312;s:10:"size_after";i:7425;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:10.699999999999999289457264239899814128875732421875;s:5:"bytes";i:140;s:11:"size_before";i:1308;s:10:"size_after";i:1168;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>pexels-photo-205410</title>
+		<title><![CDATA[pexels-photo-205410]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-205410/</link>
 		<pubDate>Sat, 07 Apr 2018 10:08:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -939,6 +731,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:08:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:08:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 10:08:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 10:08:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-205410]]></wp:post_name>
@@ -963,7 +757,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-205410.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-205410.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-205410-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 10:09:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -976,6 +770,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:09:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:09:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 10:09:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 10:09:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-205410-jpeg]]></wp:post_name>
@@ -1004,7 +800,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-417074</title>
+		<title><![CDATA[pexels-photo-417074]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-with-a-theme/pexels-photo-417074/</link>
 		<pubDate>Sat, 07 Apr 2018 10:11:16 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1015,6 +811,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:11:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:11:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-417074]]></wp:post_name>
@@ -1043,7 +841,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-458555 (1)</title>
+		<title><![CDATA[pexels-photo-458555 (1)]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-with-a-theme/pexels-photo-458555-1/</link>
 		<pubDate>Sat, 07 Apr 2018 10:13:00 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1054,6 +852,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:13:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:13:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-458555-1]]></wp:post_name>
@@ -1082,7 +882,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-417370</title>
+		<title><![CDATA[pexels-photo-417370]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-with-a-theme/pexels-photo-417370/</link>
 		<pubDate>Sat, 07 Apr 2018 10:16:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1093,6 +893,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:16:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:16:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-417370]]></wp:post_name>
@@ -1121,7 +923,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-340566</title>
+		<title><![CDATA[pexels-photo-340566]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-with-a-theme/pexels-photo-340566/</link>
 		<pubDate>Sat, 07 Apr 2018 10:19:11 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1132,6 +934,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 10:19:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 10:19:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:40:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:40:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-340566]]></wp:post_name>
@@ -1160,7 +964,36 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-697662</title>
+		<title><![CDATA[One Click Demo Import - log_file_2020-05-02__11-39-35]]></title>
+		<link>https://demo.afthemes.com/newsever-pro/travel/one-click-demo-import-log_file_2020-05-02__11-39-35/</link>
+		<pubDate>Sat, 02 May 2020 11:39:35 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2020/05/log_file_2020-05-02__11-39-35.txt</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-02 11:39:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-02 11:39:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:39:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:39:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[one-click-demo-import-log_file_2020-05-02__11-39-35]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2020/05/log_file_2020-05-02__11-39-35.txt]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/log_file_2020-05-02__11-39-35.txt]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-photo-697662]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/pexels-photo-697662/</link>
 		<pubDate>Sat, 07 Apr 2018 11:54:50 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1171,6 +1004,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 11:54:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 11:54:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 11:54:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 11:54:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-697662]]></wp:post_name>
@@ -1199,130 +1034,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-697662.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-697662-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 11:55:15 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-697662.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>83</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 11:55:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 11:55:15]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-697662-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-697662.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-697662.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:347;s:4:"file";s:40:"2018/04/cropped-pexels-photo-697662.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-697662-300x74.jpeg";s:5:"width";i:300;s:6:"height";i:74;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-697662-1024x254.jpeg";s:5:"width";i:1024;s:6:"height";i:254;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-697662-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-697662-768x190.jpeg";s:5:"width";i:768;s:6:"height";i:190;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-697662-1280x347.jpeg";s:5:"width";i:1280;s:6:"height";i:347;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-697662-1024x254.jpeg";s:5:"width";i:1024;s:6:"height";i:254;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-697662-720x347.jpeg";s:5:"width";i:720;s:6:"height";i:347;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.9436241193695966700261124060489237308502197265625;s:5:"bytes";i:7652;s:11:"size_before";i:128743;s:10:"size_after";i:121091;s:4:"time";d:0.06999999999999999278355033993648248724639415740966796875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.70999999999999996447286321199499070644378662109375;s:5:"bytes";i:480;s:11:"size_before";i:7158;s:10:"size_after";i:6678;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.04000000000000003552713678800500929355621337890625;s:5:"bytes";i:473;s:11:"size_before";i:7833;s:10:"size_after";i:7360;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.94000000000000039079850466805510222911834716796875;s:5:"bytes";i:2454;s:11:"size_before";i:41327;s:10:"size_after";i:38873;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.839999999999999857891452847979962825775146484375;s:5:"bytes";i:4007;s:11:"size_before";i:68627;s:10:"size_after";i:64620;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:6.269999999999999573674358543939888477325439453125;s:5:"bytes";i:238;s:11:"size_before";i:3798;s:10:"size_after";i:3560;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-417074.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-417074-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 12:47:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-417074.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>85</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 12:47:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 12:47:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-417074-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417074.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-417074.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:250;s:4:"file";s:40:"2018/04/cropped-pexels-photo-417074.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-417074-300x54.jpeg";s:5:"width";i:300;s:6:"height";i:54;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417074-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417074-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417074-768x137.jpeg";s:5:"width";i:768;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417074-1280x250.jpeg";s:5:"width";i:1280;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417074-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417074-720x250.jpeg";s:5:"width";i:720;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.78495574017921487808280289755202829837799072265625;s:5:"bytes";i:3519;s:11:"size_before";i:73543;s:10:"size_after";i:70024;s:4:"time";d:0.06999999999999999278355033993648248724639415740966796875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.0999999999999996447286321199499070644378662109375;s:5:"bytes";i:274;s:11:"size_before";i:5377;s:10:"size_after";i:5103;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.8300000000000000710542735760100185871124267578125;s:5:"bytes";i:370;s:11:"size_before";i:5415;s:10:"size_after";i:5045;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.839999999999999857891452847979962825775146484375;s:5:"bytes";i:1131;s:11:"size_before";i:23364;s:10:"size_after";i:22233;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:4.28000000000000024868995751603506505489349365234375;s:5:"bytes";i:1547;s:11:"size_before";i:36181;s:10:"size_after";i:34634;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:6.13999999999999968025576890795491635799407958984375;s:5:"bytes";i:197;s:11:"size_before";i:3206;s:10:"size_after";i:3009;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-205410-1.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-205410-1-jpeg/</link>
-		<pubDate>Sat, 07 Apr 2018 12:50:32 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/cropped-pexels-photo-205410-1.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 12:50:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 12:50:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-205410-1-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-205410-1.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-205410-1.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1400;s:6:"height";i:250;s:4:"file";s:42:"2018/04/cropped-pexels-photo-205410-1.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-205410-1-300x54.jpeg";s:5:"width";i:300;s:6:"height";i:54;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-1-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-1-768x137.jpeg";s:5:"width";i:768;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-1-1280x250.jpeg";s:5:"width";i:1280;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-1-1024x183.jpeg";s:5:"width";i:1024;s:6:"height";i:183;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-1-720x250.jpeg";s:5:"width";i:720;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.72659218191540286824192662606947124004364013671875;s:5:"bytes";i:3359;s:11:"size_before";i:71066;s:10:"size_after";i:67707;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:3.859999999999999875655021241982467472553253173828125;s:5:"bytes";i:189;s:11:"size_before";i:4893;s:10:"size_after";i:4704;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.04999999999999982236431605997495353221893310546875;s:5:"bytes";i:312;s:11:"size_before";i:5153;s:10:"size_after";i:4841;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.8499999999999996447286321199499070644378662109375;s:5:"bytes";i:1094;s:11:"size_before";i:22577;s:10:"size_after";i:21483;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:4.53000000000000024868995751603506505489349365234375;s:5:"bytes";i:1607;s:11:"size_before";i:35471;s:10:"size_after";i:33864;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:32:"twentyseventeen-thumbnail-avatar";O:8:"stdClass":5:{s:7:"percent";d:5.28000000000000024868995751603506505489349365234375;s:5:"bytes";i:157;s:11:"size_before";i:2972;s:10:"size_after";i:2815;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-238622.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-238622.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-238622-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 12:59:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1335,6 +1047,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 12:59:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 12:59:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 12:59:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 12:59:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-238622-jpeg]]></wp:post_name>
@@ -1363,7 +1077,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-378153.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-378153.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-378153-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 12:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1376,6 +1090,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 12:59:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 12:59:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 12:59:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 12:59:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-378153-jpeg]]></wp:post_name>
@@ -1404,7 +1120,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-745119.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-745119.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-745119-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 13:01:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1417,6 +1133,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:01:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:01:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:01:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:01:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-745119-jpeg]]></wp:post_name>
@@ -1445,7 +1163,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-205410-2.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-205410-2.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-205410-2-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 13:02:09 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1458,6 +1176,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:02:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:02:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:02:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:02:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-205410-2-jpeg]]></wp:post_name>
@@ -1486,7 +1206,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-291732.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-291732.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-291732-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 13:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1499,6 +1219,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:03:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:03:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:03:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:03:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-291732-jpeg]]></wp:post_name>
@@ -1527,7 +1249,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-355770-1.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-355770-1.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-355770-1-jpeg/</link>
 		<pubDate>Sat, 07 Apr 2018 13:05:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1540,6 +1262,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:05:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:05:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:05:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:05:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-355770-1-jpeg]]></wp:post_name>
@@ -1568,7 +1292,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bicycle-cloud-clouds-258045</title>
+		<title><![CDATA[bicycle-cloud-clouds-258045]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/bicycle-cloud-clouds-258045/</link>
 		<pubDate>Sat, 07 Apr 2018 13:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1579,6 +1303,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:07:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bicycle-cloud-clouds-258045]]></wp:post_name>
@@ -1603,7 +1329,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-bicycle-cloud-clouds-258045.jpg</title>
+		<title><![CDATA[cropped-bicycle-cloud-clouds-258045.jpg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-bicycle-cloud-clouds-258045-jpg/</link>
 		<pubDate>Sat, 07 Apr 2018 13:08:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1616,6 +1342,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 13:08:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 13:08:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 13:08:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 13:08:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-bicycle-cloud-clouds-258045-jpg]]></wp:post_name>
@@ -1652,7 +1380,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-bicycle-cloud-clouds-258045-1.jpg</title>
+		<title><![CDATA[cropped-bicycle-cloud-clouds-258045-1.jpg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-bicycle-cloud-clouds-258045-1-jpg/</link>
 		<pubDate>Mon, 09 Apr 2018 15:09:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1665,6 +1393,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 15:09:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 15:09:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 15:09:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 15:09:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-bicycle-cloud-clouds-258045-1-jpg]]></wp:post_name>
@@ -1701,7 +1431,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-697662-1.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-697662-1.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-697662-1-jpeg/</link>
 		<pubDate>Thu, 12 Apr 2018 08:14:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1714,6 +1444,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-12 08:14:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-12 08:14:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-12 08:14:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-12 08:14:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-697662-1-jpeg]]></wp:post_name>
@@ -1750,120 +1482,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>One Click Demo Import - log_file_2020-05-02__11-39-35</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/one-click-demo-import-log_file_2020-05-02__11-39-35/</link>
-		<pubDate>Sat, 02 May 2020 11:39:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2020/05/log_file_2020-05-02__11-39-35.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-02 11:39:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-02 11:39:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2020-05-02__11-39-35]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2020/05/log_file_2020-05-02__11-39-35.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/log_file_2020-05-02__11-39-35.txt]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>banner-promo-trans</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/banner-promo-trans/</link>
-		<pubDate>Tue, 31 Jul 2018 11:30:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/wp-content/uploads/sites/4/2018/07/banner-promo-trans.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>205</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-31 11:30:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-31 11:30:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner-promo-trans]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/07/banner-promo-trans.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/banner-promo-trans.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1120;s:6:"height";i:90;s:4:"file";s:30:"2018/07/banner-promo-trans.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:29:"banner-promo-trans-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:30:"banner-promo-trans-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"banner-promo-trans-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:29:"banner-promo-trans-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";}s:17:"newsever-featured";a:4:{s:4:"file";s:30:"banner-promo-trans-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:15:"newsever-medium";a:4:{s:4:"file";s:29:"banner-promo-trans-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:24.134540346496020646327451686374843120574951171875;s:5:"bytes";i:15463;s:11:"size_before";i:64070;s:10:"size_after";i:48607;s:4:"time";d:0.74999999999999988897769753748434595763683319091796875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:8:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:38.47999999999999687361196265555918216705322265625;s:5:"bytes";i:1724;s:11:"size_before";i:2240;s:10:"size_after";i:1378;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:30.989999999999998436805981327779591083526611328125;s:5:"bytes";i:2038;s:11:"size_before";i:3288;s:10:"size_after";i:2269;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:27.120000000000000994759830064140260219573974609375;s:5:"bytes";i:5952;s:11:"size_before";i:10974;s:10:"size_after";i:7998;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:24.8299999999999982946974341757595539093017578125;s:5:"bytes";i:7940;s:11:"size_before";i:15986;s:10:"size_after";i:12016;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;}s:22:"storymag-slider-center";O:8:"stdClass":5:{s:7:"percent";d:33.3299999999999982946974341757595539093017578125;s:5:"bytes";i:4474;s:11:"size_before";i:6711;s:10:"size_after";i:4474;s:4:"time";d:0.2099999999999999922284388276239042170345783233642578125;}s:17:"storymag-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:12016;s:10:"size_after";i:12016;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}s:15:"storymag-medium";O:8:"stdClass":5:{s:7:"percent";d:34.25;s:5:"bytes";i:4426;s:11:"size_before";i:6461;s:10:"size_after";i:4248;s:4:"time";d:0.11000000000000000055511151231257827021181583404541015625;}s:22:"storymag-medium-square";O:8:"stdClass":5:{s:7:"percent";d:34.18999999999999772626324556767940521240234375;s:5:"bytes";i:4372;s:11:"size_before";i:6394;s:10:"size_after";i:4208;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-581669-1.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-581669-1-jpeg/</link>
-		<pubDate>Tue, 31 Jul 2018 11:32:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/wp-content/uploads/sites/4/2018/04/cropped-pexels-photo-581669-1.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>207</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-31 11:32:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-31 11:32:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-581669-1-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-581669-1.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-581669-1.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:42:"2018/04/cropped-pexels-photo-581669-1.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1280x599.jpeg";s:5:"width";i:1280;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_storymag-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533036741]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[storymag-pro]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:18.285505540447292815997570869512856006622314453125;s:5:"bytes";i:18020;s:11:"size_before";i:98548;s:10:"size_after";i:80528;s:4:"time";d:0.229999999999999982236431605997495353221893310546875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:11.089999999999999857891452847979962825775146484375;s:5:"bytes";i:201;s:11:"size_before";i:1812;s:10:"size_after";i:1611;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:10.5999999999999996447286321199499070644378662109375;s:5:"bytes";i:229;s:11:"size_before";i:2160;s:10:"size_after";i:1931;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:16.64999999999999857891452847979962825775146484375;s:5:"bytes";i:1289;s:11:"size_before";i:7744;s:10:"size_after";i:6455;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:19.4200000000000017053025658242404460906982421875;s:5:"bytes";i:2359;s:11:"size_before";i:12146;s:10:"size_after";i:9787;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:20:"storymag-slider-full";O:8:"stdClass":5:{s:7:"percent";d:22.67999999999999971578290569595992565155029296875;s:5:"bytes";i:6198;s:11:"size_before";i:27334;s:10:"size_after";i:21136;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:22:"storymag-slider-center";O:8:"stdClass":5:{s:7:"percent";d:22.010000000000001563194018672220408916473388671875;s:5:"bytes";i:3784;s:11:"size_before";i:17194;s:10:"size_after";i:13410;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:17:"storymag-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:9787;s:10:"size_after";i:9787;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:15:"storymag-medium";O:8:"stdClass":5:{s:7:"percent";d:18.940000000000001278976924368180334568023681640625;s:5:"bytes";i:1845;s:11:"size_before";i:9740;s:10:"size_after";i:7895;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:22:"storymag-medium-square";O:8:"stdClass":5:{s:7:"percent";d:19.8900000000000005684341886080801486968994140625;s:5:"bytes";i:2115;s:11:"size_before";i:10631;s:10:"size_after";i:8516;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-417074-1.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-417074-1.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-417074-1-jpeg/</link>
 		<pubDate>Wed, 24 Apr 2019 04:16:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1876,6 +1495,8 @@
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-24 04:16:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-24 04:16:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-24 04:16:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-24 04:16:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-417074-1-jpeg]]></wp:post_name>
@@ -1900,7 +1521,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-355770-2.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-355770-2.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-355770-2-jpeg/</link>
 		<pubDate>Wed, 24 Apr 2019 04:17:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1913,6 +1534,8 @@
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-24 04:17:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-24 04:17:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-24 04:17:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-24 04:17:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-355770-2-jpeg]]></wp:post_name>
@@ -1937,7 +1560,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-355770-3.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-355770-3.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-355770-3-jpeg/</link>
 		<pubDate>Wed, 24 Apr 2019 04:36:55 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1950,6 +1573,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-24 04:36:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-24 04:36:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-24 04:36:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-24 04:36:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-355770-3-jpeg]]></wp:post_name>
@@ -1982,19 +1607,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>af-themes main dark</title>
+		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/af-themes-main-dark/</link>
 		<pubDate>Tue, 30 Apr 2019 07:53:19 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/travel-pro/wp-content/uploads/sites/8/2019/04/af-themes-main-dark.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>228</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-30 07:53:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-30 07:53:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-12 09:21:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-12 09:21:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[af-themes-main-dark]]></wp:post_name>
@@ -2015,19 +1640,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-af-themes-main-dark.png</title>
+		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Tue, 30 Apr 2019 07:53:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/travel-pro/wp-content/uploads/sites/8/2019/04/cropped-af-themes-main-dark.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				https://demo.afthemes.com/newsphere-pro/travel-pro/wp-content/uploads/sites/8/2019/04/cropped-af-themes-main-dark.png		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[				https://demo.afthemes.com/newsphere-pro/travel-pro/wp-content/uploads/sites/8/2019/04/cropped-af-themes-main-dark.png		]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-30 07:53:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-30 07:53:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-12 09:21:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-12 09:21:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-af-themes-main-dark-png]]></wp:post_name>
@@ -2052,7 +1677,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-bicycle-cloud-clouds-258045-2.jpg</title>
+		<title><![CDATA[cropped-bicycle-cloud-clouds-258045-2.jpg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-bicycle-cloud-clouds-258045-2-jpg/</link>
 		<pubDate>Wed, 26 Jun 2019 06:12:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2063,6 +1688,8 @@
 		<wp:post_id>254</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 06:12:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 06:12:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 06:12:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 06:12:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-bicycle-cloud-clouds-258045-2-jpg]]></wp:post_name>
@@ -2087,7 +1714,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-355770-4.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-355770-4.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-355770-4-jpeg/</link>
 		<pubDate>Wed, 26 Jun 2019 06:12:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2098,6 +1725,8 @@
 		<wp:post_id>255</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 06:12:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 06:12:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 06:12:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 06:12:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-355770-4-jpeg]]></wp:post_name>
@@ -2122,7 +1751,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-458555-1.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-458555-1.jpeg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-458555-1-jpeg/</link>
 		<pubDate>Wed, 26 Jun 2019 06:13:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2133,6 +1762,8 @@
 		<wp:post_id>256</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-26 06:13:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-26 06:13:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-26 06:13:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-26 06:13:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-458555-1-jpeg]]></wp:post_name>
@@ -2157,350 +1788,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-417370-1.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-417370-jpeg/</link>
-		<pubDate>Thu, 01 Aug 2019 12:33:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/travel/wp-content/uploads/sites/8/2018/04/cropped-pexels-photo-417370.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>260</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-01 12:33:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-01 12:33:52]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-417370-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417370-1.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-417370-1.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/04/cropped-pexels-photo-417370-1.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417370-1-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417370-1-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417370-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417370-1-768x205.jpeg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417370-1-1280x400.jpeg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417370-1-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417370-1-720x400.jpeg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_kriti]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1564662835]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kriti]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019-07-24]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-581669-2.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-581669-2-jpeg/</link>
-		<pubDate>Thu, 01 Aug 2019 12:34:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/travel/wp-content/uploads/sites/8/2018/04/cropped-pexels-photo-581669-2.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>264</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-01 12:34:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-01 12:34:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-581669-2-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-581669-2.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-581669-2.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:42:"2018/04/cropped-pexels-photo-581669-2.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-2-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-2-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-2-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-2-768x204.jpeg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-2-1280x399.jpeg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-2-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-2-720x399.jpeg";s:5:"width";i:720;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-bicycle-cloud-clouds-258045-3.jpg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-bicycle-cloud-clouds-258045-3-jpg/</link>
-		<pubDate>Thu, 01 Aug 2019 12:34:44 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/travel/wp-content/uploads/sites/8/2018/04/cropped-bicycle-cloud-clouds-258045-3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>265</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-01 12:34:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-01 12:34:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-bicycle-cloud-clouds-258045-3-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-bicycle-cloud-clouds-258045-3.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-bicycle-cloud-clouds-258045-3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:49:"2018/04/cropped-bicycle-cloud-clouds-258045-3.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:48:"cropped-bicycle-cloud-clouds-258045-3-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:50:"cropped-bicycle-cloud-clouds-258045-3-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"cropped-bicycle-cloud-clouds-258045-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:49:"cropped-bicycle-cloud-clouds-258045-3-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:50:"cropped-bicycle-cloud-clouds-258045-3-1280x400.jpg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:50:"cropped-bicycle-cloud-clouds-258045-3-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:49:"cropped-bicycle-cloud-clouds-258045-3-720x400.jpg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_kriti]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1564662912]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kriti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-417074-2.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-417074-2-jpeg/</link>
-		<pubDate>Fri, 30 Aug 2019 07:55:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417074-2.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>271</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 07:55:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 07:55:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-417074-2-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417074-2.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-417074-2.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/04/cropped-pexels-photo-417074-2.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417074-2-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417074-2-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417074-2-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417074-2-768x205.jpeg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417074-2-1280x400.jpeg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-417074-2-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-417074-2-720x400.jpeg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-417370.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-417370-jpeg-2/</link>
-		<pubDate>Fri, 30 Aug 2019 07:56:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417370.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>273</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 07:56:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 07:56:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-417370-jpeg-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-417370.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-417370.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:40:"2018/04/cropped-pexels-photo-417370.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-417370-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417370-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417370-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417370-768x204.jpeg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417370-1280x399.jpeg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-417370-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-417370-720x399.jpeg";s:5:"width";i:720;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-205410-3.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-205410-3-jpeg/</link>
-		<pubDate>Fri, 30 Aug 2019 07:57:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-205410-3.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 07:57:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 07:57:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-205410-3-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-205410-3.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-205410-3.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/04/cropped-pexels-photo-205410-3.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-205410-3-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-3-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-3-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-3-768x205.jpeg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-3-1280x400.jpeg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-205410-3-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-205410-3-720x400.jpeg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>cropped-pexels-photo-581669-3.jpeg</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-pexels-photo-581669-3-jpeg/</link>
-		<pubDate>Fri, 30 Aug 2019 07:58:05 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-581669-3.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>276</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 07:58:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 07:58:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-pexels-photo-581669-3-jpeg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2018/04/cropped-pexels-photo-581669-3.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-581669-3.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/04/cropped-pexels-photo-581669-3.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-3-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-3-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-3-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-3-768x205.jpeg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-3-1280x400.jpeg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-3-1024x273.jpeg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-3-720x400.jpeg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_kreeti]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1567152023]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>aerial-shot-bird-s-eye-view-from-above-392586</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/aerial-shot-bird-s-eye-view-from-above-392586/</link>
-		<pubDate>Fri, 30 Aug 2019 08:08:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2019/08/aerial-shot-bird-s-eye-view-from-above-392586.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>278</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 08:08:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 08:08:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aerial-shot-bird-s-eye-view-from-above-392586]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2019/08/aerial-shot-bird-s-eye-view-from-above-392586.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/aerial-shot-bird-s-eye-view-from-above-392586.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:57:"2019/08/aerial-shot-bird-s-eye-view-from-above-392586.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:57:"aerial-shot-bird-s-eye-view-from-above-392586-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:58:"aerial-shot-bird-s-eye-view-from-above-392586-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:57:"aerial-shot-bird-s-eye-view-from-above-392586-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:58:"aerial-shot-bird-s-eye-view-from-above-392586-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:59:"aerial-shot-bird-s-eye-view-from-above-392586-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:58:"aerial-shot-bird-s-eye-view-from-above-392586-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:59:"aerial-shot-bird-s-eye-view-from-above-392586-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:57:"aerial-shot-bird-s-eye-view-from-above-392586-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>aerial-aerial-photography-aerial-shot-1173777</title>
-		<link>https://demo.afthemes.com/newsever-pro/travel/aerial-aerial-photography-aerial-shot-1173777/</link>
-		<pubDate>Fri, 30 Aug 2019 08:10:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/travel/wp-content/uploads/sites/9/2019/08/aerial-aerial-photography-aerial-shot-1173777.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>279</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-30 08:10:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-30 08:10:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aerial-aerial-photography-aerial-shot-1173777]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/travel/wp-content/uploads/sites/9/2019/08/aerial-aerial-photography-aerial-shot-1173777.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/aerial-aerial-photography-aerial-shot-1173777.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:2275;s:4:"file";s:57:"2019/08/aerial-aerial-photography-aerial-shot-1173777.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:57:"aerial-aerial-photography-aerial-shot-1173777-169x300.jpg";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:58:"aerial-aerial-photography-aerial-shot-1173777-576x1024.jpg";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:57:"aerial-aerial-photography-aerial-shot-1173777-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:58:"aerial-aerial-photography-aerial-shot-1173777-768x1365.jpg";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:58:"aerial-aerial-photography-aerial-shot-1173777-864x1536.jpg";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:59:"aerial-aerial-photography-aerial-shot-1173777-1152x2048.jpg";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:58:"aerial-aerial-photography-aerial-shot-1173777-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:59:"aerial-aerial-photography-aerial-shot-1173777-1024x1820.jpg";s:5:"width";i:1024;s:6:"height";i:1820;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:57:"aerial-aerial-photography-aerial-shot-1173777-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/sample-page/</link>
 		<pubDate>Sat, 02 May 2020 11:30:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2529,6 +1817,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-02 11:30:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-02 11:30:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:30:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:30:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2544,7 +1834,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/blog/</link>
 		<pubDate>Sat, 07 Apr 2018 08:50:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2557,6 +1847,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 08:50:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 08:50:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 08:50:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 08:50:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2572,7 +1864,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/63/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:53 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2583,6 +1875,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -2627,7 +1921,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Resources</title>
+		<title><![CDATA[Resources]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/resources/</link>
 		<pubDate>Sat, 07 Apr 2018 11:32:44 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2640,6 +1934,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 11:32:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 11:32:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 11:32:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 11:32:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[resources]]></wp:post_name>
@@ -2655,7 +1951,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Destinations</title>
+		<title><![CDATA[Destinations]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/destinations/</link>
 		<pubDate>Sat, 07 Apr 2018 11:46:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2668,6 +1964,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 11:46:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 11:46:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 11:46:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 11:46:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[destinations]]></wp:post_name>
@@ -2683,7 +1981,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook.com</title>
+		<title><![CDATA[Facebook.com]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/facebook-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2696,6 +1994,8 @@
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook-com]]></wp:post_name>
@@ -2740,7 +2040,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/twitter/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2753,6 +2053,8 @@
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -2797,7 +2099,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube.com</title>
+		<title><![CDATA[Youtube.com]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/youtube-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2810,6 +2112,8 @@
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube-com]]></wp:post_name>
@@ -2854,7 +2158,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Instagram.com</title>
+		<title><![CDATA[Instagram.com]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/instagram-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2867,6 +2171,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram-com]]></wp:post_name>
@@ -2911,7 +2217,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VK</title>
+		<title><![CDATA[VK]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/vk/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2924,6 +2230,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 14:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 14:48:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vk]]></wp:post_name>
@@ -2968,7 +2276,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/mc4wp-form/114/</link>
 		<pubDate>Mon, 09 Apr 2018 15:17:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2988,6 +2296,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 15:17:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 15:17:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 15:17:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 15:17:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[114]]></wp:post_name>
@@ -2999,7 +2309,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>elegant-magazine-pro</title>
+		<title><![CDATA[elegant-magazine-pro]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/09/elegant-magazine-pro/</link>
 		<pubDate>Mon, 09 Apr 2018 17:17:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3014,6 +2324,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:17:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:17:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-09 17:17:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-09 17:17:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[elegant-magazine-pro]]></wp:post_name>
@@ -3025,7 +2337,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>All Demos</title>
+		<title><![CDATA[All Demos]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/15/all-demos/</link>
 		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3036,6 +2348,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-13 12:22:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-13 12:22:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -3080,7 +2394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/15/home-2/</link>
 		<pubDate>Sun, 15 Apr 2018 18:52:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3091,6 +2405,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 18:52:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 18:52:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -3135,7 +2451,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/08/02/213/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3146,6 +2462,8 @@
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[213]]></wp:post_name>
@@ -3190,7 +2508,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/08/02/214/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3201,6 +2519,8 @@
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[214]]></wp:post_name>
@@ -3245,7 +2565,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/08/02/215/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3256,6 +2576,8 @@
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[215]]></wp:post_name>
@@ -3300,7 +2622,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/08/02/216/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3311,6 +2633,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[216]]></wp:post_name>
@@ -3355,7 +2679,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-aerial-aerial-photography-aerial-shot-1173777.jpg</title>
+		<title><![CDATA[cropped-aerial-aerial-photography-aerial-shot-1173777.jpg]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/cropped-aerial-aerial-photography-aerial-shot-1173777-jpg/</link>
 		<pubDate>Sat, 02 May 2020 12:06:08 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3366,6 +2690,8 @@
 		<wp:post_id>290</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-02 12:06:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-02 12:06:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 12:06:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 12:06:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-aerial-aerial-photography-aerial-shot-1173777-jpg]]></wp:post_name>
@@ -3398,7 +2724,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/</link>
 		<pubDate>Sat, 02 May 2020 12:16:15 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3409,6 +2735,8 @@
 		<wp:post_id>295</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-02 12:16:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-02 12:16:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 12:16:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 12:16:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3432,7 +2760,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ADVENTURE OVERLAND TRAVEL: AN INTERVIEW WITH RIC</title>
+		<title><![CDATA[ADVENTURE OVERLAND TRAVEL: AN INTERVIEW WITH RIC]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/</link>
 		<pubDate>Sat, 07 Apr 2018 09:30:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3451,6 +2779,8 @@ Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor acc
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:30:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:30:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:30:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[adventure-races-and-overland-travel-an-interview-with-ric]]></wp:post_name>
@@ -3485,7 +2815,7 @@ Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor acc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>24 things every solo traveler learns on the road</title>
+		<title><![CDATA[24 things every solo traveler learns on the road]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/</link>
 		<pubDate>Sat, 07 Apr 2018 09:33:52 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3502,6 +2832,8 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:33:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:33:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:33:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:33:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[24-things-every-solo-female-traveler-learns-on-the-road]]></wp:post_name>
@@ -3531,7 +2863,7 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Living Lagom in Sweden: An interview with Lola</title>
+		<title><![CDATA[Living Lagom in Sweden: An interview with Lola]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/</link>
 		<pubDate>Sat, 07 Apr 2018 09:35:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3544,6 +2876,8 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:35:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:35:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[living-lagom-in-sweden-an-interview-with-lola-akerstrom]]></wp:post_name>
@@ -3572,7 +2906,7 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>A journey to Madagascar: The privilege of travel</title>
+		<title><![CDATA[A journey to Madagascar: The privilege of travel]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/</link>
 		<pubDate>Sat, 07 Apr 2018 09:36:48 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3587,6 +2921,8 @@ Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Nulla q
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:36:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:36:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-journey-through-madagascar-notes-on-the-privilege-of-travel]]></wp:post_name>
@@ -3617,7 +2953,7 @@ Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Nulla q
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to pick the best camera for travel</title>
+		<title><![CDATA[How to pick the best camera for travel]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/</link>
 		<pubDate>Sat, 07 Apr 2018 09:40:41 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3632,6 +2968,8 @@ Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Curabitu
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:40:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-pick-the-best-camera-for-travel]]></wp:post_name>
@@ -3663,7 +3001,7 @@ Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Curabitu
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to travel around Namibia on a budget</title>
+		<title><![CDATA[How to travel around Namibia on a budget]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/</link>
 		<pubDate>Sat, 07 Apr 2018 09:47:21 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3680,6 +3018,8 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:47:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:47:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:47:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:47:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-travel-around-namibia-on-a-budget]]></wp:post_name>
@@ -3709,7 +3049,7 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to travel with a theme a walk for freedom</title>
+		<title><![CDATA[How to travel with a theme a walk for freedom]]></title>
 		<link>https://demo.afthemes.com/newsever-pro/travel/2018/04/07/how-to-travel-with-a-theme/</link>
 		<pubDate>Sat, 07 Apr 2018 09:50:19 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3722,6 +3062,8 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:50:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:50:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:50:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:50:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-travel-with-a-theme]]></wp:post_name>
