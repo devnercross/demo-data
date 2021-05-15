@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-28 07:36" -->
+	<!-- generator="WordPress/5.7.1" created="2021-05-14 10:40" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Minimal Pro</title>
 	<link>https://demo.afthemes.com/covernews-pro/minimal-pro</link>
 	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Thu, 28 Jan 2021 07:36:31 +0000</pubDate>
+	<pubDate>Fri, 14 May 2021 10:40:35 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/covernews-pro/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/covernews-pro/minimal-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -134,10 +134,10 @@
 	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 		<item>
-		<title>pexels-photo-681294</title>
+		<title><![CDATA[pexels-photo-681294]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/good-friday-2018-why-do-we-call-it-good-friday/pexels-photo-681294/</link>
 		<pubDate>Fri, 30 Mar 2018 13:27:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -148,6 +148,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:27:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:27:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-681294]]></wp:post_name>
@@ -172,7 +174,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-373984</title>
+		<title><![CDATA[pexels-photo-373984]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/good-friday-2018-why-do-we-call-it-good-friday/pexels-photo-373984/</link>
 		<pubDate>Fri, 30 Mar 2018 13:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -183,6 +185,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:28:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:28:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-373984]]></wp:post_name>
@@ -207,7 +211,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-54283</title>
+		<title><![CDATA[pexels-photo-54283]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/why-an-eight-hour-workday-is-not-a-good-idea/pexels-photo-54283/</link>
 		<pubDate>Fri, 30 Mar 2018 13:31:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -218,6 +222,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:31:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:31:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-54283]]></wp:post_name>
@@ -242,7 +248,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-220836</title>
+		<title><![CDATA[pexels-photo-220836]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/holding-hands-can-sync-brainwaves-ease-pain-in-couples/pexels-photo-220836/</link>
 		<pubDate>Fri, 30 Mar 2018 13:33:44 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -253,6 +259,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:33:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:33:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-220836]]></wp:post_name>
@@ -277,7 +285,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-440581</title>
+		<title><![CDATA[pexels-photo-440581]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/pexels-photo-440581/</link>
 		<pubDate>Fri, 30 Mar 2018 13:40:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -288,6 +296,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:40:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:40:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-440581]]></wp:post_name>
@@ -312,7 +322,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>belly-body-calories-diet-42069</title>
+		<title><![CDATA[belly-body-calories-diet-42069]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/belly-body-calories-diet-42069/</link>
 		<pubDate>Fri, 30 Mar 2018 13:40:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -323,6 +333,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:40:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:40:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[belly-body-calories-diet-42069]]></wp:post_name>
@@ -347,7 +359,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-black-and-white-city-872756</title>
+		<title><![CDATA[adult-black-and-white-city-872756]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/adult-black-and-white-city-872756/</link>
 		<pubDate>Fri, 30 Mar 2018 13:40:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -358,6 +370,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:40:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:40:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-black-and-white-city-872756]]></wp:post_name>
@@ -382,7 +396,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>office-work-desk-computer-81363</title>
+		<title><![CDATA[office-work-desk-computer-81363]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/office-work-desk-computer-81363/</link>
 		<pubDate>Fri, 30 Mar 2018 13:40:59 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -393,6 +407,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:40:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:40:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[office-work-desk-computer-81363]]></wp:post_name>
@@ -417,7 +433,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adults-affection-baby-206398</title>
+		<title><![CDATA[adults-affection-baby-206398]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/adults-affection-baby-206398/</link>
 		<pubDate>Fri, 30 Mar 2018 13:42:40 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -428,6 +444,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:42:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:42:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adults-affection-baby-206398]]></wp:post_name>
@@ -452,7 +470,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-541519</title>
+		<title><![CDATA[pexels-photo-541519]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/good-friday-2018-why-do-we-call-it-good-friday/pexels-photo-541519/</link>
 		<pubDate>Fri, 30 Mar 2018 14:29:09 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -463,6 +481,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:29:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:29:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-541519]]></wp:post_name>
@@ -487,7 +507,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-900105</title>
+		<title><![CDATA[pexels-photo-900105]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/decoded-how-past-failures-can-boost-your-future-performance/pexels-photo-900105/</link>
 		<pubDate>Fri, 30 Mar 2018 14:33:11 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -498,6 +518,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:33:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:33:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-900105]]></wp:post_name>
@@ -522,7 +544,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-140945</title>
+		<title><![CDATA[pexels-photo-140945]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/why-an-eight-hour-workday-is-not-a-good-idea/pexels-photo-140945/</link>
 		<pubDate>Fri, 30 Mar 2018 14:35:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -533,6 +555,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:35:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:35:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-140945]]></wp:post_name>
@@ -557,7 +581,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-594421</title>
+		<title><![CDATA[pexels-photo-594421]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/what-really-helps-get-rid-of-cellulite/pexels-photo-594421/</link>
 		<pubDate>Sun, 15 Apr 2018 02:03:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -568,6 +592,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:03:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:03:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-594421]]></wp:post_name>
@@ -592,7 +618,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-415229</title>
+		<title><![CDATA[pexels-photo-415229]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/eye-care-mistakes-you-dont-know-youre-making/pexels-photo-415229/</link>
 		<pubDate>Sun, 15 Apr 2018 02:07:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -603,6 +629,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:07:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:07:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-415229]]></wp:post_name>
@@ -627,7 +655,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-104516 (1)</title>
+		<title><![CDATA[pexels-photo-104516 (1)]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/how-emma-watson-grooms-her-pubic-hair/pexels-photo-104516-1/</link>
 		<pubDate>Sun, 15 Apr 2018 02:11:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -638,6 +666,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:11:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:11:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-104516-1]]></wp:post_name>
@@ -662,7 +692,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-532363</title>
+		<title><![CDATA[pexels-photo-532363]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/what-really-helps-get-rid-of-cellulite/pexels-photo-532363/</link>
 		<pubDate>Sun, 15 Apr 2018 02:20:53 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -673,6 +703,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:20:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:20:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-532363]]></wp:post_name>
@@ -697,7 +729,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-63775</title>
+		<title><![CDATA[pexels-photo-63775]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/the-10-most-body-positive-women-in-hollywood/pexels-photo-63775/</link>
 		<pubDate>Sun, 15 Apr 2018 02:24:18 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -708,6 +740,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:24:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:24:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-63775]]></wp:post_name>
@@ -732,7 +766,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>black-and-white-woman-girl-sitting</title>
+		<title><![CDATA[black-and-white-woman-girl-sitting]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/the-10-most-body-positive-women-in-hollywood/black-and-white-woman-girl-sitting/</link>
 		<pubDate>Sun, 15 Apr 2018 02:24:22 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -743,6 +777,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:24:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:24:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[black-and-white-woman-girl-sitting]]></wp:post_name>
@@ -767,7 +803,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-735552</title>
+		<title><![CDATA[pexels-photo-735552]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/the-10-most-body-positive-women-in-hollywood/pexels-photo-735552/</link>
 		<pubDate>Sun, 15 Apr 2018 02:24:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -778,6 +814,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:24:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:24:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-735552]]></wp:post_name>
@@ -802,7 +840,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-432605</title>
+		<title><![CDATA[pexels-photo-432605]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/when-spider-veins-happen-to-young-women/pexels-photo-432605/</link>
 		<pubDate>Sun, 15 Apr 2018 02:32:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -813,6 +851,8 @@
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:32:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:32:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-432605]]></wp:post_name>
@@ -837,7 +877,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>One Click Demo Import - log_file_2021-01-28__07-02-27</title>
+		<title><![CDATA[One Click Demo Import - log_file_2021-01-28__07-02-27]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/one-click-demo-import-log_file_2021-01-28__07-02-27/</link>
 		<pubDate>Thu, 28 Jan 2021 07:02:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -848,6 +888,8 @@
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-28 07:02:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-28 07:02:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:02:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:02:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[one-click-demo-import-log_file_2021-01-28__07-02-27]]></wp:post_name>
@@ -864,172 +906,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/31/</link>
-		<pubDate>Fri, 30 Mar 2018 13:43:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=31</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-30 13:43:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-30 13:43:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[31]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/32/</link>
-		<pubDate>Fri, 30 Mar 2018 13:43:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=32</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-30 13:43:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-30 13:43:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[32]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/35/</link>
-		<pubDate>Fri, 30 Mar 2018 13:43:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[Exclusive]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-30 13:43:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-30 13:43:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[35]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/facebook/</link>
 		<pubDate>Fri, 30 Mar 2018 14:05:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1040,6 +917,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:05:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 14:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -1084,7 +963,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/twitter/</link>
 		<pubDate>Fri, 30 Mar 2018 14:05:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1095,6 +974,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:05:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 14:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -1139,7 +1020,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VK</title>
+		<title><![CDATA[VK]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/google/</link>
 		<pubDate>Fri, 30 Mar 2018 14:05:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1150,6 +1031,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:05:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 14:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[google]]></wp:post_name>
@@ -1194,7 +1077,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Intagram</title>
+		<title><![CDATA[Intagram]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/intagram/</link>
 		<pubDate>Fri, 30 Mar 2018 14:05:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1205,6 +1088,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:05:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 14:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[intagram]]></wp:post_name>
@@ -1249,7 +1134,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>WordPress</title>
+		<title><![CDATA[WordPress]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/wordpress/</link>
 		<pubDate>Fri, 30 Mar 2018 14:05:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1260,6 +1145,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 14:05:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 14:05:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 14:05:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wordpress]]></wp:post_name>
@@ -1304,117 +1191,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>All Demos</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/all-demos/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=56</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://afthemes.com/storymag-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>StoryMag Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/default/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[default]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/mc4wp-form/65/</link>
 		<pubDate>Sun, 15 Apr 2018 01:55:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1432,6 +1209,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 01:55:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 01:55:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 01:55:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 01:55:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[65]]></wp:post_name>
@@ -1443,7 +1222,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>pexels-photo-206440</title>
+		<title><![CDATA[pexels-photo-206440]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/these-skin-treatments-fix-the-trouble-spots-your-workout-cant/pexels-photo-206440/</link>
 		<pubDate>Sun, 15 Apr 2018 02:44:49 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1454,6 +1233,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:44:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:44:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-206440]]></wp:post_name>
@@ -1478,182 +1259,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>square-promos</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/square-promos/</link>
-		<pubDate>Sun, 15 Apr 2018 02:50:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/wp-content/uploads/sites/7/2018/04/square-promos.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>109</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 02:50:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 02:50:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[square-promos]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro/wp-content/uploads/sites/18/2018/04/square-promos.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/square-promos.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:25:"2018/04/square-promos.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:25:"square-promos-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"square-promos-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:25:"square-promos-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:26:"square-promos-1000x715.jpg";s:5:"width";i:1000;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:25:"square-promos-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:25:"square-promos-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:25:"square-promos-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:9.1801055741198123172353007248602807521820068359375;s:5:"bytes";i:28434;s:11:"size_before";i:309735;s:10:"size_after";i:281301;s:4:"time";d:0.270000000000000017763568394002504646778106689453125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.20000000000000017763568394002504646778106689453125;s:5:"bytes";i:1482;s:11:"size_before";i:20587;s:10:"size_after";i:19105;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.87999999999999989341858963598497211933135986328125;s:5:"bytes";i:494;s:11:"size_before";i:7181;s:10:"size_after";i:6687;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:9.089999999999999857891452847979962825775146484375;s:5:"bytes";i:7788;s:11:"size_before";i:85637;s:10:"size_after";i:77849;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:10.050000000000000710542735760100185871124267578125;s:5:"bytes";i:8898;s:11:"size_before";i:88545;s:10:"size_after";i:79647;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:9.550000000000000710542735760100185871124267578125;s:5:"bytes";i:5171;s:11:"size_before";i:54141;s:10:"size_after";i:48970;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:8.78999999999999914734871708787977695465087890625;s:5:"bytes";i:2900;s:11:"size_before";i:32997;s:10:"size_after";i:30097;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:8.2400000000000002131628207280300557613372802734375;s:5:"bytes";i:1701;s:11:"size_before";i:20647;s:10:"size_after";i:18946;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>square-promo-blue</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/square-promo-blue/</link>
-		<pubDate>Sun, 15 Apr 2018 02:50:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/wp-content/uploads/sites/7/2018/04/square-promo-blue.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>110</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 02:50:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 02:50:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[square-promo-blue]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro/wp-content/uploads/sites/18/2018/04/square-promo-blue.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/square-promo-blue.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:29:"2018/04/square-promo-blue.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:29:"square-promo-blue-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:29:"square-promo-blue-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"square-promo-blue-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:30:"square-promo-blue-1000x715.jpg";s:5:"width";i:1000;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:29:"square-promo-blue-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:29:"square-promo-blue-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:29:"square-promo-blue-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:8.4591188997955786277316292398609220981597900390625;s:5:"bytes";i:26732;s:11:"size_before";i:316014;s:10:"size_after";i:289282;s:4:"time";d:0.44000000000000005773159728050814010202884674072265625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.67999999999999971578290569595992565155029296875;s:5:"bytes";i:1466;s:11:"size_before";i:21936;s:10:"size_after";i:20470;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.53000000000000024868995751603506505489349365234375;s:5:"bytes";i:492;s:11:"size_before";i:7539;s:10:"size_after";i:7047;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:8.480000000000000426325641456060111522674560546875;s:5:"bytes";i:7486;s:11:"size_before";i:88282;s:10:"size_after";i:80796;s:4:"time";d:0.11000000000000000055511151231257827021181583404541015625;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:9.28999999999999914734871708787977695465087890625;s:5:"bytes";i:8319;s:11:"size_before";i:89509;s:10:"size_after";i:81190;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:8.6899999999999995026200849679298698902130126953125;s:5:"bytes";i:4684;s:11:"size_before";i:53899;s:10:"size_after";i:49215;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:8.17999999999999971578290569595992565155029296875;s:5:"bytes";i:2749;s:11:"size_before";i:33602;s:10:"size_after";i:30853;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:7.230000000000000426325641456060111522674560546875;s:5:"bytes";i:1536;s:11:"size_before";i:21247;s:10:"size_after";i:19711;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>square-promo-yellow-news</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/square-promo-yellow-news/</link>
-		<pubDate>Sun, 15 Apr 2018 02:51:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/wp-content/uploads/sites/7/2018/04/square-promo-yellow-news.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 02:51:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 02:51:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[square-promo-yellow-news]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro/wp-content/uploads/sites/18/2018/04/square-promo-yellow-news.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/square-promo-yellow-news.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:36:"2018/04/square-promo-yellow-news.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:36:"square-promo-yellow-news-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"square-promo-yellow-news-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:36:"square-promo-yellow-news-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:37:"square-promo-yellow-news-1000x715.jpg";s:5:"width";i:1000;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:36:"square-promo-yellow-news-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:36:"square-promo-yellow-news-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:36:"square-promo-yellow-news-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:7.58526872333665469483321430743671953678131103515625;s:5:"bytes";i:24590;s:11:"size_before";i:324181;s:10:"size_after";i:299591;s:4:"time";d:0.2600000000000000088817841970012523233890533447265625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.519999999999999573674358543939888477325439453125;s:5:"bytes";i:1377;s:11:"size_before";i:21115;s:10:"size_after";i:19738;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.4900000000000002131628207280300557613372802734375;s:5:"bytes";i:469;s:11:"size_before";i:7231;s:10:"size_after";i:6762;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:7.5;s:5:"bytes";i:6812;s:11:"size_before";i:90868;s:10:"size_after";i:84056;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:8.2400000000000002131628207280300557613372802734375;s:5:"bytes";i:7832;s:11:"size_before";i:95033;s:10:"size_after";i:87201;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:7.79999999999999982236431605997495353221893310546875;s:5:"bytes";i:4357;s:11:"size_before";i:55832;s:10:"size_after";i:51475;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:7.089999999999999857891452847979962825775146484375;s:5:"bytes";i:2363;s:11:"size_before";i:33307;s:10:"size_after";i:30944;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:6.63999999999999968025576890795491635799407958984375;s:5:"bytes";i:1380;s:11:"size_before";i:20795;s:10:"size_after";i:19415;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>vertical-promo-yelow-news</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/vertical-promo-yelow-news/</link>
-		<pubDate>Sun, 15 Apr 2018 02:51:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/wp-content/uploads/sites/7/2018/04/vertical-promo-yelow-news.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>112</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 02:51:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 02:51:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vertical-promo-yelow-news]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro/wp-content/uploads/sites/18/2018/04/vertical-promo-yelow-news.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/vertical-promo-yelow-news.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:37:"2018/04/vertical-promo-yelow-news.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:36:"vertical-promo-yelow-news-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"vertical-promo-yelow-news-1024x109.jpg";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"vertical-promo-yelow-news-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:36:"vertical-promo-yelow-news-768x82.jpg";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:38:"vertical-promo-yelow-news-1115x125.jpg";s:5:"width";i:1115;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:37:"vertical-promo-yelow-news-800x125.jpg";s:5:"width";i:800;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:38:"vertical-promo-yelow-news-1024x109.jpg";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:37:"vertical-promo-yelow-news-540x125.jpg";s:5:"width";i:540;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:37:"vertical-promo-yelow-news-400x125.jpg";s:5:"width";i:400;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.7187240087441022495795550639741122722625732421875;s:5:"bytes";i:6411;s:11:"size_before";i:135863;s:10:"size_after";i:129452;s:4:"time";d:0.2800000000000000266453525910037569701671600341796875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.5;s:5:"bytes";i:197;s:11:"size_before";i:3581;s:10:"size_after";i:3384;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.37000000000000010658141036401502788066864013671875;s:5:"bytes";i:1079;s:11:"size_before";i:20108;s:10:"size_after";i:19029;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.57000000000000028421709430404007434844970703125;s:5:"bytes";i:256;s:11:"size_before";i:4600;s:10:"size_after";i:4344;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:6.20000000000000017763568394002504646778106689453125;s:5:"bytes";i:906;s:11:"size_before";i:14619;s:10:"size_after";i:13713;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:5.87000000000000010658141036401502788066864013671875;s:5:"bytes";i:1640;s:11:"size_before";i:27918;s:10:"size_after";i:26278;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.0999999999999996447286321199499070644378662109375;s:5:"bytes";i:1047;s:11:"size_before";i:20516;s:10:"size_after";i:19469;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:19029;s:10:"size_after";i:19029;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:5.0800000000000000710542735760100185871124267578125;s:5:"bytes";i:744;s:11:"size_before";i:14654;s:10:"size_after";i:13910;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";i:5;s:5:"bytes";i:542;s:11:"size_before";i:10838;s:10:"size_after";i:10296;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>vertical-promo-red</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/vertical-promo-red/</link>
-		<pubDate>Sun, 15 Apr 2018 02:51:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/wp-content/uploads/sites/7/2018/04/vertical-promo-red.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>113</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 02:51:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 02:51:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vertical-promo-red]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro/wp-content/uploads/sites/18/2018/04/vertical-promo-red.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/vertical-promo-red.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:30:"2018/04/vertical-promo-red.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:29:"vertical-promo-red-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:31:"vertical-promo-red-1024x109.jpg";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"vertical-promo-red-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:29:"vertical-promo-red-768x82.jpg";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:31:"vertical-promo-red-1115x125.jpg";s:5:"width";i:1115;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:30:"vertical-promo-red-800x125.jpg";s:5:"width";i:800;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:31:"vertical-promo-red-1024x109.jpg";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:30:"vertical-promo-red-540x125.jpg";s:5:"width";i:540;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:30:"vertical-promo-red-400x125.jpg";s:5:"width";i:400;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.118525070484825079120128066278994083404541015625;s:5:"bytes";i:5215;s:11:"size_before";i:126623;s:10:"size_after";i:121408;s:4:"time";d:0.25;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.61000000000000031974423109204508364200592041015625;s:5:"bytes";i:204;s:11:"size_before";i:3638;s:10:"size_after";i:3434;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:4.94000000000000039079850466805510222911834716796875;s:5:"bytes";i:940;s:11:"size_before";i:19041;s:10:"size_after";i:18101;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.62000000000000010658141036401502788066864013671875;s:5:"bytes";i:194;s:11:"size_before";i:4198;s:10:"size_after";i:4004;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.519999999999999573674358543939888477325439453125;s:5:"bytes";i:786;s:11:"size_before";i:14230;s:10:"size_after";i:13444;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:5.019999999999999573674358543939888477325439453125;s:5:"bytes";i:1310;s:11:"size_before";i:26070;s:10:"size_after";i:24760;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:4.339999999999999857891452847979962825775146484375;s:5:"bytes";i:810;s:11:"size_before";i:18681;s:10:"size_after";i:17871;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:18101;s:10:"size_after";i:18101;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:4.19000000000000039079850466805510222911834716796875;s:5:"bytes";i:546;s:11:"size_before";i:13018;s:10:"size_after";i:12472;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:4.410000000000000142108547152020037174224853515625;s:5:"bytes";i:425;s:11:"size_before";i:9646;s:10:"size_after";i:9221;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>pexels-photo-681637</title>
+		<title><![CDATA[pexels-photo-681637]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/when-spider-veins-happen-to-young-women/pexels-photo-681637/</link>
 		<pubDate>Sun, 15 Apr 2018 06:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1664,6 +1270,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 06:40:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 06:40:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-681637]]></wp:post_name>
@@ -1688,7 +1296,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-413705 (1)</title>
+		<title><![CDATA[pexels-photo-413705 (1)]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/when-spider-veins-happen-to-young-women/pexels-photo-413705-1/</link>
 		<pubDate>Sun, 15 Apr 2018 06:45:22 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1699,6 +1307,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 06:45:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 06:45:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:03:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:03:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-413705-1]]></wp:post_name>
@@ -1723,7 +1333,577 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/home/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>135</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[135]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/minimal-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/136/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/136/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[136]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/137/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/137/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[137]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/138/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/138/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Exclusive]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[138]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Demos]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/all-demos/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/all-demos/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://afthemes.com/covernews-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Buy Now]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/buy-now-2/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/buy-now-2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:43:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:43:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[buy-now-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>14</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://afthemes.com/checkout/https://afthemes.com/checkout/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Covernews Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/covernews-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/covernews-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[covernews-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[141]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sport Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/sport-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/sport-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sport-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fashion Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/fashion-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/fashion-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fashion-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[143]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Classic Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/classic-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/classic-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:33:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:33:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[classic-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/classic-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/sample-page/</link>
 		<pubDate>Thu, 28 Jan 2021 07:00:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1752,6 +1932,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-28 07:00:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-28 07:00:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-28 07:00:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-28 07:00:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1767,7 +1949,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Good Friday 2018: Why Do We Call it Good Friday?</title>
+		<title><![CDATA[Good Friday 2018: Why Do We Call it Good Friday?]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/good-friday-2018-why-do-we-call-it-good-friday/</link>
 		<pubDate>Fri, 30 Mar 2018 13:28:11 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1780,6 +1962,8 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapi
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:28:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:28:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:28:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:28:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[good-friday-2018-why-do-we-call-it-good-friday]]></wp:post_name>
@@ -1800,7 +1984,7 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapi
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Decoded: How past failures can boost your future performance</title>
+		<title><![CDATA[Decoded: How past failures can boost your future performance]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/decoded-how-past-failures-can-boost-your-future-performance/</link>
 		<pubDate>Fri, 30 Mar 2018 13:28:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1813,6 +1997,8 @@ Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:28:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:28:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[decoded-how-past-failures-can-boost-your-future-performance]]></wp:post_name>
@@ -1834,7 +2020,7 @@ Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Why an eight-hour workday is not a good idea</title>
+		<title><![CDATA[Why an eight-hour workday is not a good idea]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/why-an-eight-hour-workday-is-not-a-good-idea/</link>
 		<pubDate>Fri, 30 Mar 2018 13:31:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1847,6 +2033,8 @@ Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. 
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:31:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:31:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:31:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:31:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-an-eight-hour-workday-is-not-a-good-idea]]></wp:post_name>
@@ -1868,7 +2056,7 @@ Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Holding hands can sync brainwaves, ease pain in couples</title>
+		<title><![CDATA[Holding hands can sync brainwaves, ease pain in couples]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/holding-hands-can-sync-brainwaves-ease-pain-in-couples/</link>
 		<pubDate>Fri, 30 Mar 2018 13:33:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1881,6 +2069,8 @@ Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:33:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:33:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:33:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:33:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[holding-hands-can-sync-brainwaves-ease-pain-in-couples]]></wp:post_name>
@@ -1901,7 +2091,7 @@ Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How materialism may harm your married life</title>
+		<title><![CDATA[How materialism may harm your married life]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/03/30/how-materialism-may-harm-your-married-life/</link>
 		<pubDate>Fri, 30 Mar 2018 13:42:48 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1914,6 +2104,8 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum d
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:42:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:42:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:42:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:42:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-materialism-may-harm-your-married-life]]></wp:post_name>
@@ -1935,7 +2127,7 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/home/</link>
 		<pubDate>Fri, 30 Mar 2018 13:21:48 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1946,6 +2138,8 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum d
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-30 13:21:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-30 13:21:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-30 13:21:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-30 13:21:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1961,227 +2155,7 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sport Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/news-portal/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=58</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[news-portal]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Fashion Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/minimal-magazine/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=59</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>59</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimal-magazine]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[59]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Recipe Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/architecture-interior/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=60</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[architecture-interior]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/recipe-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Traver Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/09/traver-blog/</link>
-		<pubDate>Mon, 09 Apr 2018 17:42:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?p=61</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:42:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:42:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[traver-blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>5 Ways to Change Your Life—for Good</title>
+		<title><![CDATA[5 Ways to Change Your Life—for Good]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/5-ways-to-change-your-life-for-good/</link>
 		<pubDate>Sun, 15 Apr 2018 02:02:57 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2194,6 +2168,8 @@ Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:02:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:02:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:02:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:02:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[5-ways-to-change-your-life-for-good]]></wp:post_name>
@@ -2215,7 +2191,7 @@ Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>What Really Helps Get Rid of Cellulite</title>
+		<title><![CDATA[What Really Helps Get Rid of Cellulite]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/what-really-helps-get-rid-of-cellulite/</link>
 		<pubDate>Sun, 15 Apr 2018 02:04:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2229,6 +2205,8 @@ Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:04:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:04:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:04:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:04:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-really-helps-get-rid-of-cellulite]]></wp:post_name>
@@ -2281,7 +2259,7 @@ B. K.]]></wp:comment_content>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Eye Care Mistakes You Don&#039;t Know You&#039;re Making</title>
+		<title><![CDATA[Eye Care Mistakes You Don't Know You're Making]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/eye-care-mistakes-you-dont-know-youre-making/</link>
 		<pubDate>Sun, 15 Apr 2018 02:07:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2294,6 +2272,8 @@ Donec rutrum congue leo eget malesuada. Vestibulum ante ipsum primis in faucibus
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:07:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:07:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:07:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:07:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[eye-care-mistakes-you-dont-know-youre-making]]></wp:post_name>
@@ -2315,7 +2295,7 @@ Donec rutrum congue leo eget malesuada. Vestibulum ante ipsum primis in faucibus
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How Emma Watson Grooms Her Pubic Hair</title>
+		<title><![CDATA[How Emma Watson Grooms Her Pubic Hair]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/how-emma-watson-grooms-her-pubic-hair/</link>
 		<pubDate>Sun, 15 Apr 2018 02:11:28 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2328,6 +2308,8 @@ Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt. Done
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:11:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:11:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:11:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:11:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-emma-watson-grooms-her-pubic-hair]]></wp:post_name>
@@ -2348,295 +2330,7 @@ Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt. Done
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/sample-page-2/</link>
-		<pubDate>Tue, 31 Jul 2018 03:49:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/minimal-pro/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="https://demo.afthemes.com/storymag-pro/minimal-pro/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>117</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-31 03:49:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-31 03:49:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Sample Page</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/sample-page-2-2/</link>
-		<pubDate>Wed, 28 Mar 2018 06:23:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="https://demo.afthemes.com/elegant-magazine/minimal/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>118</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-28 06:23:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-28 06:23:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Minimal Pro</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/photography/</link>
-		<pubDate>Sun, 15 Apr 2018 18:45:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/?p=117</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:45:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:45:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[photography]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[119]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/minimal-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Buy Now</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/16/buy-now/</link>
-		<pubDate>Mon, 16 Apr 2018 03:16:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/minimal/?p=118</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-16 03:16:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-16 03:16:42]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://afthemes.com/checkout?edd_action=add_to_cart&download_id=1137]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/08/02/129/</link>
-		<pubDate>Thu, 02 Aug 2018 03:28:24 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/minimal-pro/?p=129</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>129</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:28:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-02 03:28:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[129]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Hello world!</title>
-		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/?p=1</link>
-		<pubDate>Thu, 28 Jan 2021 07:00:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.afthemes.com/covernews-pro/">CoverNews Pro Sites</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-01-28 07:00:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-01-28 07:00:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1611818991]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demo.afthemes.com/covernews-pro/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-01-28 07:00:46]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-01-28 07:00:46]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>The 10 Most Body-Positive Women</title>
+		<title><![CDATA[The 10 Most Body-Positive Women]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/the-10-most-body-positive-women-in-hollywood/</link>
 		<pubDate>Sun, 15 Apr 2018 02:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2649,6 +2343,8 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:24:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:24:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:24:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:24:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-10-most-body-positive-women-in-hollywood]]></wp:post_name>
@@ -2669,7 +2365,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>When Spider Veins Happen to Young Women</title>
+		<title><![CDATA[When Spider Veins Happen to Young Women]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/when-spider-veins-happen-to-young-women/</link>
 		<pubDate>Sun, 15 Apr 2018 02:32:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2682,6 +2378,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:32:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:32:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:32:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:32:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[when-spider-veins-happen-to-young-women]]></wp:post_name>
@@ -2702,7 +2400,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>These Skin Treatments Fix the &quot;Trouble Spots&quot;</title>
+		<title><![CDATA[These Skin Treatments Fix the "Trouble Spots"]]></title>
 		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2018/04/15/these-skin-treatments-fix-the-trouble-spots-your-workout-cant/</link>
 		<pubDate>Sun, 15 Apr 2018 02:42:08 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2715,6 +2413,8 @@ Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-15 02:42:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 02:42:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-15 02:42:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-15 02:42:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[these-skin-treatments-fix-the-trouble-spots-your-workout-cant]]></wp:post_name>
@@ -2768,6 +2468,306 @@ Mozelle]]></wp:comment_content>
 			</wp:commentmeta>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/sample-page-2/</link>
+		<pubDate>Tue, 31 Jul 2018 03:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/minimal-pro/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://demo.afthemes.com/storymag-pro/minimal-pro/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-31 03:49:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-31 03:49:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-31 03:49:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-31 03:49:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/sample-page-2-2/</link>
+		<pubDate>Wed, 28 Mar 2018 06:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/minimal/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://demo.afthemes.com/elegant-magazine/minimal/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-28 06:23:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-28 06:23:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-28 06:23:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-28 06:23:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Travel Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/travel-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:39:21 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/travel-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:39:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:39:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[146]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Wedding Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/wedding-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/wedding-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:40:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:40:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wedding-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[148]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/wedding-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Gadget Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/gadget-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/gadget-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>149</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:40:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:40:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:42:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:42:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gadget-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[149]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/gadgets-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Business Pro]]></title>
+		<link>https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/business-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 07:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/minimal-pro/2021/02/10/business-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>150</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:40:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:40:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:43:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:43:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[business-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.1" created="2021-02-11 06:36" -->
+	<!-- generator="WordPress/5.7.1" created="2021-05-14 08:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Sport</title>
 	<link>https://demo.afthemes.com/newsphere/sport</link>
 	<description>Just another Newsphere Site</description>
-	<pubDate>Thu, 11 Feb 2021 06:36:24 +0000</pubDate>
+	<pubDate>Fri, 14 May 2021 08:45:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/newsphere/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/newsphere/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/newsphere/sport</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -190,7 +190,7 @@
 	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 <image>
 	<url>https://demo.afthemes.com/newsphere/sport/wp-content/uploads/sites/3/2018/08/cropped-af-themes-main-dark-1-32x32.png</url>
@@ -201,7 +201,7 @@
 </image> 
 
 		<item>
-		<title>afa-athlete-blood-70567</title>
+		<title><![CDATA[afa-athlete-blood-70567]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/afa-athlete-blood-70567/</link>
 		<pubDate>Mon, 30 Jul 2018 15:32:22 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -214,6 +214,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:32:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:32:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[afa-athlete-blood-70567]]></wp:post_name>
@@ -242,7 +244,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1191548</title>
+		<title><![CDATA[pexels-photo-1191548]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/pexels-photo-1191548/</link>
 		<pubDate>Mon, 30 Jul 2018 15:35:01 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -255,6 +257,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:35:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:35:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1191548]]></wp:post_name>
@@ -279,7 +283,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-139762</title>
+		<title><![CDATA[pexels-photo-139762]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/pexels-photo-139762/</link>
 		<pubDate>Mon, 30 Jul 2018 15:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -292,6 +296,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:37:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:37:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-139762]]></wp:post_name>
@@ -316,7 +322,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-248559</title>
+		<title><![CDATA[pexels-photo-248559]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/pexels-photo-248559/</link>
 		<pubDate>Mon, 30 Jul 2018 15:38:18 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -329,6 +335,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:38:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:38:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-248559]]></wp:post_name>
@@ -353,7 +361,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-848682</title>
+		<title><![CDATA[pexels-photo-848682]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/pexels-photo-848682/</link>
 		<pubDate>Mon, 30 Jul 2018 15:40:34 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -366,6 +374,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:40:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:40:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-848682]]></wp:post_name>
@@ -390,7 +400,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-bike-biker-139976</title>
+		<title><![CDATA[action-bike-biker-139976]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/explaining-boston-uprisings-fall-from-grace/action-bike-biker-139976/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -403,6 +413,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-bike-biker-139976]]></wp:post_name>
@@ -427,7 +439,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>float-pool-water-swim-50596</title>
+		<title><![CDATA[float-pool-water-swim-50596]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/explaining-boston-uprisings-fall-from-grace/float-pool-water-swim-50596/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:22 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -440,6 +452,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[float-pool-water-swim-50596]]></wp:post_name>
@@ -464,7 +478,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-12795</title>
+		<title><![CDATA[pexels-photo-12795]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/pexels-photo-12795/</link>
 		<pubDate>Mon, 30 Jul 2018 15:46:55 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -477,6 +491,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:46:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:46:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-12795]]></wp:post_name>
@@ -501,7 +517,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promo-1120-wu-1</title>
+		<title><![CDATA[banner-promo-1120-wu-1]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/banner-promo-1120-wu-1/</link>
 		<pubDate>Mon, 30 Jul 2018 16:01:13 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -514,6 +530,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 16:01:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 16:01:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:01:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:01:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promo-1120-wu-1]]></wp:post_name>
@@ -538,7 +556,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promo-blue</title>
+		<title><![CDATA[banner-promo-blue]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/banner-promo-blue/</link>
 		<pubDate>Tue, 31 Jul 2018 11:09:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -549,6 +567,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 11:09:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 11:09:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:36:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:36:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promo-blue]]></wp:post_name>
@@ -573,7 +593,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>af-themes main dark</title>
+		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/af-themes-main-dark/</link>
 		<pubDate>Wed, 01 Aug 2018 04:38:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -584,6 +604,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-01 04:38:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-01 04:38:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:42:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:42:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[af-themes-main-dark]]></wp:post_name>
@@ -608,7 +630,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-af-themes-main-dark.png</title>
+		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Wed, 01 Aug 2018 04:38:32 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -621,6 +643,8 @@
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-01 04:38:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-01 04:38:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-01 04:38:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-01 04:38:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-af-themes-main-dark-png]]></wp:post_name>
@@ -649,7 +673,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-banner-promo-blue.png</title>
+		<title><![CDATA[cropped-banner-promo-blue.png]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/cropped-banner-promo-blue-png/</link>
 		<pubDate>Sat, 27 Apr 2019 03:36:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -660,6 +684,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 03:36:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 03:36:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:36:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:36:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-banner-promo-blue-png]]></wp:post_name>
@@ -684,7 +710,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-af-themes-main-dark-1.png</title>
+		<title><![CDATA[cropped-af-themes-main-dark-1.png]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/cropped-af-themes-main-dark-1-png/</link>
 		<pubDate>Sat, 27 Apr 2019 03:42:58 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -695,6 +721,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 03:42:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 03:42:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:42:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:42:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-af-themes-main-dark-1-png]]></wp:post_name>
@@ -719,7 +747,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_ZAQFGT78LR</title>
+		<title><![CDATA[StockSnap_ZAQFGT78LR]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_zaqfgt78lr/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -730,6 +758,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_zaqfgt78lr]]></wp:post_name>
@@ -750,7 +780,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_1Q2U0J72YG</title>
+		<title><![CDATA[StockSnap_1Q2U0J72YG]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_1q2u0j72yg/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:09 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -761,6 +791,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_1q2u0j72yg]]></wp:post_name>
@@ -781,7 +813,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_1R056WTAJ9</title>
+		<title><![CDATA[StockSnap_1R056WTAJ9]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_1r056wtaj9/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:11 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -792,6 +824,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_1r056wtaj9]]></wp:post_name>
@@ -812,7 +846,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_5CURMMHBAX</title>
+		<title><![CDATA[StockSnap_5CURMMHBAX]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_5curmmhbax/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:12 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -823,6 +857,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_5curmmhbax]]></wp:post_name>
@@ -843,7 +879,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_5LASOF62U7</title>
+		<title><![CDATA[StockSnap_5LASOF62U7]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_5lasof62u7/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:15 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -854,6 +890,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_5lasof62u7]]></wp:post_name>
@@ -874,7 +912,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_E0452629C5</title>
+		<title><![CDATA[StockSnap_E0452629C5]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_e0452629c5/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:21 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -885,6 +923,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_e0452629c5]]></wp:post_name>
@@ -905,7 +945,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/facebook/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -918,6 +958,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -962,7 +1004,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/twitter/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -975,6 +1017,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -1019,7 +1063,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube</title>
+		<title><![CDATA[Youtube]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/youtube/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1032,6 +1076,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -1076,7 +1122,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vimeo</title>
+		<title><![CDATA[Vimeo]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/vimeo/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1089,6 +1135,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 16:05:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 16:05:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 16:05:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vimeo]]></wp:post_name>
@@ -1133,7 +1181,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Leagues &amp; Clubs</title>
+		<title><![CDATA[Leagues & Clubs]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/31/leagues-clubs/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1144,6 +1192,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 12:10:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leagues-clubs]]></wp:post_name>
@@ -1188,7 +1238,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/31/79/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1199,6 +1249,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 12:10:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[79]]></wp:post_name>
@@ -1243,7 +1295,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/31/80/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1254,6 +1306,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 12:10:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[80]]></wp:post_name>
@@ -1298,7 +1352,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/31/82/</link>
 		<pubDate>Tue, 31 Jul 2018 12:10:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1309,6 +1363,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 12:10:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 12:10:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[82]]></wp:post_name>
@@ -1353,7 +1409,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_F5K7EFVE4Y</title>
+		<title><![CDATA[StockSnap_F5K7EFVE4Y]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_f5k7efve4y/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1364,6 +1420,8 @@
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_f5k7efve4y]]></wp:post_name>
@@ -1384,7 +1442,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_FHBK2O00L7</title>
+		<title><![CDATA[StockSnap_FHBK2O00L7]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_fhbk2o00l7/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1395,6 +1453,8 @@
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_fhbk2o00l7]]></wp:post_name>
@@ -1415,7 +1475,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_L9MGC617HI</title>
+		<title><![CDATA[StockSnap_L9MGC617HI]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_l9mgc617hi/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1426,6 +1486,8 @@
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_l9mgc617hi]]></wp:post_name>
@@ -1446,7 +1508,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_OIXK0O7N7T</title>
+		<title><![CDATA[StockSnap_OIXK0O7N7T]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_oixk0o7n7t/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:28 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1457,6 +1519,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_oixk0o7n7t]]></wp:post_name>
@@ -1477,7 +1541,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_ORXN7NE5YC</title>
+		<title><![CDATA[StockSnap_ORXN7NE5YC]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_orxn7ne5yc/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1488,6 +1552,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_orxn7ne5yc]]></wp:post_name>
@@ -1508,7 +1574,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>StockSnap_SYEXSU4HNM</title>
+		<title><![CDATA[StockSnap_SYEXSU4HNM]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/stocksnap_syexsu4hnm/</link>
 		<pubDate>Sat, 27 Apr 2019 06:54:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1519,6 +1585,8 @@
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:54:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:54:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:54:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:54:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_syexsu4hnm]]></wp:post_name>
@@ -1539,7 +1607,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/139/</link>
 		<pubDate>Sat, 27 Apr 2019 07:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1550,6 +1618,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 07:05:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:05:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[139]]></wp:post_name>
@@ -1594,7 +1664,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/140/</link>
 		<pubDate>Sat, 27 Apr 2019 07:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1605,6 +1675,8 @@
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 07:05:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:05:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[140]]></wp:post_name>
@@ -1649,7 +1721,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/141/</link>
 		<pubDate>Sat, 27 Apr 2019 07:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1660,6 +1732,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 07:05:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:05:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[141]]></wp:post_name>
@@ -1704,7 +1778,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Leagues &amp; Clubs</title>
+		<title><![CDATA[Leagues & Clubs]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/leagues-clubs-2/</link>
 		<pubDate>Sat, 27 Apr 2019 07:05:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1715,6 +1789,8 @@
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 07:05:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:05:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:05:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leagues-clubs-2]]></wp:post_name>
@@ -1759,7 +1835,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-StockSnap_1R056WTAJ9.jpg</title>
+		<title><![CDATA[cropped-StockSnap_1R056WTAJ9.jpg]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/cropped-stocksnap_1r056wtaj9-jpg/</link>
 		<pubDate>Wed, 01 May 2019 06:19:50 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1770,6 +1846,8 @@
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 06:19:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 06:19:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 06:19:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 06:19:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-stocksnap_1r056wtaj9-jpg]]></wp:post_name>
@@ -1794,7 +1872,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-StockSnap_5LASOF62U7.jpg</title>
+		<title><![CDATA[cropped-StockSnap_5LASOF62U7.jpg]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/cropped-stocksnap_5lasof62u7-jpg/</link>
 		<pubDate>Wed, 01 May 2019 06:21:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1805,6 +1883,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 06:21:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 06:21:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 06:21:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 06:21:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-stocksnap_5lasof62u7-jpg]]></wp:post_name>
@@ -1829,7 +1909,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/sample-page/</link>
 		<pubDate>Sat, 27 Apr 2019 03:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1858,6 +1938,8 @@
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 03:27:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 03:27:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 03:27:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 03:27:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -1873,7 +1955,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>London Spitfire punches ticket to Overwatch League finals</title>
+		<title><![CDATA[London Spitfire punches ticket to Overwatch League finals]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/</link>
 		<pubDate>Mon, 30 Jul 2018 15:28:21 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1889,6 +1971,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:28:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:28:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[london-spitfire-punches-ticket-to-overwatch-league-finals]]></wp:post_name>
@@ -1919,7 +2003,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gordon Hayward still fan of esports, not yet thought to be an investor</title>
+		<title><![CDATA[Gordon Hayward still fan of esports, not yet thought to be an investor]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/</link>
 		<pubDate>Mon, 30 Jul 2018 15:35:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1933,6 +2017,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:35:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:35:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:58:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:58:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gordon-hayward-still-fan-of-esports-not-yet-investor]]></wp:post_name>
@@ -1976,7 +2062,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</wp:comment>
 					</item>
 					<item>
-		<title>League of Legends global power rankings through July 16</title>
+		<title><![CDATA[League of Legends global power rankings through July 16]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/</link>
 		<pubDate>Mon, 30 Jul 2018 15:37:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1992,6 +2078,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:37:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:37:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:58:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:58:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[league-of-legends-global-power-rankings-through-july-16]]></wp:post_name>
@@ -2040,7 +2128,7 @@ You deserve a better life! :) Good Luck!]]></wp:comment_content>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Fortnite Summer Skirmish Series struggles in opening week</title>
+		<title><![CDATA[Fortnite Summer Skirmish Series struggles in opening week]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/</link>
 		<pubDate>Mon, 30 Jul 2018 15:38:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2054,6 +2142,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:38:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:38:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:02:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:02:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fortnite-summer-skirmish-series-struggles-in-opening-week]]></wp:post_name>
@@ -2098,7 +2188,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</wp:comment>
 					</item>
 					<item>
-		<title>Rise Nation intent to &#039;stay humble, stay hungry&#039;</title>
+		<title><![CDATA[Rise Nation intent to 'stay humble, stay hungry']]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/</link>
 		<pubDate>Mon, 30 Jul 2018 15:40:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2114,6 +2204,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:40:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:40:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:57:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:57:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[rise-nation-intent-to-stay-humble-stay-hungry]]></wp:post_name>
@@ -2144,7 +2236,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Explaining Boston Uprising&#039;s fall from grace</title>
+		<title><![CDATA[Explaining Boston Uprising's fall from grace]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/explaining-boston-uprisings-fall-from-grace/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:48 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2158,6 +2250,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:57:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:57:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[explaining-boston-uprisings-fall-from-grace]]></wp:post_name>
@@ -2216,7 +2310,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</wp:comment>
 					</item>
 					<item>
-		<title>United Talent Agency acquires two esports agencies</title>
+		<title><![CDATA[United Talent Agency acquires two esports agencies]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/</link>
 		<pubDate>Mon, 30 Jul 2018 15:47:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2230,6 +2324,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:47:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:03:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:03:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[united-talent-agency-acquires-two-esports-agencies]]></wp:post_name>
@@ -2261,7 +2357,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/</link>
 		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2274,6 +2370,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2293,7 +2391,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/sample-page-2/</link>
 		<pubDate>Thu, 18 Apr 2019 11:56:41 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2324,6 +2422,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-18 11:56:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-18 11:56:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-18 11:56:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-18 11:56:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
@@ -2339,7 +2439,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/sample-page-2-2/</link>
 		<pubDate>Tue, 31 Jul 2018 02:02:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2360,6 +2460,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 02:02:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 02:02:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-31 02:02:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-31 02:02:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
@@ -2375,7 +2477,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>G2&#039;s Mikyx might miss MSI due to wrist injury</title>
+		<title><![CDATA[G2's Mikyx might miss MSI due to wrist injury]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/g2s-mikyx-might-miss-msi-due-to-wrist-injury/</link>
 		<pubDate>Sat, 27 Apr 2019 06:41:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2396,6 +2498,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:41:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:41:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 06:59:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 06:59:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[g2s-mikyx-might-miss-msi-due-to-wrist-injury]]></wp:post_name>
@@ -2421,7 +2525,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LCK legend PraY announces retirement</title>
+		<title><![CDATA[LCK legend PraY announces retirement]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/lck-legend-pray-announces-retirement/</link>
 		<pubDate>Sat, 27 Apr 2019 06:42:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2442,6 +2546,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:42:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:42:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:01:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:01:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lck-legend-pray-announces-retirement]]></wp:post_name>
@@ -2481,7 +2587,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 							</wp:comment>
 					</item>
 					<item>
-		<title>Overwatch League power rankings through Stage 2, Week 2</title>
+		<title><![CDATA[Overwatch League power rankings through Stage 2, Week 2]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/04/27/overwatch-league-power-rankings-through-stage-2-week-2/</link>
 		<pubDate>Sat, 27 Apr 2019 06:42:44 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2502,6 +2608,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-27 06:42:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-27 06:42:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-27 07:03:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-27 07:03:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[overwatch-league-power-rankings-through-stage-2-week-2]]></wp:post_name>
@@ -2541,7 +2649,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 							</wp:comment>
 					</item>
 					<item>
-		<title>All Demos</title>
+		<title><![CDATA[All Demos]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/05/01/all-demos/</link>
 		<pubDate>Wed, 01 May 2019 08:08:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2552,6 +2660,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 08:08:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -2596,7 +2706,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default</title>
+		<title><![CDATA[Default]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/05/01/default/</link>
 		<pubDate>Wed, 01 May 2019 08:08:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2607,6 +2717,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 08:08:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -2651,7 +2763,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sport</title>
+		<title><![CDATA[Sport]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/05/01/sport/</link>
 		<pubDate>Wed, 01 May 2019 08:08:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2662,6 +2774,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 08:08:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
@@ -2706,7 +2820,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fashion</title>
+		<title><![CDATA[Fashion]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/05/01/fashion/</link>
 		<pubDate>Wed, 01 May 2019 08:08:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2717,6 +2831,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 08:08:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -2761,7 +2877,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Upgrade</title>
+		<title><![CDATA[Upgrade]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/2019/05/01/upgrade/</link>
 		<pubDate>Wed, 01 May 2019 08:08:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2772,6 +2888,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-01 08:08:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-01 08:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-01 08:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upgrade]]></wp:post_name>
@@ -2816,7 +2934,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/newsphere/sport/blog/</link>
 		<pubDate>Thu, 11 Feb 2021 06:34:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2827,6 +2945,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-11 06:34:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-11 06:34:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-11 06:34:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-11 06:34:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>

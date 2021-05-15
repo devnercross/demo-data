@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-13 12:18" -->
+	<!-- generator="WordPress/5.7.1" created="2021-05-14 07:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Newsium</title>
 	<link>https://demo.afthemes.com/newsium</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 13 May 2021 12:18:26 +0000</pubDate>
+	<pubDate>Fri, 14 May 2021 07:33:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/newsium/</wp:base_site_url>
@@ -5925,7 +5925,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:cover {"url":"https://demo.afthemes.com/newsium/wp-content/uploads/2018/07/water-light-architecture-sky-bridge-skyline-661635-pxhere.com_.jpg","id":439,"align":"wide","className":"has-background-dim-NaN"} -->
-<div class="wp-block-cover alignwide has-background-dim has-background-dim-NaN" style="background-image:url(https://demo.afthemes.com/newsium/wp-content/uploads/2018/07/water-light-architecture-sky-bridge-skyline-661635-pxhere.com_.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:heading {"align":"center"} -->
+<div class="wp-block-cover alignwide has-background-dim has-background-dim-NaN"><img class="wp-block-cover__image-background wp-image-439" alt="" src="https://demo.afthemes.com/newsium/wp-content/uploads/2018/07/water-light-architecture-sky-bridge-skyline-661635-pxhere.com_.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="has-text-align-center">Lorem ipsum dolor sit amet</h2>
 <!-- /wp:heading -->
 
@@ -5934,18 +5934,18 @@
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:media-text {"mediaId":409,"mediaType":"image","isStackedOnMobile":true,"imageFill":true} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://demo.afthemes.com/newsium-pro/wp-content/uploads/2019/11/car-dashboard-light-panel-speed-engine-1453637-pxhere.com_-1024x681.jpg);background-position:50% 50%"><img src="https://demo.afthemes.com/newsium-pro/wp-content/uploads/2019/11/car-dashboard-light-panel-speed-engine-1453637-pxhere.com_-1024x681.jpg" alt="" class="wp-image-409"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","textColor":"luminous-vivid-amber","backgroundColor":"very-dark-gray","fontSize":"normal"} -->
-<p class="has-text-color has-background has-drop-cap has-normal-font-size has-luminous-vivid-amber-color has-very-dark-gray-background-color">Veritatis lorem risus laoreet, aliquid, ullamco lobortis, quo reprehenderit aute blandit wisi! Excepteur provident! Tenetur lacinia, minus voluptate aptent per, cupidatat! Mus incidunt ullamco, aliquam corrupti repudiandae felis, euismod? Luctus aliquip a amet laboriosam cursus? Tempus vel proident. Praesent dolores purus! Explicabo, tempus harum enim porttitor. Aperiam. Luctus aliquip a amet laboriosam cursus? Tempus vel proident. Praesent dolores purus! </p>
+<!-- wp:media-text {"mediaId":409,"mediaType":"image","imageFill":true,"className":"alignwide"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill"><figure class="wp-block-media-text__media" style="background-image:url(https://demo.afthemes.com/newsium-pro/wp-content/uploads/2019/11/car-dashboard-light-panel-speed-engine-1453637-pxhere.com_-1024x681.jpg);background-position:50% 50%"><img src="https://demo.afthemes.com/newsium-pro/wp-content/uploads/2019/11/car-dashboard-light-panel-speed-engine-1453637-pxhere.com_-1024x681.jpg" alt="" class="wp-image-409 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"dropCap":true,"placeholder":"Content…","backgroundColor":"very-dark-gray","textColor":"luminous-vivid-amber","fontSize":"normal"} -->
+<p class="has-drop-cap has-luminous-vivid-amber-color has-very-dark-gray-background-color has-text-color has-background has-normal-font-size">Veritatis lorem risus laoreet, aliquid, ullamco lobortis, quo reprehenderit aute blandit wisi! Excepteur provident! Tenetur lacinia, minus voluptate aptent per, cupidatat! Mus incidunt ullamco, aliquam corrupti repudiandae felis, euismod? Luctus aliquip a amet laboriosam cursus? Tempus vel proident. Praesent dolores purus! Explicabo, tempus harum enim porttitor. Aperiam. Luctus aliquip a amet laboriosam cursus? Tempus vel proident. Praesent dolores purus! </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:heading {"align":"center"} -->
+<!-- wp:heading {"textAlign":"center"} -->
 <h2 class="has-text-align-center">Phasellus autem? Placeat laboris, sem cupiditate assumenda. </h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":3,"textColor":"vivid-red"} -->
 <h3 class="has-vivid-red-color has-text-color">Officia pariatur? </h3>
 <!-- /wp:heading -->
@@ -5955,17 +5955,17 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":50} -->
+<!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"level":3} -->
 <h3>Officia pariatur? Alias incidunt tincidunt.</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"textColor":"very-light-gray","backgroundColor":"vivid-red"} -->
-<p class="has-text-color has-background has-very-light-gray-color has-vivid-red-background-color">Officia pariatur? Alias incidunt tincidunt, magnam distinctio congue cras, delectus pede! Tincidunt beatae habitant ullam. Aute reiciendis nemo aut alias unde laboriosam placerat sequi! Atque habitasse fringilla similique. Dis odit voluptate dis rutrum dui praesentium? Justo?</p>
+<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"very-light-gray"} -->
+<p class="has-very-light-gray-color has-vivid-red-background-color has-text-color has-background">Officia pariatur? Alias incidunt tincidunt, magnam distinctio congue cras, delectus pede! Tincidunt beatae habitant ullam. Aute reiciendis nemo aut alias unde laboriosam placerat sequi! Atque habitasse fringilla similique. Dis odit voluptate dis rutrum dui praesentium? Justo?</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":25} -->
+<!-- wp:column {"width":"25%"} -->
 <div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
 <p>Officia pariatur? Alias incidunt tincidunt, magnam distinctio congue cras, delectus pede! Tincidunt beatae habitant ullam. Aute reiciendis nemo aut alias unde laboriosam placerat sequi! Atque habitasse fringilla similique. Dis odit voluptate dis rutrum dui praesentium? Justo?</p>
 <!-- /wp:paragraph --></div>
@@ -5981,7 +5981,7 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph {"backgroundColor":"very-light-gray"} -->
-<p class="has-background has-very-light-gray-background-color">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
+<p class="has-very-light-gray-background-color has-background">Autem parturient quod quia adipiscing laboris dignissimos sollicitudin nisi, tenetur! Cillum felis unde pretium? Quasi nostrud! Vivamus nam bibendum sit pretium magni neque? Erat ipsum facilisis. Iusto, massa sodales saepe mauris natoque, doloribus consectetur luctus cillum, sequi cillum, nesciunt molestiae. Lacinia aliquid? Imperdiet ac molestiae, lorem pharetra adipiscing? <a href="https://afthemes.com">Vivamus cupiditate</a> sequi maecenas sapien! Netus nostra architecto? Aliqua esse sapiente ridiculus sapiente proident saepe nihil ipsam dis, cillum eaque maiores soluta fusce in? Etiam nobis sociosqu? Fringilla, vestibulum sagittis. Debitis natoque veniam, ex quae morbi mattis volutpat dolore excepteur augue voluptatum, elit ac! Dolore commodi hendrerit augue quaerat accusantium! Anim aperiam.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textColor":"vivid-red"} -->
@@ -6027,8 +6027,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-11-27 13:54:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-11-27 13:54:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-14 07:32:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-14 07:32:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -6048,6 +6048,18 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[newsium-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[425]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6901,10 +6913,6 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
