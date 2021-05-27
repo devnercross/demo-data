@@ -269,14 +269,14 @@
       }
     },
     "newsever-pro": {
-      "data": "newsever-pro",
+      "data": "newsever-po",
       "free": "newsever",
       "premium": "",
       "demodata": {
         "default": {
           "name": "Newsever Pro",
           "catgory": "General",
-          "slug": "newsever",
+          "slug": "newsever-pro",
           "preview": "https://demo.afthemes.com/newsever-pro/"
         },
         "light": {
