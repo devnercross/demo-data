@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-14 09:04" -->
+	<!-- generator="WordPress/5.7.2" created="2021-05-26 07:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>CoverNews Pro</title>
 	<link>https://demo.afthemes.com/covernews-pro</link>
 	<description>Clean and Elegant Magazine Theme</description>
-	<pubDate>Fri, 14 May 2021 09:04:44 +0000</pubDate>
+	<pubDate>Wed, 26 May 2021 07:20:18 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/covernews-pro/</wp:base_site_url>
@@ -212,7 +212,7 @@
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://demo.afthemes.com/covernews-pro/wp-content/uploads/2018/08/af-themes-main-dark-1-150x150.png</url>
@@ -3405,6 +3405,14 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<blockquote class="wp-embedded-content" data-secret="VRu3cBM7I7"><a href="https://afthemes.com/">Home</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Home&#8221; &#8212; AF themes" src="https://afthemes.com/embed/#?secret=VRu3cBM7I7" data-secret="VRu3cBM7I7" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7f9cb5308930a6959d47c1f49bc177c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1621580491]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
