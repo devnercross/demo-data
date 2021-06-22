@@ -1011,6 +1011,85 @@
           "preview": "https://demo.afthemes.com/morenews/travel/"
         }
       }
+    },
+    "morenews-pro": {
+      "data": "morenews-pro",
+      "free": "morenews",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "MoreNews Pro",
+          "catgory": "General",
+          "slug": "morenews-pro",
+          "preview": "https://demo.afthemes.com/morenews-pro/"
+        },
+        "light": {
+          "name": "Light Pro",
+          "catgory": "General",
+          "slug": "light",
+          "preview": "https://demo.afthemes.com/morenews-pro/light/"
+        },
+        "classic": {
+          "name": "Classic Pro",
+          "catgory": "General",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/morenews-pro/classic/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/morenews-pro/fashion/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/morenews-pro/sport/"
+        },
+        "business": {
+          "name": "Business Pro",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/morenews-pro/business/"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/morenews-pro/travel/"
+        },
+        "gaming": {
+          "name": "Gaming Pro",
+          "catgory": "Blog",
+          "slug": "gaming",
+          "preview": "https://demo.afthemes.com/morenews-pro/gaming/"
+        },
+        "gadgets": {
+          "name": "Gadgets Pro",
+          "catgory": "Blog",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/morenews-pro/gadgets/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demo.afthemes.com/morenews-pro/recipe/"
+        },
+        "fitness": {
+          "name": "Fitness Pro",
+          "catgory": "Blog",
+          "slug": "fitness",
+          "preview": "https://demo.afthemes.com/morenews-pro/fitness/"
+        },
+        "automobile": {
+          "name": "Automobile Pro",
+          "catgory": "Blog",
+          "slug": "automobile",
+          "preview": "https://demo.afthemes.com/morenews-pro/automobile/"
+        }
+      }
     }
   }
 }
