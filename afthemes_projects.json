@@ -974,6 +974,43 @@
           "preview": "https://demo.afthemes.com/darknews-pro/automobile/"
         }
       }
+    },
+    "morenews": {
+      "data": "morenews",
+      "free": "",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "MoreNews",
+          "catgory": "General",
+          "slug": "morenews",
+          "preview": "https://demo.afthemes.com/morenews/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/morenews/dark/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/morenews/fashion/"
+        } ,
+        "food-recipe": {
+          "name": "Food and Recipe",
+          "catgory": "Blog",
+          "slug": "food-recipe",
+          "preview": "https://demo.afthemes.com/morenews/food-recipe/"
+        },
+        "travel": {
+          "name": "Travel",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/morenews/travel/"
+        }
+      }
     }
   }
 }
