@@ -596,6 +596,19 @@
         }
       }
     },
+    "foodshop": {
+      "data": "foodshop",
+      "free": "storeship",
+      "premium": "storeship-pro",
+      "demodata": {
+        "default": {
+          "name": "FoodShop",
+          "catgory": "Food and Beverage",
+          "slug": "foodshop",
+          "preview": "https://demo.afthemes.com/storeship/foodshop/"
+        }
+      }
+    },
     "storeship-pro": {
       "data": "storeship-pro",
       "free": "storeship",
