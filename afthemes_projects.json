@@ -13,6 +13,19 @@
         }
       }
     },
+    "newscover": {
+      "data": "newscover",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsCover",
+          "catgory": "Dark",
+          "slug": "newscover",
+          "preview": "https://demo.afthemes.com/covernews/newscover/"
+        }
+      }
+    },
     "hardnews": {
       "data": "hardnews",
       "free": "covernews",
