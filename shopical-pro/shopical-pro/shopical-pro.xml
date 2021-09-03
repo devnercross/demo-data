@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.2" created="2021-03-05 06:33" -->
+	<!-- generator="WordPress/5.8" created="2021-08-25 05:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Shopical Pro</title>
 	<link>https://demo.afthemes.com/shopical-pro</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 05 Mar 2021 06:33:45 +0000</pubDate>
+	<pubDate>Wed, 25 Aug 2021 05:30:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/shopical-pro/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/shopical-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/shopical-pro</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -828,7 +828,7 @@
 	<wp:term><wp:term_id>39</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
 	<url>https://demo.afthemes.com/shopical-pro/wp-content/uploads/2018/09/af-themes-main-dark-100x100.png</url>
@@ -837,9 +837,9 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">156503138</site>
+
 		<item>
-		<title>vneck-tee-2.jpg</title>
+		<title><![CDATA[vneck-tee-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=33</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -850,6 +850,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vneck-tee-2-jpg]]></wp:post_name>
@@ -878,7 +880,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vnech-tee-green-1.jpg</title>
+		<title><![CDATA[vnech-tee-green-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=34</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -889,6 +891,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vnech-tee-green-1-jpg]]></wp:post_name>
@@ -917,7 +921,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vnech-tee-blue-1.jpg</title>
+		<title><![CDATA[vnech-tee-blue-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=35</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -928,6 +932,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vnech-tee-blue-1-jpg]]></wp:post_name>
@@ -956,7 +962,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-2.jpg</title>
+		<title><![CDATA[hoodie-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=36</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -967,6 +973,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-2-jpg]]></wp:post_name>
@@ -995,7 +1003,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-blue-1.jpg</title>
+		<title><![CDATA[hoodie-blue-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=37</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1006,6 +1014,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-blue-1-jpg]]></wp:post_name>
@@ -1034,7 +1044,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-green-1.jpg</title>
+		<title><![CDATA[hoodie-green-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=38</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:28 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1045,6 +1055,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-green-1-jpg]]></wp:post_name>
@@ -1073,7 +1085,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-with-logo-2.jpg</title>
+		<title><![CDATA[hoodie-with-logo-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=39</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:28 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1084,6 +1096,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-logo-2-jpg]]></wp:post_name>
@@ -1112,7 +1126,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tshirt-2.jpg</title>
+		<title><![CDATA[tshirt-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=40</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1123,6 +1137,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tshirt-2-jpg]]></wp:post_name>
@@ -1151,7 +1167,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beanie-2.jpg</title>
+		<title><![CDATA[beanie-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=41</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:30 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1162,6 +1178,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beanie-2-jpg]]></wp:post_name>
@@ -1190,7 +1208,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>belt-2.jpg</title>
+		<title><![CDATA[belt-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=42</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1201,6 +1219,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[belt-2-jpg]]></wp:post_name>
@@ -1229,7 +1249,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cap-2.jpg</title>
+		<title><![CDATA[cap-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=43</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1240,6 +1260,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cap-2-jpg]]></wp:post_name>
@@ -1268,7 +1290,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sunglasses-2.jpg</title>
+		<title><![CDATA[sunglasses-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=44</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:32 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1279,6 +1301,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sunglasses-2-jpg]]></wp:post_name>
@@ -1307,7 +1331,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-with-pocket-2.jpg</title>
+		<title><![CDATA[hoodie-with-pocket-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=45</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1318,6 +1342,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-pocket-2-jpg]]></wp:post_name>
@@ -1346,7 +1372,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hoodie-with-zipper-2.jpg</title>
+		<title><![CDATA[hoodie-with-zipper-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=46</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1357,6 +1383,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-zipper-2-jpg]]></wp:post_name>
@@ -1385,7 +1413,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>long-sleeve-tee-2.jpg</title>
+		<title><![CDATA[long-sleeve-tee-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=47</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:34 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1396,6 +1424,8 @@
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[long-sleeve-tee-2-jpg]]></wp:post_name>
@@ -1424,7 +1454,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>polo-2.jpg</title>
+		<title><![CDATA[polo-2.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=48</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:35 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1435,6 +1465,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[polo-2-jpg]]></wp:post_name>
@@ -1463,7 +1495,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>album-1.jpg</title>
+		<title><![CDATA[album-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=49</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:35 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1474,6 +1506,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[album-1-jpg]]></wp:post_name>
@@ -1502,7 +1536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>single-1.jpg</title>
+		<title><![CDATA[single-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=50</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1513,6 +1547,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-1-jpg]]></wp:post_name>
@@ -1541,7 +1577,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>t-shirt-with-logo-1.jpg</title>
+		<title><![CDATA[t-shirt-with-logo-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=51</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1552,6 +1588,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[t-shirt-with-logo-1-jpg]]></wp:post_name>
@@ -1580,7 +1618,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beanie-with-logo-1.jpg</title>
+		<title><![CDATA[beanie-with-logo-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=52</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1591,6 +1629,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beanie-with-logo-1-jpg]]></wp:post_name>
@@ -1619,7 +1659,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-1.jpg</title>
+		<title><![CDATA[logo-1.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=53</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1630,6 +1670,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-1-jpg]]></wp:post_name>
@@ -1658,7 +1700,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>people-2603521_1280</title>
+		<title><![CDATA[people-2603521_1280]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/people-2603521_1280/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1669,6 +1711,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-2603521_1280]]></wp:post_name>
@@ -1693,7 +1737,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1126993</title>
+		<title><![CDATA[pexels-photo-1126993]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-1126993/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1704,6 +1748,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1126993]]></wp:post_name>
@@ -1728,7 +1774,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1252982</title>
+		<title><![CDATA[pexels-photo-1252982]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-1252982/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:33 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1739,6 +1785,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1252982]]></wp:post_name>
@@ -1763,7 +1811,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1082529</title>
+		<title><![CDATA[pexels-photo-1082529]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-1082529/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:34 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1774,6 +1822,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1082529]]></wp:post_name>
@@ -1798,7 +1848,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-757312</title>
+		<title><![CDATA[pexels-photo-757312]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-757312/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1809,6 +1859,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-757312]]></wp:post_name>
@@ -1833,7 +1885,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-370016</title>
+		<title><![CDATA[pexels-photo-370016]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-370016/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1844,6 +1896,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-370016]]></wp:post_name>
@@ -1868,7 +1922,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>people-2576968_1280</title>
+		<title><![CDATA[people-2576968_1280]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/people-2576968_1280/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1879,6 +1933,8 @@
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-2576968_1280]]></wp:post_name>
@@ -1903,7 +1959,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>portrait-1033319_1280</title>
+		<title><![CDATA[portrait-1033319_1280]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/portrait-1033319_1280/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:48 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1914,6 +1970,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[portrait-1033319_1280]]></wp:post_name>
@@ -1938,7 +1996,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>girl-1252994_1280</title>
+		<title><![CDATA[girl-1252994_1280]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/girl-1252994_1280/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1949,6 +2007,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[girl-1252994_1280]]></wp:post_name>
@@ -1973,7 +2033,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>fashion-918446_1280</title>
+		<title><![CDATA[fashion-918446_1280]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/fashion-918446_1280/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:52 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -1984,6 +2044,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-918446_1280]]></wp:post_name>
@@ -2008,7 +2070,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1036623</title>
+		<title><![CDATA[pexels-photo-1036623]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/pexels-photo-1036623/</link>
 		<pubDate>Sat, 29 Sep 2018 03:27:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2019,6 +2081,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:27:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:27:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:27:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:27:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1036623]]></wp:post_name>
@@ -2043,7 +2107,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>attractive-1846127_1920</title>
+		<title><![CDATA[attractive-1846127_1920]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/attractive-1846127_1920/</link>
 		<pubDate>Sat, 29 Sep 2018 03:28:01 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2054,6 +2118,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:28:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:28:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:28:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:28:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[attractive-1846127_1920]]></wp:post_name>
@@ -2078,7 +2144,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>storecommerce-pro</title>
+		<title><![CDATA[storecommerce-pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/storecommerce-pro/</link>
 		<pubDate>Sat, 29 Sep 2018 04:03:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2089,6 +2155,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:03:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:03:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:03:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:03:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[storecommerce-pro]]></wp:post_name>
@@ -2113,7 +2181,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-937658</title>
+		<title><![CDATA[pexels-photo-937658]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=150</link>
 		<pubDate>Sat, 29 Sep 2018 04:48:12 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2124,6 +2192,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:48:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:48:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-937658]]></wp:post_name>
@@ -2148,7 +2218,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1021709</title>
+		<title><![CDATA[pexels-photo-1021709]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=151</link>
 		<pubDate>Sat, 29 Sep 2018 04:48:14 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2159,6 +2229,8 @@
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:48:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:48:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1021709]]></wp:post_name>
@@ -2183,7 +2255,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-428361</title>
+		<title><![CDATA[pexels-photo-428361]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=153</link>
 		<pubDate>Sat, 29 Sep 2018 05:15:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2194,6 +2266,8 @@
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:15:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:15:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-428361]]></wp:post_name>
@@ -2218,7 +2292,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-428340 (1)</title>
+		<title><![CDATA[pexels-photo-428340 (1)]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=155</link>
 		<pubDate>Sat, 29 Sep 2018 05:15:42 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2229,6 +2303,8 @@
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:15:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:15:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-428340-1]]></wp:post_name>
@@ -2253,7 +2329,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-428311</title>
+		<title><![CDATA[pexels-photo-428311]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=156</link>
 		<pubDate>Sat, 29 Sep 2018 05:15:44 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2264,6 +2340,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:15:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:15:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-428311]]></wp:post_name>
@@ -2288,7 +2366,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-428333</title>
+		<title><![CDATA[pexels-photo-428333]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=157</link>
 		<pubDate>Sat, 29 Sep 2018 05:15:45 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2299,6 +2377,8 @@
 		<wp:post_id>157</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:15:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:15:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-428333]]></wp:post_name>
@@ -2323,7 +2403,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1006994</title>
+		<title><![CDATA[pexels-photo-1006994]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=163</link>
 		<pubDate>Sat, 29 Sep 2018 05:19:21 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2334,6 +2414,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:19:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:19:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1006994]]></wp:post_name>
@@ -2358,7 +2440,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1158670</title>
+		<title><![CDATA[pexels-photo-1158670]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=164</link>
 		<pubDate>Sat, 29 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2369,6 +2451,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1158670]]></wp:post_name>
@@ -2393,7 +2477,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1449664</title>
+		<title><![CDATA[pexels-photo-1449664]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=167</link>
 		<pubDate>Sat, 29 Sep 2018 05:19:28 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2404,6 +2488,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:19:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:19:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1449664]]></wp:post_name>
@@ -2428,7 +2514,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1446544</title>
+		<title><![CDATA[pexels-photo-1446544]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=168</link>
 		<pubDate>Sat, 29 Sep 2018 05:19:30 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2439,6 +2525,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:19:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:19:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1446544]]></wp:post_name>
@@ -2463,7 +2551,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-556068</title>
+		<title><![CDATA[pexels-photo-556068]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=169</link>
 		<pubDate>Sat, 29 Sep 2018 05:19:31 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2474,6 +2562,8 @@
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:19:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:19:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-556068]]></wp:post_name>
@@ -2498,7 +2588,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-718973</title>
+		<title><![CDATA[pexels-photo-718973]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=172</link>
 		<pubDate>Sat, 29 Sep 2018 05:35:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2509,6 +2599,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:35:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:35:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-718973]]></wp:post_name>
@@ -2533,7 +2625,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-858117</title>
+		<title><![CDATA[pexels-photo-858117]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=173</link>
 		<pubDate>Sat, 29 Sep 2018 05:35:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2544,6 +2636,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:35:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:35:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-858117]]></wp:post_name>
@@ -2568,7 +2662,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1229181</title>
+		<title><![CDATA[pexels-photo-1229181]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=174</link>
 		<pubDate>Sat, 29 Sep 2018 05:43:52 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2579,6 +2673,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:43:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:43:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1229181]]></wp:post_name>
@@ -2603,7 +2699,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-718973</title>
+		<title><![CDATA[pexels-photo-718973]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=175</link>
 		<pubDate>Sat, 29 Sep 2018 05:43:55 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2614,6 +2710,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:43:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-718973-2]]></wp:post_name>
@@ -2638,7 +2736,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-859057</title>
+		<title><![CDATA[pexels-photo-859057]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=176</link>
 		<pubDate>Sat, 29 Sep 2018 05:43:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2649,6 +2747,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:43:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:43:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-859057]]></wp:post_name>
@@ -2673,7 +2773,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-921152</title>
+		<title><![CDATA[pexels-photo-921152]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=179</link>
 		<pubDate>Sat, 29 Sep 2018 05:44:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2684,6 +2784,8 @@
 		<wp:post_id>179</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 05:44:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 05:44:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-921152]]></wp:post_name>
@@ -2708,7 +2810,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-846741</title>
+		<title><![CDATA[pexels-photo-846741]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=180</link>
 		<pubDate>Sat, 29 Sep 2018 06:01:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2719,6 +2821,8 @@
 		<wp:post_id>180</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 06:01:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 06:01:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-846741]]></wp:post_name>
@@ -2743,7 +2847,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1222271</title>
+		<title><![CDATA[pexels-photo-1222271]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=181</link>
 		<pubDate>Sat, 29 Sep 2018 06:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2754,6 +2858,8 @@
 		<wp:post_id>181</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 06:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 06:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1222271]]></wp:post_name>
@@ -2778,7 +2884,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>oc-gonzalez-547887-unsplash</title>
+		<title><![CDATA[oc-gonzalez-547887-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=182</link>
 		<pubDate>Sat, 29 Sep 2018 06:56:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2789,6 +2895,8 @@
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 06:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 06:56:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[oc-gonzalez-547887-unsplash]]></wp:post_name>
@@ -2813,7 +2921,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ian-dooley-347962-unsplash</title>
+		<title><![CDATA[ian-dooley-347962-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=183</link>
 		<pubDate>Sat, 29 Sep 2018 06:57:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2824,6 +2932,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 06:57:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 06:57:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ian-dooley-347962-unsplash]]></wp:post_name>
@@ -2848,7 +2958,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>devin-edwards-776947-unsplash</title>
+		<title><![CDATA[devin-edwards-776947-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=184</link>
 		<pubDate>Sat, 29 Sep 2018 07:02:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2859,6 +2969,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:02:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:02:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[devin-edwards-776947-unsplash]]></wp:post_name>
@@ -2883,7 +2995,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jia-ye-776988-unsplash</title>
+		<title><![CDATA[jia-ye-776988-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=185</link>
 		<pubDate>Sat, 29 Sep 2018 07:10:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2894,6 +3006,8 @@
 		<wp:post_id>185</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:10:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:10:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jia-ye-776988-unsplash]]></wp:post_name>
@@ -2918,7 +3032,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>doodoosonic-97679-unsplash</title>
+		<title><![CDATA[doodoosonic-97679-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/doodoosonic-97679-unsplash/</link>
 		<pubDate>Sat, 29 Sep 2018 07:13:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2929,6 +3043,8 @@
 		<wp:post_id>187</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:13:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:13:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:13:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:13:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[doodoosonic-97679-unsplash]]></wp:post_name>
@@ -2953,7 +3069,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>averie-woodard-319832-unsplash</title>
+		<title><![CDATA[averie-woodard-319832-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=188</link>
 		<pubDate>Sat, 29 Sep 2018 07:20:18 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2964,6 +3080,8 @@
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:20:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:20:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[averie-woodard-319832-unsplash]]></wp:post_name>
@@ -2988,7 +3106,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ian-dooley-347970-unsplash</title>
+		<title><![CDATA[ian-dooley-347970-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?attachment_id=189</link>
 		<pubDate>Sat, 29 Sep 2018 07:20:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -2999,6 +3117,8 @@
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:20:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:20:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ian-dooley-347970-unsplash]]></wp:post_name>
@@ -3023,7 +3143,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>DELETE_Gucci-Logo-wordmark-1024x768</title>
+		<title><![CDATA[DELETE_Gucci-Logo-wordmark-1024x768]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/delete_gucci-logo-wordmark-1024x768/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:35 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3034,6 +3154,8 @@
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[delete_gucci-logo-wordmark-1024x768]]></wp:post_name>
@@ -3058,7 +3180,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600</title>
+		<title><![CDATA[athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3069,6 +3191,8 @@
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600]]></wp:post_name>
@@ -3093,7 +3217,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>kisspng-logo-calvin-klein-brand-trademark-tumblr-best-clothing-brands-for-men-the-top-25-list-li-5b8c3742a75546.8002877615359158426854</title>
+		<title><![CDATA[kisspng-logo-calvin-klein-brand-trademark-tumblr-best-clothing-brands-for-men-the-top-25-list-li-5b8c3742a75546.8002877615359158426854]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/kisspng-logo-calvin-klein-brand-trademark-tumblr-best-clothing-brands-for-men-the-top-25-list-li-5b8c3742a75546-8002877615359158426854/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3104,6 +3228,8 @@
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kisspng-logo-calvin-klein-brand-trademark-tumblr-best-clothing-brands-for-men-the-top-25-list-li-5b8c3742a75546-8002877615359158426854]]></wp:post_name>
@@ -3128,7 +3254,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Levis-Logo</title>
+		<title><![CDATA[Levis-Logo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/levis-logo/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3139,6 +3265,8 @@
 		<wp:post_id>193</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[levis-logo]]></wp:post_name>
@@ -3163,7 +3291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-brand-vans</title>
+		<title><![CDATA[logo-brand-vans]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/logo-brand-vans/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3174,6 +3302,8 @@
 		<wp:post_id>194</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-brand-vans]]></wp:post_name>
@@ -3198,7 +3328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tennis-clothing-accessories-brand-1</title>
+		<title><![CDATA[tennis-clothing-accessories-brand-1]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/tennis-clothing-accessories-brand-1/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3209,6 +3339,8 @@
 		<wp:post_id>195</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tennis-clothing-accessories-brand-1]]></wp:post_name>
@@ -3233,7 +3365,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Wrangler</title>
+		<title><![CDATA[Wrangler]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/wrangler/</link>
 		<pubDate>Sat, 29 Sep 2018 07:57:41 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3244,6 +3376,8 @@
 		<wp:post_id>196</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 07:57:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 07:57:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 07:57:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 07:57:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wrangler]]></wp:post_name>
@@ -3268,7 +3402,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600</title>
+		<title><![CDATA[athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3279,6 +3413,8 @@
 		<wp:post_id>197</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athletic-brands-png-sometimes-people-just-want-to-wear-the-athletic-apparel-of-their-favorite-player-that-s-why-rawson-s-has-a-huge-selection-of-jordan-apparel-600-2]]></wp:post_name>
@@ -3303,7 +3439,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>DELETE_Gucci-Logo-wordmark-1024x768</title>
+		<title><![CDATA[DELETE_Gucci-Logo-wordmark-1024x768]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/delete_gucci-logo-wordmark-1024x768-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:02 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3314,6 +3450,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[delete_gucci-logo-wordmark-1024x768-2]]></wp:post_name>
@@ -3338,7 +3476,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Levis-Logo</title>
+		<title><![CDATA[Levis-Logo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/levis-logo-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:03 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3349,6 +3487,8 @@
 		<wp:post_id>199</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[levis-logo-2]]></wp:post_name>
@@ -3373,7 +3513,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-brand-vans</title>
+		<title><![CDATA[logo-brand-vans]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/logo-brand-vans-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3384,6 +3524,8 @@
 		<wp:post_id>200</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-brand-vans-2]]></wp:post_name>
@@ -3408,7 +3550,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tennis-clothing-accessories-brand-1</title>
+		<title><![CDATA[tennis-clothing-accessories-brand-1]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/tennis-clothing-accessories-brand-1-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3419,6 +3561,8 @@
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tennis-clothing-accessories-brand-1-2]]></wp:post_name>
@@ -3443,7 +3587,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Wrangler</title>
+		<title><![CDATA[Wrangler]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/wrangler-2/</link>
 		<pubDate>Sat, 29 Sep 2018 08:11:09 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3454,6 +3598,8 @@
 		<wp:post_id>202</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:11:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:11:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:11:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:11:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wrangler-2]]></wp:post_name>
@@ -3478,7 +3624,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tennis-clothing-accessories-brand-1</title>
+		<title><![CDATA[tennis-clothing-accessories-brand-1]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/tennis-clothing-accessories-brand-1-3/</link>
 		<pubDate>Sat, 29 Sep 2018 08:14:08 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3489,6 +3635,8 @@
 		<wp:post_id>203</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:14:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:14:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:14:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:14:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tennis-clothing-accessories-brand-1-3]]></wp:post_name>
@@ -3513,7 +3661,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>CreditCardIcons</title>
+		<title><![CDATA[CreditCardIcons]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/creditcardicons/</link>
 		<pubDate>Sat, 29 Sep 2018 08:30:42 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3524,6 +3672,8 @@
 		<wp:post_id>205</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:30:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:30:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:30:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:30:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[creditcardicons]]></wp:post_name>
@@ -3548,7 +3698,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>af-themes main dark</title>
+		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/af-themes-main-dark/</link>
 		<pubDate>Sun, 30 Sep 2018 04:41:05 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3559,6 +3709,8 @@
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 04:41:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 04:41:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-30 04:41:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-30 04:41:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[af-themes-main-dark]]></wp:post_name>
@@ -3583,7 +3735,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>louis-moncouyoux-6009-unsplash</title>
+		<title><![CDATA[louis-moncouyoux-6009-unsplash]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/louis-moncouyoux-6009-unsplash/</link>
 		<pubDate>Sun, 07 Oct 2018 01:58:32 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3594,6 +3746,8 @@
 		<wp:post_id>257</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-07 01:58:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-07 01:58:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-07 01:58:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-07 01:58:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[louis-moncouyoux-6009-unsplash]]></wp:post_name>
@@ -3618,7 +3772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-louis-moncouyoux-6009-unsplash.jpg</title>
+		<title><![CDATA[cropped-louis-moncouyoux-6009-unsplash.jpg]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/cropped-louis-moncouyoux-6009-unsplash-jpg/</link>
 		<pubDate>Sun, 07 Oct 2018 01:58:57 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3629,6 +3783,8 @@
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-07 01:58:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-07 01:58:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-07 01:58:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-07 01:58:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-louis-moncouyoux-6009-unsplash-jpg]]></wp:post_name>
@@ -3661,7 +3817,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>white-2591243_1920</title>
+		<title><![CDATA[white-2591243_1920]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/main-slider/new-arrivals/white-2591243_1920/</link>
 		<pubDate>Mon, 15 Oct 2018 03:18:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3672,6 +3828,8 @@
 		<wp:post_id>283</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-15 03:18:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-15 03:18:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:51:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:51:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[white-2591243_1920]]></wp:post_name>
@@ -3696,7 +3854,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>exculsive-offers-final-final</title>
+		<title><![CDATA[exculsive-offers-final-final]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/exculsive-offers-final-final/</link>
 		<pubDate>Mon, 15 Oct 2018 03:47:14 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3707,6 +3865,8 @@
 		<wp:post_id>289</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-15 03:47:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-15 03:47:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-15 03:47:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-15 03:47:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[exculsive-offers-final-final]]></wp:post_name>
@@ -3731,7 +3891,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/home/</link>
 		<pubDate>Sat, 29 Sep 2018 03:53:17 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3742,6 +3902,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:53:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:53:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -3786,7 +3948,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/facebook/</link>
 		<pubDate>Sat, 29 Sep 2018 04:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3797,6 +3959,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -3841,7 +4005,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/twitter/</link>
 		<pubDate>Sat, 29 Sep 2018 04:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3852,6 +4016,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -3896,7 +4062,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube</title>
+		<title><![CDATA[Youtube]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/youtube/</link>
 		<pubDate>Sat, 29 Sep 2018 04:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3907,6 +4073,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -3951,7 +4119,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Instagram</title>
+		<title><![CDATA[Instagram]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/instagram/</link>
 		<pubDate>Sat, 29 Sep 2018 04:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -3962,6 +4130,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -4006,7 +4176,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VK</title>
+		<title><![CDATA[VK]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/vk/</link>
 		<pubDate>Sat, 29 Sep 2018 04:06:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4017,6 +4187,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:06:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:06:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vk]]></wp:post_name>
@@ -4061,7 +4233,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/126/</link>
 		<pubDate>Sat, 29 Sep 2018 04:12:43 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4072,6 +4244,8 @@
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:12:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:12:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[126]]></wp:post_name>
@@ -4116,7 +4290,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/129/</link>
 		<pubDate>Sat, 29 Sep 2018 04:13:07 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4127,6 +4301,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:13:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:13:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[129]]></wp:post_name>
@@ -4171,7 +4347,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/mc4wp-form/204/</link>
 		<pubDate>Sat, 29 Sep 2018 08:17:44 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4189,6 +4365,8 @@
 		<wp:post_id>204</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:17:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:17:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:17:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:17:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[204]]></wp:post_name>
@@ -4240,7 +4418,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/216/</link>
 		<pubDate>Sun, 30 Sep 2018 00:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4251,6 +4429,8 @@
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:38:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:38:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[216]]></wp:post_name>
@@ -4295,7 +4475,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/217/</link>
 		<pubDate>Sun, 30 Sep 2018 00:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4306,6 +4486,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:38:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:38:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[217]]></wp:post_name>
@@ -4350,7 +4532,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/218/</link>
 		<pubDate>Sun, 30 Sep 2018 00:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4361,6 +4543,8 @@
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:38:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:38:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[218]]></wp:post_name>
@@ -4405,7 +4589,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/219/</link>
 		<pubDate>Sun, 30 Sep 2018 00:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4416,6 +4600,8 @@
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:38:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:38:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[219]]></wp:post_name>
@@ -4460,7 +4646,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/224/</link>
 		<pubDate>Sun, 30 Sep 2018 00:44:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4471,6 +4657,8 @@
 		<wp:post_id>224</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:44:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:44:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[224]]></wp:post_name>
@@ -4515,7 +4703,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sale-offer-ghee-</title>
+		<title><![CDATA[sale-offer-ghee-]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/sale-offer-ghee/</link>
 		<pubDate>Sat, 20 Oct 2018 04:51:59 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4526,6 +4714,8 @@
 		<wp:post_id>307</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-20 04:51:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-20 04:51:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-20 04:51:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-20 04:51:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sale-offer-ghee]]></wp:post_name>
@@ -4550,7 +4740,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>map</title>
+		<title><![CDATA[map]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/map/</link>
 		<pubDate>Sun, 06 Jan 2019 14:30:13 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4561,6 +4751,8 @@
 		<wp:post_id>340</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-06 14:30:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-06 14:30:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 14:30:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 14:30:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[map]]></wp:post_name>
@@ -4581,7 +4773,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>usa_flag_png_1447762</title>
+		<title><![CDATA[usa_flag_png_1447762]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/usa_flag_png_1447762/</link>
 		<pubDate>Tue, 26 Mar 2019 04:31:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4592,6 +4784,8 @@
 		<wp:post_id>406</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 04:31:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 04:31:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 04:31:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 04:31:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[usa_flag_png_1447762]]></wp:post_name>
@@ -4612,7 +4806,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>usa_flag_png_1447762</title>
+		<title><![CDATA[usa_flag_png_1447762]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/usa_flag_png_1447762-2/</link>
 		<pubDate>Tue, 26 Mar 2019 04:32:06 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4623,6 +4817,8 @@
 		<wp:post_id>407</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 04:32:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 04:32:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 04:32:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 04:32:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[usa_flag_png_1447762-2]]></wp:post_name>
@@ -4643,7 +4839,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>download</title>
+		<title><![CDATA[download]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/download/</link>
 		<pubDate>Tue, 26 Mar 2019 04:32:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4654,6 +4850,8 @@
 		<wp:post_id>408</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 04:32:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 04:32:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 04:32:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 04:32:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[download]]></wp:post_name>
@@ -4674,7 +4872,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woocommerce-placeholder</title>
+		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/woocommerce-placeholder/</link>
 		<pubDate>Mon, 01 Feb 2021 21:01:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4685,6 +4883,8 @@
 		<wp:post_id>434</wp:post_id>
 		<wp:post_date><![CDATA[2021-02-01 21:01:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-01 21:01:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-01 21:01:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-01 21:01:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
@@ -4705,7 +4905,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?page_id=3</link>
 		<pubDate>Sun, 06 Jan 2019 13:09:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4716,6 +4916,8 @@
 		<wp:post_id>3</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-06 13:09:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-06 13:09:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:09:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:09:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -4731,7 +4933,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/</link>
 		<pubDate>Thu, 27 Sep 2018 05:27:57 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4742,6 +4944,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:27:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:27:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 05:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 05:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4757,7 +4961,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Main Slider</title>
+		<title><![CDATA[Main Slider]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/main-slider/</link>
 		<pubDate>Sat, 29 Sep 2018 03:28:39 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4768,6 +4972,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:28:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:28:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 03:28:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 03:28:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[main-slider]]></wp:post_name>
@@ -4783,7 +4989,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>New Arrivals</title>
+		<title><![CDATA[New Arrivals]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/main-slider/new-arrivals/</link>
 		<pubDate>Sat, 29 Sep 2018 03:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4795,6 +5001,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 03:36:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 03:36:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 11:24:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 11:24:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-arrivals]]></wp:post_name>
@@ -4818,7 +5026,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/239/</link>
 		<pubDate>Sun, 30 Sep 2018 01:05:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4829,6 +5037,8 @@
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:05:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:05:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[239]]></wp:post_name>
@@ -4873,7 +5083,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/240/</link>
 		<pubDate>Sun, 30 Sep 2018 01:05:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4884,6 +5094,8 @@
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:05:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:05:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[240]]></wp:post_name>
@@ -4928,7 +5140,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/241/</link>
 		<pubDate>Sun, 30 Sep 2018 01:05:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4939,6 +5151,8 @@
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:05:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:05:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[241]]></wp:post_name>
@@ -4983,7 +5197,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/30/242/</link>
 		<pubDate>Sun, 30 Sep 2018 01:05:20 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -4994,6 +5208,8 @@
 		<wp:post_id>242</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:05:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:05:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[242]]></wp:post_name>
@@ -5038,7 +5254,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/20/home-2/</link>
 		<pubDate>Sat, 20 Oct 2018 02:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5049,6 +5265,8 @@
 		<wp:post_id>304</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-20 02:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-20 02:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -5093,7 +5311,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/20/305/</link>
 		<pubDate>Sat, 20 Oct 2018 02:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5104,6 +5322,8 @@
 		<wp:post_id>305</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-20 02:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-20 02:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[305]]></wp:post_name>
@@ -5148,7 +5368,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/20/306/</link>
 		<pubDate>Sat, 20 Oct 2018 02:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5159,6 +5379,8 @@
 		<wp:post_id>306</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-20 02:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-10-20 02:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-10-20 02:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[306]]></wp:post_name>
@@ -5203,7 +5425,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/sample-page-2/</link>
 		<pubDate>Thu, 27 Sep 2018 04:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5222,6 +5444,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>308</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 04:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 04:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 04:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 04:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
@@ -5237,7 +5461,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
+		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?page_id=309</link>
 		<pubDate>Thu, 27 Sep 2018 04:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5248,6 +5472,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>309</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 04:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 04:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 04:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 04:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -5263,7 +5489,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Demos</title>
+		<title><![CDATA[Demos]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/demos/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5274,6 +5500,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>317</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demos]]></wp:post_name>
@@ -5318,7 +5546,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Pro</title>
+		<title><![CDATA[Default Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/default-pro/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5329,6 +5557,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>318</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-pro]]></wp:post_name>
@@ -5373,7 +5603,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gadgets Pro</title>
+		<title><![CDATA[Gadgets Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/gadgets-pro/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5384,6 +5614,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>319</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets-pro]]></wp:post_name>
@@ -5428,7 +5660,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Automobile Pro</title>
+		<title><![CDATA[Automobile Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/automobile-pro/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5439,6 +5671,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>320</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[automobile-pro]]></wp:post_name>
@@ -5483,7 +5717,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Interior Pro</title>
+		<title><![CDATA[Interior Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/interior-pro/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5494,6 +5728,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>321</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[interior-pro]]></wp:post_name>
@@ -5538,7 +5774,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Restaurant Pro</title>
+		<title><![CDATA[Restaurant Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/10/24/just-food-pro/</link>
 		<pubDate>Wed, 24 Oct 2018 02:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5549,6 +5785,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>322</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-24 02:51:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-24 02:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[just-food-pro]]></wp:post_name>
@@ -5593,7 +5831,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Minimal Pro</title>
+		<title><![CDATA[Minimal Pro]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2019/03/27/minimal-pro/</link>
 		<pubDate>Wed, 27 Mar 2019 14:06:50 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5604,6 +5842,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_id>422</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 14:06:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 14:06:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 14:06:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimal-pro]]></wp:post_name>
@@ -5648,7 +5888,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/sample-page/</link>
 		<pubDate>Sun, 06 Jan 2019 13:09:37 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5667,6 +5907,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-06 13:09:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-06 13:09:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:09:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:09:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -5682,7 +5924,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>V-Neck T-Shirt</title>
+		<title><![CDATA[V-Neck T-Shirt]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/v-neck-t-shirt/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5693,6 +5935,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[v-neck-t-shirt]]></wp:post_name>
@@ -5909,7 +6153,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie</title>
+		<title><![CDATA[Hoodie]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -5920,6 +6164,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie]]></wp:post_name>
@@ -6093,7 +6339,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie with Logo</title>
+		<title><![CDATA[Hoodie with Logo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie-with-logo/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6104,6 +6350,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-logo]]></wp:post_name>
@@ -6271,7 +6519,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>T-Shirt</title>
+		<title><![CDATA[T-Shirt]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/t-shirt/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6282,6 +6530,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:14:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:14:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[t-shirt]]></wp:post_name>
@@ -6450,7 +6700,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beanie</title>
+		<title><![CDATA[Beanie]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/beanie/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6461,6 +6711,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:12:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:12:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beanie]]></wp:post_name>
@@ -6628,7 +6880,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shop</title>
+		<title><![CDATA[Shop]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/shop/</link>
 		<pubDate>Sat, 29 Sep 2018 04:09:25 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6639,6 +6891,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:09:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:09:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:09:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:09:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop]]></wp:post_name>
@@ -6654,7 +6908,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cart</title>
+		<title><![CDATA[Cart]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/cart/</link>
 		<pubDate>Sat, 29 Sep 2018 04:09:35 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6665,6 +6919,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:09:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:09:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:09:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:09:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cart]]></wp:post_name>
@@ -6680,7 +6936,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Checkout</title>
+		<title><![CDATA[Checkout]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/checkout/</link>
 		<pubDate>Sat, 29 Sep 2018 04:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6691,6 +6947,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:09:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:09:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:09:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[checkout]]></wp:post_name>
@@ -6706,7 +6964,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>My Account</title>
+		<title><![CDATA[My Account]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/my-account/</link>
 		<pubDate>Sat, 29 Sep 2018 04:10:53 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6717,6 +6975,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:10:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:10:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:10:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:10:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[my-account]]></wp:post_name>
@@ -6732,7 +6992,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sho
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Terms and Conditions</title>
+		<title><![CDATA[Terms and Conditions]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/terms-and-conditions/</link>
 		<pubDate>Sat, 29 Sep 2018 04:11:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6747,6 +7007,8 @@ Tortor porta quisquam nullam dictum nam nostra curae officia, a officia in! Cura
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:11:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[terms-and-conditions]]></wp:post_name>
@@ -6762,7 +7024,7 @@ Tortor porta quisquam nullam dictum nam nostra curae officia, a officia in! Cura
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/</link>
 		<pubDate>Sat, 29 Sep 2018 04:12:53 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6773,6 +7035,8 @@ Tortor porta quisquam nullam dictum nam nostra curae officia, a officia in! Cura
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:12:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:12:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 04:12:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 04:12:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -6788,7 +7052,7 @@ Tortor porta quisquam nullam dictum nam nostra curae officia, a officia in! Cura
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Power Suit</title>
+		<title><![CDATA[The Power Suit]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/main-slider/the-power-suit/</link>
 		<pubDate>Sat, 29 Sep 2018 04:14:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6801,6 +7065,8 @@ praesentium quae facere semper mauris massa laoreet potenti perferendis. Gravida
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:14:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:14:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 11:26:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 11:26:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-power-suit]]></wp:post_name>
@@ -6824,7 +7090,7 @@ praesentium quae facere semper mauris massa laoreet potenti perferendis. Gravida
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Looks we Love</title>
+		<title><![CDATA[Looks we Love]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/main-slider/looks-we-love/</link>
 		<pubDate>Sat, 29 Sep 2018 04:18:46 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6835,6 +7101,8 @@ praesentium quae facere semper mauris massa laoreet potenti perferendis. Gravida
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 04:18:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 04:18:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 11:26:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 11:26:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[looks-we-love]]></wp:post_name>
@@ -6858,7 +7126,7 @@ praesentium quae facere semper mauris massa laoreet potenti perferendis. Gravida
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Top 4 Sustainable Lifestyle &amp; Fashion Tech Podcasts To Know</title>
+		<title><![CDATA[Top 4 Sustainable Lifestyle & Fashion Tech Podcasts To Know]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/top-4-sustainable-lifestyle-fashion-tech-podcasts-to-know/</link>
 		<pubDate>Sat, 29 Sep 2018 08:39:40 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6873,6 +7141,8 @@ Incididunt tincidunt integer perspiciatis! Rutrum congue, culpa elit, ab pariatu
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:39:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:39:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:39:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:39:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-4-sustainable-lifestyle-fashion-tech-podcasts-to-know]]></wp:post_name>
@@ -6893,7 +7163,7 @@ Incididunt tincidunt integer perspiciatis! Rutrum congue, culpa elit, ab pariatu
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shea Brand, an Ethical Beauty Brand Changing the Shea Butter Game</title>
+		<title><![CDATA[Shea Brand, an Ethical Beauty Brand Changing the Shea Butter Game]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/shea-brand-an-ethical-beauty-brand-changing-the-shea-butter-game/</link>
 		<pubDate>Sat, 29 Sep 2018 08:40:39 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6908,6 +7178,8 @@ Iusto malesuada scelerisque, voluptatum tempor elementum, eos tenetur hymenaeos,
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:40:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:40:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:40:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:40:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[shea-brand-an-ethical-beauty-brand-changing-the-shea-butter-game]]></wp:post_name>
@@ -6926,7 +7198,7 @@ Iusto malesuada scelerisque, voluptatum tempor elementum, eos tenetur hymenaeos,
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sza’s Sustainable Plastic-Free Fashion Collaboration with Champion</title>
+		<title><![CDATA[Sza’s Sustainable Plastic-Free Fashion Collaboration with Champion]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2018/09/29/szas-sustainable-plastic-free-fashion-collaboration-with-champion/</link>
 		<pubDate>Sat, 29 Sep 2018 08:41:38 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6941,6 +7213,8 @@ Assumenda magnis pariatur excepteur itaque aliquam expedita perferendis felis. P
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-29 08:41:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-29 08:41:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-29 08:41:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-29 08:41:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[szas-sustainable-plastic-free-fashion-collaboration-with-champion]]></wp:post_name>
@@ -6961,7 +7235,7 @@ Assumenda magnis pariatur excepteur itaque aliquam expedita perferendis felis. P
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Us</title>
+		<title><![CDATA[Contact Us]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/contact-us/</link>
 		<pubDate>Sun, 30 Sep 2018 00:39:52 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -6974,6 +7248,8 @@ Assumenda magnis pariatur excepteur itaque aliquam expedita perferendis felis. P
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 00:39:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 00:39:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-30 00:39:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-30 00:39:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -6989,7 +7265,7 @@ Assumenda magnis pariatur excepteur itaque aliquam expedita perferendis felis. P
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Varius class nisi porro justo commodo praesent phasellus? Similique placerat</title>
+		<title><![CDATA[Varius class nisi porro justo commodo praesent phasellus? Similique placerat]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/2019/01/14/varius-class-nisi-porro-justo-commodo-praesent-phasellus-similique-placerat/</link>
 		<pubDate>Mon, 14 Jan 2019 14:13:00 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7004,6 +7280,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>367</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-14 14:13:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-14 14:13:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-14 14:14:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-14 14:14:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[varius-class-nisi-porro-justo-commodo-praesent-phasellus-similique-placerat]]></wp:post_name>
@@ -7031,7 +7309,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Wishlist</title>
+		<title><![CDATA[Wishlist]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/wishlist/</link>
 		<pubDate>Tue, 26 Mar 2019 04:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7042,6 +7320,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>409</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 04:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 04:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 04:35:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 04:35:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wishlist]]></wp:post_name>
@@ -7061,7 +7341,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Belt</title>
+		<title><![CDATA[Belt]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/belt/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7072,6 +7352,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:12:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:12:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[belt]]></wp:post_name>
@@ -7239,7 +7521,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cap</title>
+		<title><![CDATA[Cap]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/cap/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7250,6 +7532,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:12:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:12:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cap]]></wp:post_name>
@@ -7419,7 +7703,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sunglasses</title>
+		<title><![CDATA[Sunglasses]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/sunglasses/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7430,6 +7714,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:12:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:12:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sunglasses]]></wp:post_name>
@@ -7597,7 +7883,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie with Pocket</title>
+		<title><![CDATA[Hoodie with Pocket]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie-with-pocket/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7608,6 +7894,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:20:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:20:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-pocket]]></wp:post_name>
@@ -7722,10 +8010,6 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -7815,7 +8099,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie with Zipper</title>
+		<title><![CDATA[Hoodie with Zipper]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie-with-zipper/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -7826,6 +8110,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:10:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:10:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-with-zipper]]></wp:post_name>
@@ -7941,10 +8227,6 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -8034,7 +8316,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Long Sleeve Tee</title>
+		<title><![CDATA[Long Sleeve Tee]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/long-sleeve-tee/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8045,6 +8327,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:10:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:10:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[long-sleeve-tee]]></wp:post_name>
@@ -8214,7 +8498,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Polo</title>
+		<title><![CDATA[Polo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/polo/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8225,6 +8509,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:10:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:10:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[polo]]></wp:post_name>
@@ -8394,7 +8680,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Album</title>
+		<title><![CDATA[Album]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/album/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8405,6 +8691,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:20:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:20:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[album]]></wp:post_name>
@@ -8573,7 +8861,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Single</title>
+		<title><![CDATA[Single]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/single/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8584,6 +8872,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:09:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:09:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single]]></wp:post_name>
@@ -8753,7 +9043,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>V-Neck T-Shirt - Red</title>
+		<title><![CDATA[V-Neck T-Shirt<span> - </span>Red]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/v-neck-t-shirt/?attribute_pa_color=red</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8764,6 +9054,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:14:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:14:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[v-neck-t-shirt-red]]></wp:post_name>
@@ -8935,7 +9227,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>V-Neck T-Shirt - Green</title>
+		<title><![CDATA[V-Neck T-Shirt<span> - </span>Green]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/v-neck-t-shirt/?attribute_pa_color=green</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -8946,6 +9238,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[v-neck-t-shirt-green]]></wp:post_name>
@@ -9117,7 +9411,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>V-Neck T-Shirt - Blue</title>
+		<title><![CDATA[V-Neck T-Shirt<span> - </span>Blue]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/v-neck-t-shirt/?attribute_pa_color=blue</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -9128,6 +9422,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:14:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:14:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[v-neck-t-shirt-blue]]></wp:post_name>
@@ -9299,7 +9595,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie - Red, No</title>
+		<title><![CDATA[Hoodie<span> - </span>Red, No]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie/?attribute_pa_color=red&#038;attribute_logo=No</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -9310,6 +9606,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-red-no]]></wp:post_name>
@@ -9481,7 +9779,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie - Green, No</title>
+		<title><![CDATA[Hoodie<span> - </span>Green, No]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie/?attribute_pa_color=green&#038;attribute_logo=No</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -9492,6 +9790,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-green-no]]></wp:post_name>
@@ -9663,7 +9963,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie - Blue, No</title>
+		<title><![CDATA[Hoodie<span> - </span>Blue, No]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=No</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -9674,6 +9974,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-blue-no]]></wp:post_name>
@@ -9845,7 +10147,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>T-Shirt with Logo</title>
+		<title><![CDATA[T-Shirt with Logo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/t-shirt-with-logo/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -9856,6 +10158,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:20:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:20:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[t-shirt-with-logo]]></wp:post_name>
@@ -9972,10 +10276,6 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -10065,7 +10365,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Beanie with Logo</title>
+		<title><![CDATA[Beanie with Logo]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/beanie-with-logo/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10076,6 +10376,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:09:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:09:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beanie-with-logo]]></wp:post_name>
@@ -10189,10 +10491,6 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -10282,7 +10580,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Logo Collection</title>
+		<title><![CDATA[Logo Collection]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/logo-collection/</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10293,6 +10591,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:20:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:20:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-collection]]></wp:post_name>
@@ -10473,7 +10773,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hoodie - Blue, Yes</title>
+		<title><![CDATA[Hoodie<span> - </span>Blue, Yes]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/product/hoodie/?attribute_pa_color=blue&#038;attribute_logo=Yes</link>
 		<pubDate>Thu, 27 Sep 2018 05:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10484,6 +10784,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:19:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:19:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 17:19:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 17:19:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hoodie-blue-yes]]></wp:post_name>
@@ -10655,7 +10957,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; November 16, 2018 @ 05:22 AM</title>
+		<title><![CDATA[Order &ndash; November 16, 2018 @ 05:22 AM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=324</link>
 		<pubDate>Fri, 16 Nov 2018 05:22:00 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10666,6 +10968,8 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		<wp:post_id>324</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-16 05:22:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-16 05:22:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-16 05:22:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-16 05:22:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-nov-16-2018-0522-am]]></wp:post_name>
@@ -10853,7 +11157,7 @@ Luctus facilis taciti tempore per in ut natoque eaque quos curabitur, arcu! Fauc
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form 1</title>
+		<title><![CDATA[Contact form 1]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Sun, 06 Jan 2019 13:46:13 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10912,6 +11216,8 @@ The field is too short.]]></content:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-06 13:46:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-06 13:46:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-06 13:46:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-06 13:46:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -10970,7 +11276,7 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Aaron Thetires</title>
+		<title><![CDATA[Aaron Thetires]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/testimonial/aaron-thetires/</link>
 		<pubDate>Sun, 30 Sep 2018 01:10:24 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -10981,6 +11287,8 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:10:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:10:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-30 01:10:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-30 01:10:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aaron-thetires]]></wp:post_name>
@@ -11016,7 +11324,7 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ben O&#039;Drill</title>
+		<title><![CDATA[Ben O'Drill]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/testimonial/ben-odrill/</link>
 		<pubDate>Sun, 30 Sep 2018 01:11:47 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11027,6 +11335,8 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		<wp:post_id>245</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:11:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:11:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-30 01:11:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-30 01:11:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ben-odrill]]></wp:post_name>
@@ -11058,7 +11368,7 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Claire Voyent</title>
+		<title><![CDATA[Claire Voyent]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/testimonial/claire-voyent/</link>
 		<pubDate>Sun, 30 Sep 2018 01:13:14 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11069,6 +11379,8 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-30 01:13:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-30 01:13:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-30 01:13:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-30 01:13:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[claire-voyent]]></wp:post_name>
@@ -11100,7 +11412,7 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; December 26, 2018 @ 06:04 AM</title>
+		<title><![CDATA[Order &ndash; December 26, 2018 @ 06:04 AM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=329</link>
 		<pubDate>Wed, 26 Dec 2018 06:04:26 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11111,6 +11423,8 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		<wp:post_id>329</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-26 06:04:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-26 06:04:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-12-26 06:04:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-12-26 06:04:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-dec-26-2018-0604-am]]></wp:post_name>
@@ -11298,7 +11612,7 @@ This e-mail was sent from a contact form on Shopical Pro (https://demo.afthemes.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form 1</title>
+		<title><![CDATA[Contact form 1]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=wpcf7_contact_form&#038;p=330</link>
 		<pubDate>Thu, 27 Sep 2018 05:12:35 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11357,6 +11671,8 @@ The field is too short.]]></content:encoded>
 		<wp:post_id>330</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-27 05:12:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-27 05:12:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-27 05:12:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-27 05:12:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1-2]]></wp:post_name>
@@ -11415,7 +11731,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Magna eos sodales? Distinctio magnam impedit ligula quis, odit lobortis, magni porro tristique sequi tempor laboriosam</title>
+		<title><![CDATA[Magna eos sodales? Distinctio magnam impedit ligula quis, odit lobortis, magni porro tristique sequi tempor laboriosam]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/shopical_faq/magna-eos-sodales-distinctio-magnam-impedit-ligula-quis-odit-lobortis-magni-porro-tristique-sequi-tempor-laboriosam/</link>
 		<pubDate>Wed, 30 Jan 2019 05:02:04 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11426,6 +11742,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>388</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-30 05:02:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-30 05:02:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-30 05:02:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-30 05:02:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[magna-eos-sodales-distinctio-magnam-impedit-ligula-quis-odit-lobortis-magni-porro-tristique-sequi-tempor-laboriosam]]></wp:post_name>
@@ -11442,7 +11760,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Mollitia potenti maecenas nullam sem dolore molestias porta, duis sociosqu debitis fames! Lorem eros corporis assumenda</title>
+		<title><![CDATA[Mollitia potenti maecenas nullam sem dolore molestias porta, duis sociosqu debitis fames! Lorem eros corporis assumenda]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/shopical_faq/mollitia-potenti-maecenas-nullam-sem-dolore-molestias-porta-duis-sociosqu-debitis-fames-lorem-eros-corporis-assumenda/</link>
 		<pubDate>Wed, 30 Jan 2019 05:02:56 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11453,6 +11771,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>389</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-30 05:02:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-30 05:02:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-30 05:02:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-30 05:02:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mollitia-potenti-maecenas-nullam-sem-dolore-molestias-porta-duis-sociosqu-debitis-fames-lorem-eros-corporis-assumenda]]></wp:post_name>
@@ -11469,7 +11789,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Explicabo deserunt nihil doloribus duis aliquid, curabitur provident ullamcorper volutpat possimus hac? Repellat etiam</title>
+		<title><![CDATA[Explicabo deserunt nihil doloribus duis aliquid, curabitur provident ullamcorper volutpat possimus hac? Repellat etiam]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/shopical_faq/explicabo-deserunt-nihil-doloribus-duis-aliquid-curabitur-provident-ullamcorper-volutpat-possimus-hac-repellat-etiam/</link>
 		<pubDate>Wed, 30 Jan 2019 05:04:06 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11480,6 +11800,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>390</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-30 05:04:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-30 05:04:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-30 05:04:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-30 05:04:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[explicabo-deserunt-nihil-doloribus-duis-aliquid-curabitur-provident-ullamcorper-volutpat-possimus-hac-repellat-etiam]]></wp:post_name>
@@ -11497,7 +11819,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Congue semper. Suspendisse vehicula pariatur, facilisi adipisicing condimentum perspiciatis, urna excepteur accumsan!</title>
+		<title><![CDATA[Congue semper. Suspendisse vehicula pariatur, facilisi adipisicing condimentum perspiciatis, urna excepteur accumsan!]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/shopical_faq/congue-semper-suspendisse-vehicula-pariatur-facilisi-adipisicing-condimentum-perspiciatis-urna-excepteur-accumsan-sapiente-cubilia/</link>
 		<pubDate>Wed, 30 Jan 2019 05:04:55 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11508,6 +11830,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>391</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-30 05:04:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-30 05:04:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-30 05:10:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-30 05:10:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[congue-semper-suspendisse-vehicula-pariatur-facilisi-adipisicing-condimentum-perspiciatis-urna-excepteur-accumsan-sapiente-cubilia]]></wp:post_name>
@@ -11525,7 +11849,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Aliquip. Repellendus cillum diamlorem minim modi ratione magna faucibus morbi blandit porttitor?</title>
+		<title><![CDATA[Aliquip. Repellendus cillum diamlorem minim modi ratione magna faucibus morbi blandit porttitor?]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/blog/shopical_faq/aliquip-repellendus-cillum-diamlorem-minim-modi-ratione-magna-faucibus-morbi-blandit-porttitor/</link>
 		<pubDate>Wed, 30 Jan 2019 05:05:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11536,6 +11860,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>392</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-30 05:05:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-30 05:05:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-01-30 05:05:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-01-30 05:05:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[aliquip-repellendus-cillum-diamlorem-minim-modi-ratione-magna-faucibus-morbi-blandit-porttitor]]></wp:post_name>
@@ -11552,7 +11878,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; April 3, 2019 @ 12:11 PM</title>
+		<title><![CDATA[Order &ndash; April 3, 2019 @ 12:11 PM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=423</link>
 		<pubDate>Wed, 03 Apr 2019 12:11:59 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11563,6 +11889,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>423</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-03 12:11:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-03 12:11:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-03 14:02:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-03 14:02:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-apr-03-2019-1211-pm]]></wp:post_name>
@@ -11750,7 +12078,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; April 3, 2019 @ 03:16 PM</title>
+		<title><![CDATA[Order &ndash; April 3, 2019 @ 03:16 PM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=424</link>
 		<pubDate>Wed, 03 Apr 2019 15:16:36 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11761,6 +12089,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>424</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-03 15:16:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-03 15:16:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-03 17:15:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-03 17:15:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-apr-03-2019-0316-pm]]></wp:post_name>
@@ -11948,7 +12278,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; April 12, 2020 @ 11:06 PM</title>
+		<title><![CDATA[Order &ndash; April 12, 2020 @ 11:06 PM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=430</link>
 		<pubDate>Sun, 12 Apr 2020 23:06:27 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -11959,6 +12289,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>430</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-12 23:06:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-04-12 23:06:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-13 00:20:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-13 00:20:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-apr-12-2020-1106-pm]]></wp:post_name>
@@ -12146,7 +12478,7 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Order &#8211; December 25, 2020 @ 04:46 PM</title>
+		<title><![CDATA[Order &ndash; December 25, 2020 @ 04:46 PM]]></title>
 		<link>https://demo.afthemes.com/shopical-pro/?post_type=shop_order&#038;p=433</link>
 		<pubDate>Fri, 25 Dec 2020 16:46:16 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
@@ -12157,6 +12489,8 @@ This e-mail was sent from a contact form on StoreCommerce Pro (https://demo.afth
 		<wp:post_id>433</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-25 16:46:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-25 16:46:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-25 18:19:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-25 18:19:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[order-dec-25-2020-0446-pm]]></wp:post_name>
