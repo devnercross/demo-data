@@ -800,6 +800,19 @@
         }
       }
     },
+    "entermag": {
+      "data": "entermag",
+      "free": "enternews",
+      "premium": "enternews-pro",
+      "demodata": {
+        "default": {
+          "name": "EnterMag",
+          "catgory": "General",
+          "slug": "entermag",
+          "preview": "https://demo.afthemes.com/enternews/entermag/"
+        }
+      }
+    },
     "enternews-pro": {
       "data": "enternews-pro",
       "free": "enternews",
