@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-05-26 06:55" -->
+	<!-- generator="WordPress/5.8.1" created="2021-10-18 04:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fashion</title>
 	<link>https://demo.afthemes.com/enternews/fashion</link>
 	<description>Just another EnterNews Sites site</description>
-	<pubDate>Wed, 26 May 2021 06:55:23 +0000</pubDate>
+	<pubDate>Mon, 18 Oct 2021 04:55:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/enternews/</wp:base_site_url>
@@ -268,7 +268,7 @@
 	<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menus]]></wp:term_slug><wp:term_name><![CDATA[Top Menus]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://demo.afthemes.com/enternews/fashion/wp-content/uploads/sites/3/2019/04/cropped-af-themes-main-dark-2-150x150.png</url>
