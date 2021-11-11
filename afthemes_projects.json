@@ -797,6 +797,13 @@
           "catgory": "Blog",
           "slug": "recipe",
           "preview": "https://demo.afthemes.com/enternews/recipe/"
+        },
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demo.afthemes.com/enternews/covid-19/",
+          "plugins": "elementor,elespare"
         }
       }
     },
