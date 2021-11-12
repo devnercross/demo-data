@@ -804,6 +804,27 @@
           "slug": "covid-19",
           "preview": "https://demo.afthemes.com/enternews/covid-19/",
           "plugins": "elementor,elespare"
+        },
+        "crypto-news": {
+          "name": "Crypto News",
+          "catgory": "Elementor",
+          "slug": "crypto-news",
+          "preview": "https://demo.afthemes.com/enternews/crypto-news/",
+          "plugins": "elementor,elespare"
+        },
+        "beauty": {
+          "name": "Beauty",
+          "catgory": "Elementor",
+          "slug": "beauty",
+          "preview": "https://demo.afthemes.com/enternews/beauty/",
+          "plugins": "elementor,elespare"
+        },
+        "lifestyle": {
+          "name": "Lifestyle",
+          "catgory": "Elementor",
+          "slug": "lifestyle",
+          "preview": "https://demo.afthemes.com/enternews/lifestyle/",
+          "plugins": "elementor,elespare"
         }
       }
     },
