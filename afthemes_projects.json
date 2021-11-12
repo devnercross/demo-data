@@ -774,24 +774,18 @@
           "slug": "dark",
           "preview": "https://demo.afthemes.com/enternews/dark/"
         },
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demo.afthemes.com/enternews/covid-19/",
+          "plugins": "elementor,elespare"
+        },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
           "preview": "https://demo.afthemes.com/enternews/sport/"
-        },
-        "fashion": {
-          "name": "Fashion",
-          "catgory": "Fashion",
-          "slug": "fashion",
-          "preview": "https://demo.afthemes.com/enternews/fashion/"
-        },
-        "crypto-news": {
-          "name": "Crypto News",
-          "catgory": "Elementor",
-          "slug": "crypto-news",
-          "preview": "https://demo.afthemes.com/enternews/crypto-news/",
-          "plugins": "elementor,elespare"
         },
         "beauty": {
           "name": "Beauty",
@@ -806,18 +800,24 @@
           "slug": "classic",
           "preview": "https://demo.afthemes.com/enternews/classic/"
         },
+        "crypto-news": {
+          "name": "Crypto News",
+          "catgory": "Elementor",
+          "slug": "crypto-news",
+          "preview": "https://demo.afthemes.com/enternews/crypto-news/",
+          "plugins": "elementor,elespare"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/enternews/fashion/"
+        },
         "recipe": {
           "name": "Recipe",
           "catgory": "Blog",
           "slug": "recipe",
           "preview": "https://demo.afthemes.com/enternews/recipe/"
-        },
-        "covid-19": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid-19",
-          "preview": "https://demo.afthemes.com/enternews/covid-19/",
-          "plugins": "elementor,elespare"
         },
         "lifestyle": {
           "name": "Lifestyle",
