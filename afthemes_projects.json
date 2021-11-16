@@ -121,17 +121,38 @@
           "slug": "fashion",
           "preview": "https://demo.afthemes.com/covernews/fashion/"
         },
+        "general": {
+          "name": "General",
+          "catgory": "Elementor",
+          "slug": "general",
+          "preview": "https://demo.afthemes.com/covernews/general/",
+          "plugins": "elementor,elespare"
+        },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
           "preview": "https://demo.afthemes.com/covernews/sport/"
         },
+        "covid": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid",
+          "preview": "https://demo.afthemes.com/covernews/covid/",
+          "plugins": "elementor,elespare"
+        },
         "business": {
           "name": "Business",
           "catgory": "Business",
           "slug": "business",
           "preview": "https://demo.afthemes.com/covernews/business/"
+        },
+        "ornament": {
+          "name": "Ornament",
+          "catgory": "Elementor",
+          "slug": "ornament",
+          "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "plugins": "elementor,elespare"
         },
         "gadgets": {
           "name": "Gadgets",
@@ -145,32 +166,11 @@
           "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews/wedding/"
         },
-        "general": {
-          "name": "General",
-          "catgory": "Elementor",
-          "slug": "general",
-          "preview": "https://demo.afthemes.com/covernews/general/",
-          "plugins": "elementor,elespare"
-        },
-        "covid": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid",
-          "preview": "https://demo.afthemes.com/covernews/covid/",
-          "plugins": "elementor,elespare"
-        },
         "music": {
           "name": "Music",
           "catgory": "Elementor",
           "slug": "music",
           "preview": "https://demo.afthemes.com/covernews/music/",
-          "plugins": "elementor,elespare"
-        },
-        "ornament": {
-          "name": "Ornament",
-          "catgory": "Elementor",
-          "slug": "ornament",
-          "preview": "https://demo.afthemes.com/covernews/ornament/",
           "plugins": "elementor,elespare"
         },
         "vegetables": {
