@@ -134,24 +134,17 @@
           "slug": "sport",
           "preview": "https://demo.afthemes.com/covernews/sport/"
         },
-        "covid": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid",
-          "preview": "https://demo.afthemes.com/covernews/covid/",
-          "plugins": "elementor,elespare"
-        },
         "business": {
           "name": "Business",
           "catgory": "Business",
           "slug": "business",
           "preview": "https://demo.afthemes.com/covernews/business/"
         },
-        "ornament": {
-          "name": "Ornament",
+        "covid": {
+          "name": "Covid 19",
           "catgory": "Elementor",
-          "slug": "ornament",
-          "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "slug": "covid",
+          "preview": "https://demo.afthemes.com/covernews/covid/",
           "plugins": "elementor,elespare"
         },
         "gadgets": {
@@ -165,6 +158,13 @@
           "catgory": "Blog",
           "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews/wedding/"
+        },
+        "ornament": {
+          "name": "Ornament",
+          "catgory": "Elementor",
+          "slug": "ornament",
+          "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "plugins": "elementor,elespare"
         },
         "music": {
           "name": "Music",
