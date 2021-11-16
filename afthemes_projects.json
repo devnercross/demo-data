@@ -144,6 +144,41 @@
           "catgory": "Blog",
           "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews/wedding/"
+        },
+        "general": {
+          "name": "General",
+          "catgory": "Elementor",
+          "slug": "general",
+          "preview": "https://demo.afthemes.com/covernews/general/",
+          "plugins": "elementor,elespare"
+        },
+        "covid": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid",
+          "preview": "https://demo.afthemes.com/covernews/covid/",
+          "plugins": "elementor,elespare"
+        },
+        "music": {
+          "name": "Music",
+          "catgory": "Elementor",
+          "slug": "music",
+          "preview": "https://demo.afthemes.com/covernews/music/",
+          "plugins": "elementor,elespare"
+        },
+        "ornament": {
+          "name": "Ornament",
+          "catgory": "Elementor",
+          "slug": "ornament",
+          "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "plugins": "elementor,elespare"
+        },
+        "vegetables": {
+          "name": "Vegetables",
+          "catgory": "Elementor",
+          "slug": "vegetables",
+          "preview": "https://demo.afthemes.com/covernews/vegetables/",
+          "plugins": "elementor,elespare"
         }
       }
     },
