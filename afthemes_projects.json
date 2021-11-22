@@ -147,6 +147,13 @@
           "preview": "https://demo.afthemes.com/covernews/covid/",
           "plugins": "elementor,elespare"
         },
+        "ornament": {
+          "name": "Ornament",
+          "catgory": "Elementor",
+          "slug": "ornament",
+          "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "plugins": "elementor,elespare"
+        },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Business",
@@ -158,13 +165,6 @@
           "catgory": "Blog",
           "slug": "wedding",
           "preview": "https://demo.afthemes.com/covernews/wedding/"
-        },
-        "ornament": {
-          "name": "Ornament",
-          "catgory": "Elementor",
-          "slug": "ornament",
-          "preview": "https://demo.afthemes.com/covernews/ornament/",
-          "plugins": "elementor,elespare"
         },
         "music": {
           "name": "Music",
@@ -966,7 +966,7 @@
           "slug": "darknews",
           "preview": "https://demo.afthemes.com/darknews/"
         },
-        "dark": {
+        "light": {
           "name": "Light",
           "catgory": "General",
           "slug": "light",
@@ -990,11 +990,46 @@
           "slug": "classic",
           "preview": "https://demo.afthemes.com/darknews/classic/"
         },
-        "recipe": {
+        "gaming": {
           "name": "Gaming",
           "catgory": "Blog",
           "slug": "gaming",
           "preview": "https://demo.afthemes.com/darknews/gaming/"
+        },
+        "gym": {
+          "name": "Gym",
+          "catgory": "Elementor",
+          "slug": "gym",
+          "preview": "https://demo.afthemes.com/darknews/gym/",
+          "plugins": "elementor,elespare"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Elementor",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/darknews/business/",
+          "plugins": "elementor,elespare"
+        },
+        "restaurant-blog": {
+          "name": "Restaurant",
+          "catgory": "Elementor",
+          "slug": "restaurant-blog",
+          "preview": "https://demo.afthemes.com/darknews/restaurant-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "tech-blog": {
+          "name": "Tech Blog",
+          "catgory": "Elementor",
+          "slug": "tech-blog",
+          "preview": "https://demo.afthemes.com/darknews/tech-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "retro-blog": {
+          "name": "Retro Blog",
+          "catgory": "Elementor",
+          "slug": "retro-blog",
+          "preview": "https://demo.afthemes.com/darknews/retro-blog/",
+          "plugins": "elementor,elespare"
         }
       }
     },

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-11-15 12:05" -->
+	<!-- generator="WordPress/5.8.2" created="2021-11-19 07:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tech Blog </title>
 	<link>https://demo.afthemes.com/darknews/tech-blog</link>
 	<description>Just another DarkNews site</description>
-	<pubDate>Mon, 15 Nov 2021 12:05:23 +0000</pubDate>
+	<pubDate>Fri, 19 Nov 2021 07:55:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/darknews/</wp:base_site_url>
@@ -140,7 +140,7 @@
 	<wp:term><wp:term_id>23</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2021/04/af-themes-main-dark-150x150.png</url>
@@ -1466,24 +1466,13 @@
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/tech-blog/elespare-builder/header/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<nav  aria-label="Primary navigation" data-closeicon="fas fa-times">
-				<ul id="menu-footer-menu-items"><li id="menu-item-51"><a href="https://demo.afthemes.com/darknews/tech-blog/home/">Home</a></li>
+		<content:encoded><![CDATA[<nav  aria-label="Primary navigation" data-closeicon="">
+				<ul id="menu-footer-menu-items"><li id="menu-item-51"><a href="https://demo.afthemes.com/darknews/tech-blog/?page_id=37">Home</a></li>
 <li id="menu-item-133"><a href="https://demo.afthemes.com/darknews/tech-blog/blog/">Blog</a></li>
 <li id="menu-item-134"><a href="https://demo.afthemes.com/darknews/tech-blog/contact/">Contact</a></li>
 </ul>			</nav>
-					<a href="#" aria-expanded="false">
-			<!-- .menu-toggle-wrapper -->
-			<!-- .menu-toggle-wrapper -->
-			Menu
-		</a><!-- .menu-toggle -->
-			<a href="#"></a>
-					<nav aria-label="Dropdown navigation">
-						<ul id="menu-footer-menu-items-1"><li><a href="https://demo.afthemes.com/darknews/tech-blog/home/">Home</a></li>
-<li><a href="https://demo.afthemes.com/darknews/tech-blog/blog/">Blog</a></li>
-<li><a href="https://demo.afthemes.com/darknews/tech-blog/contact/">Contact</a></li>
-</ul>					</nav>
 					<a target="_blank" rel="noopener">
-						Facebook
+						Facebook-f
 											</a>
 					<a target="_blank" rel="noopener">
 						Twitter
@@ -1509,7 +1498,7 @@
 			</h1>
 			</a>		
 			<nav  aria-label="Primary navigation" data-closeicon="fas fa-times">
-				<ul id="menu-main-menu"><li id="menu-item-834"><a href="https://demo.afthemes.com/darknews/tech-blog/home/">Home</a></li>
+				<ul id="menu-main-menu"><li id="menu-item-834"><a href="https://demo.afthemes.com/darknews/tech-blog/?page_id=37">Home</a></li>
 <li id="menu-item-835"><a href="https://demo.afthemes.com/darknews/tech-blog/blog/">Blog</a></li>
 <li id="menu-item-836"><a>Archives</a>
 <ul>
@@ -1558,7 +1547,7 @@
 		</a><!-- .menu-toggle -->
 			<a href="#"></a>
 					<nav aria-label="Dropdown navigation">
-						<ul id="menu-main-menu-1"><li><a href="https://demo.afthemes.com/darknews/tech-blog/home/">Home</a></li>
+						<ul id="menu-main-menu-1"><li><a href="https://demo.afthemes.com/darknews/tech-blog/?page_id=37">Home</a></li>
 <li><a href="https://demo.afthemes.com/darknews/tech-blog/blog/">Blog</a></li>
 <li><a>Archives</a>
 <ul>
@@ -1604,8 +1593,8 @@
 		<wp:post_id>951</wp:post_id>
 		<wp:post_date><![CDATA[2021-09-28 06:53:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-28 06:53:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-15 11:51:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-15 11:51:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-18 14:58:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-18 14:58:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -1653,7 +1642,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1661,7 +1650,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"3cae95b","elType":"section","settings":{"content_position":"middle","structure":"20","background_background":"classic","background_color":"#4A277B"},"elements":[{"id":"c6158ba","elType":"column","settings":{"_column_size":50,"_inline_size":65.087999999999993860910763032734394073486328125},"elements":[{"id":"87446dc","elType":"widget","settings":{"menu":"footer-menu-items","menucolor":"#FFFFFF","menu_typo_typography":"custom","menu_typo_font_weight":"600"},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":false},{"id":"a4cd86b","elType":"column","settings":{"_column_size":50,"_inline_size":34.73799999999999954525264911353588104248046875,"content_position":"center"},"elements":[{"id":"847f527","elType":"section","settings":{"structure":"20"},"elements":[{"id":"f75a2c7","elType":"column","settings":{"_column_size":50,"_inline_size":75.4549999999999982946974341757595539093017578125},"elements":[{"id":"c746e7c","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"0063b68"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"4db4331"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"dfb4232"}],"align":"right","icon_color":"custom","icon_primary_color":"#02010100"},"elements":[],"widgetType":"social-icons"}],"isInner":true},{"id":"578fb44","elType":"column","settings":{"_column_size":50,"_inline_size":24.36299999999999954525264911353588104248046875,"content_position":"center"},"elements":[{"id":"fb51ef0","elType":"widget","settings":{"text":"Search","placeholder":"Search","align":"center","icon_color":"#FFFFFF"},"elements":[],"widgetType":"search-from"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"2b1bf17","elType":"section","settings":{"background_background":"classic","background_color":"#4A277B"},"elements":[{"id":"cde295e","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"4dcbb6f","elType":"widget","settings":{"heading_text_align":"center","heading_typography_typography":"custom","heading_typography_font_size":{"unit":"px","size":50,"sizes":[]},"heading_color":"#FFFFFF","heading_typography_font_weight":"500"},"elements":[],"widgetType":"elespare-site-title"},{"id":"47f7e41","elType":"widget","settings":{"menu":"main-menu","align":"center","menucolor":"#FFFFFF","menu_typo_typography":"custom","menu_typo_font_weight":"600"},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"9f18839","elType":"section","settings":{"background_background":"classic","background_color":"#4A277B"},"elements":[{"id":"2f5f337","elType":"column","settings":{"_column_size":100,"_inline_size":100,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#FFFFFF99","padding":{"unit":"px","top":"5","right":"20","bottom":"5","left":"20","isLinked":false}},"elements":[{"id":"c354fd1","elType":"section","settings":{"structure":"30"},"elements":[{"id":"550c280","elType":"column","settings":{"_column_size":33,"_inline_size":75.2999999999999971578290569595992565155029296875,"content_position":"center","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"cf5fdd5","elType":"widget","settings":{"menu":"footer-menu-items","menucolor":"#FFFFFF99","menu_typo_typography":"custom","menu_typo_font_weight":"600","break_points":"none","toggle-align":"left","menu_item_padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"menu_color_hover":"#FFFFFF","color_submenu_hover":"#4A277B","color_toggle":"#FFFFFF","color_toggle_hover":"#FFFFFF","color_menu_sidebar_hover":"#4A277B"},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":true},{"id":"95113de","elType":"column","settings":{"_column_size":33,"_inline_size":20.492999999999998550492819049395620822906494140625,"_inline_size_mobile":80,"content_position":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7c2e2dd","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"0063b68"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"4db4331"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"dfb4232"}],"align":"right","icon_color":"custom","icon_primary_color":"#02010100","align_mobile":"left","icon_secondary_color":"#FFFFFF99","icon_size":{"unit":"px","size":18,"sizes":[]},"icon_padding_mobile":{"unit":"em","size":0,"sizes":[]},"icon_spacing_mobile":{"unit":"px","size":15,"sizes":[]},"hover_secondary_color":"#FFFFFF"},"elements":[],"widgetType":"social-icons"}],"isInner":true},{"id":"78ff2ab","elType":"column","settings":{"_column_size":33,"_inline_size":3.870999999999999996447286321199499070644378662109375,"_inline_size_mobile":20,"content_position":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"83dc7ad","elType":"widget","settings":{"text":"Search","placeholder":"Search","align":"right","icon_color":"#FFFFFF99","form_bg_color":"#FFFFFF","search_text_typography_typography":"custom","search_text_typography_font_size":{"unit":"px","size":14,"sizes":[]},"background_text_background":"classic","background_text_color":"#4A277B","input_color":"#000000"},"elements":[],"widgetType":"search-from"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"2b1bf17","elType":"section","settings":{"background_background":"classic","background_color":"#4A277B","margin_tablet":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"cde295e","elType":"column","settings":{"_column_size":100,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_width_tablet":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#FFFFFF99"},"elements":[{"id":"4dcbb6f","elType":"widget","settings":{"heading_text_align":"center","heading_typography_typography":"custom","heading_typography_font_size":{"unit":"px","size":50,"sizes":[]},"heading_color":"#FFFFFF","_padding":{"unit":"px","top":"30","right":"0","bottom":"50","left":"0","isLinked":false},"heading_typography_font_family":"Mulish","heading_typography_font_size_tablet":{"unit":"px","size":40,"sizes":[]},"heading_typography_text_transform":"uppercase","_padding_tablet":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"elespare-site-title"}],"isInner":false}],"isInner":false},{"id":"b816cd1","elType":"section","settings":{"background_background":"classic","margin":{"unit":"px","top":"-30","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true}},"elements":[{"id":"bb669b7","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_background":"classic","background_color":"#4A277B","padding":{"unit":"px","top":"20","right":"10","bottom":"20","left":"10","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"26f7661","elType":"widget","settings":{"menu":"main-menu","align":"center","menucolor":"#FFFFFF","menu_typo_typography":"custom","menu_typo_font_weight":"600","ham_size":{"unit":"px","size":30,"sizes":[]},"menu_color_hover":"#FFFFFF","color_submenu_hover":"#4A277B","color_toggle":"#FFFFFF","color_toggle_hover":"#FFFFFF","color_menu_sidebar_hover":"#4A277B"},"elements":[],"widgetType":"elespare-nav-horziontal-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -1669,7 +1658,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:28:"elespare-nav-horziontal-menu";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:5:"style";a:1:{s:10:"menu_style";a:3:{s:9:"menucolor";i:2;s:20:"menu_typo_typography";i:2;s:21:"menu_typo_font_weight";i:2;}}s:7:"content";a:1:{s:15:"section_content";a:2:{s:4:"menu";i:1;s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:5;s:16:"content_position";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:20:"section_social_style";a:2:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;}}}}s:11:"search-from";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_content";a:1:{s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"icon_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}s:14:"section_layout";a:1:{s:16:"content_position";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:2;}}}}s:19:"elespare-site-title";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:22:"section_general_fields";a:1:{s:18:"heading_text_align";i:1;}}s:5:"style";a:1:{s:26:"section_heading_typography";a:4:{s:29:"heading_typography_typography";i:1;s:28:"heading_typography_font_size";i:1;s:13:"heading_color";i:1;s:30:"heading_typography_font_weight";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:28:"elespare-nav-horziontal-menu";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:5:"style";a:3:{s:10:"menu_style";a:5:{s:9:"menucolor";i:2;s:20:"menu_typo_typography";i:2;s:21:"menu_typo_font_weight";i:2;s:17:"menu_item_padding";i:1;s:16:"menu_color_hover";i:2;}s:13:"submenu_style";a:1:{s:19:"color_submenu_hover";i:2;}s:18:"menu_sidebar_style";a:3:{s:12:"color_toggle";i:2;s:18:"color_toggle_hover";i:2;s:24:"color_menu_sidebar_hover";i:2;}}s:7:"content";a:2:{s:19:"section_mobile_menu";a:3:{s:12:"break_points";i:1;s:12:"toggle-align";i:1;s:8:"ham_size";i:1;}s:15:"section_content";a:2:{s:4:"menu";i:1;s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:6;s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:5;}}s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:4:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;}s:20:"section_social_hover";a:1:{s:21:"hover_secondary_color";i:1;}}}}s:11:"search-from";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_content";a:1:{s:5:"align";i:1;}}s:5:"style";a:3:{s:13:"section_style";a:2:{s:10:"icon_color";i:1;s:13:"form_bg_color";i:1;}s:24:"section_inner_text_style";a:4:{s:33:"search_text_typography_typography";i:1;s:32:"search_text_typography_font_size";i:1;s:26:"background_text_background";i:1;s:21:"background_text_color";i:1;}s:18:"section_text_style";a:1:{s:11:"input_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}s:19:"elespare-site-title";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:22:"section_general_fields";a:1:{s:18:"heading_text_align";i:1;}}s:5:"style";a:1:{s:26:"section_heading_typography";a:5:{s:29:"heading_typography_typography";i:1;s:28:"heading_typography_font_size";i:1;s:13:"heading_color";i:1;s:30:"heading_typography_font_family";i:1;s:33:"heading_typography_text_transform";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1684,8 +1673,9 @@
 					Tech Blog 					
 			</h1>
 			</a>		
+		<p>We mainly focus on quality code and elegant design with incredible support. Our WordPress theme and pugins empower you to create an elegant, professional and easy to maintain website in no time at all.</p>		
 					<a target="_blank" rel="noopener">
-						Facebook
+						Facebook-f
 											</a>
 					<a target="_blank" rel="noopener">
 						Twitter
@@ -1715,7 +1705,6 @@
                                   AF themes                                </a>
                         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
                              July 18, 2018                        </a>
-                     0                    
                                     <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
             <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
                                     <ul class='elespare-cat-links solid'><li>
@@ -1738,7 +1727,6 @@
                                   AF themes                                </a>
                         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
                              July 18, 2018                        </a>
-                     0                    
                                     <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
             <img width="640" height="427" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
                                     <ul class='elespare-cat-links solid'><li>
@@ -1761,7 +1749,6 @@
                                   AF themes                                </a>
                         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
                              July 18, 2018                        </a>
-                     0                    
                                     <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
             <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
                                     <ul class='elespare-cat-links solid'><li>
@@ -1784,7 +1771,6 @@
                                   AF themes                                </a>
                         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
                              July 18, 2018                        </a>
-                     0                    
                                     <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
             <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
                                     <ul class='elespare-cat-links solid'><li>
@@ -1807,7 +1793,6 @@
                                   AF themes                                </a>
                         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
                              July 18, 2018                        </a>
-                     0                    
                 <button type="button"></button>
                 <button type="button"></button>
                                             <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
@@ -1815,17 +1800,25 @@
     <h4>
         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
     </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
                                             <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
             <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
     <h4>
         <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
-    </h4>]]></content:encoded>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>966</wp:post_id>
 		<wp:post_date><![CDATA[2021-09-28 08:12:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-28 08:12:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-15 12:04:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-15 12:04:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-18 15:00:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-18 15:00:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
@@ -1873,7 +1866,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1881,7 +1874,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"85bef6c","elType":"section","settings":{"content_position":"middle","structure":"30","background_background":"classic","background_color":"#08011E"},"elements":[{"id":"a8ddcf1","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"79642ad","elType":"widget","settings":{"heading_color":"#FFFFFF","heading_typography_typography":"custom","heading_typography_font_weight":"500"},"elements":[],"widgetType":"elespare-site-title"},{"id":"dbd8108","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook","library":"fa-brands"},"_id":"0809415"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"7c52295"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"60d2622"}],"align":"left","icon_color":"custom","icon_primary_color":"#02010100"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"f631b3b","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"f7bb8e2","elType":"widget","settings":{"title":"","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"__globals__":{"posts_category_solid_color":"","posts_format_bg_style_color":""},"posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_category_solid_color":"#4A277B","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-slider"}],"isInner":false},{"id":"e6d5eb7","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"34cbf68","elType":"widget","settings":{"title":"","show_category":"","show_date":"","posts_per_page":2,"posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFFFFF","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"85bef6c","elType":"section","settings":{"content_position":"middle","structure":"30","background_background":"classic","background_color":"#4A277B","stretch_section":"section-stretched","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"a8ddcf1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"top","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"79642ad","elType":"widget","settings":{"heading_color":"#FFFFFF","heading_typography_typography":"custom","heading_text_align":"left","heading_typography_font_family":"Mulish","heading_typography_font_size":{"unit":"px","size":32,"sizes":[]},"heading_typography_text_transform":"uppercase","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"elespare-site-title"},{"id":"f951f15","elType":"widget","settings":{"editor":"<p>We mainly focus on quality code and elegant design with incredible support. Our WordPress theme and pugins empower you to create an elegant, professional and easy to maintain website in no time at all.<\/p>","text_color":"#FFFFFF99","typography_typography":"custom","typography_font_family":"Roboto","typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"dbd8108","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"_id":"0809415"},{"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"_id":"7c52295"},{"social_icon":{"value":"fab fa-youtube","library":"fa-brands"},"_id":"60d2622"}],"align":"left","icon_color":"custom","icon_primary_color":"#02010100","shape":"square","icon_secondary_color":"#FFFFFF99","icon_size":{"unit":"px","size":18,"sizes":[]},"icon_padding":{"unit":"em","size":0.5,"sizes":[]},"icon_spacing":{"unit":"px","size":20,"sizes":[]},"image_border_border":"solid","image_border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"image_border_color":"#FFFFFF99","hover_secondary_color":"#FFFFFF","hover_border_color":"#FFFFFF"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"f631b3b","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position_tablet":"top","padding_mobile":{"unit":"px","top":"10","right":"20","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"f7bb8e2","elType":"widget","settings":{"title":"","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"__globals__":{"posts_category_solid_color":"","posts_format_bg_style_color":""},"posts_title_style_hover_color":"#FFFFFF","posts_category_solid_color":"#4A277B","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","show_comment_count":"","posts_title_style_typography_font_family":"Mulish"},"elements":[],"widgetType":"post-slider"}],"isInner":false},{"id":"e6d5eb7","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position_tablet":"top","padding":{"unit":"px","top":"10","right":"20","bottom":"10","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"34cbf68","elType":"widget","settings":{"title":"","show_category":"","posts_per_page":2,"posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFFFFF","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","show_author":"yes","posts_spotlight_title_style_typography_font_family":"Mulish","posts_spotlight_title_style_typography_font_weight":"600"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -1889,7 +1882,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:19:"elespare-site-title";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:5:"style";a:1:{s:26:"section_heading_typography";a:3:{s:13:"heading_color";i:1;s:29:"heading_typography_typography";i:1;s:30:"heading_typography_font_weight";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:20:"section_social_style";a:2:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}}}s:11:"post-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_layout";a:1:{s:5:"title";i:1;}}s:5:"style";a:4:{s:13:"section_title";a:4:{s:39:"posts_title_style_typography_typography";i:1;s:38:"posts_title_style_typography_font_size";i:1;s:40:"posts_title_style_typography_font_weight";i:1;s:29:"posts_title_style_hover_color";i:1;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}}}s:9:"post-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:5:"title";i:1;}s:21:"section_post_settings";a:2:{s:13:"show_category";i:1;s:9:"show_date";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}s:5:"style";a:3:{s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:1;}s:13:"section_title";a:3:{s:23:"posts_title_style_color";i:1;s:49:"posts_spotlight_title_style_typography_typography";i:1;s:29:"posts_title_style_hover_color";i:1;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:1;s:28:"posts_meta_style_hover_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:19:"elespare-site-title";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:5:"style";a:1:{s:26:"section_heading_typography";a:5:{s:13:"heading_color";i:1;s:29:"heading_typography_typography";i:1;s:30:"heading_typography_font_family";i:1;s:28:"heading_typography_font_size";i:1;s:33:"heading_typography_text_transform";i:1;}}s:7:"content";a:1:{s:22:"section_general_fields";a:1:{s:18:"heading_text_align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"align";i:1;s:5:"shape";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:9:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;s:19:"image_border_border";i:1;s:18:"image_border_width";i:1;s:18:"image_border_color";i:1;}s:20:"section_social_hover";a:2:{s:21:"hover_secondary_color";i:1;s:18:"hover_border_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:3;s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}s:11:"post-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"section_layout";a:1:{s:5:"title";i:1;}s:21:"section_post_settings";a:1:{s:18:"show_comment_count";i:1;}}s:5:"style";a:4:{s:13:"section_title";a:4:{s:39:"posts_title_style_typography_typography";i:1;s:38:"posts_title_style_typography_font_size";i:1;s:29:"posts_title_style_hover_color";i:1;s:40:"posts_title_style_typography_font_family";i:1;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}}}s:9:"post-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:5:"title";i:1;}s:21:"section_post_settings";a:2:{s:13:"show_category";i:1;s:11:"show_author";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}s:5:"style";a:3:{s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:1;}s:13:"section_title";a:5:{s:23:"posts_title_style_color";i:1;s:49:"posts_spotlight_title_style_typography_typography";i:1;s:29:"posts_title_style_hover_color";i:1;s:50:"posts_spotlight_title_style_typography_font_family";i:1;s:50:"posts_spotlight_title_style_typography_font_weight";i:1;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:1;s:28:"posts_meta_style_hover_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:16:"content_position";i:1;s:15:"stretch_section";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5735,600 +5728,533 @@
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/tech-blog/?page_id=957</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                         </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                         </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                         </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<h4>Posts Grid</h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                          AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                          AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                          AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+			<h4>Posts Express </h4>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/"> The man who saved thousands of people from HIV</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/"> All you need to know about penalty shootouts</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                    </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+			<h4>Posts Grid </h4>        
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
- 	<li>
+                                    Sports
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Business
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+                                    Sports
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Business
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
-<img width="300" height="199" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+			<h4>Posts Slider </h4>            
+                                    <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
+                                    Newsbeat
+                                </a>
+                            </li><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
+                                    Sports
+                                </a>
+                            </li><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
+                                    Tech
+                                </a>
+                            </li></ul>                                    
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                  AF themes                                </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                    <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
+                                    Business
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<h4>Posts Grid</h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+                                    Sports
+                                </a>
+                            </li></ul>                                    
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                  AF themes                                </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                    <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="640" height="427" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Business
+                                </a>
+                            </li><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
+                                    Newsbeat
+                                </a>
+                            </li><li>
+                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
+                                    Tech
+                                </a>
+                            </li></ul>                                    
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                  AF themes                                </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                    <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
+            <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<h4>Posts Slider</h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                    
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                  AF themes                                </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                    <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
+            <img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                                </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                                </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="640" height="427" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                                </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
-<img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                                </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
-<img width="640" height="426" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/stories/">
-Stories
-</a></li>
- 	<li>
+                                    Stories
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/world/">
-World
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                                </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-0
-<button type="button"></button>
-<button type="button"></button>
-<h4>Posts Lists</h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    World
+                                </a>
+                            </li></ul>                                    
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                  AF themes                                </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                <button type="button"></button>
+                <button type="button"></button>
+			<h4>Posts Lists </h4>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/"> The man who saved thousands of people from HIV</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/"> All you need to know about penalty shootouts</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+                                            <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/">
+            <img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px" />        </a>
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/"> Searching for the &#8216;angel&#8217; who held me on Westminster Bridge</a>
+    </h4>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                         AF themes                         </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                             July 18, 2018                        </a>
+			<h4>Posts Grid </h4>        
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
- 	<li>
+                                    Sports
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Business
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    Sports
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk&#8217;s SpaceX: Starship lands safely&#8230; then explodes</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
+                                    Business
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
+            <img width="300" height="199" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    Tech
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/">
+            <img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-designecologist-1999463.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
+                                    Newsbeat
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/stories/">
-Stories
-</a></li>
- 	<li>
+                                    Stories
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/world/">
-World
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
+                                    World
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/"> Searching for the forgotten heroes of World War Two</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>
+                                      <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/">
+            <img width="300" height="240" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-300x240.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-300x240.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-1024x819.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655-768x614.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-lucas-fonseca-2239655.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />        </a>
+                                    <ul class='elespare-cat-links solid'><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
+                                    Health
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/science/">
-Science
-</a></li>
- 	<li>
+                                    Science
+                                </a>
+                            </li><li>
                                 <a href="https://demo.afthemes.com/darknews/tech-blog/category/world/">
-World
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/"> The man who saved thousands of people from HIV</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-pixabay-265685-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/science/">
-Science
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/all-you-need-to-know-about-penalty-shootouts/"> All you need to know about penalty shootouts</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/">
-<img width="150" height="150" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-150x150.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-150x150.jpg 150w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-eren-li-7241419-350x350.jpg 350w" sizes="(max-width: 150px) 100vw, 150px">        </a>
-<ul class="elespare-cat-links none">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/science/">
-Science
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/stories/">
-Stories
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/"> Searching for the ‘angel’ who held me on Westminster Bridge</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018                        </a>
-<h4>Posts Grid</h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-tranmautritam-326503.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/7-successful-battle-strategies-to-beat-covid-19/"> 7 Successful Battle Strategies to Beat COVID-19</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-1024x682.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-sergei-starostin-6636477.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/sports/">
-Sports
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/musks-spacex-starship-lands-safely-then-explodes/"> Musk’s SpaceX: Starship lands safely… then explodes</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/">
-<img width="300" height="200" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-300x200.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-1024x683.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179-768x512.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-julia-m-cameron-4144179.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/business/">
-Business
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/why-are-qanon-believers-obsessed-with-4-march/"> Why are QAnon believers obsessed with 4 March?</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/">
-<img width="300" height="199" src="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg" alt="" loading="lazy" srcset="https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-300x199.jpg 300w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-1024x681.jpg 1024w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517-768x511.jpg 768w, https://demo.afthemes.com/darknews/tech-blog/wp-content/uploads/sites/11/2018/07/pexels-brett-sayles-3803517.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">        </a>
-<ul class="elespare-cat-links solid">
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/health/">
-Health
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/newsbeat/">
-Newsbeat
-</a></li>
- 	<li>
-                                <a href="https://demo.afthemes.com/darknews/tech-blog/category/tech/">
-Tech
-</a></li>
-</ul>
-<h4>
-        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/fisherman-swap-petrol-motors-for-electric-engines/"> Fisherman swap petrol motors for electric engines</a></h4>
-<a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
-AF themes                        </a>
-<a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
-July 18, 2018
-</a>
-0]]></content:encoded>
+                                    World
+                                </a>
+                            </li></ul>                                
+    <h4>
+        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/"> The man who saved thousands of people from HIV</a>
+    </h4>
+                    <a href="https://demo.afthemes.com/darknews/tech-blog/author/wpafthemesgmail-com/">
+                                                 AF themes                        </a>
+                        <a href="https://demo.afthemes.com/darknews/tech-blog/2018/">
+                                July 18, 2018                            
+                        </a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>957</wp:post_id>
 		<wp:post_date><![CDATA[2021-09-28 07:32:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-09-28 07:32:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-15 11:59:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-15 11:59:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-18 15:09:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-18 15:09:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -6364,11 +6290,11 @@ July 18, 2018
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7b20bd1","elType":"section","settings":{"structure":"20"},"elements":[{"id":"a078f6b","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"da8a231","elType":"widget","settings":{"_section_title":"","show_category":"","posts_per_page":3,"__globals__":{"posts_format_bg_style_color":""},"_spotlight_title_style_typography_typography":"custom","_spotlight_title_style_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#F9F9F9","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-tile"}],"isInner":false},{"id":"f7261c5","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"b9195d2","elType":"widget","settings":{"title":"","show_category":"","posts_per_page":4,"posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FCFCFC","posts_meta_style_hover_color":"#D5D4D4"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false},{"id":"2f25fee","elType":"section","settings":[],"elements":[{"id":"0c0cd00","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"0667d24","elType":"widget","settings":{"title":"Posts Grid","read_more_text":"Read More \u00bb","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-grid"}],"isInner":false}],"isInner":false},{"id":"e7088ce","elType":"section","settings":{"structure":"21"},"elements":[{"id":"6bedb43","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"c0df955","elType":"widget","settings":{"title":"Posts Grid","columns":"1","read_more_text":"Read More \u00bb","posts_per_page":3,"_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-grid"}],"isInner":false},{"id":"47dda99","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"fd6f5c2","elType":"widget","settings":{"title":"Posts Slider","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_typography_typography":"custom","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-slider"},{"id":"78e56e8","elType":"widget","settings":{"title":"Posts Lists","posts_per_page":8,"_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFF4F4","posts_category_style_none_color":"#FFFFFF","__globals__":{"_section_widget_title_dash_1_color":"","posts_category_style_none_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false},{"id":"1b0351d","elType":"section","settings":[],"elements":[{"id":"bb546eb","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"688cbf9","elType":"widget","settings":{"title":"Posts Grid","read_more_text":"Read More \u00bb","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B"},"elements":[],"widgetType":"post-grid"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7b20bd1","elType":"section","settings":{"structure":"20"},"elements":[{"id":"a078f6b","elType":"column","settings":{"_column_size":50,"_inline_size":66,"padding":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_inline_size_tablet":100,"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"da8a231","elType":"widget","settings":{"_section_title":"","show_category":"","posts_per_page":3,"__globals__":{"posts_format_bg_style_color":""},"_spotlight_title_style_typography_typography":"custom","posts_title_style_typography_typography":"custom","posts_title_style_hover_color":"#F9F9F9","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","show_comment_count":"","_spotlight_title_style_typography_font_size_mobile":{"unit":"px","size":24,"sizes":[]},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"_spotlight_title_style_typography_font_family":"Mulish","_spotlight_title_style_typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]},"posts_title_style_typography_font_family":"Mulish","posts_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"posts_title_style_typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"post-tile"}],"isInner":false},{"id":"f7261c5","elType":"column","settings":{"_column_size":50,"_inline_size":34,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":100,"padding_tablet":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"b9195d2","elType":"widget","settings":{"title":"","show_category":"","posts_per_page":4,"posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FCFCFC","posts_meta_style_hover_color":"#D5D4D4","show_author":"yes","posts_spotlight_title_style_typography_font_family":"Mulish","posts_spotlight_title_style_typography_font_weight":"600"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false},{"id":"fb14e00","elType":"section","settings":{"padding_tablet":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"20efbf1","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"24affd4","elType":"widget","settings":{"title":"Posts Express","show_category":"","show_author":"yes","show_excerpt":"","posts_per_page":7,"_section_title_style":"title-style-3","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_background_color_1":"#FFFFFF00","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"600","posts_title_style_color":"#FFF4F4","posts_title_style_hover_color":"#FFFFFF","posts_category_style_none_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","posts_content_style_color":"#757575","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":"","posts_category_style_none_color":""},"_section_widget_title_dash_2_color":"#EFEFEF33","_section_widget_title_color_typography_font_size":{"unit":"px","size":24,"sizes":[]},"_spotlight_title_style_typography_typography":"custom","_spotlight_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"_spotlight_title_style_typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"posts_title_style_typography_font_family":"Mulish"},"elements":[],"widgetType":"post-express-list"}],"isInner":false}],"isInner":false},{"id":"e7088ce","elType":"section","settings":{"structure":"21","padding_tablet":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6bedb43","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_tablet":100,"padding":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c0df955","elType":"widget","settings":{"title":"Posts Grid","columns":"1","read_more_text":"Read More \u00bb","posts_per_page":3,"_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","show_comment_count":"","_section_title_style":"title-style-3","_section_widget_title_dash_2_color":"#EFEFEF33","_section_widget_title_color_typography_font_size":{"unit":"px","size":24,"sizes":[]},"posts_title_style_typography_font_family":"Mulish","posts_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":false},{"id":"47dda99","elType":"column","settings":{"_column_size":66,"_inline_size":null,"_inline_size_tablet":100,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"fd6f5c2","elType":"widget","settings":{"title":"Posts Slider","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_typography_typography":"custom","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","show_comment_count":"","_section_title_style":"title-style-3","posts_title_style_typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]},"_section_widget_title_dash_2_color":"#EFEFEF33","_section_widget_title_color_typography_font_size":{"unit":"px","size":24,"sizes":[]},"posts_title_style_typography_font_family":"Mulish"},"elements":[],"widgetType":"post-slider"},{"id":"78e56e8","elType":"widget","settings":{"title":"Posts Lists","posts_per_page":8,"_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#FFFFFF00","posts_title_style_color":"#FFF4F4","posts_category_style_none_color":"#FFFFFF","__globals__":{"_section_widget_title_dash_1_color":"","posts_category_style_none_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_spotlight_title_style_typography_typography":"custom","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","show_author":"yes","_section_title_style":"title-style-3","show_category":"","_section_widget_title_dash_2_color":"#EFEFEF33","_section_widget_title_color_typography_font_size":{"unit":"px","size":24,"sizes":[]},"posts_spotlight_title_style_typography_font_family":"Mulish","posts_spotlight_title_style_typography_font_weight":"600"},"elements":[],"widgetType":"post-list"}],"isInner":false}],"isInner":false},{"id":"1b0351d","elType":"section","settings":{"padding":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"bb546eb","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"1","bottom":"10","left":"0","isLinked":false}},"elements":[{"id":"688cbf9","elType":"widget","settings":{"title":"Posts Grid","read_more_text":"Read More \u00bb","_section_widget_title_color":"#FFFFFF","_section_widget_title_dash_1_color":"#4A277B","posts_background_color_1":"#10002700","posts_title_style_color":"#FFFFFF","posts_category_solid_color":"#3C1C6A","__globals__":{"_section_widget_title_dash_1_color":"","posts_background_color_1":"","posts_category_solid_color":"","posts_format_bg_style_color":""},"_section_widget_title_color_typography_typography":"custom","_section_widget_title_color_typography_font_family":"Roboto","_section_widget_title_color_typography_font_weight":"500","posts_title_style_typography_typography":"custom","posts_title_style_typography_font_weight":"600","posts_title_style_hover_color":"#FFFFFF","posts_meta_style_color":"#D5D4D4","posts_meta_style_hover_color":"#D5D4D4","posts_format_bg_style_color":"#4A277B","columns":"3","posts_per_page":6,"show_comment_count":"","_section_title_style":"title-style-3","_section_widget_title_dash_2_color":"#EFEFEF33","_section_widget_title_color_typography_font_size":{"unit":"px","size":24,"sizes":[]},"posts_title_style_typography_font_family":"Mulish","posts_title_style_typography_font_size":{"unit":"px","size":22,"sizes":[]},"posts_title_style_typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]},"posts_title_style_typography_font_size_mobile":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"post-grid"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -6376,7 +6302,7 @@ July 18, 2018
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:9:"post-tile";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:14:"_section_title";i:1;}s:21:"section_post_settings";a:1:{s:13:"show_category";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}s:5:"style";a:4:{s:24:"_spotlight_section_title";a:2:{s:44:"_spotlight_title_style_typography_typography";i:1;s:45:"_spotlight_title_style_typography_font_weight";i:1;}s:13:"section_title";a:3:{s:39:"posts_title_style_typography_typography";i:1;s:40:"posts_title_style_typography_font_weight";i:1;s:29:"posts_title_style_hover_color";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:6;}}}}s:9:"post-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:5:"title";i:1;}s:21:"section_post_settings";a:1:{s:13:"show_category";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:2;}}s:5:"style";a:5:{s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:2;}s:13:"section_title";a:3:{s:23:"posts_title_style_color";i:2;s:49:"posts_spotlight_title_style_typography_typography";i:2;s:29:"posts_title_style_hover_color";i:2;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:2;s:28:"posts_meta_style_hover_color";i:2;}s:26:"section_widget_title_style";a:5:{s:27:"_section_widget_title_color";i:1;s:34:"_section_widget_title_dash_1_color";i:1;s:49:"_section_widget_title_color_typography_typography";i:1;s:50:"_section_widget_title_color_typography_font_family";i:1;s:50:"_section_widget_title_color_typography_font_weight";i:1;}s:16:"section_category";a:1:{s:31:"posts_category_style_none_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}}}}s:9:"post-grid";a:3:{s:5:"count";i:3;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:5:"style";a:6:{s:26:"section_widget_title_style";a:5:{s:27:"_section_widget_title_color";i:3;s:34:"_section_widget_title_dash_1_color";i:3;s:49:"_section_widget_title_color_typography_typography";i:3;s:50:"_section_widget_title_color_typography_font_family";i:3;s:50:"_section_widget_title_color_typography_font_weight";i:3;}s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:3;}s:13:"section_title";a:4:{s:23:"posts_title_style_color";i:3;s:39:"posts_title_style_typography_typography";i:3;s:40:"posts_title_style_typography_font_weight";i:3;s:29:"posts_title_style_hover_color";i:3;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:3;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:3;s:28:"posts_meta_style_hover_color";i:3;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:3;}}s:7:"content";a:2:{s:14:"section_layout";a:1:{s:7:"columns";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}}}s:11:"post-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:1:{s:5:"style";a:6:{s:26:"section_widget_title_style";a:5:{s:27:"_section_widget_title_color";i:1;s:34:"_section_widget_title_dash_1_color";i:1;s:49:"_section_widget_title_color_typography_typography";i:1;s:50:"_section_widget_title_color_typography_font_family";i:1;s:50:"_section_widget_title_color_typography_font_weight";i:1;}s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:1;}s:13:"section_title";a:4:{s:39:"posts_title_style_typography_typography";i:1;s:23:"posts_title_style_color";i:1;s:40:"posts_title_style_typography_font_weight";i:1;s:29:"posts_title_style_hover_color";i:1;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:9:"post-tile";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:14:"_section_title";i:1;}s:21:"section_post_settings";a:2:{s:13:"show_category";i:1;s:18:"show_comment_count";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}s:5:"style";a:4:{s:24:"_spotlight_section_title";a:2:{s:44:"_spotlight_title_style_typography_typography";i:1;s:45:"_spotlight_title_style_typography_font_family";i:1;}s:13:"section_title";a:4:{s:39:"posts_title_style_typography_typography";i:1;s:29:"posts_title_style_hover_color";i:1;s:40:"posts_title_style_typography_font_family";i:1;s:38:"posts_title_style_typography_font_size";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:6;}}}}s:9:"post-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:5:"title";i:1;}s:21:"section_post_settings";a:2:{s:13:"show_category";i:2;s:11:"show_author";i:2;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:2;}}s:5:"style";a:5:{s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:2;}s:13:"section_title";a:5:{s:23:"posts_title_style_color";i:2;s:49:"posts_spotlight_title_style_typography_typography";i:2;s:29:"posts_title_style_hover_color";i:2;s:50:"posts_spotlight_title_style_typography_font_family";i:2;s:50:"posts_spotlight_title_style_typography_font_weight";i:2;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:2;s:28:"posts_meta_style_hover_color";i:2;}s:26:"section_widget_title_style";a:8:{s:27:"_section_widget_title_color";i:1;s:34:"_section_widget_title_dash_1_color";i:1;s:49:"_section_widget_title_color_typography_typography";i:1;s:50:"_section_widget_title_color_typography_font_family";i:1;s:50:"_section_widget_title_color_typography_font_weight";i:1;s:20:"_section_title_style";i:1;s:34:"_section_widget_title_dash_2_color";i:1;s:48:"_section_widget_title_color_typography_font_size";i:1;}s:16:"section_category";a:1:{s:31:"posts_category_style_none_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:6:"margin";i:1;}}}}s:17:"post-express-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:2:{s:7:"content";a:2:{s:21:"section_post_settings";a:3:{s:13:"show_category";i:1;s:11:"show_author";i:1;s:12:"show_excerpt";i:1;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:1;}}s:5:"style";a:8:{s:26:"section_widget_title_style";a:8:{s:20:"_section_title_style";i:1;s:27:"_section_widget_title_color";i:1;s:34:"_section_widget_title_dash_1_color";i:1;s:49:"_section_widget_title_color_typography_typography";i:1;s:50:"_section_widget_title_color_typography_font_family";i:1;s:50:"_section_widget_title_color_typography_font_weight";i:1;s:34:"_section_widget_title_dash_2_color";i:1;s:48:"_section_widget_title_color_typography_font_size";i:1;}s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:1;}s:13:"section_title";a:5:{s:39:"posts_title_style_typography_typography";i:1;s:40:"posts_title_style_typography_font_weight";i:1;s:23:"posts_title_style_color";i:1;s:29:"posts_title_style_hover_color";i:1;s:40:"posts_title_style_typography_font_family";i:1;}s:16:"section_category";a:1:{s:31:"posts_category_style_none_color";i:1;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:1;s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}s:27:"section_posts_content_style";a:1:{s:25:"posts_content_style_color";i:1;}s:24:"_spotlight_section_title";a:2:{s:44:"_spotlight_title_style_typography_typography";i:1;s:43:"_spotlight_title_style_typography_font_size";i:1;}}}}s:9:"post-grid";a:3:{s:5:"count";i:2;s:15:"control_percent";i:8;s:8:"controls";a:2:{s:7:"content";a:3:{s:14:"section_layout";a:1:{s:7:"columns";i:2;}s:13:"section_query";a:1:{s:14:"posts_per_page";i:2;}s:21:"section_post_settings";a:1:{s:18:"show_comment_count";i:2;}}s:5:"style";a:6:{s:26:"section_widget_title_style";a:8:{s:27:"_section_widget_title_color";i:2;s:34:"_section_widget_title_dash_1_color";i:2;s:49:"_section_widget_title_color_typography_typography";i:2;s:50:"_section_widget_title_color_typography_font_family";i:2;s:50:"_section_widget_title_color_typography_font_weight";i:2;s:20:"_section_title_style";i:2;s:34:"_section_widget_title_dash_2_color";i:2;s:48:"_section_widget_title_color_typography_font_size";i:2;}s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:2;}s:13:"section_title";a:6:{s:23:"posts_title_style_color";i:2;s:39:"posts_title_style_typography_typography";i:2;s:29:"posts_title_style_hover_color";i:2;s:40:"posts_title_style_typography_font_family";i:2;s:38:"posts_title_style_typography_font_size";i:2;s:40:"posts_title_style_typography_font_weight";i:1;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:2;}s:12:"section_meta";a:2:{s:22:"posts_meta_style_color";i:2;s:28:"posts_meta_style_hover_color";i:2;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:2;}}}}s:11:"post-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:5:"style";a:6:{s:26:"section_widget_title_style";a:8:{s:27:"_section_widget_title_color";i:1;s:34:"_section_widget_title_dash_1_color";i:1;s:49:"_section_widget_title_color_typography_typography";i:1;s:50:"_section_widget_title_color_typography_font_family";i:1;s:50:"_section_widget_title_color_typography_font_weight";i:1;s:20:"_section_title_style";i:1;s:34:"_section_widget_title_dash_2_color";i:1;s:48:"_section_widget_title_color_typography_font_size";i:1;}s:31:"section_layout_content_bg_style";a:1:{s:24:"posts_background_color_1";i:1;}s:13:"section_title";a:4:{s:39:"posts_title_style_typography_typography";i:1;s:23:"posts_title_style_color";i:1;s:29:"posts_title_style_hover_color";i:1;s:40:"posts_title_style_typography_font_family";i:1;}s:16:"section_category";a:1:{s:26:"posts_category_solid_color";i:1;}s:12:"section_meta";a:1:{s:28:"posts_meta_style_hover_color";i:1;}s:20:"_section_post_format";a:1:{s:27:"posts_format_bg_style_color";i:1;}}s:7:"content";a:1:{s:21:"section_post_settings";a:1:{s:18:"show_comment_count";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
