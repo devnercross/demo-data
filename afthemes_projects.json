@@ -955,6 +955,19 @@
         }
       }
     },
+    "splashnews": {
+      "data": "splashnews",
+      "free": "darknews",
+      "premium": "darknews-pro",
+      "demodata": {
+        "default": {
+          "name": "SplashNews",
+          "catgory": "Fashion",
+          "slug": "splashnews",
+          "preview": "https://demo.afthemes.com/darknews/splashnews/"
+        }
+      }
+    },
     "darknews": {
       "data": "darknews",
       "free": "",
