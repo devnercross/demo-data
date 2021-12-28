@@ -115,30 +115,11 @@
           "slug": "covernews",
           "preview": "https://demo.afthemes.com/covernews/"
         },
-        "fashion": {
-          "name": "Fashion",
-          "catgory": "Fashion",
-          "slug": "fashion",
-          "preview": "https://demo.afthemes.com/covernews/fashion/"
-        },
-        "general": {
-          "name": "General",
-          "catgory": "Elementor",
-          "slug": "general",
-          "preview": "https://demo.afthemes.com/covernews/general/",
-          "plugins": "elementor,elespare"
-        },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
           "preview": "https://demo.afthemes.com/covernews/sport/"
-        },
-        "business": {
-          "name": "Business",
-          "catgory": "Business",
-          "slug": "business",
-          "preview": "https://demo.afthemes.com/covernews/business/"
         },
         "covid": {
           "name": "Covid 19",
@@ -147,11 +128,48 @@
           "preview": "https://demo.afthemes.com/covernews/covid/",
           "plugins": "elementor,elespare"
         },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/covernews/fashion/"
+        },
+        "crypto-news": {
+          "name": "Crypto News",
+          "catgory": "Business",
+          "slug": "crypto-news",
+          "preview": "https://demo.afthemes.com/covernews/crypto-news/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demo.afthemes.com/covernews/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demo.afthemes.com/covernews/china-news/"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/covernews/business/"
+        },
         "ornament": {
           "name": "Ornament",
           "catgory": "Elementor",
           "slug": "ornament",
           "preview": "https://demo.afthemes.com/covernews/ornament/",
+          "plugins": "elementor,elespare"
+        },
+        "general": {
+          "name": "General",
+          "catgory": "Elementor",
+          "slug": "general",
+          "preview": "https://demo.afthemes.com/covernews/general/",
           "plugins": "elementor,elespare"
         },
         "gadgets": {
@@ -179,24 +197,6 @@
           "slug": "vegetables",
           "preview": "https://demo.afthemes.com/covernews/vegetables/",
           "plugins": "elementor,elespare"
-        },
-        "crypto-news": {
-          "name": "Crypto News",
-          "catgory": "Business",
-          "slug": "crypto-news",
-          "preview": "https://demo.afthemes.com/covernews/crypto-news/"
-        },
-        "arabic-news": {
-          "name": "Arabic News",
-          "catgory": "General",
-          "slug": "arabic-news",
-          "preview": "https://demo.afthemes.com/covernews/arabic-news/"
-        },
-        "china-news": {
-          "name": "China News",
-          "catgory": "General",
-          "slug": "china-news",
-          "preview": "https://demo.afthemes.com/covernews/china-news/"
         }
       }
     },
