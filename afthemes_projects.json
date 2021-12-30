@@ -550,11 +550,11 @@
           "slug": "china-news",
           "preview": "https://demo.afthemes.com/newsium/china-news/"
         },
-        "car-blog": {
-          "name": "Car Blog",
+        "cars-blog": {
+          "name": "Cars Blog",
           "catgory": "Elementor",
-          "slug": "car-blog",
-          "preview": "https://demo.afthemes.com/newsium/car-blog/",
+          "slug": "cars-blog",
+          "preview": "https://demo.afthemes.com/newsium/cars-blog/",
           "plugins": "elementor,elespare"
         },
         "fitness-blog": {
@@ -578,11 +578,11 @@
           "preview": "https://demo.afthemes.com/newsium/travel-blog/",
           "plugins": "elementor,elespare"
         },
-        "Wedding": {
+        "wedding": {
           "name": "Wedding",
           "catgory": "Elementor",
-          "slug": "Wedding",
-          "preview": "https://demo.afthemes.com/newsium/Wedding/",
+          "slug": "wedding",
+          "preview": "https://demo.afthemes.com/newsium/wedding/",
           "plugins": "elementor,elespare"
         }
       }
@@ -1325,6 +1325,24 @@
           "catgory": "Blog",
           "slug": "automobile",
           "preview": "https://demo.afthemes.com/darknews-pro/automobile/"
+        },
+        "crypto-news": {
+          "name": "Crypto News",
+          "catgory": "Business",
+          "slug": "crypto-news",
+          "preview": "https://demo.afthemes.com/darknews-pro/crypto-news/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demo.afthemes.com/darknews-pro/arabic-news/"
+        },
+        "china-news": {
+          "name": "Crypto News",
+          "catgory": "Business",
+          "slug": "china-news",
+          "preview": "https://demo.afthemes.com/darknews-pro/china-news/"
         }
       }
     },
