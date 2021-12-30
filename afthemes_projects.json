@@ -1223,35 +1223,35 @@
         },
         "architecture-blog": {
           "name": "Architecture Blog",
-          "catgory": "Business",
+          "catgory": "Elementor",
           "slug": "architecture-blog",
           "preview": "https://demo.afthemes.com/morenews/architecture-blog/",
           "plugins": "elementor,elespare"
         },
         "beauty-studio": {
           "name": "Beauty Studio",
-          "catgory": "Fashion",
+          "catgory": "Elementor",
           "slug": "beauty-studio",
           "preview": "https://demo.afthemes.com/morenews/beauty-studio/",
           "plugins": "elementor,elespare"
         },
         "esport": {
           "name": "Esport",
-          "catgory": "Blog",
+          "catgory": "Elementor",
           "slug": "esport",
           "preview": "https://demo.afthemes.com/morenews/esport/",
           "plugins": "elementor,elespare"
         },
         "local-business": {
           "name": "Local Business",
-          "catgory": "Business",
+          "catgory": "Elementor",
           "slug": "local-business",
           "preview": "https://demo.afthemes.com/morenews/local-business/",
           "plugins": "elementor,elespare"
         },
         "real-estate": {
           "name": "Real Estate",
-          "catgory": "Business",
+          "catgory": "Elementor",
           "slug": "real-estate",
           "preview": "https://demo.afthemes.com/morenews/real-estate/",
           "plugins": "elementor,elespare"
@@ -1375,6 +1375,363 @@
           "preview": "https://demo.afthemes.com/shopical/shopage/"
         }
       }
-    }    
+    },
+    "magnitude": {
+      "data": "magnitude",
+      "free": "",
+      "premium": "magnitude-pro",
+      "demodata": {
+        "default": {
+          "name": "Magnitude",
+          "catgory": "General",
+          "slug": "magnitude",
+          "preview": "https://demo.afthemes.com/magnitude/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/magnitude/sport/"
+        },
+        "newsportal": {
+          "name": "Newsportal",
+          "catgory": "General",
+          "slug": "newsportal",
+          "preview": "https://demo.afthemes.com/magnitude/newsportal/"
+        }
+      }
+    },
+    "magnitude-pro": {
+      "data": "magnitude-pro",
+      "free": "magnitude",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Magnitude-pro",
+          "catgory": "General",
+          "slug": "magnitude-pro",
+          "preview": "https://demo.afthemes.com/magnitude-pro/"
+        },
+        "sport-pro": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport-pro",
+          "preview": "https://demo.afthemes.com/magnitude-pro/sport-pro/"
+        },
+        "newsportal-pro": {
+          "name": "Newsportal Pro",
+          "catgory": "General",
+          "slug": "newsportal-pro",
+          "preview": "https://demo.afthemes.com/magnitude-pro/newsportal-pro/"
+        },
+        "magnitude-dark": {
+          "name": "Magnitude Dark",
+          "catgory": "Dark",
+          "slug": "magnitude-dark",
+          "preview": "https://demo.afthemes.com/magnitude-pro/magnitude-dark/"
+        },
+        "gadgets-pro": {
+          "name": "Gadgets Pro",
+          "catgory": "Business",
+          "slug": "gadgets-pro",
+          "preview": "https://demo.afthemes.com/magnitude-pro/gadgets-pro/"
+        }
+      }
+    },
+    "magazine-7": {
+      "data": "magazine-7",
+      "free": "",
+      "premium": "magazine-7-plus",
+      "demodata": {
+        "default": {
+          "name": "Magazine 7",
+          "catgory": "General",
+          "slug": "magazine-7",
+          "preview": "https://demo.afthemes.com/magazine-7/"
+        },
+        "restro": {
+          "name": "Restro",
+          "catgory": "Blog",
+          "slug": "restro",
+          "preview": "https://demo.afthemes.com/magazine-7/restro/"
+        }
+      }
+    },
+    "magazine-7-plus": {
+      "data": "magazine-7-plus",
+      "free": "magazine-7",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Magazine 7-plus",
+          "catgory": "General",
+          "slug": "magazine-7-plus",
+          "preview": "https://demo.afthemes.com/magazine-7-plus/"
+        },
+        "restro": {
+          "name": "Restro",
+          "catgory": "Blog",
+          "slug": "restro",
+          "preview": "https://demo.afthemes.com/magazine-7-plus/restro/"
+        },
+        "photography": {
+          "name": "Photography",
+          "catgory": "Blog",
+          "slug": "photography",
+          "preview": "https://demo.afthemes.com/magazine-7-plus/photography/"
+        },
+        "minimal-mag": {
+          "name": "Minimal Mag",
+          "catgory": "Blog",
+          "slug": "minimal-mag",
+          "preview": "https://demo.afthemes.com/magazine-7-plus/minimal-mag/"
+        },
+        "mag-shop": {
+          "name": "Mag Shop",
+          "catgory": "Shop",
+          "slug": "mag-shop",
+          "preview": "https://demo.afthemes.com/magazine-7-plus/mag-shop/"
+        }
+      }
+    },
+    "beautiful-blog": {
+      "data": "beautiful-blog",
+      "free": "magazine-7",
+      "premium": "magazine-7-plus",
+      "demodata": {
+        "default": {
+          "name": "Beautiful Blog",
+          "catgory": "Blog",
+          "slug": "beautiful-blog",
+          "preview": "https://demo.afthemes.com/magazine-7/beautiful-blog/"
+        }
+      }
+    },
+    "newstorial": {
+      "data": "newstorial",
+      "free": "magazine-7",
+      "premium": "magazine-7-plus",
+      "demodata": {
+        "default": {
+          "name": "Newstorial",
+          "catgory": "General",
+          "slug": "newstorial",
+          "preview": "https://demo.afthemes.com/magazine-7/newstorial/"
+        }
+      }
+    },
+    "magaziness": {
+      "data": "magaziness",
+      "free": "magazine-7",
+      "premium": "magazine-7-plus",
+      "demodata": {
+        "default": {
+          "name": "Magaziness",
+          "catgory": "General",
+          "slug": "magaziness",
+          "preview": "https://demo.afthemes.com/magazine-7/magaziness/"
+        }
+      }
+    },
+    "storekeeper": {
+      "data": "storekeeper",
+      "free": "storecommerce",
+      "premium": "storecommerce-pro",
+      "demodata": {
+        "default": {
+          "name": "Storekeeper",
+          "catgory": "General",
+          "slug": "storekeeper",
+          "preview": "https://demo.afthemes.com/storecommerce/storekeeper/"
+        }
+      }
+    },
+    "storecommerce": {
+      "data": "storecommerce",
+      "free": "",
+      "premium": "storecommerce-pro",
+      "demodata": {
+        "default": {
+          "name": "Storekeeper",
+          "catgory": "General",
+          "slug": "storecommerce",
+          "preview": "https://demo.afthemes.com/storecommerce/"
+        },
+        "gadgets": {
+          "name": "Gadgets",
+          "catgory": "Gadgets",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/storecommerce/gadgets"
+        },
+        "interior": {
+          "name": "Interior",
+          "catgory": "Interior",
+          "slug": "interior",
+          "preview": "https://demo.afthemes.com/storecommerce/interior"
+        }
+      }
+    },
+    "storecommerce-pro": {
+      "data": "storecommerce-pro",
+      "free": "storecommerce",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Storekeeper Pro",
+          "catgory": "General",
+          "slug": "storecommerce-pro",
+          "preview": "https://demo.afthemes.com/storecommerce-pro/"
+        },
+        "gadgets-pro": {
+          "name": "Gadgets Pro",
+          "catgory": "Gadgets",
+          "slug": "gadgets-pro",
+          "preview": "https://demo.afthemes.com/storecommerce-pro/gadgets-pro"
+        },
+        "interior-pro": {
+          "name": "Interior Pro",
+          "catgory": "Interior",
+          "slug": "interior-pro",
+          "preview": "https://demo.afthemes.com/storecommerce-pro/interior-pro"
+        },
+        "automobile-pro": {
+          "name": "Automobile Pro",
+          "catgory": "Automobile",
+          "slug": "automobile-pro",
+          "preview": "https://demo.afthemes.com/storecommerce-pro/automobile-pro"
+        },
+        "just-food-pro": {
+          "name": "Just Food Pro",
+          "catgory": "Food",
+          "slug": "just-food-pro",
+          "preview": "https://demo.afthemes.com/storecommerce-pro/just-food-pro"
+        }
+      }
+    },
+    "vivacious-magazine": {
+      "data": "vivacious-magazine",
+      "free": "elegant-magazine",
+      "premium": "elegant-magazine-pro",
+      "demodata": {
+        "default": {
+          "name": "Vivacious Magazine",
+          "catgory": "Fashion",
+          "slug": "vivacious-magazine",
+          "preview": "https://demo.afthemes.com/elegant-magazine/vivacious-magazine/"
+        }
+      }
+    },
+    "magnificent-blog": {
+      "data": "magnificent-blog",
+      "free": "elegant-magazine",
+      "premium": "elegant-magazine-pro",
+      "demodata": {
+        "default": {
+          "name": "Magnificent Blog",
+          "catgory": "Blog",
+          "slug": "magnificent-blog",
+          "preview": "https://demo.afthemes.com/elegant-magazine/magnificent-blog/"
+        }
+      }
+    },
+    "daily-magazine": {
+      "data": "daily-magazine",
+      "free": "elegant-magazine",
+      "premium": "elegant-magazine-pro",
+      "demodata": {
+        "default": {
+          "name": "Daily Magazine",
+          "catgory": "General",
+          "slug": "daily-magazine",
+          "preview": "https://demo.afthemes.com/elegant-magazine/daily-magazine/"
+        }
+      }
+    },
+    "elegant-magazine": {
+      "data": "elegant-magazine",
+      "free": "",
+      "premium": "elegant-magazine-pro",
+      "demodata": {
+        "default": {
+          "name": "Elegant Magazine",
+          "catgory": "General",
+          "slug": "elegant-magazine",
+          "preview": "https://demo.afthemes.com/elegant-magazine/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/elegant-magazine/fashion/"
+        },
+        "minimal": {
+          "name": "Minimal",
+          "catgory": "Blog",
+          "slug": "minimal",
+          "preview": "https://demo.afthemes.com/elegant-magazine/minimal/"
+        },
+        "newsportal": {
+          "name": "Newsportal",
+          "catgory": "General",
+          "slug": "newsportal",
+          "preview": "https://demo.afthemes.com/elegant-magazine/newsportal/"
+        },
+        "travel-blog": {
+          "name": "Travel Blog",
+          "catgory": "Blog",
+          "slug": "travel-blog",
+          "preview": "https://demo.afthemes.com/elegant-magazine/travel-blog/"
+        }
+      }
+    },
+    "elegant-magazine-pro": {
+      "data": "elegant-magazine-pro",
+      "free": "elegant-magazine",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Elegant Magazine Pro",
+          "catgory": "General",
+          "slug": "elegant-magazine-pro",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/"
+        },
+        "fashion-boxed": {
+          "name": "Fashion Boxed",
+          "catgory": "Fashion",
+          "slug": "fashion-boxed",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/fashion-boxed/"
+        },
+        "minimal": {
+          "name": "Minimal",
+          "catgory": "Blog",
+          "slug": "minimal",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/minimal/"
+        },
+        "newsportal": {
+          "name": "Newsportal",
+          "catgory": "General",
+          "slug": "newsportal",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/newsportal/"
+        },
+        "newsportal-boxed": {
+          "name": "Newsportal Boxed",
+          "catgory": "General",
+          "slug": "newsportal-boxed",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/newsportal-boxed/"
+        },
+        "travel-blog": {
+          "name": "Travel Blog",
+          "catgory": "Blog",
+          "slug": "travel-blog",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/travel-blog/"
+        },
+        "photography": {
+          "name": "Photography",
+          "catgory": "Blog",
+          "slug": "photography",
+          "preview": "https://demo.afthemes.com/elegant-magazine-pro/photography/"
+        }
+      }
+    }        
   }
-}
+} 
