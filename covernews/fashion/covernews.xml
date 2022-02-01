@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-14 10:54" -->
+	<!-- generator="WordPress/5.8.3" created="2022-01-19 10:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>FASHION</title>
 	<link>https://demo.afthemes.com/covernews/fashion</link>
 	<description>CoverNews Demo Site</description>
-	<pubDate>Fri, 14 May 2021 10:54:34 +0000</pubDate>
+	<pubDate>Wed, 19 Jan 2022 10:04:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/covernews/</wp:base_site_url>
@@ -266,7 +266,7 @@
 	<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://demo.afthemes.com/covernews/fashion/wp-content/uploads/sites/3/2018/08/af-themes-main-dark-150x150.png</url>
@@ -1017,35 +1017,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[One Click Demo Import - log_file_2018-08-08__06-19-28]]></title>
-		<link>https://demo.afthemes.com/covernews/fashion/one-click-demo-import-log_file_2018-08-08__06-19-28/</link>
-		<pubDate>Wed, 08 Aug 2018 06:19:28 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews/fashion/wp-content/uploads/sites/3/2018/08/log_file_2018-08-08__06-19-28.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-08 06:19:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-08 06:19:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-08 06:19:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-08 06:19:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2018-08-08__06-19-28]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/fashion/wp-content/uploads/sites/3/2018/08/log_file_2018-08-08__06-19-28.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/08/log_file_2018-08-08__06-19-28.txt]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/covernews/fashion/2018/06/17/418/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
@@ -1787,6 +1758,63 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://demo.afthemes.com/covernews/fashion/2018/06/17/facebook/</link>
+		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=434</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>434</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[434]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://facebook.com/afthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[cropped-pexels-photo-325044.jpeg]]></title>
 		<link>https://demo.afthemes.com/covernews/fashion/cropped-pexels-photo-325044-jpeg/</link>
 		<pubDate>Sun, 17 Jun 2018 09:15:12 +0000</pubDate>
@@ -2177,6 +2205,38 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[A homepage section]]></title>
+		<link>https://demo.afthemes.com/covernews/fashion/a-homepage-section/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-homepage-section]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Press Center]]></title>
 		<link>https://demo.afthemes.com/covernews/fashion/press-center/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
@@ -2258,63 +2318,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/covernews/fashion/2018/06/17/facebook/</link>
-		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=434</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>434</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:56:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-17 08:56:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-17 08:56:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[facebook]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[434]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://facebook.com/afthemes]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3009,38 +3012,6 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[A homepage section]]></title>
-		<link>https://demo.afthemes.com/covernews/fashion/a-homepage-section/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-homepage-section]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
 		<link>https://demo.afthemes.com/covernews/fashion/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
@@ -3296,6 +3267,226 @@ you! Howeｖеr, hоw coul we communicate?]]></wp:comment_content>
 	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1588278165.8968150615692138671875;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
 			</wp:commentmeta>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>14</wp:comment_id>
+			<wp:comment_author><![CDATA[모바일바둑이]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[hkpcnfackn_hawken@gawab.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[13.58.65.142]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-10-30 08:04:54]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-10-30 08:04:54]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Thanks a bunch for sharing this with all folks you actually realize what you're talking about!
+Bookmarked. Please also consult with my web site =).
+We can have a hyperlink change agreement among us
+
+Look into my web site; <a href="https://vadoogi.com" rel="nofollow ugc">모바일바둑이</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>15</wp:comment_id>
+			<wp:comment_author><![CDATA[사설바둑이]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[acehpjhlfiehaller@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[67.73.245.222]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-02 20:10:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-02 20:10:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am really loving the theme/design of your blog. Do you ever run into any internet browser compatibility issues?
+
+A few of my blog audience have complained about my website 
+not working correctly in Explorer but looks great in Chrome.
+Do you have any tips to help fix this issue?
+
+Review my homepage: <a href="https://vadoogi.com" rel="nofollow ugc">사설바둑이</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>16</wp:comment_id>
+			<wp:comment_author><![CDATA[사설바둑이]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ojglnbopeoprhem@arcor.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[80.90.80.54]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-06 08:47:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-06 08:47:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi! Would you mind if I share your blog with my myspace group?
+There's a lot of people that I think would really enjoy your content.
+Please let me know. Thank you
+
+My site; <a href="https://www.vadoogi.com" rel="nofollow ugc">사설바둑이</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>17</wp:comment_id>
+			<wp:comment_author><![CDATA[바둑이사이트]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[pfhdkbjigg.coggins@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[202.28.154.180]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-09 06:46:59]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-09 06:46:59]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am truly delighted to read this blog posts which consists of plenty of useful data, thanks for providing these kinds 
+of data.
+
+Look at my homepage :: <a href="https://www.vadoogi.com" rel="nofollow ugc">바둑이사이트</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>18</wp:comment_id>
+			<wp:comment_author><![CDATA[사설토토]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[eppbdlnkfl.doran@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.toto-agenc.com/editorial</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[52.8.230.224]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-11 15:29:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-11 15:29:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Wonderful post however I was wondering if you could write a litte more on this 
+subject? I'd be very grateful if you could elaborate a little bit more.
+Thank you!
+
+Feel free to visit my webpage: <a href="https://www.toto-agenc.com/editorial" rel="nofollow ugc">사설토토</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>19</wp:comment_id>
+			<wp:comment_author><![CDATA[모바일바둑이]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[fahjjkmhkdbm.wall@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.182.11.103]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-26 09:13:59]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-26 09:13:59]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[whoah this weblog is excellent i really like studying your articles.
+Stay up the great work! You know, lots of individuals are looking around for this info, you can aid them greatly.
+
+
+My web site ... <a href="https://vadoogi.com" rel="nofollow ugc">모바일바둑이</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>20</wp:comment_id>
+			<wp:comment_author><![CDATA[바둑이사이트]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[oeilflhebibdestrada@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.182.11.103]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-26 09:59:02]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-26 09:59:02]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I am regular reader, how are you everybody? This piece of writing posted at this web 
+page is really nice.
+
+Look into my web blog :: <a href="https://www.vadoogi.com" rel="nofollow ugc">바둑이사이트</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>21</wp:comment_id>
+			<wp:comment_author><![CDATA[best kitchen accessory]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[cleoorth@gawab.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.genuss-werk.de</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.77.217.100]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-16 16:42:48]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-16 16:42:48]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Defrost frozen foods in minutes safely and naturally with our THAW KING™.
+
+
+50% OFF for the next 24 Hours ONLY + FREE Worldwide Shipping 
+for a LIMITED 
+
+Buy now: thawking.store]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>22</wp:comment_id>
+			<wp:comment_author><![CDATA[fx마진거래]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[emkfahlaninlj.mull@web.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.youtube.com/channel/UCtvxlXXfsq7FoDMbTz_TFcA</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[138.186.137.207]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-06 06:27:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-06 06:27:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[A person necessarily help to make severely articles I 
+might state. That is the first time I frequented your website page 
+and thus far? I surprised with the research you made to make this actual put up incredible.
+Excellent activity!
+
+Check out my webpage <a href="https://www.youtube.com/channel/UCtvxlXXfsq7FoDMbTz_TFcA" rel="nofollow ugc">fx마진거래</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>23</wp:comment_id>
+			<wp:comment_author><![CDATA[¸ÔĆ˘°ËÁő]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[hafmiolojnffpfhendrick@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[191.102.135.115]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-08 16:22:29]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-08 16:22:29]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Howdy are using Wordpress for your site platform?
+I'm new to the blog world but I'm trying to get started and 
+create my own. Do you need any html coding expertise to make your own blog?
+Any help would be really appreciated!
+
+Review my blog ... 사설바둑이 (<a href="https://vadoogi.com" rel="nofollow ugc">¸ÔĆ˘°ËÁő</a>)]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>24</wp:comment_id>
+			<wp:comment_author><![CDATA[바둑이사이트]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ojlgmdddialbbb_coulston@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[181.177.111.85]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-12 01:24:30]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-12 01:24:30]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I have been browsing online more than 3 hours today, yet I never found any interesting article like yours.
+It is pretty worth enough for me. Personally, 
+if all website owners and bloggers made good content as you did, the web will be much more useful than ever before.
+
+
+Here is my webpage :: <a href="https://vadoogi.com" rel="nofollow ugc">바둑이사이트</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>25</wp:comment_id>
+			<wp:comment_author><![CDATA[바둑이사이트]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[iblbhiapbldjeklund@gmx.net]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.vadoogi.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[141.101.105.94]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-18 10:10:05]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-18 10:10:05]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Really no matter if someone doesn't know then its up to other visitors that they will help,
+so here it takes place.
+
+Look into my homepage; <a href="https://www.vadoogi.com" rel="nofollow ugc">바둑이사이트</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>

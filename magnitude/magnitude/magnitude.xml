@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-05-17 11:26" -->
+	<!-- generator="WordPress/5.9" created="2022-01-28 06:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magnitude</title>
 	<link>https://demo.afthemes.com/magnitude</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Mon, 17 May 2021 11:26:37 +0000</pubDate>
+	<pubDate>Fri, 28 Jan 2022 06:24:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/magnitude/</wp:base_site_url>
@@ -259,7 +259,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>https://demo.afthemes.com/magnitude/wp-content/uploads/2019/04/cropped-af-themes-main-dark-3-32x32.png</url>
@@ -268,7 +268,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">165434994</site>
+
 		<item>
 		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demo.afthemes.com/magnitude/af-themes-main-dark/</link>
@@ -351,6 +351,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:32.75490942808888661375021911226212978363037109375;s:5:"bytes";i:19782;s:11:"size_before";i:60394;s:10:"size_after";i:40612;s:4:"time";d:0.43000000000000004884981308350688777863979339599609375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.469999999999998863131622783839702606201171875;s:5:"bytes";i:4072;s:11:"size_before";i:10867;s:10:"size_after";i:6795;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:38.32000000000000028421709430404007434844970703125;s:5:"bytes";i:12641;s:11:"size_before";i:32988;s:10:"size_after";i:20347;s:4:"time";d:0.2099999999999999922284388276239042170345783233642578125;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:18.559999999999998721023075631819665431976318359375;s:5:"bytes";i:3069;s:11:"size_before";i:16539;s:10:"size_after";i:13470;s:4:"time";d:0.1700000000000000122124532708767219446599483489990234375;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_b14178cd9dd395459ad7914ac7f4a89e]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -873,6 +877,10 @@
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:3.68621140031719374263730060192756354808807373046875;s:5:"bytes";i:6322;s:11:"size_before";i:171504;s:10:"size_after";i:165182;s:4:"time";d:0.270000000000000017763568394002504646778106689453125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.36000000000000031974423109204508364200592041015625;s:5:"bytes";i:156;s:11:"size_before";i:3576;s:10:"size_after";i:3420;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:3.37000000000000010658141036401502788066864013671875;s:5:"bytes";i:217;s:11:"size_before";i:6442;s:10:"size_after";i:6225;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:3.29999999999999982236431605997495353221893310546875;s:5:"bytes";i:763;s:11:"size_before";i:23096;s:10:"size_after";i:22333;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.0999999999999996447286321199499070644378662109375;s:5:"bytes";i:1840;s:11:"size_before";i:36082;s:10:"size_after";i:34242;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}s:21:"newsphere-slider-full";O:8:"stdClass":5:{s:7:"percent";d:5.7400000000000002131628207280300557613372802734375;s:5:"bytes";i:2799;s:11:"size_before";i:48752;s:10:"size_after";i:45953;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:18:"newsphere-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:34242;s:10:"size_after";i:34242;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:2.8300000000000000710542735760100185871124267578125;s:5:"bytes";i:547;s:11:"size_before";i:19314;s:10:"size_after";i:18767;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e21fc5b5bae9ffb6f1c10d6245804cec]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_EGXAZF4D7D.jpg]]></title>
@@ -917,6 +925,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.58235474318390689774105339893139898777008056640625;s:5:"bytes";i:13667;s:11:"size_before";i:244825;s:10:"size_after";i:231158;s:4:"time";d:0.1499999999999999944488848768742172978818416595458984375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.71999999999999975131004248396493494510650634765625;s:5:"bytes";i:372;s:11:"size_before";i:6502;s:10:"size_after";i:6130;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:7.910000000000000142108547152020037174224853515625;s:5:"bytes";i:277;s:11:"size_before";i:3501;s:10:"size_after";i:3224;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:7.03000000000000024868995751603506505489349365234375;s:5:"bytes";i:1642;s:11:"size_before";i:23351;s:10:"size_after";i:21709;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:7.04000000000000003552713678800500929355621337890625;s:5:"bytes";i:2905;s:11:"size_before";i:41291;s:10:"size_after";i:38386;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:21:"newsphere-slider-full";O:8:"stdClass":5:{s:7:"percent";d:6.589999999999999857891452847979962825775146484375;s:5:"bytes";i:5626;s:11:"size_before";i:85367;s:10:"size_after";i:79741;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:18:"newsphere-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:38386;s:10:"size_after";i:38386;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:6.12999999999999989341858963598497211933135986328125;s:5:"bytes";i:2845;s:11:"size_before";i:46427;s:10:"size_after";i:43582;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_6dc8707b808eea9ac553ad04cc5937ce]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1084,6 +1096,10 @@
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:14.2105665570762287330808248952962458133697509765625;s:5:"bytes";i:9293;s:11:"size_before";i:65395;s:10:"size_after";i:56102;s:4:"time";d:0.25;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:4:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:22.379999999999999005240169935859739780426025390625;s:5:"bytes";i:916;s:11:"size_before";i:4093;s:10:"size_after";i:3177;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:8.78999999999999914734871708787977695465087890625;s:5:"bytes";i:831;s:11:"size_before";i:9459;s:10:"size_after";i:8628;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:12.46000000000000085265128291212022304534912109375;s:5:"bytes";i:5047;s:11:"size_before";i:40491;s:10:"size_after";i:35444;s:4:"time";d:0.11000000000000000055511151231257827021181583404541015625;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:22.010000000000001563194018672220408916473388671875;s:5:"bytes";i:2499;s:11:"size_before";i:11352;s:10:"size_after";i:8853;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c124a4aa7825102cf21ad9cea9acb60c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_YZTR1MJBMJ]]></title>
@@ -1158,6 +1174,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_9574cf5db3d4ea9f8a8001feaed789ef]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_Q7A9VNQMKW.jpg]]></title>
@@ -1194,6 +1214,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_bea813a3a517ff32fd68e65d88e8bd7d]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1232,6 +1256,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-3]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e0a1a8f01474df557292efedfee6ae44]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_QKKY48VG3H.jpg]]></title>
@@ -1268,6 +1296,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_30c4801c043c06127bc0ed98957a1b2c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1346,6 +1378,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_946e9db5573c1392ab372ebc5f5fc694]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2155,6 +2191,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_6ebfabfd026a8f51d9b30886b598801f]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[header-promotion-5]]></title>
@@ -2225,6 +2265,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_41a05d1987134a7cb51963a4da3d2542]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[header-promotion-6]]></title>
@@ -2294,6 +2338,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_211f1f30d07b9bb0299141cf9c789d52]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2464,34 +2512,9 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[One Click Demo Import - log_file_2019-08-10__09-40-16]]></title>
-		<link>https://demo.afthemes.com/magnitude/one-click-demo-import-log_file_2019-08-10__09-40-16/</link>
-		<pubDate>Sat, 10 Aug 2019 09:40:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magnitude/wp-content/uploads/2019/08/log_file_2019-08-10__09-40-16.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-10 09:40:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-10 09:40:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-08-10 09:40:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-08-10 09:40:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2019-08-10__09-40-16]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magnitude/wp-content/uploads/2019/08/log_file_2019-08-10__09-40-16.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/log_file_2019-08-10__09-40-16.txt]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_96c6c87a7c885701de1819349874d729]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2684,6 +2707,69 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/magnitude/blog/2018/06/17/429/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=429</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+				 						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>429</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:53:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-17 08:53:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[429]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Subscription]]></title>
 		<link>https://demo.afthemes.com/magnitude/blog/mc4wp-form/subscription/</link>
 		<pubDate>Fri, 14 Jun 2019 08:40:17 +0000</pubDate>
@@ -2750,6 +2836,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[banner-advertisement-section]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_30c741c7356d0aa4fc31d086fc59c8e6]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_VZCWAEF5YN.jpg]]></title>
@@ -2787,6 +2877,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_28a65715c226251fd1b41649ff02cd60]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_ZT9WYAA3Y2.jpg]]></title>
@@ -2823,6 +2917,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_12be1e99f54aca9242ae5e031ffda4d6]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2898,6 +2996,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[featured-category-image-4]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_313d32c7121c5c6812b72ac9ea17e394]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark-2.png]]></title>
@@ -2934,6 +3036,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_ba714488c28605a8a456453ade2e4363]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3009,6 +3115,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1277;s:4:"file";s:40:"2018/03/cropped-StockSnap_RRSDBIHUMS.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-StockSnap_RRSDBIHUMS-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_RRSDBIHUMS-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-StockSnap_RRSDBIHUMS-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-StockSnap_RRSDBIHUMS-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:21:"magnitude-slider-full";a:4:{s:4:"file";s:41:"cropped-StockSnap_RRSDBIHUMS-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:18:"magnitude-featured";a:4:{s:4:"file";s:41:"cropped-StockSnap_RRSDBIHUMS-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_RRSDBIHUMS-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:40:"cropped-StockSnap_RRSDBIHUMS-350x300.jpg";s:5:"width";i:350;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_4f94548d6a4e6bbb35e71d606385fdbf]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_ZT9WYAA3Y2-1.jpg]]></title>
@@ -3045,6 +3155,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1277;s:4:"file";s:42:"2018/03/cropped-StockSnap_ZT9WYAA3Y2-1.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZT9WYAA3Y2-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZT9WYAA3Y2-1-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZT9WYAA3Y2-1-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZT9WYAA3Y2-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:21:"magnitude-slider-full";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZT9WYAA3Y2-1-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:18:"magnitude-featured";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZT9WYAA3Y2-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZT9WYAA3Y2-1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZT9WYAA3Y2-1-350x300.jpg";s:5:"width";i:350;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c540393295bbb0c90f97bfbfa6220948]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3083,6 +3197,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:42:"2018/03/cropped-StockSnap_YZTR1MJBMJ-2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-StockSnap_YZTR1MJBMJ-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_YZTR1MJBMJ-2-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-StockSnap_YZTR1MJBMJ-2-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-StockSnap_YZTR1MJBMJ-2-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:21:"magnitude-slider-full";a:4:{s:4:"file";s:43:"cropped-StockSnap_YZTR1MJBMJ-2-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:18:"magnitude-featured";a:4:{s:4:"file";s:43:"cropped-StockSnap_YZTR1MJBMJ-2-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_YZTR1MJBMJ-2-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:42:"cropped-StockSnap_YZTR1MJBMJ-2-350x300.jpg";s:5:"width";i:350;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_3f47a48aa6f8cc7dc09bebd1c2d51fac]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_DE3NRX2TIF.jpg]]></title>
@@ -3119,6 +3237,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:40:"2018/03/cropped-StockSnap_DE3NRX2TIF.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-StockSnap_DE3NRX2TIF-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_DE3NRX2TIF-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-StockSnap_DE3NRX2TIF-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-StockSnap_DE3NRX2TIF-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:21:"magnitude-slider-full";a:4:{s:4:"file";s:41:"cropped-StockSnap_DE3NRX2TIF-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:18:"magnitude-featured";a:4:{s:4:"file";s:41:"cropped-StockSnap_DE3NRX2TIF-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_DE3NRX2TIF-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:40:"cropped-StockSnap_DE3NRX2TIF-350x300.jpg";s:5:"width";i:350;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_ba9ce75a9d67ffd63ebb6f4e761b3905]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3157,6 +3279,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1277;s:4:"file";s:40:"2018/03/cropped-StockSnap_H1Z9XKGSBQ.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-StockSnap_H1Z9XKGSBQ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_H1Z9XKGSBQ-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-StockSnap_H1Z9XKGSBQ-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-StockSnap_H1Z9XKGSBQ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:21:"magnitude-slider-full";a:4:{s:4:"file";s:41:"cropped-StockSnap_H1Z9XKGSBQ-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:18:"magnitude-featured";a:4:{s:4:"file";s:41:"cropped-StockSnap_H1Z9XKGSBQ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_H1Z9XKGSBQ-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:40:"cropped-StockSnap_H1Z9XKGSBQ-350x300.jpg";s:5:"width";i:350;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_9d4476f60e68c573e57e5ab18a7f5994]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-header-promotion-6-3.jpg]]></title>
@@ -3193,6 +3319,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:100;s:4:"file";s:40:"2019/08/cropped-header-promotion-6-3.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-header-promotion-6-3-150x100.jpg";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"cropped-header-promotion-6-3-300x32.jpg";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"cropped-header-promotion-6-3-768x83.jpg";s:5:"width";i:768;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:16:"magnitude-medium";a:4:{s:4:"file";s:40:"cropped-header-promotion-6-3-720x100.jpg";s:5:"width";i:720;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:23:"magnitude-medium-square";a:4:{s:4:"file";s:40:"cropped-header-promotion-6-3-350x100.jpg";s:5:"width";i:350;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_8368b4649df5dfffae4b6dec888c8387]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3279,6 +3409,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:36.0044042084658713065437041223049163818359375;s:5:"bytes";i:55917;s:11:"size_before";i:155306;s:10:"size_after";i:99389;s:4:"time";d:1.3000000000000000444089209850062616169452667236328125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:8:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.469999999999998863131622783839702606201171875;s:5:"bytes";i:4072;s:11:"size_before";i:10867;s:10:"size_after";i:6795;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:38.32000000000000028421709430404007434844970703125;s:5:"bytes";i:12641;s:11:"size_before";i:32988;s:10:"size_after";i:20347;s:4:"time";d:0.2099999999999999922284388276239042170345783233642578125;}s:16:"magnitude-medium";O:8:"stdClass":5:{s:7:"percent";d:18.559999999999998721023075631819665431976318359375;s:5:"bytes";i:3069;s:11:"size_before";i:16539;s:10:"size_after";i:13470;s:4:"time";d:0.190000000000000002220446049250313080847263336181640625;}s:23:"magnitude-medium-square";O:8:"stdClass":5:{s:7:"percent";d:39.25;s:5:"bytes";i:17165;s:11:"size_before";i:43728;s:10:"size_after";i:26563;s:4:"time";d:0.320000000000000006661338147750939242541790008544921875;}s:13:"site_icon-270";O:8:"stdClass":5:{s:7:"percent";d:38.46000000000000085265128291212022304534912109375;s:5:"bytes";i:10442;s:11:"size_before";i:27147;s:10:"size_after";i:16705;s:4:"time";d:0.299999999999999988897769753748434595763683319091796875;}s:13:"site_icon-192";O:8:"stdClass":5:{s:7:"percent";d:30.190000000000001278976924368180334568023681640625;s:5:"bytes";i:2597;s:11:"size_before";i:8602;s:10:"size_after";i:6005;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}s:13:"site_icon-180";O:8:"stdClass":5:{s:7:"percent";d:39.0499999999999971578290569595992565155029296875;s:5:"bytes";i:5611;s:11:"size_before";i:14370;s:10:"size_after";i:8759;s:4:"time";d:0.11999999999999999555910790149937383830547332763671875;}s:12:"site_icon-32";O:8:"stdClass":5:{s:7:"percent";d:30.050000000000000710542735760100185871124267578125;s:5:"bytes";i:320;s:11:"size_before";i:1065;s:10:"size_after";i:745;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_dcff4d00bc8201e339b74297295d766f]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3409,69 +3543,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021-04-22]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magnitude/blog/2018/06/17/429/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=429</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-				 						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>429</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:53:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-17 08:53:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[429]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5768,6 +5839,67 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Full Title before Image]]></title>
+		<link>https://demo.afthemes.com/magnitude/blog/2021/05/05/full-title-before-image/</link>
+		<pubDate>Thu, 22 Apr 2021 10:46:56 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magnitude/?p=793</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>793</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-05 09:48:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-22 10:46:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-05 09:48:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-05 09:48:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[full-title-before-image]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[775]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[793]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/magnitude-pro/sport-pro/category/leagues-clubs/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-22]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://demo.afthemes.com/magnitude/?page_id=3</link>
 		<pubDate>Sat, 10 Aug 2019 06:24:29 +0000</pubDate>
@@ -5793,6 +5925,57 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.afthemes.com/magnitude/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-11 09:46:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-11 09:46:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5923,67 +6106,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Full Title before Image]]></title>
-		<link>https://demo.afthemes.com/magnitude/blog/2021/05/05/full-title-before-image/</link>
-		<pubDate>Thu, 22 Apr 2021 10:46:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magnitude/?p=793</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>793</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-05 09:48:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-04-22 10:46:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-05 09:48:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-05 09:48:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[full-title-before-image]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[775]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[793]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/magnitude-pro/sport-pro/category/leagues-clubs/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-04-22]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6880,57 +7002,6 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/magnitude/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-08-11 09:46:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-08-11 09:46:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8629,6 +8700,227 @@ Entrenjar músculos <a href="http://realeducated.com/forums/discussion/54862/reg
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>276</wp:comment_id>
+			<wp:comment_author><![CDATA[web page]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[zoerestrepo@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://geko.h619885.linp080.arubabusiness.it/index.php?title=Rekam_N97_:_Templat_Situs_Web_Taruhan_Online</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[103.68.172.94]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-05-24 01:58:16]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-05-24 01:58:16]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I read this post completely on the topic of the difference of 
+most up-to-date andd earlier technologies, it's amazijg article.
+
+
+Taruhan pada pertandingan <a href="https://geko.h619885.linp080.arubabusiness.it/index.php?title=Rekam_N97_:_Templat_Situs_Web_Taruhan_Online" rel="nofollow ugc">web page</a> parimatch]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>278</wp:comment_id>
+			<wp:comment_author><![CDATA[peter comisar sued for fraud]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[eliasdreher@inbox.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.cnn.com/cnews/peter-comisar-disgraced-ex-goldman-sachs-banker-sued-for-fraud</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[186.179.40.63]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-06-04 00:01:51]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-06-04 00:01:51]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hｅy There. I fond your blog using msn. This іs a really well written article.
+I'll bee sure to bоokmarқ it and return to read moгe of your useful information. Thanks for 
+the post. I will definitely comeback.
+
+Here іis my web page - <a href="http://www.cnn.com/cnews/peter-comisar-disgraced-ex-goldman-sachs-banker-sued-for-fraud" rel="nofollow ugc">peter comisar sued for fraud</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>280</wp:comment_id>
+			<wp:comment_author><![CDATA[web page]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[annepappas@aol.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://wiki.biljartscore.nl/doku.php?id=%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8_n_36</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[212.89.188.115]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-06-12 21:06:33]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-06-12 21:06:33]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, I do think this is a great site. I stumbledupon it ;) I am 
+oing to return yet again since I saved as a favorite it.
+Money and freedom is the greatest way to change, may you be rich and continue to guide others.
+
+คาสิโนออนไลน์หาเงิน <a href="http://wiki.biljartscore.nl/doku.php?id=%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8_n_36" rel="nofollow ugc">web page</a> รูเล็ต]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>283</wp:comment_id>
+			<wp:comment_author><![CDATA[web page]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[theodoreivey@gawab.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://iatpi.org/forum/profile/johniegerste35/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[119.42.123.242]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-12 00:18:28]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-12 00:18:28]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I visited multiple websites except the audio feature for audio songs present 
+at this web sitge is inn fact excellent.
+
+Online football betting parimatch <a href="http://iatpi.org/forum/profile/johniegerste35/" rel="nofollow ugc">web page</a>taruhan tenis 
+parimatch]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>297</wp:comment_id>
+			<wp:comment_author><![CDATA[webpage]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[caracarden@aol.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://peloride.com/community/profile/jimotoole284083/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.244.217.3]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-09 06:14:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-09 06:14:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Oh my goodness! Incredible article dude! Many thanks, However I am experiencing problems with your RSS.
+I don't undertand the reason whyy I can't join it.
+Is there anybody else having similar RSS issues? Anybody who knows the answer can you kindly respond?
+Thanx!!
+<a href="https://peloride.com/community/profile/jimotoole284083/" rel="nofollow ugc">webpage</a>
+
+For example, suppose you wish to make a $5 Pass Line guess but all 
+you have got are inexperienced $25 chips. The taste is also, 
+as you recognize, alll the time just like the butt, so look round yourself earlier than you determine on an internet on line casino that appears to suit.
+PokerStars wipl then creditt your account with £20 price off free 
+play money and tournament tokens.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>301</wp:comment_id>
+			<wp:comment_author><![CDATA[homepage]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[kalavincent@arcor.de]]></wp:comment_author_email>
+			<wp:comment_author_url>https://ostfrieslan.de/community/profile/sharipainter22/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[103.9.190.186]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-11 01:06:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-11 01:06:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Fantastic best ! I would like to apprentice whilst you amend your site, how could i subscribe for a blog site?
+The account aided me a acceptable deal. I were a little bit familiar of this your broadcast offered bright transparent concept
+<a href="https://ostfrieslan.de/community/profile/sharipainter22/" rel="nofollow ugc">homepage</a>
+
+The vast majority of video games are slots, which is smart, as slots are by far the most popular sort of online on line casino games.
+
+Microsoft, Google, Apple and Facebook are additionally touting how the know-how can change annd enhance our lives.
+Women and men can interact in on-line playing sport titles 
+from staying at attributes, and here you do not should see all web on line casino facility.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>302</wp:comment_id>
+			<wp:comment_author><![CDATA[homepage]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[michalgoodisson@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://coldwarexperience.com/community/profile/erin79y54812434/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[103.155.169.253]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-11 22:00:03]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-11 22:00:03]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Its like you read my mind! Yoou appear to knokw so much abot this, like you 
+wrote the book in it orr something. I think that you could do with some pics to 
+drive the message home a bit, but instead of that, this is great blog.
+A grat read. I'll certainly be back.
+Klub r ussia <a href="https://coldwarexperience.com/community/profile/erin79y54812434/" rel="nofollow ugc">homepage</a> keberuntungan kasino]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>303</wp:comment_id>
+			<wp:comment_author><![CDATA[web page]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[marcelwhitt@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://om-om.com/index.php?title=Artyku%C5%82_%E2%84%96_3_9_Co_Pentagon_Mo%C5%BCe_Nauczy%C4%87_Ci%C4%99_O_Najlepszych_Miejscach_Kasynowych</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[45.182.105.249]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-13 11:14:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-13 11:14:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi! I just wanted to ask if you ever have any issues with hackers?
+My last blog (wordpress) was hacked and 
+I ended up losing a few months of hard work due to no backup.
+
+Do youu have any solutions to stop hackers?
+Kasyno w internecie <a href="http://om-om.com/index.php?title=Artyku%C5%82_%E2%84%96_3_9_Co_Pentagon_Mo%C5%BCe_Nauczy%C4%87_Ci%C4%99_O_Najlepszych_Miejscach_Kasynowych" rel="nofollow ugc">web page</a> 
+kasyno przez internet]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>304</wp:comment_id>
+			<wp:comment_author><![CDATA[web site]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[roxanaheilman@arcor.de]]></wp:comment_author_email>
+			<wp:comment_author_url>http://devilena.com/index.php/community/profile/wadeballentine/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[177.87.35.130]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-16 15:09:19]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-16 15:09:19]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I do agree with all of the ideas you've offered in your post.
+They are very convincing and can certainly work.
+Nonetheless, the posts are very brief for beginners. May just you please prolong them a 
+bit from next time? Thasnks for the post.
+<a href="http://devilena.com/index.php/community/profile/wadeballentine/" rel="nofollow ugc">web site</a>
+
+Anyy online casino value its salt will provide players with a generous collection of promotions.
+So whether or noot you need to play soje slots oon your ppill while you’re lounging on the sofa,
+or pllay just a few fingers of blackjack whilee you’re waiting to your flight, Sports Interaction mqkes 
+it easy. That signiufies that if you are a lousy poker player, your 
+chances of going broke are high.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>311</wp:comment_id>
+			<wp:comment_author><![CDATA[web page]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[rose_hueber@inbox.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.thatsockcomic.com/community/profile/tiffanypkr75599/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[180.183.3.47]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-26 19:06:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-26 19:06:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello would youu mind stating which blog platform you're workingg 
+with? I'm going to stat my own blog in the ndar future but I'm having a tough time choosing between BlogEngine/Wordpress/B2evolution and 
+Drupal. The reason I ask is because your design and style seems different then most blogs 
+and I'm looking for sometthing completely 
+unique.                  P.S Sory ffor getting off-topic buut I had to ask!
+
+<a href="https://www.thatsockcomic.com/community/profile/tiffanypkr75599/" rel="nofollow ugc">web page</a>
+
+It wasn’t that earnings weren’t good, it was that the people who wished too make income wished a lot greater than they have bee getting.
+Whether they are travelling .caught in traffic or waiting for one thing simply by opening their 
+cellphone, the players can begin the playing tour. This 
+two-manner cut upp permits you to completely sample all the William Hill Bingo goods.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>329</wp:comment_id>
+			<wp:comment_author><![CDATA[homepage]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[marianaportus@peacemail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://earlyretirementnow.com/Forum/profile/mariw6971022048/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[8.44.63.11]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-12 21:10:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-12 21:10:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Way cool! Some very valid points! I appreciate you writing this write-up and the rest of the site is 
+extremely good.
+Grey french bbulldog <a href="https://earlyretirementnow.com/Forum/profile/mariw6971022048/" rel="nofollow ugc">homepage</a> bulldolg french]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
 					<item>
 		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
@@ -8740,7 +9032,25 @@ Entrenjar músculos <a href="http://realeducated.com/forums/discussion/54862/reg
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>317</wp:comment_id>
+			<wp:comment_author><![CDATA[asfaleiaautokinhtou.com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[faytorreggiani@live.de]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.asfaleiaautokinhtou.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[45.92.246.206]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-10-16 06:30:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-10-16 06:30:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[It's fantastic that you are getting ideas 
+from this piece of writing as well as from our discussion made here.
+
+
+Feel free to surf to my web page ... <a href="http://www.asfaleiaautokinhtou.com" rel="nofollow ugc">asfaleiaautokinhtou.com</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
 		<link>https://demo.afthemes.com/magnitude/blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
@@ -12914,6 +13224,1183 @@ Click to : https://ether2x.net]]></wp:comment_content>
 			<wp:comment_date><![CDATA[2021-04-27 06:37:19]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2021-04-27 06:37:19]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Symbios Club обзор: https://www.youtube.com/watch?v=peqCZtDvbkY]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>277</wp:comment_id>
+			<wp:comment_author><![CDATA[Rukred]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[saftulih@yandex.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://drawing-portal.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[92.255.198.132]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-05-26 16:42:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-05-26 16:42:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://drawing-portal.com" rel="nofollow ugc">Portal about drawing</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>279</wp:comment_id>
+			<wp:comment_author><![CDATA[Terrybut]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[maygrigory2021@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[194.68.44.127]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-06-05 21:33:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-06-05 21:33:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a>.</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>281</wp:comment_id>
+			<wp:comment_author><![CDATA[Mienzgotte]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[elupusor@foxmaily.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://fmohconnect.gov.ng/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[176.31.226.2]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-06-17 07:54:44]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-06-17 07:54:44]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[concept of primary health care https://www.fmohconnect.gov.ng/policy_planning.html]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>282</wp:comment_id>
+			<wp:comment_author><![CDATA[hclickscomfzjy]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[hclicks@rambler.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://hclicks.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.76.250.25]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-08 19:27:35]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-08 19:27:35]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello! 
+This is Greg an I am owner of https://hClicks.com 
+I just noticed that your site notunkhobor.net does not contain push notifications and I would like to offer you the highest rates for this type of ad! 
+Only one step and you will start to get profit. 
+Do you want to know our advantages? 
+-&gt; Anti-AdBlock Domains 
+-&gt; Personal approach 
+-&gt; Daily payments 
+To get the maximum rates, please send your request with a personal code to our support team hClicks-notunkhobor.net-2021. 
+We are waiting for you 
+https://hClicks.com]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>284</wp:comment_id>
+			<wp:comment_author><![CDATA[Vanessabut]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[vanessalawjn@nettirautakauppa.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://epriser.ettilbud.online</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[66.115.165.232]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-16 15:36:11]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-16 15:36:11]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[A month ago, when a 37-year-old disciplined of a Singapore boarding minor high university after people with cerebral disorders was diagnosed with a coronavirus, the control of the vault did not old woman a panic. Triumphant into account the specifics of the habitation, all its staff and most of the derelict well-being inhabitants were vaccinated against Covid-19 as being at endanger lodged with someone in February-March. Anyway, uncorrupted in breast, the boarding facilities of life was closed to keep quarantine, and all employees, patients and other people who recently communicated with the of unsound mind steward or her tend were quarantined and began to be regularly tested. History the next week, the virus was detected in three dozen people, including the 30-year-old action towards in the quelling area from the Philippines, as grammatically as four other employees of the boarding nub of gauge and 26 of its changeless residents. Most of those infected were fully vaccinated against Covid-19... You can impute to another article on this phenomenon at this vinculum  <a href="https://pensum.en-rabat.site" rel="nofollow ugc">https://irugs.angebot.site</a>  Now everything is clear, thank you for your help in this matter..]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>285</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreveryTit]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.79.84.116]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-17 17:54:52]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-17 17:54:52]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[url=https://www.skyrevery.com/destinations/private-jet-genoa/]Genoa Private Jet Charter [/url]        -  more information on our website [url=https://skyrevery.com]skyrevery.com[/url] 
+[url=https://skyrevery.com/]Private jet rental[/url] at SkyRevery allows you to use such valuable resource as time most efficiently. 
+You are the one who decides where and when your private jet will fly. It is possible to organize and perform a flight between any two civil airports worldwide round the clock. In airports, private jet passengers use special VIP terminals where airport formalities are minimized, and all handling is really fast – you come just 30 minutes before  the estimated time of the departure of the rented private jet. 
+When you need [url=https://skyrevery.com/]private jet charter[/url] now, we can organise your flight with departure in 3 hours from confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>286</wp:comment_id>
+			<wp:comment_author><![CDATA[ecoRef]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[gladys@general-contractor-ny.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://eco-corporation.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[2.95.69.230]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-18 05:17:02]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-18 05:17:02]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[https://eco-corporation.ru - Установка септика в частном доме 
+ 
+Септики - это несложная сборка с специфической конструкцией перелива, фильтрации и сложной электроникой
+Это в целом предоставляет вам гарантию того момента, что автономная канализация работает без перебоев в течение многих лет.
+Большой уровень производства септиков
+Наша международная компания занимается не только лишь проектированием и сборкой, профессионалы дополнительно делают последующее сопровождение автономной канализации.
+Для вас мы предлагаем высококлассные сервис по монтажу автономной канализации под ключ, владеем исключительной методикой и частным подходом к работе.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>287</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreveryGeago]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.79.84.116]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-22 06:04:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-22 06:04:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.skyrevery.com/destinations/private-jet-florence/" / rel="nofollow ugc">Florence Private Jet Charter </a>        -  more information on our website <a href="https://skyrevery.com" rel="nofollow ugc">skyrevery.com</a> 
+<a href="https://skyrevery.com/" / rel="nofollow ugc">Private jet rental</a> at SkyRevery allows you to use such valuable resource as time most efficiently. 
+You are the one who decides where and when your private jet will fly. It is possible to organize and perform a flight between any two civil airports worldwide round the clock. In airports, private jet passengers use special VIP terminals where airport formalities are minimized, and all handling is really fast – you come just 30 minutes before  the estimated time of the departure of the rented private jet. 
+When you need <a href="https://skyrevery.com/" / rel="nofollow ugc">private jet charter</a> now, we can organise your flight with departure in 3 hours from confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>288</wp:comment_id>
+			<wp:comment_author><![CDATA[Turbinstise]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[change66@bk.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>http://devinkqyd58246.ampblogs.com/--37633991</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[138.199.59.142]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-25 19:54:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-25 19:54:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Нашёл качественную услугу по продвижению: размещение ваших статей на сайтах Вордпресс. 
+Вы получаете на сайт статьи и тексты с ссылками, которые совершенно верно передадут вес с донора на ваш сайт. 
+Таким образом легко возможно поднимать НЧ, а также подтаскивать вверх СЧ и ВЧ запросы. Кроме этого вероятен рост ИКСа. 
+Статейное продвижение полностью безопасно и идеально подойдет, как для молодых сайтов, так и для остальных, и придадут траст вашему сайту. 
+ 
+<a href="https://cruzvgmr02457.rimmablog.com/2007723/" / rel="nofollow ugc">РЎРґРµР»Р°СЋ СѓСЃР»СѓРіСѓ РїРѕ С‚СЂР°С„РёРєСѓ РЅР° РІР°С€ СЃР°Р№С‚ РІ РіРѕСЂРѕРґРµ РљР°СЂР°С‡Р°РµРІСЃРє </a> 
+<a href="https://mylesdpxe69147.ssnblog.com/5524479/РћС‡РµРЅСЊ-РєР°С‡РµСЃС‚РІРµРЅРЅС‹Р№-С‚СЂР°С„РёРє-РЅР°-РІР°С€-СЃР°Р№С‚" rel="nofollow ugc">РћРєР°Р·Р°РЅРёРµ СѓСЃР»СѓРіРё РїРѕ РїСЂРѕРґРІРёР¶РµРЅРёСЋ СЃР°Р№С‚РѕРІ РІ РїСЂРѕРєР°С‡Р°РЅРЅС‹С… Р±Р»РѕРіР°С… РєР°С‡РµСЃС‚РІРµРЅРЅРѕ РІ РіРѕСЂРѕРґРµ Р—СѓР±РѕРІР° РџРѕР»СЏРЅР° </a> 
+<a href="https://andersoncisp89688.ltfblog.com/5564007/РћС‡РµРЅСЊ-РєР°С‡РµСЃС‚РІРµРЅРЅС‹Р№-С‚СЂР°С„РёРє-РЅР°-РІР°С€-СЃР°Р№С‚" rel="nofollow ugc">Р’С‹РїРѕР»РЅСЋ СѓСЃР»СѓРіСѓ РїРѕ СЂР°Р·РјРµС‰РµРЅРёСЋ СЃС‚Р°С‚РµР№ РЅР° СЃР°Р№С‚Р°С… Р±С‹СЃС‚СЂРѕ РўР°С‚С‚С‹ </a> 
+<a href="http://beauofwl54432.mybjjblog.com/-16833404" rel="nofollow ugc">Р’С‹РїРѕР»РЅСЋ СѓСЃР»СѓРіСѓ РїРѕ PBN СЃСЃС‹Р»РєР°Рј СЌС„С„РµРєС‚РёРІРЅРѕ РІ РіРѕСЂРѕРґРµ Р‘РѕРЅРґР°СЂРё </a> 
+<a href="https://ricardoskta69369.idblogmaker.com/5550569/pbn-500-РЎСЃС‹Р»РѕРє-РЅР°-Р’Р°С€-РЎР°Р№С‚" rel="nofollow ugc">РћРєР°Р·Р°РЅРёРµ СѓСЃР»СѓРіРё РїРѕ СЃС‚Р°С‚РµР№РЅРѕРјСѓ РїСЂРѕРґРІРёР¶РµРЅРёСЋ РІ РіРѕСЂРѕРґРµ РќРѕРІС‹Р№ РЈСЂРµРЅРіРѕР№ </a> 
+<a href="http://beaugpux36802.mybuzzblog.com/6901909/РџСЂРѕС„РёР»Рё-Р РµРіРёСЃС‚СЂР°С†РёРё-Рё-СЂР°Р·РјРµС‰РµРЅРёРµ-РёС…-РЅР°-СЃР°Р№С‚Р°С…-Рё-Р±Р»РѕРіР°С…" rel="nofollow ugc">РЈСЃР»СѓРіР° РїРѕ СЃРѕР·РґР°РЅРёСЋ PBN СЃСЃС‹Р»РєРё Р±С‹СЃС‚СЂРѕ РІ РіРѕСЂРѕРґРµ РљСЂС‹Р»РѕРІРѕ </a> 
+ 
+=R=]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>289</wp:comment_id>
+			<wp:comment_author><![CDATA[Antonysum]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[vanya.sergeesergeev@yandex.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tvoydogovor.ru</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.119.3]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-26 04:40:06]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-26 04:40:06]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Например, договор подряда на строительство несколько отличается от бытового договора. 
+ 
+Такой договор является возмездным, взаимным вдобавок консенсуальным. Предметом такого соглашения является результат исполненной работы. 
+ 
+Оба экземпляра идентичны как и имеют одинаковую силу. У каждой из сторон находится один экземпляр настоящего договора. 
+ 
+Объект должен быть сдан точно в срок, предусмотренный в договоре. 
+ 
+Согласуйте, в какой срок заказчик подписывает акт как и указывает замечания. Здесь же — допустимое количество доработок. 
+ 
+<a href="https://tvoydogovor.ru/sotrudnichestvo/dogovor-prostogo-tovarishhestva" rel="nofollow ugc">учет вкладов по договору простого товарищества</a> 
+Добавьте, что по истечении срока исполнитель отказывается от договора в одностороннем порядке. 
+ 
+подписи всех сторон договора, если участник считается юр. лицом, то подпись надо закрепить печатью. А права представителей надо подтвердить доверенностью (нотариальной или простой). 
+ 
+Изначально стоит разобрать, в заместо же заключаются отличия. 
+ 
+Без названных условий соглашение не перестань считаться заключенным. Кроме того, в тексте договора стоит отразить также иные согласованные сторонами пункты: 
+ 
+В других вариантах правоустанавливающей документацией установлены ограничения на полномочия руководства. 
+ 
+Договоры оформляются письменно или устно. Но во втором случае имеется два ограничения: 
+ 
+содержание, виды в свой черед объем подлежащих выполнению работ; объект, на котором должны быть выполены работы; 
+ 
+Договор, предметом которого считается оказание услуг, подписывается несколькими участниками сделки (заказчиком, исполнителем). 
+ 
+Например, в услугах на уборку квартиру укажите, что время равным образом время прихода клинера согласовываются в заявке Заказчика.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>290</wp:comment_id>
+			<wp:comment_author><![CDATA[AntonyFic]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[vanya.sergeesergeev@yandex.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tvoydogovor.ru</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.119.3]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-27 12:46:19]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-27 12:46:19]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[К числу распространенных на практике правовых соглашений относится договор на оказание услуг между физическими лицами. Об особенностях этого документа расскажет данная статья. Вам помогут документы также бланки: Бланк договора возмездного оказания услуг Бланк дополнительного соглашения к договору оказания услуг сколько представляет собой договор оказания услуг между физическими лицами сколько необходимо отразить в договоре? 
+ 
+Договор оказания услуг между физ лицами образец Ссылка на основную публикацию 
+ 
+Претензии к юристу возможны лишь при нарушении ним условий контракта, если это предусмотрено соглашением, (например, пропуск суда, пропуск сроков апелляции равным образом т. д.). 
+ 
+Существуют ли типовые формы подобных договоров? Как правило, типовой договор на оказание услуг физическим лицом разрабатывается лишь для какой-то конкретной сферы деятельности (перевозки, аудиторских услуг, договоров с преподавателями равным образом тому подобное) равным образом утверждается государственными органами, крупными компаниями или общественными организациями в целях экономии времени структурных подразделений при составлении как и заключении таких договоров. 
+ 
+Полезные ссылки по теме "Образец договора выполнения работ (подряда)" 
+ 
+<a href="https://tvoydogovor.ru/arenda/kak-sostavit-dogovor-subarendy" rel="nofollow ugc">договор субаренды помещения образец</a> 
+Итог подобных услуг является бессмертно материальным вдобавок передаётся заказчикам. Данный договор обычно заключают при необходимости изготовления, обработки или переработки конкретных изделий. 
+ 
+Договоры на оказание услуг бывают с конкретным сроком равным образом на неопределённый срок. 
+ 
+Как составить акт приемки выполненных работ Как правильно составить акт приема-передачи товара, оборудования в свой черед другого имущества 
+ 
+санкции за несвоевременное оказание услуг либо за нарушение срока оплаты; 
+ 
+При подряде на строительстве – для возведения по заданию заказчика объекта. 
+ 
+Договоренность о порядке выполнения взаиморасчетов между сторонами 
+ 
+В зависимости от вида выполняемых работ, в соглашении обозначаются разные существенные условия. 
+ 
+В некоторых случаях обязательно указывать конкретный срок — например, в сфере образования также общепита. 
+ 
+Например, в услугах на уборку квартиру укажите, что благовремение в свой черед время прихода клинера согласовываются в заявке Заказчика.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>291</wp:comment_id>
+			<wp:comment_author><![CDATA[Bennymoite]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[olegivanover1@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://black-quail-60.anttunnel.com/?s1=Money</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[77.222.117.245]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-31 01:24:12]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-31 01:24:12]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You receive money transfer of 89.44$! Go to official bank website 
+<a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Official bank website</a> <a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Detail</a>:  <a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Official bank website</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>292</wp:comment_id>
+			<wp:comment_author><![CDATA[BennyHef]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[olegivanover1@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://black-quail-60.anttunnel.com/?s1=Money</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[77.222.117.245]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-07-31 01:25:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-07-31 01:25:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You receive money transfer of 89.44$! Go to official bank website 
+<a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Official bank website</a> <a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Detail</a>:  <a href="http://black-quail-60.anttunnel.com/work/drac/?s1=Money" rel="nofollow ugc">Official bank website</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>293</wp:comment_id>
+			<wp:comment_author><![CDATA[JuliyaSed]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[craig4080112@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://mineplex-bot.com/464939433</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[176.114.190.62]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-01 19:41:41]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-01 19:41:41]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[RUS 
+ 
+Мобильный криптобанк нового поколения с собственным ликвидным Токеном на платформе Blockchain. Сегодня цена одного Токена PLEX - $0.50 цента (в октябре 2021 будет очередной халвинг, Токен PLEX  увеличится в 2 или 3 раза), на сегодня минимальная покупка PLEX  за 50 единиц примерно обойдётся в 11 долларов США. Не трудно догадаться сколько PLEX будет стоить примерно через год или три. Давайте вспомним 2009 год когда за 1 доллар США можно было купить 1330 Биткойнов, не сатош а именно Биткойнов(!) -  А сегодня?...  [url=https://mineplex-bot.com/464939433]Более детально на сайте &gt;&gt;&gt;[/url] 
+ 
+ENG 
+ 
+A new generation mobile crypto bank with its own liquid Token on the Blockchain platform. Today, the price of one PLEX Token is $0.50 cents (in October 2021 there will be another halving, the PLEX Token will increase by 2 or 3 times), today the minimum purchase of PLEX for 50 units will cost approximately $ 11. It's not hard to guess how much PLEX will cost in about a year or three. Let's remember 2009, when for 1 US dollar you could buy 1330 Bitcoins, not Satoshi, namely Bitcoins(!) - And today?...  [url=https://mineplex-bot.com/464939433]More details on the website &gt;&gt;&gt;[/url] 
+ 
+[url=https://mineplex-bot.com/464939433][img]http://qrcoder.ru/code/?http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fmine_plex_bot%3Fstart%3D464939433&amp;6&amp;0[/img][/url] 
+ 
+[url=https://mineplex-bot.com/464939433]айпи mineplex[/url]]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>294</wp:comment_id>
+			<wp:comment_author><![CDATA[IhRingebra]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[okna@mobileyell.info]]></wp:comment_author_email>
+			<wp:comment_author_url>https://aken.kiev.ua</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.149.244.245]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-02 06:43:37]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-02 06:43:37]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Фирма "Акен" – ваш оперативный сервис по всем вопросам, связанным со срочным ремонтом окон в Киеве. 
+ 
+Сфера деятельности нашей компании: срочный ремонт окон, регулировка фурнитуры окон всех конструкций и типов, другие работы по обслуживанию пластиковых окон и окон других видов, а также фурнитура для окон, гаджеты для окон и их монтаж. 
+ 
+Наши преимущества: 
+Более 10 лет на рынке; ремонт и регулировка окон в Киеве в течении дня; специалисты высокого уровня квалификации; никакого мусора и грязи в любое время года; собственное производство; оригинальная фурнитура Maco, Roto, Fapim, комплектующие Hoppe; гарантия 6-36 месяцев. 
+ 
+Мы работаем с ПВХ, деревянными (евробрус), мансардными и алюминиевыми окнами. 
+ 
+Наши услуги: 
+•	Регулировка пластиковых окон, регулировка алюминиевых и деревянных окон в Киеве. 
+•	Замена фурнитуры створки окна и двери. 
+•	Детская защита для окон, ручка-защелка, защита от взлома. 
+•	Замена ручки оконной или балконной двери. 
+•	Резиновый уплотнитель (замена и подбор). 
+•	Замена стеклопакетов и стеклопакеты на продажу. 
+ 
+Мы предлагаем ремонт окон, цена которого не бьет по карману! 
+ 
+Акен - качественный сервис окон: <a href="https://aken.kiev.ua" rel="nofollow ugc">стеклопакеты за 3 дня</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>295</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreveryLer]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.79.84.116]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-02 20:21:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-02 20:21:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.skyrevery.com/destinations/private-jet-athens/" / rel="nofollow ugc">Athens Private Jet Charter </a>        -  more information on our website <a href="https://skyrevery.com" rel="nofollow ugc">skyrevery.com</a> 
+<a href="https://skyrevery.com/" / rel="nofollow ugc">Private jet rental</a> at SkyRevery allows you to use such valuable resource as time most efficiently. 
+You are the one who decides where and when your private jet will fly. It is possible to organize and perform a flight between any two civil airports worldwide round the clock. In airports, private jet passengers use special VIP terminals where airport formalities are minimized, and all handling is really fast – you come just 30 minutes before  the estimated time of the departure of the rented private jet. 
+When you need <a href="https://skyrevery.com/" / rel="nofollow ugc">private jet charter</a> now, we can organise your flight with departure in 3 hours from confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>296</wp:comment_id>
+			<wp:comment_author><![CDATA[KaylaraDaype]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[zsktdnit1998@ywq.malsers.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.donnews.ru/Preimuschestva-posutochnoy-arendy-kvartir-v-Minske-cherez-staybookby_117025</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.130.137.95]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-07 10:02:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-07 10:02:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Какая  нужная фраза... супер, отличная идея
+ 
+--- 
+Я разбираюсь в этом вопросе. Давайте обсудим. interesnoe, штонибудь интересное и <a href="http://www.realto.ru/journal/articles/nomer-v-gostinice-ili-kvartira-posutochno-chto-luchshe/" / rel="nofollow ugc">тут</a> интересные факты факты]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>298</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreverymougs]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.227.5.125]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-10 07:02:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-10 07:02:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.skyrevery.com/destinations/private-jet-voronezh/" / rel="nofollow ugc">Voronezh Private Jet Charter </a>        -  more information on our website <a href="https://skyrevery.com" rel="nofollow ugc">skyrevery.com</a> 
+<a href="https://skyrevery.com/" / rel="nofollow ugc">Private jet rental</a> at SkyRevery allows you to use such valuable resource as time most efficiently. 
+You are the one who decides where and when your private jet will fly. It is possible to organize and perform a flight between any two civil airports worldwide round the clock. In airports, private jet passengers use special VIP terminals where airport formalities are minimized, and all handling is really fast – you come just 30 minutes before  the estimated time of the departure of the rented private jet. 
+When you need <a href="https://skyrevery.com/" / rel="nofollow ugc">private jet charter</a> now, we can organise your flight with departure in 3 hours from confirmation.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>299</wp:comment_id>
+			<wp:comment_author><![CDATA[Venos#genVladimir]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[combaincase1666@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://allremont.pp.ua/remont-vtorichka/kachestvenniy-remont-pomesheniy-vtorichka-dvorets-ukraina.php</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.53.116.11]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-10 07:20:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-10 07:20:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Здравствуйте. Начистоту скажу вовек не писал коменты, но здесь другой случай, уделю некоторое время. Вы пишете вконец интересно и познавательно. Есть что почитать и подчертить для себя что то полезное. Я уже давненько почитываю Ваши посты. Создавайте и выставляйие у Вас это неплохо получаеться.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>300</wp:comment_id>
+			<wp:comment_author><![CDATA[LinxaDuct]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[gammasmm@foxmaily.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://hqd.wiki</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[176.31.226.2]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-10 17:00:26]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-10 17:00:26]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://hqd.wiki/" / rel="nofollow ugc">вкусные вкусы hqd</a> 
+ 
+электронные сигареты хрень]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>305</wp:comment_id>
+			<wp:comment_author><![CDATA[Kaitlynmnz]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[andersduquette1968@int.pl]]></wp:comment_author_email>
+			<wp:comment_author_url>https://bumss.xyz/cryptocurrency-conversion-made-easy-with-mastercard/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[185.245.85.235]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-16 17:42:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-16 17:42:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You pass up plenty of matters when you didn't try out CryptoTab Browser yet! It really is the first-at any time browser Along with the crafted-in operate of mining. It not only is effective as the excellent browser, and also makes it possible for to generate bitcoins and to enhance revenue. You can change to CryptoTab without lack of any information. It is achievable to download listed here <a href="https://bumss.xyz/cryptocurrency-conversion-made-easy-with-mastercard/" rel="nofollow ugc">https://bumss.xyz/bitcoin/</a> 
+ 
+https://bumss.xyz/cryptocurrency-conversion-made-easy-with-mastercard/  crypto browser miner]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>306</wp:comment_id>
+			<wp:comment_author><![CDATA[WDBGucky]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[medabortkiev@girlsroom.biz.ua]]></wp:comment_author_email>
+			<wp:comment_author_url>https://medabort.kiev.ua</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[84.17.48.40]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-17 13:18:40]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-17 13:18:40]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Безопасно и быстро предлагаем провести процедуру аборта таблетками под контролем врача при доступной стоимости без непредвиденных затрат! По предварительной записи, вы можете мифепристон и мизопростол купить без рецепта, Украина, с гарантией качества препарата и с контролем доктора на время прохождения этой процедуры. Мы окажем помощь в трудное для вас время без лишних вопросов и анонимно. На сайте есть про медикаментозный аборт как проходит форум с вопросами и ответами, медикаментозный аборт отзывы о процедуре, полный списов FAQ, наши комментарии докторов по побочным эфектам после процедуры. 
+Запишитесь на медикаментозное прерывание беременности в Киеве без затягивания времени, так как прерывание эфективно на 95-98% на раннем сроке до 7 недель согласно протоколу №1177 МОЗ Украины. Также есть вакуум регуляция на разном сроке 7-8 недель, 9-10 недель, 11-12 недель. Включены общий наркоз, УЗИ, анализы. Вакуумный аборт Киев в клинике MedAbortHelp — зависит от срока, но точно самая доступная, без переплат. 
+Опасайтесь делать прерывание у сомнительных специалистов дома, запишитесь к нам, ответственность и лицензия — гарантия контроля безопасности, а стоимость доступная. 
+По предварительной записи можно осуществить прерывание беременности в Киеве в удобной локации. В MedAbortHelp можно купить мифепристон Киев, принять  под контролем доктора для прерывания беременности без хирургического вмешательства. Медаборт не требует применение анестезии и хирургического вмешательства, что исключает травматизацию шейки матки и эндометрия, сохраняется полость матки. 
+medabort.kiev.ua - <a href="https://medabort.kiev.ua" rel="nofollow ugc">купити таблетки для переривання вагітності на ранніх термінах</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>307</wp:comment_id>
+			<wp:comment_author><![CDATA[ZikoisAcity]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[nasuppco370@maillux.online]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.alkraft.ru/production/santehnik</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[51.159.23.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-18 15:21:01]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-18 15:21:01]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.alkraft.ru/production/master" rel="nofollow ugc">сантехнический люк</a> или <a href="https://www.alkraft.ru/napolnye-lyuki" rel="nofollow ugc">купить люки под плитку</a> 
+ 
+https://www.alkraft.ru/production/metallicheskaya-dverca-na-magnite]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>308</wp:comment_id>
+			<wp:comment_author><![CDATA[Madelinesoe]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[andersduquette1968@int.pl]]></wp:comment_author_email>
+			<wp:comment_author_url>https://bumss.xyz/bitcoin/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.120.133.161]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-18 18:43:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-18 18:43:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi Anyone! I choose to share along with you as I earn BTC with no investments. Lately I began to make use of the CryptoTab browser. It is the only browser on this planet which mines bitcoins, to this point you employ it. Amazing, reality? And nonetheless safely and securely and easily. It really is well worth seeking! <a href="https://bumss.xyz/cryptocurrency-conversion-made-easy-with-mastercard/" rel="nofollow ugc">https://bumss.xyz/bitcoin/</a> 
+ 
+https://bumss.xyz/bitcoin/  crypto browser cloud boost]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>309</wp:comment_id>
+			<wp:comment_author><![CDATA[RobertElify]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[gikefk@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://seo-akademiya.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[94.198.50.98]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-21 12:21:55]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-21 12:21:55]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://seo-akademiya.com/baza-znanij/prodvizhenie-internet-magazina/internet-magazin-vs-obyichnyij-magazin/" rel="nofollow ugc">Scam</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>310</wp:comment_id>
+			<wp:comment_author><![CDATA[RittsAcity]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[mehchairi338@maillux.online]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.lukland.ru/catalog/hatches/hatchesfortile/euroformat/atr/variant/155</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[51.159.23.22]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-08-22 00:03:24]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-08-22 00:03:24]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.lukland.ru/catalog/hatches/hatchesfortile/format/2/variant/334" rel="nofollow ugc">сантехнический люк от производителя</a> или <a href="https://www.lukland.ru/catalog/hatches/floorhatches/takeout/barier/variant/1632" rel="nofollow ugc">люки под покраску от производителя</a> 
+ 
+https://www.lukland.ru/catalog/hatches/floorhatches/takeout/premium/variant/1640]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>312</wp:comment_id>
+			<wp:comment_author><![CDATA[PaulaaLivy]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[vanya.sergeesergeev@yandex.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://barboskino.ru</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.119.3]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-09-05 04:05:49]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-09-05 04:05:49]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[В ролях: Эдвард Нортон, Эдвард Ферлонг, Беверли Д’Анджело, Дженнифер Лиен, Итан Сапли 
+ 
+У нас собственно производство, поэтому равным образом цены у нас доступнее. В производстве спортивных покрытий, защитных ограждений мы как говориться: «собаку съели», поэтому можем помочь с профессиональным выбором лучшего товара. 
+ 
+В главных ролях: Корбан Уолкер, Ниал Тойбин, Оуэн Роу, Гэбриел Бирн 
+ 
+В главных ролях: Питер Динклэйдж, Патришия Кларксон, Бобби Каннавале, Мишель Уильямс 
+ 
+ЧТО ОНИ ТВОРЯТ!!! СМОТРИМ СКРЫТУЮ КАМЕРУ!!! (Тяпа) Наши инстаграмы: Тяпа: Группа ОК: 
+ 
+)? Если нет, то наведите курсор мышки на объект вдобавок дважды кликните левой кнопкой мышки. 
+ 
+"Прошу помощи у близких": Шульгины отправились в Абу-Даби (видео) 
+ 
+<a href="http://barboskino.ru/million-jamoasi-konsert-dasturi-2018-full-hd_a57169be2.html" rel="nofollow ugc">миллион 2018 концерт дастури</a> 
+Редактирование комментария возможно в течении пяти минут после его создания, либо раньше момента появления ответа на данный комментарий. 
+ 
+Эти красотки любят не только офисный перепихон, но и активный секс с молодыми парнишками. Будь то сосед, доставщик продуктов или почтальон, страстная мамаша знает, как заманить в свой черед совратить любого гостя, чтобы он как следует оттрахал её прямиком в прихожей или гостиной, пока супруг очень занят рутинными делами. " 
+ 
+Также длина стежка зависит с подачи размера объекта. На маленьких объектах, где нужен плоский застил, длинные стежки будут смотреться не аккуратно. ИМХО. В дизайне цветка с райской птичкой (сам дизайн вы найдете в теме «Создаем картины вместе») я увеличивала стандартный размер стежка поскольку объекты были большими равным образом хотелось показать бархатность поверхности лепестка. 
+ 
+В ролях: Энтони Перкинс, Вера Майлз, Джон Гэвин, Джанет Ли, Мартин Болсам 
+ 
+В центре сюжета офицер милиции Роман Шилов, работающий в ГУВД Санкт-Петербурга. Он — живая легенда «убойного» отдела, старающийся совмещать служебный долг и обязанности молодого отца, воспитывая маленькую дочь Женю, которую ему родила сотрудник пресс-службы Елизавета Орлова. Однажды вечером возвращаясь домой с работы вместе с ребенком, он становится очевидцем вооруженного ограбления продуктового магазина, но не вмешивается, опасаясь подвергать риску девочку. 
+ 
+ Подробная запас сведений как и трейлер к фильму - как и карлики начинают с малого 
+ 
+Если в этом списке нет превыше фильмов, которые вы видели, вы можете быстро набрать оценки с через специального помошника. ?]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>313</wp:comment_id>
+			<wp:comment_author><![CDATA[Paulaarorn]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[vanya.sergeesergeev@yandex.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://barboskino.ru</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[5.188.119.3]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-09-05 20:25:28]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-09-05 20:25:28]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[В ролях: Энтони Майкл Холл, Келли ЛеБрок, Илэн Митчелл-Смит, Билл Пэкстон, Сюзанн Снайдер 
+ 
+Отношения, Одиночество, Преследование, Смерть, Депрессия, День рождения, Похороны 
+ 
+В главных ролях: Корбан Уолкер, Ниал Тойбин, Оуэн Роу, Гэбриел Бирн 
+ 
+Да и то для наших клиентов, мы постарались выделить наиболее важные аспекты, на которые стоит обратить своё процент, перед тем как начнёте заказывать товар. А именно: 
+ 
+В ролях: Кевин Спейси, Аннетт Бенинг, Тора Бёрч, Уэс Бентли, Мина Сувари 
+ 
+Под конец сборки тыльную сторону спинки закрывают листом фанеры в свой черед фиксируют короткими саморезами с широкой шляпкой. 
+ 
+Жанры:  Фэнтези, Мюзиклы, Мультфильмы, Мелодрамы, Комедии, Семейные 
+ 
+<a href="http://barboskino.ru/zharalangan-turnalar_a4f1ac878.html" rel="nofollow ugc">жараланган турналар</a> 
+Об эту пору вы знаете, как сделать татами дома, и можете склад обладателем такой кровати или мата для тренировок, отделавшись минимальными финансовыми затратами. 
+ 
+прихватывают ее понизу шурупами, чтобы была возможность слегка отогнуть балку для вставки полотна кожзаменителя; 
+ 
+Зачем размещать статьи? Редакционная Политика Вопросы в свой черед ответы Авторское Соглашение ? 
+ 
+насквозь Свифта перед Пауэрса: как менялся класс на протяжении веков 
+ 
+Какие ассоциации первыми приходят в голову при упоминании фильма Сэма Мендеса «Не налюбуешься по-американски»? Правильно, знаменитая сцена фантазий героя Кевина Спейси о лежащей в ванне из лепестков роз Анджеле. А помните ли вы, при каких обстоятельствах Лестер размечтался об обнаженной подружке своей дочери? 
+ 
+В ролях:  Кэл Пенн, Адам Кемпбелл, Дженнифер Кулидж, вдобавок др... Джейма Мэйс, Фон Чэмберс Уоткинс, Криспин Гловер, Тони Кокс, Эктор Хименес, Дэррелл Хэммонд, Кармен Электра   закрыть 
+ 
+Как сделать татами самостоятельно. Мастерим татами для единоборств в свой черед кровать своими руками]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>314</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreveryGeago]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.79.181.84]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-09-23 20:48:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-09-23 20:48:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://www.skyrevery.ru/informacia/kak_vybrat_pravilnyj_chastnyj_samolet/" / rel="nofollow ugc">Как выбрать правильный частный самолет? - SkyRevery</a>        -  подробнее на нашем сайте <a href="https://skyrevery.ru" rel="nofollow ugc">skyrevery.ru</a> 
+<a href="https://skyrevery.ru/" / rel="nofollow ugc">Аренда частного самолета</a> с экипажем в компании SkyRevery – это выбор тех, кто ценит свое время и живет по своему расписанию! 
+Аренда частного самолета помогает экономить самый важный ресурс – время. Арендовав частный самолет, именно Вы решаете, когда и куда полетите. Для выполнения чартерных рейсов мы предлагаем частные самолеты иностранного производства, гарантирующие высокий уровень комфорта и безопасности полета. Внимательные бортпроводники и высокопрофессиональные пилоты сделают Ваш полет максимально приятным и удобным. 
+Когда Вам нужна <a href="https://skyrevery.ru/" / rel="nofollow ugc">аренда самолета</a> срочно, мы можем организовать для Вас вылет по готовности от 3 часов с момента подтверждения.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>315</wp:comment_id>
+			<wp:comment_author><![CDATA[skyreverymougs]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[malinoleg91@mail.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://skyrevery.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.79.181.84]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-10-10 17:53:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-10-10 17:53:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://skyrevery.ru/news/" / rel="nofollow ugc">Новости - SkyRevery</a>        -  подробнее на нашем сайте <a href="https://skyrevery.ru" rel="nofollow ugc">skyrevery.ru</a> 
+<a href="https://skyrevery.ru/" / rel="nofollow ugc">Аренда частного самолета</a> с экипажем в компании SkyRevery – это выбор тех, кто ценит свое время и живет по своему расписанию! 
+Аренда частного самолета помогает экономить самый важный ресурс – время. Арендовав частный самолет, именно Вы решаете, когда и куда полетите. Для выполнения чартерных рейсов мы предлагаем частные самолеты иностранного производства, гарантирующие высокий уровень комфорта и безопасности полета. Внимательные бортпроводники и высокопрофессиональные пилоты сделают Ваш полет максимально приятным и удобным. 
+Когда Вам нужна <a href="https://skyrevery.ru/" / rel="nofollow ugc">аренда самолета</a> срочно, мы можем организовать для Вас вылет по готовности от 3 часов с момента подтверждения.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>316</wp:comment_id>
+			<wp:comment_author><![CDATA[ApkJoyLaw]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[allisonharry683@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://casinoapk3.xyz/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[92.255.206.9]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-10-16 06:25:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-10-16 06:25:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You can download any of the provided casinos heavens without any problems. If you download the casino app, it will work like a classic mirror image of the predominant place from the responsive version. Unfortunately, all the apps you download choice just do one's daily dozen on Android. Download casino in 1 click from the slate, these are the most advanced transportable applications. 
+ 
+The best bib casino apps after Android 
+The difficult is that declaration Android apps and downloading them can be hazardous, as Google doesn't concede legitimate small change Android casinos to be placed in the Sport Store. 
+ 
+Download casino app 
+But don't torment, there is a artless colloidal solution, you can download the casino app from casinoapk2.xyz. 
+ 
+As so multitudinous users attired in b be committed to been asking about casino gaming on their Android phones or tablets. We dug round a iota to learn you the kindest casino apps contribution the in spite of actual well-heeled experience. 
+ 
+The most in [url="http://casinoapk3.xyz"]http://casinoapk3.xyz[/url], download Pin-up. 
+ 
+Reviewers verify each application for refuge to insure upon; 
+We will-power labourers you decide actual lolly gambling apps with the a-one Android apps; 
+The casinos offer the most beneficent series of games. 
+Download Loyal On easy street Casino 
+It is not often easy as pie to download tangible money casinos, true level on more in fashion smartphones like Samsung Galaxy, HTC Joined or Sony Xperia. So if you wish for to download the app to win shin-plasters, decipher all below. 
+ 
+Our crew ground the pre-eminent casinos contribution value gambling in return your thingumajig and ran an strong 25-step verification process for the treatment of them. 
+ 
+On this page you choice find an relevancy on the side of Android: 
+ 
+Reception Promotions - We know how much players fall short of to accept betterment of the bonuses, so we made unwavering that our featured sites tender exclusive deals after Android. 
+Diversity of games. Unpropitious determination is a important minus. We not recommend the app, the game portfolio is interminable and varied. 
+Deposits - You be in want of as not many restrictions as possible when it comes to depositing and withdrawing lolly to your casino app account. We make sure that all apps we vouch for accept a encyclopedic sort of payment methods. 
+Loyal payouts. All applications furnish firm payments with real coins, credited to the account in a occasional hours. 
+Transportable Compatibility - Engage in Apps Anywhere. 
+Guy Support - To be featured on the Featured Record, we force online casinos to offer comprehensive and receptive person service. 
+Advantages of an online [url="https://casinoapk2.xyz/skachat-joy-kazino-na-android/"]скачать joycasino[/url] app with a view Android 
+Extensive video graphics and usability in Android apps. 
+Circumstance the uniform marvellous PC experience. 
+Intelligent access from the application. 
+Casino apps - looking as a service to the choicest 
+We tab and download casino apps to protect they come together great standards. The criteria habituated to to select a casino app are good as stringent as the criteria employed to quantify a PC casino. Each relevance has: 
+ 
+Highest standing graphics; 
+Down-to-earth loading and playing epoch; 
+Fast payouts.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>318</wp:comment_id>
+			<wp:comment_author><![CDATA[MichelleBups]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[michellepeme@cripocabtrib.tk]]></wp:comment_author_email>
+			<wp:comment_author_url>https://www.kernel.org/doc/html/latest/admin-guide/reporting-issues.html</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[89.163.151.71]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-10-29 21:43:12]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-10-29 21:43:12]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[This document describes how to use the dynamic debug (dyndbg) feature <a href="https://www.kernel.org/doc/html/latest/admin-guide/dynamic-debug-howto.html" rel="nofollow ugc">Dynamic debug</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>319</wp:comment_id>
+			<wp:comment_author><![CDATA[Stevenpar]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[tashawnwilliams118@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://MuaGmail.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[42.118.7.14]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-10 15:49:14]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-10 15:49:14]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Sell Accounts Gmail cổ 2009&gt;2010 -  Accounts Gmail New Chất lượng tốt : https://MuaGmail.com 
+ 
+Click 
+ 
+https://MuaGmail.com 
+ 
+Thanks 
+ 
+Tags: 
+mua Tài khoản Gmail cổ 
+mua bán email  Gmail 
+bán Tài khoản Gmail 
+đăng ký nick Gmail]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>320</wp:comment_id>
+			<wp:comment_author><![CDATA[Nicolasgeake]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[iprofit@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[193.38.235.69]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-13 20:32:32]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-13 20:32:32]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://iprofit-internet.com/" / rel="nofollow ugc">контекстная реклама яндекс директ цена</a> 
+<a href="http://uoftidear.sa.utoronto.ca/2015/07/21/calender-2/#comment-6527" rel="nofollow ugc">NicolasVer</a> 2f997ab]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>321</wp:comment_id>
+			<wp:comment_author><![CDATA[contactuqocsx]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[levkovich-masljukvelimira1991@rambler.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>http://www.google.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[91.79.20.178]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-17 14:47:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-17 14:47:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Dear sir! 
+ 
+We are sending via contact configurations to the sites of companies via any countries and domain zones of the world.  
+ 
+Your message is sent to electronic box of business organization hundred % will get to the incoming folder! 
+ 
+2000 bases: 
+Price List =» xn----7sbb1bbndheurc1a.xn--p1ai/prajs-list/ 
+ 
+Test mailing: $20 – 20000 contact forms websites 
+ 
+All Europe 44 countries there are 60726150 websites – $1100 
+ 
+All EU 28 countries there are 56752547 websites – $1000 
+ 
+All Asia 48 countries there are 14662004 websites – $500 
+ 
+All Africa 50 countries there are 1594390 websites – $200 
+ 
+All North and Central America is 35 countries there are 7441637 websites – $300 
+ 
+All South America 14 countries there are 5826884 websites – $200 
+ 
+Top 1 Million World’s Best websites – $100 
+ 
+Top 16821856 the most visited websites in the world – $300 
+ 
+New websites from around the world registered 24-48 hours ago. (A cycle of 15 mailings during the month) – 500$ 
+ 
+Businesses and organizations of the Russian Federation – there are 4025015 websites – $300 
+ 
+All Russian-speaking countries minus Russia – there are 14 countries and 2637726 websites – $200 
+ 
+New websites of the Russian Federation, registered 24-48 hours ago. (A cycle of 15 mailings during the month) – 250$ 
+ 
+1499203 of hosting websites around the world (there are selections for all countries, are excluded from databases for mailings) – $150 
+ 
+295285 websites of public authorities of all countries of the world (selections for all countries, are excluded from databases for mailings) – $100 
+ 
+3516251 websites online stores Worldwide – $250 
+ 
+By language: 
+ 
+English-speaking websites - 54797239 websites - $1200 
+That speak French language - 18655242 websites - $600 
+Spanish-speaking websites - 9013026 websites - $400 
+German-speaking websites - 22397305 websites - $800 
+That speak Portuguese - 6862084 websites - $300 
+Websites in Russian - 6662741 websites - $300 
+ 
+CMS mailings: 
+ 
+Amiro	        1794     websites - $50 
+Bitrix	        278751   websites - $80 
+BigCommerce     78257    websites - $50 
+Concrete5	39121    websites - $50 
+CONTENIDO	5069     websites - $50 
+CubeCart	1062     websites - $50 
+CMSimple        11052    websites - $50 
+CS Cart         1180     websites - $50 
+Datalife Engine	29438    websites - $50 
+Discuz	        47962    websites - $50 
+Dotnetnuke	82964    websites - $50 
+Drupal	        978298   websites - $100 
+Flexbe	        15072    websites - $50 
+HostCMS	        5042     websites - $50 
+InstantCMS	4136     websites - $50 
+InSales	        11081    websites - $50 
+Invision Power Board 2430websites - $30 
+Joomla	        1906994  websites - $150 
+Liferay	        5137     websites - $50 
+Magento	        369447   websites - $80 
+MODx	        64023    websites - $50 
+Movable Type	9171     websites - $50 
+NetCat	        6636     websites - $50 
+NopCommerce	3892     websites - $50 
+OpenCart	415575   websites - $80 
+osCommerce	68468    websites - $50 
+OpenCms         5916     websites - $50 
+phpBB	        20045    websites - $50 
+Prestashop	328287   websites - $80 
+Shopify	        2343709  websites - $200 
+Simpla	        17429    websites - $50 
+Sitefinity	4183     websites - $50 
+Textpattern	882      websites - $30 
+Tilda	        47396    websites - $50 
+TYPO3	        845009   websites - $80 
+UMI.CMS	        13191    websites - $50 
+vBulletin	14460    websites - $50 
+Volusion        16006    websites - $50 
+Wix	        3379081  websites - $250 
+Wordpress       35354537 websites - $650 
+WooCommerce     4459525  websites - $300 
+XenForo         21105    websites - $50 
+Zen Cart        26524    websites - $50 
+ 
+ 
+ 
+.ae 233019 websites UAE - $50 
+.ae 10938 websites International zone UAE:.com .net .biz .info .name .tel .mobi .asia-$50 
+.ag 11931 websites Antigua and Barbuda - $50 
+.ai 33130 websites Anguilla - $50 
+.am 46971 websites Armenia - $50 
+.am 1684 websites International zone Armenia:.com .net .biz .info .name .tel 
+.ar 782608 websites Argentina - $80 
+.ar 75496 websites International zone Argentina:.com .net .biz .info .name .tel .mobi .asia-$50 
+.ar.com 135 websites - $30 
+.at 1356722 websites Austria - $100 
+.at 181907 websites International zone Austria :.com .net .biz .info .name 
+.au 2432174 websites Australia - $150 
+.au 461279 websites International zone Australia:.com .net .biz .info .name 
+.az 28177 websites Azerbaijan - $50 
+.az 2036 websites International zone Azerbaijan:.com .net .biz .info .name .tel .mobi .asia-$30 
+.ba 15725 websites Bosnia and Herzegovina - $30 
+.ba 2291 websites international zone Bosnia and Herzegovina:.com.net.biz.info.org.name.tel.mobi.asia-$30 
+.be 1349658 websites Belgium - $100 
+.be 1056248 websites International zone Belgium:.com .net .biz .info .name 
+.bg 54418 websites Bulgaria - $50 
+.bg 50685 websites International zone Bulgaria:.com .net .biz .info .name 
+.bo 2602 websites Bolivia - $30 
+.bo 29415 websites International zone Bolivia:.com .net .biz .info .name .tel .mobi .asia-$50 
+.br 3205100 websites Brazil - $200 
+.br 1230078 websites International zone Brazil:.com .net .biz .info .name . 
+.by 183813 websites Belarus - $50 
+.by 1574 websites International zone Belarus:.com .net .biz .info .name .tel 
+.ca 2587463 websites Canada - $150 
+.ca 288395 websites International zone Canada:.com .net .biz .info .name 
+.cc 436396 websites - $80 
+.cc 1920589 websites Cocos Keeling Islands- $100 
+.cf 2461460 websites Central African Republic - $150 
+.cg 526 websites Congo - $30 
+.ch 1629450 websites Switzerland - $100 
+.ch 205292 websites International zone Switzerland:.com .net .biz .info .name .tel .mobi .asia-$50 
+.ci 5794 websites Cote d'Ivoire - $30 
+.ci 112 websites International zone Cote d'Ivoire:.com .net .biz .info .name 
+.cl 590401 websites Chile - $80 
+.cl 65996 websites International zone Chile:.com .net .biz .info .name .tel .mobi .asia-$50 
+.cm 29221 websites Cameroon- $50 
+.cn 23160610 websites China - $600 
+.cn 1372416 websites International zone China:.com .net .biz .info .name .tel .mobi .asia-$100 
+.co 1878923 websites Colombia - $100 
+.co 10854 websites International zone Colombia:.com .net .biz .info .name .tel .mobi .asia-$30 
+.cx 15753 websites Christmas Island - $50 
+.cy 11092 websites Cyprus - $50 
+.cy 744 websites International zone Cyprus:.com .net .biz .info .name .tel .mobi .asia-$30 
+.cz 1001208 websites Czech Republic - $100 
+.cz 193400 websites International zone Czech Republic:.com .net .biz .info .name .tel .mobi .asia-$50 
+.de 15078512 websites Germany - $350 
+.de 3894156 websites International zone Germany:.com .net .biz .info .name .tel .mobi .asia-$150 
+.dk 1732020 websites Denmark - $150 
+.dk 148164 websites International zone Denmark:.com .net .biz .info .name .tel .mobi .asia-$50 
+.dm 23318 websites Dominica - $50 
+.dn.ua 1835 websites - $30 
+.do 5255 websites Dominican Republic- $30 
+.dy.fi 1112 websites - $30 
+.dz 5382 websites Algeria - $30 
+.ec 11731 websites Ecuador - $50 
+.ec 2897 websites International zone Ecuador:.com .net .biz .info .name .tel .mobi .asia-$30 
+.ee 172423 websites Estonia- $50 
+.ee 10490 websites International zone Estonia:.com .net .biz .info .name .tel .mobi .asia-$30 
+.es 1509048 websites Spain - $100 
+.es 683845 websites International zone Spain:.com .net .biz .info .name .tel .eu 3046076 websites Europe - $150 
+.eu 633384 websites International zone Europe:.com .net .biz .info .name .fi 361111 websites Finland - $80 
+.fi 69631 websites International zone Finland:.com .net .biz .info .name .fr 2810983 websites France - $150 
+.fr 639546 websites International zone France:.com .net .biz .info .name .ge .ge 38616 websites Georgia - $50 
+.ge 1676 websites International zone Georgia:.com .net .biz .info .name .tel .gf 996 websites French Guiana - $30 
+.gg 10528 websites Guernsey islands - $50 
+.gh 703 websites Ghana - $30 
+.gi 981 websites Gibraltar - $30 
+.gp 2044 websites Guadeloupe - $30 
+.gq 2027422 websites Equatorial Guinea - $100 
+.gr 327215 websites Greece - $80 
+.gr 57984 websites International zone Greece:.com .net .biz .info .name .tel .mobi .asia-$150 
+.gt 15351 websites Guatemala - $50 
+.hk 116093 websites Hong Kong - $50 
+.hm 335 websites Heard &amp; McDonald islands - $30 
+.hn 4732 websites Honduras - $30 
+.hr 75736 websites Croatia - $50 
+.hr 16592 websites International zone Croatia:.com .net .biz .info .name .tel .mobi .asia 
+.ht 1299 websites Haiti - $30 
+.hu 53940 websites International zone Hungary:.com .net .biz .info .name .tel .mobi .asia-$50 
+.ie 209620 websites Ireland - $50 
+.ie 49861 websites International zone Ireland:.com .net .biz .info .name .il 196266 websites Israel - $80 
+.il 38537 websites International zone Israel:.com .net .biz .info .name .tel .in 1157482 websites India - $100 
+.in 266179 websites International zone India:.com .net .biz .info .name .tel .io 496216 websites British Indian Ocean - $80 
+.iq 2401 websites Iraq - $30 
+.ir 574258 websites Iran - $80 
+.ir 15487 websites International zone Iran:.com .net .biz .info .name .tel .mobi .asia 
+.it 2410105 websites Italy – $150 
+.it 954040 websites International zone Italy:.com.net.biz.info.org.name.tel.mobi.asia-$100 
+.je 3016 websites Ireland - $30 
+.jp 1825219 websites Japan - $150 
+.jp 4683252 websites International zone Japan:.com.net.biz.info.org.name.tel.mobi.asia-$200 
+.jp.net 5170 websites - $30 
+.ke 14677 websites Kenya - $50 
+.kg 16706 websites Kyrgyzstan - $50 
+.kg 664 websites International zone Kyrgyzstan:.com .net .biz .info .name .tel .mobi .asia-$30 
+.ki 79 websites Kiribati - $30 
+.kn 3211 websites Saint Kitts and Nevis - $30 
+.kr 272463 websites Korea- $80 
+.kw 484 websites Kuwait - $30 
+.ky 5783 websites Cayman Islands - $30 
+.kz 196249 websites Kazakhstan - $80 
+.kz 5876 websites International zone Kazakhstan:.com .net .biz .info .name .tel .mobi .asia-$30 
+.lc 1121 websites Saint Lucia - $30 
+.lk 32654 websites Sri Lanka - $30 
+.lt 138973 websites Lithuania- $50 
+.lt 27710 websites International zone Lithuania:.com .net .biz .info .name .tel .mobi .asia- $50 
+.lu 74322 websites Luxembourg - $50 
+.lu 4125 websites International zone Luxembourg:.com .net .biz .info .name .tel .mobi .asia-$30 
+.lv 202814 websites Latvia - $50 
+.lv 8887 websites International zone Latvia:.com .net .biz .info .name .tel .mobi .asia-$30 
+.ma 59103 websites Morocco - $50 
+.mc 3046 websites Monaco - $30 
+.md 31945 websites Moldova - $50 
+.md 1293 websites International zone Moldova:.com .net .biz .info .name .tel .mobi .asia-$30 
+.me 761596 websites Montenegro - $80 
+.me 86897 websites International zone Montenegro:.com .net .biz .info .name .tel .mobi .asia-$50 
+.mg 3715 websites Madagascar- $30 
+.mk 13266 websites Macedonia - $50 
+.ml 2158835 websites Mali - $100 
+.mn 17044 websites Mongolia - $50 
+.mq 1112 websites Martinique (French) - $30 
+.mr 776 websites Mauritania - $30 
+.ms 7265 websites Montserrat - $30 
+.mt 1402 websites Malta - $30 
+.mu 6475 websites Maurifius - $30 
+.mv 1996 websites Maldives - $30 
+.mw 8579 websites Malawi - $30 
+.mx 670901 websites Mexico- $80 
+.mx 174571 websites International zone Mexico:.com .net .biz .info .name .tel .mobi .asia-$50 
+.my 197328 websites Malaysia- $50 
+.my 14294 websites International zone Malaysia:.com .net .biz .info .name .tel .mobi .asia-$50 
+.na 1094 websites - $30 
+.nc 3497 websites New Coledonia (French) - $30 
+.nl 3925784 websites Netherlands - $200 
+.nl 1019697 websites International zone Netherlands:.com .net .biz .info .name .tel .mobi .asia-$100 
+.no 620882 websites Norway - $80 
+.no 74318 websites International zone Norway:.com .net .biz .info .name .tel .mobi .asia-$50 
+.nu 255161 websites Niue- $50 
+.nz 593127 websites New Zealand - $80 
+.om 1701 websites Oman - $30 
+.pe 83224 websites Peru - $50 
+.pe 59157 websites International zone Peru:.com .net .biz .info .name .tel .mobi .asia-$50 
+.pk 44464 websites Pakistan - $50 
+.pl 1795299 websites Poland - $100 
+.pl 327587 websites International zone Poland:.com .net .biz .info .name .tel .mobi .asia-$50 
+.pr 1358 websites Puerto Rico - $30 
+.pt 263136 websites Portugal - $80 
+.pt 17691 websites International zone Portugal:.com .net .biz .info .name .tel .mobi .asia-$50 
+.py 5593 websites Paraguay - $30 
+.py 653 websites International zone Paraguay:.com .net .biz .info .name .tel .mobi .asia-$30 
+.re 15089 websites Reunion (French) - $50 
+.ro 665267 websites Romania - $80 
+.ro 89068 websites International zone Romania:.com .net .biz .info .name .tel .mobi .asia-$50 
+.rs 85503 websites Serbia - $50 
+.ru 5025331 websites Russian - $250 
+.ru 514668 websites International zone Russian:.com .net .biz .info .name .tel .mobi .asia-$80 
+.rw 3806 websites Rwanda - $30 
+.sa 45210 websites Saudi Arabia- $50 
+.sa 8164 websites International zone Saudi Arabia:.com .net .biz .info .name .tel .mobi .asia - $30 
+.sc 4442 websites Seychelles- $30 
+.se 1491677 websites Sweden - $100 
+.se 293316 websites International zone Sweden:.com .net .biz .info .name .tel .mobi .asia-$50 
+.sg 150351 websites Republic Of Singapore - $50 
+.sh 7560 websites Saint Helena - $30 
+.si 103778 websites Slovenia- $50 
+.si 12879 websites International zone Slovenia:.com .net .biz .info .name .tel .mobi .asia-$50 
+.sk 414198 websites Slovakia- $80 
+.sk 31572 websites International zone Slovakia:.com .net .biz .info .name .tel .mobi .asia-$50 
+.sm 8897 websites San Marino - $30 
+.sn 344 websites International zone Senegal:.com .net .biz .info .name .tel .mobi .asia-$30 
+.sn 4465 websites Senegal - $30 
+.sr 580 websites Suriname - $30 
+.sv 8432 websites Salvador- $30 
+.sx 2901 websites Sint Maarten - $30 
+.sy 2972 websites Syria - $30 
+.sz 321 websites Swaziland - $30 
+.tc 16384 websites Turks and Caicos Islands- $50 
+.tf 19841 websites French Sauthern Territory - $50 
+.tg 1230 websites Togo - $30 
+.th 22368 websites Kingdom Of Thailand- $50 
+.tj 9492 websites Tajikistan- $50 
+.tj 34 websites International zone Tajikistan:.com .net .biz .info .name .tel .mobi .asia 
+.tk 20085806 websites Tokelau - $500 
+.tl 2748 websites East Timor - $30 
+.tm 7203 websites Turkmenistan- $50 
+.tm 44 websites International zone Turkmenistan:.com .net .biz .info .name .tel .mobi .asia 
+.tr 243347 websites Turkey - $80 
+.tr 138818 International zone Turkey:.com .net .biz .info .name .tel .mobi .asia -$50 
+.tt 1017 websites Trinidad &amp; Tobago  - $30 
+.ua 1274459 websites Ukraina - $100 
+.ua 147202 websites International zone Ukraine:.com .net .biz .info .name .tel .mobi .asia-$50 
+.ug 3806 websites Uganda - $30 
+.ug 720 websites International zone Uganda:.com .net .biz .info .name .tel .mobi.asia-$30 
+.uk 5975887 websites United Kingdom - $250 
+.uk 3304606 websites International zone United Kingdom:.com .net .biz .info .name .tel .mobi .asia-$150 
+.us 4828526 websites USA - $300 
+.us 1211424 websites International zone USA:.com .net .biz .info .name .tel .mobi .asia - $100 
+.uy 15571 websites Uruguay - $50 
+.uy 31812 websites International zone Uruguay:.com .net .biz .info .name .tel .mobi .asia-$30 
+.uz 65125 websites Uzbekistan - $50 
+.uz  365 websites International zone Uzbekistan:.com .net .biz .info .name .tel .mobi .asia 
+.vc 18641 websites Saint Vincent &amp; Grenadines - $50 
+.ve 14015 websites Venezuela - $50 
+.ve 2898 websites International zone Venezuela:.com .net .biz .info .name .tel .mobi .asia - $30 
+.vg 8389 websites Virgin Islands (British) - $50 
+.vi 109 websites Virgin Islands (US) - $30 
+.vn 436005 websites Vietnam - $80 
+.vn 161855 websites International zone Vietnam:.com .net .biz .info .name .tel .mobi .asia - $50 
+.vu 1051 websites Vanuatu - $30 
+.wf 1133 websites Wallis &amp; Futuna Islands - $30 
+.ws 99308 websites Samoa - $80 
+.ye 18 websites Yemen - $30 
+.yt 2004 websites Mayotte - $30 
+.za 1008308 websites South Africa - $100 
+ 
+website =» xn----7sbb1bbndheurc1a.xn--p1ai]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>322</wp:comment_id>
+			<wp:comment_author><![CDATA[H2dowardLouch]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[todaynews557@outlook.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://vk.com/streamhub.shop</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[135.181.222.189]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-11-18 03:32:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-11-18 03:32:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://vk.com/streamhub.shop" rel="nofollow ugc">Накрутка Twitch зрителей</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>323</wp:comment_id>
+			<wp:comment_author><![CDATA[Official Platform Uniswap Free Gateway go free $400! Click Here: https://telegra.ph/Official-Platform-Uniswap-Free-Gateway-11-30?h=072cc4b82a065d1afc006520baf60450&amp; ❤️]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[brendanorris@hacktoy.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://telegra.ph/Official-Platform-Uniswap-Free-Gateway-11-30?h=072cc4b82a065d1afc006520baf60450&amp;</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[81.17.18.58]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-01 07:42:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-01 07:42:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[aknuwc5]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>324</wp:comment_id>
+			<wp:comment_author><![CDATA[❤️ Aria want to meet you! Click Here: https://clck.ru/YdvRC?h=072cc4b82a065d1afc006520baf60450&amp; ❤️]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[evgeniasilenko@newshbo.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://clck.ru/YdvRC?h=072cc4b82a065d1afc006520baf60450&amp;</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[37.187.2.76]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-08 05:04:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-08 05:04:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[amah6g]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>325</wp:comment_id>
+			<wp:comment_author><![CDATA[NatehalaGew]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[Geoffreytaw1965@wlu.rambller.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tehnoreiting.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[95.182.127.15]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-10 22:57:20]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-10 22:57:20]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://tehnoreiting.ru/" / rel="nofollow ugc">tehnoreiting.ru</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>326</wp:comment_id>
+			<wp:comment_author><![CDATA[FrankiMup]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[spotiis@rambler.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>http://kz.onlinerealtopmoneygame.xyz</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[84.17.55.124]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-13 16:29:17]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-13 16:29:17]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Круто, давно искал 
+_________________ 
+?андай жылдамды?та ойнау?а ж?не казинолы??а - [URL=http://kz.top5casino.site]вулкандарды тіркеусіз SMS ж?не вирустарсыз слоттарды ойна?ыз[/URL] - коэффициенты букмекерских контор футбола]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>327</wp:comment_id>
+			<wp:comment_author><![CDATA[Natehalacag]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[Edwardled1979@wlu.rambller.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://tehnoreiting.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.130.187.51]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-12-14 10:09:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-12-14 10:09:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[<a href="https://tehnoreiting.ru/" / rel="nofollow ugc">tehnoreiting.ru</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>328</wp:comment_id>
+			<wp:comment_author><![CDATA[FrankWrige]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[bkingss@rambler.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>http://kz.onlinerealmoneytopgame.xyz</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[195.54.178.39]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-04 20:00:59]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-04 20:00:59]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[спасибо интересное чтиво 
+_________________ 
+Интернетте тіркеусіз жа?а ойын автоматтарын а?ысыз ойна?ыз - <a href="http://kz.casinox6c2.site" rel="nofollow ugc">букмекерлік ке?се бос орын spb</a> - Махачкала Rusteletot букмекерлік ке?сесі]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>330</wp:comment_id>
+			<wp:comment_author><![CDATA[seo_courses]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[87654325565@devioplus.ru]]></wp:comment_author_email>
+			<wp:comment_author_url>https://matnat.ru/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[85.143.106.77]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-01-12 23:15:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-01-12 23:15:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Useful information 
+[url=https://matnat.ru/] [/url] 
+link [url=https://dubaishopflower.com/blog/2022/01/01/anniversary/#comment-2]Thanks[/url] 7f67cd3]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-14 08:24" -->
+	<!-- generator="WordPress/5.9" created="2022-01-27 06:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Minimal Pro</title>
 	<link>https://demo.afthemes.com/newsphere-pro/minimal-pro</link>
 	<description>Just another Newsphere Pro Sites site</description>
-	<pubDate>Fri, 14 May 2021 08:24:20 +0000</pubDate>
+	<pubDate>Thu, 27 Jan 2022 06:01:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/newsphere-pro/</wp:base_site_url>
@@ -134,7 +134,7 @@
 	<wp:term><wp:term_id>8</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>https://demo.afthemes.com/newsphere-pro/minimal-pro/wp-content/uploads/sites/9/2021/05/af-themes-logo-150x150-1.png</url>
@@ -882,35 +882,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.740734187070582805745289078913629055023193359375;s:5:"bytes";i:22710;s:11:"size_before";i:395594;s:10:"size_after";i:372884;s:4:"time";d:0.279999999999999971134201359745929948985576629638671875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.8499999999999996447286321199499070644378662109375;s:5:"bytes";i:664;s:11:"size_before";i:4849;s:10:"size_after";i:4517;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.3499999999999996447286321199499070644378662109375;s:5:"bytes";i:1078;s:11:"size_before";i:8486;s:10:"size_after";i:7947;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:6.410000000000000142108547152020037174224853515625;s:5:"bytes";i:4544;s:11:"size_before";i:35439;s:10:"size_after";i:33167;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.62000000000000010658141036401502788066864013671875;s:5:"bytes";i:7460;s:11:"size_before";i:56382;s:10:"size_after";i:52652;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:20:"storymag-slider-full";O:8:"stdClass":5:{s:7:"percent";d:7.53000000000000024868995751603506505489349365234375;s:5:"bytes";i:16090;s:11:"size_before";i:106900;s:10:"size_after";i:98855;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:22:"storymag-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.62000000000000010658141036401502788066864013671875;s:5:"bytes";i:8564;s:11:"size_before";i:76233;s:10:"size_after";i:71951;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:17:"storymag-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:52652;s:10:"size_after";i:52652;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:15:"storymag-medium";O:8:"stdClass":5:{s:7:"percent";d:6.38999999999999968025576890795491635799407958984375;s:5:"bytes";i:3254;s:11:"size_before";i:25445;s:10:"size_after";i:23818;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:22:"storymag-medium-square";O:8:"stdClass":5:{s:7:"percent";d:6.45000000000000017763568394002504646778106689453125;s:5:"bytes";i:3766;s:11:"size_before";i:29208;s:10:"size_after";i:27325;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[One Click Demo Import - log_file_2019-04-24__02-55-16]]></title>
-		<link>https://demo.afthemes.com/newsphere-pro/minimal-pro/one-click-demo-import-log_file_2019-04-24__02-55-16/</link>
-		<pubDate>Wed, 24 Apr 2019 02:55:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/minimal-pro/wp-content/uploads/sites/9/2019/04/log_file_2019-04-24__02-55-16.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-24 02:55:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-24 02:55:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-24 02:55:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-24 02:55:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2019-04-24__02-55-16]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsphere-pro/minimal-pro/wp-content/uploads/sites/9/2019/04/log_file_2019-04-24__02-55-16.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/04/log_file_2019-04-24__02-55-16.txt]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1914,6 +1885,63 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Dark Pro]]></title>
+		<link>https://demo.afthemes.com/newsphere-pro/minimal-pro/2019/05/02/dark-pro/</link>
+		<pubDate>Thu, 02 May 2019 16:32:08 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/minimal-pro/?p=144</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2019-05-02 16:32:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-05-02 16:32:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-02 16:32:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-02 16:32:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dark-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/newsphere-pro/dark]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[af-themes-logo-150x150]]></title>
 		<link>https://demo.afthemes.com/newsphere-pro/minimal-pro/af-themes-logo-150x150/</link>
 		<pubDate>Wed, 12 May 2021 07:50:48 +0000</pubDate>
@@ -2516,63 +2544,6 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Dark Pro]]></title>
-		<link>https://demo.afthemes.com/newsphere-pro/minimal-pro/2019/05/02/dark-pro/</link>
-		<pubDate>Thu, 02 May 2019 16:32:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/minimal-pro/?p=144</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2019-05-02 16:32:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-05-02 16:32:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-05-02 16:32:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-05-02 16:32:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dark-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/newsphere-pro/dark]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
