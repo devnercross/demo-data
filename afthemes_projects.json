@@ -1928,6 +1928,100 @@
           "preview": "https://demo.afthemes.com/elegant-magazine-pro/photography/"
         }
       }
+    },
+    "chromenews": {
+      "data": "chromenews",
+      "free": "",
+      "premium": "chromenews-pro",
+      "demodata": {
+        "default": {
+          "name": "Chromenews",
+          "catgory": "General",
+          "slug": "chromenews",
+          "preview": "https://demo.afthemes.com/chromenews/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/chromenews/sport/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/chromenews/fashion/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demo.afthemes.com/chromenews/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demo.afthemes.com/chromenews/china-news/"
+        }
+      }
+    },
+    "chromenews-pro": {
+      "data": "chromenews-pro",
+      "free": "chromenews",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Shopical Pro",
+          "catgory": "General",
+          "slug": "chromenews-pro",
+          "preview": "https://demo.afthemes.com/chromenews-pro/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demo.afthemes.com/chromenews-pro/fashion/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demo.afthemes.com/chromenews-pro/sport/"
+        },
+        "classic": {
+          "name": "Classic",
+          "catgory": "Classic",
+          "slug": "classic",
+          "preview": "https://demo.afthemes.com/chromenews-pro/classic/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demo.afthemes.com/chromenews-pro/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demo.afthemes.com/chromenews-pro/china-news/"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Elementor",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/chromenews-pro/business/",
+          "plugins":"elementor,elespare"
+        },
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demo.afthemes.com/chromenews-pro/covid-19/",
+          "plugins":"elementor,elespare"
+        }  
+      }
     }        
   }
 } 

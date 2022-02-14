@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-05-18 11:06" -->
+	<!-- generator="WordPress/5.9" created="2022-02-07 07:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fashion</title>
 	<link>https://demo.afthemes.com/kreeti/fashion</link>
 	<description></description>
-	<pubDate>Tue, 18 May 2021 11:06:16 +0000</pubDate>
+	<pubDate>Mon, 07 Feb 2022 07:43:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/kreeti/</wp:base_site_url>
@@ -259,101 +259,9 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.2</generator>
-
-<image>
-	<url>https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/04/cropped-af-themes-main-dark-1-150x150.png</url>
-	<title>Fashion</title>
-	<link>https://demo.afthemes.com/kreeti/fashion</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 		<item>
-		<title><![CDATA[af-themes main dark]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/af-themes-main-dark/</link>
-		<pubDate>Fri, 26 Apr 2019 12:02:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere/fashion/wp-content/uploads/sites/2/2019/04/af-themes-main-dark.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[				
-								]]></content:encoded>
-		<excerpt:encoded><![CDATA[				
-								]]></excerpt:encoded>
-		<wp:post_id>508</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-26 12:02:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-26 12:02:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-26 12:02:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-26 12:02:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[af-themes-main-dark]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/04/af-themes-main-dark.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/04/af-themes-main-dark.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:31:"2019/04/af-themes-main-dark.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"af-themes-main-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"af-themes-main-dark-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:13:"kreeti-medium";a:4:{s:4:"file";s:31:"af-themes-main-dark-405x380.png";s:5:"width";i:405;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:31:"af-themes-main-dark-350x350.png";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:35.11376783648284316541321459226310253143310546875;s:5:"bytes";i:14568;s:11:"size_before";i:41488;s:10:"size_after";i:26920;s:4:"time";d:0.38000000000000000444089209850062616169452667236328125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:42.2999999999999971578290569595992565155029296875;s:5:"bytes";i:4141;s:11:"size_before";i:9789;s:10:"size_after";i:5648;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:34.61999999999999744204615126363933086395263671875;s:5:"bytes";i:8058;s:11:"size_before";i:23274;s:10:"size_after";i:15216;s:4:"time";d:0.14000000000000001332267629550187848508358001708984375;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:28.120000000000000994759830064140260219573974609375;s:5:"bytes";i:2369;s:11:"size_before";i:8425;s:10:"size_after";i:6056;s:4:"time";d:0.179999999999999993338661852249060757458209991455078125;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/cropped-af-themes-main-dark-png/</link>
-		<pubDate>Fri, 26 Apr 2019 12:02:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere/fashion/wp-content/uploads/sites/2/2019/04/cropped-af-themes-main-dark.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				https://demo.afthemes.com/newsphere/fashion/wp-content/uploads/sites/2/2019/04/cropped-af-themes-main-dark.png				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-								]]></excerpt:encoded>
-		<wp:post_id>509</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-26 12:02:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-26 12:02:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-26 12:02:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-26 12:02:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-af-themes-main-dark-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/04/cropped-af-themes-main-dark.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/04/cropped-af-themes-main-dark.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:39:"2019/04/cropped-af-themes-main-dark.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-af-themes-main-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:39:"cropped-af-themes-main-dark-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:13:"kreeti-medium";a:4:{s:4:"file";s:39:"cropped-af-themes-main-dark-512x380.png";s:5:"width";i:512;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:39:"cropped-af-themes-main-dark-350x350.png";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:32.75490942808888661375021911226212978363037109375;s:5:"bytes";i:19782;s:11:"size_before";i:60394;s:10:"size_after";i:40612;s:4:"time";d:0.43000000000000004884981308350688777863979339599609375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:3:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.469999999999998863131622783839702606201171875;s:5:"bytes";i:4072;s:11:"size_before";i:10867;s:10:"size_after";i:6795;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:38.32000000000000028421709430404007434844970703125;s:5:"bytes";i:12641;s:11:"size_before";i:32988;s:10:"size_after";i:20347;s:4:"time";d:0.2099999999999999922284388276239042170345783233642578125;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:18.559999999999998721023075631819665431976318359375;s:5:"bytes";i:3069;s:11:"size_before";i:16539;s:10:"size_after";i:13470;s:4:"time";d:0.1700000000000000122124532708767219446599483489990234375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[StockSnap_CIHCANFZWS]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_cihcanfzws/</link>
 		<pubDate>Sat, 27 Apr 2019 04:12:46 +0000</pubDate>
@@ -949,49 +857,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-StockSnap_MMG80ENFN7-1.jpg]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/cropped-stocksnap_mmg80enfn7-1-jpg/</link>
-		<pubDate>Thu, 23 May 2019 11:58:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsphere/magcess/wp-content/uploads/sites/6/2018/03/cropped-StockSnap_MMG80ENFN7-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>571</wp:post_id>
-		<wp:post_date><![CDATA[2019-05-23 11:58:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-05-23 11:58:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-05-23 11:58:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-05-23 11:58:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-stocksnap_mmg80enfn7-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/cropped-StockSnap_MMG80ENFN7-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/03/cropped-StockSnap_MMG80ENFN7-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:42:"2018/03/cropped-StockSnap_MMG80ENFN7-1.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-StockSnap_MMG80ENFN7-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"cropped-StockSnap_MMG80ENFN7-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-StockSnap_MMG80ENFN7-1-768x243.jpg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-StockSnap_MMG80ENFN7-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:43:"cropped-StockSnap_MMG80ENFN7-1-1280x600.jpg";s:5:"width";i:1280;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:43:"cropped-StockSnap_MMG80ENFN7-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_MMG80ENFN7-1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:42:"cropped-StockSnap_MMG80ENFN7-1-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.65865656548343398668521331273950636386871337890625;s:5:"bytes";i:5436;s:11:"size_before";i:116686;s:10:"size_after";i:111250;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:7:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.589999999999999857891452847979962825775146484375;s:5:"bytes";i:135;s:11:"size_before";i:2944;s:10:"size_after";i:2809;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:4.019999999999999573674358543939888477325439453125;s:5:"bytes";i:151;s:11:"size_before";i:3756;s:10:"size_after";i:3605;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.20000000000000017763568394002504646778106689453125;s:5:"bytes";i:546;s:11:"size_before";i:13011;s:10:"size_after";i:12465;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:4.96999999999999975131004248396493494510650634765625;s:5:"bytes";i:995;s:11:"size_before";i:20040;s:10:"size_after";i:19045;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:21:"newsphere-slider-full";O:8:"stdClass":5:{s:7:"percent";d:6.82000000000000028421709430404007434844970703125;s:5:"bytes";i:2799;s:11:"size_before";i:41020;s:10:"size_after";i:38221;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:18:"newsphere-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:19045;s:10:"size_after";i:19045;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:16:"newsphere-medium";O:8:"stdClass":5:{s:7:"percent";d:4.79999999999999982236431605997495353221893310546875;s:5:"bytes";i:810;s:11:"size_before";i:16870;s:10:"size_after";i:16060;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[StockSnap_YZTR1MJBMJ]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/stocksnap_yztr1mjbmj/</link>
 		<pubDate>Wed, 29 May 2019 02:40:43 +0000</pubDate>
@@ -1177,42 +1042,264 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-af-themes-main-dark-1.png]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/cropped-af-themes-main-dark-1-png/</link>
-		<pubDate>Mon, 29 Jul 2019 10:25:19 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/418/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
 		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/wp-content/uploads/2019/04/cropped-af-themes-main-dark-1.png</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=418</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/wp-content/uploads/2019/04/cropped-af-themes-main-dark-1.png]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>632</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-29 10:25:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-29 10:25:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-29 10:25:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-29 10:25:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>418</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-af-themes-main-dark-1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[418]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/04/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/04/cropped-af-themes-main-dark-1.png]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2019/04/cropped-af-themes-main-dark-1.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:13:"kreeti-medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x380.png";s:5:"width";i:512;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-350x350.png";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/419/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=419</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>419</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[419]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/421/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=421</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>421</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[421]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/422/</link>
+		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=422</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
+		<wp:post_id>422</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[422]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[421]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Subscription]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/mc4wp-form/subscription/</link>
+		<pubDate>Fri, 14 Jun 2019 08:40:17 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/kriti/blog/mc4wp-form/subscription/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>
+	<label>Email address: </label>
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Sign up" />
+</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>591</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-14 08:40:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-14 08:40:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-14 08:40:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-14 08:40:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[subscription]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 					<item>
 		<title><![CDATA[StockSnap_6E5ZAMCKC4]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/stocksnap_6e5zamckc4/</link>
@@ -1643,39 +1730,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[banner-promotion]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/banner-promotion/</link>
-		<pubDate>Tue, 10 Sep 2019 07:24:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/09/banner-promotion.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>725</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-10 07:24:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-10 07:24:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-09-10 07:24:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-09-10 07:24:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner-promotion]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2019/09/banner-promotion.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/09/banner-promotion.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:28:"2019/09/banner-promotion.jpg";s:5:"sizes";a:5:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"banner-promotion-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"banner-promotion-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:27:"banner-promotion-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:28:"banner-promotion-720x110.jpg";s:5:"width";i:720;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:28:"banner-promotion-350x110.jpg";s:5:"width";i:350;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[StockSnap_ZBS9PSOCKN]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/stocksnap_zbs9psockn/</link>
 		<pubDate>Tue, 10 Sep 2019 09:09:56 +0000</pubDate>
@@ -1751,234 +1805,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/418/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=418</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>418</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[418]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/419/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=419</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>419</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[419]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/421/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=421</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>421</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[421]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/06/17/422/</link>
-		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=422</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[																		]]></excerpt:encoded>
-		<wp:post_id>422</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-17 08:53:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 02:59:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 02:59:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[422]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[421]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2828,37 +2654,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Subscription]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/mc4wp-form/subscription/</link>
-		<pubDate>Fri, 14 Jun 2019 08:40:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/blog/mc4wp-form/subscription/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-
-<p>
-	<input type="submit" value="Sign up" />
-</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>591</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-14 08:40:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-14 08:40:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-06-14 08:40:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-06-14 08:40:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[subscription]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Fashion]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/2019/09/13/fashion/</link>
 		<pubDate>Fri, 13 Sep 2019 11:26:42 +0000</pubDate>
@@ -2913,587 +2708,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demo.afthemes.com/kreeti/fashion]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/about/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-				You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/blog/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-										]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[A homepage section]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/a-homepage-section/</link>
-		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-				This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-homepage-section]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
-		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt.				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				 Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.						]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-06 09:51:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[518]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[146]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
-		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				Sed porttitor lectus nibh. Proin eget tortor risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.						]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-06 09:53:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="music"><![CDATA[Music]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[515]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[180]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
-		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":562,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
-<!-- /wp:image -->
-
-<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-
-<!-- wp:heading -->
-<h2>Ea quam expedita tincidunt?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:list -->
-<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
-<!-- /wp:list -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-07 07:02:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-07 07:02:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="ramp"><![CDATA[Ramp]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[519]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
-		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Nulla porttitor accumsan tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>88</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 11:34:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-		<category domain="category" nicename="tips-tricks"><![CDATA[Tips &amp; Tricks]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[520]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[174]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
-		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.						]]></excerpt:encoded>
-		<wp:post_id>103</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[522]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[179]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Press Center]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/press-center/</link>
-		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-				Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-03 07:40:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-03 07:40:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[press-center]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[EM Reports]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/em-reports/</link>
-		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				
-				Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat.						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-03 07:40:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-03 07:40:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[em-reports]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/?page_id=699</link>
-		<pubDate>Fri, 14 Jun 2019 07:55:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://demo.afthemes.com/kriti.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>699</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-14 07:55:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-14 07:55:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-06-14 07:55:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-06-14 07:55:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3782,6 +2996,993 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/about/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+				You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/blog/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=20</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+										]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[A homepage section]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/a-homepage-section/</link>
+		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+				This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-08 08:13:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-08 08:13:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-08 08:13:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-homepage-section]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
+		<wp:meta_value><![CDATA[fa43e34f-b6fd-42ba-9358-1e8059135888]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt.				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				 Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.						]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:51:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[518]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[263]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				Sed porttitor lectus nibh. Proin eget tortor risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.						]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:53:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="music"><![CDATA[Music]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[515]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[334]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":562,"align":"full"} -->
+<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
+<!-- /wp:image -->
+
+<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+
+<!-- wp:heading -->
+<h2>Ea quam expedita tincidunt?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:list -->
+<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
+<!-- /wp:list -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-07 07:02:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-07 07:02:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="ramp"><![CDATA[Ramp]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[519]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[291]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Nulla porttitor accumsan tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>88</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 11:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<category domain="category" nicename="tips-tricks"><![CDATA[Tips &amp; Tricks]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[520]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[291]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.						]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[522]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[309]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
+		<description></description>
+		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. 						]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[519]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[308]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.				]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>111</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:44:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="category" nicename="model"><![CDATA[Model]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[516]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[343]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[pharmaceptica.com]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[p.h.a.r.m.ah.u.y.arm.a.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://pharmaceptica.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[92.204.174.134]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-06-16 23:28:41]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-06-16 23:28:41]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[used to treat malaria chloro https://pharmaceptica.com/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
+		<description></description>
+		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+
+Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar. 						]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 13:06:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
+		<category domain="category" nicename="model"><![CDATA[Model]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[652]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[352]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":562,"align":"full"} -->
+<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
+<!-- /wp:image -->
+
+<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+
+<!-- wp:heading -->
+<h2>Ea quam expedita tincidunt?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:list -->
+<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
+<!-- /wp:list -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Curabitur aliquet quam id dui posuere blandit. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. 						]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-07 07:01:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-07 07:01:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[524]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[356]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":562,"align":"full"} -->
+<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
+<!-- /wp:image -->
+
+<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
+
+<!-- wp:heading -->
+<h2>Ea quam expedita tincidunt?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
+<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:list -->
+<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
+<!-- /wp:list -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+				Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. 						]]></excerpt:encoded>
+		<wp:post_id>127</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-03-07 07:01:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-03-07 07:01:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[658]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[384]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Press Center]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/press-center/</link>
+		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+				Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-03 07:40:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:40:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[press-center]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[EM Reports]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/em-reports/</link>
+		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				
+				
+				Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat.						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				
+				
+										]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-03 07:40:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:40:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[em-reports]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://demo.afthemes.com/kreeti/fashion/?page_id=699</link>
+		<pubDate>Fri, 14 Jun 2019 07:55:17 +0000</pubDate>
+		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/kriti/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://demo.afthemes.com/kriti.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>699</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-14 07:55:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-14 07:55:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-14 07:55:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-14 07:55:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Masonry]]></title>
 		<link>https://demo.afthemes.com/kreeti/fashion/2019/09/13/masonry/</link>
 		<pubDate>Fri, 13 Sep 2019 11:26:42 +0000</pubDate>
@@ -3952,404 +4153,6 @@
 		<wp:meta_value><![CDATA[https://demo.afthemes.com/kreeti/wedding]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
-		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
-		<description></description>
-		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. 						]]></excerpt:encoded>
-		<wp:post_id>106</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[519]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[184]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
-		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				
-				Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.				]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-										]]></excerpt:encoded>
-		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:44:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="category" nicename="model"><![CDATA[Model]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-		<category domain="post_tag" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[516]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[211]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
-		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
-		<description></description>
-		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar. 						]]></excerpt:encoded>
-		<wp:post_id>118</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 13:06:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
-		<category domain="category" nicename="model"><![CDATA[Model]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[652]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[215]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
-		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":562,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
-<!-- /wp:image -->
-
-<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-
-<!-- wp:heading -->
-<h2>Ea quam expedita tincidunt?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:list -->
-<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
-<!-- /wp:list -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Curabitur aliquet quam id dui posuere blandit. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. 						]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-07 07:01:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-07 07:01:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[524]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[229]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
-		<link>https://demo.afthemes.com/kreeti/fashion/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
-		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?Voluptate vehicula. Eveniet etiam, veniam metus eaque rhoncus praesentium! Beatae imperdiet velit, eveniet, soluta. Turpis habitant autem? Proident cursus id, lectus explicabo metus quibusdam varius tortor totam aptent dis quos. Proident ementum nihil rerum perspiciatis nullam ultrices! Facilisis platea! Aperiam eu fermentum, ullamcorper maxime. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":562,"align":"full"} -->
-<figure class="wp-block-image alignfull"><img src="https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_RFUZFO3FGBa.jpg" alt="" class="wp-image-562"/><figcaption>Mollitia cum nam lacus voluptas id vivamus congue vulputate. Blanditiis expedita vestibulum</figcaption></figure>
-<!-- /wp:image -->
-
-<p>Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sint repellat natus tellus cupidatat aperiam? Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</p>
-
-<!-- wp:heading -->
-<h2>Ea quam expedita tincidunt?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Pede vulputate omnis neque consequat sint dignissimos lacus nullam ac sequi dignissimos dapibus vivamus minima totam. Phasellus vel! Mollis potenti pellentesque corrupti! Litora nibh consequatur consectetuer faucibus quaerat pharetra excepturi, corrupti autem, congue cum a nostrud omnis vitae repellat sint dolor aptent, occaecati cursus soluta etiam eius suscipit, reiciendis hendrerit laoreet natoque. Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Similique justo? Hendrerit wisi ante vitae irure illum error, wisi excepturi repellendus, est rerum class, lectus ullamcorper!</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Turpis dictum, dignissim architecto dictumst faucibus repellendus aliquam, fusce porttitor rutrum, minima, accusantium, tellus etiam adipiscing voluptas mollis voluptates voluptates, distinctio dolorum et mollitia curae hic. Auctor! Earum! Adipisci eiusmod, aut inventore cras erat porttitor laoreet, diam blanditiis vulputate officia tincidunt debitis, inventore hic provident voluptas, sollicitudin dui.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg","id":517} -->
-<div class="wp-block-cover has-background-dim" style="background-image:url(https://demo.afthemes.com/kreeti/fashion/wp-content/uploads/sites/2/2018/03/StockSnap_MMG80ENFN7.jpg)"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-<p style="text-align:center" class="has-large-font-size">Deleniti numquam placerat fuga urna voluptatibus, eu, diamlorem? Ea quam expedita tincidunt?</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:list -->
-<ul><li>Sint repellat natus tellus cupidatat aperiam?</li><li>Dignissim eleifend? Sapien quasi vivamus nibh! Sequi perferendis magnam voluptatem culpa tempor. Nihil, facilisis? </li><li>Neque vestibulum! Etiam malesuada, hendrerit in dictumst fames magna incididunt ab lacinia semper similique eos, qui, rerum eos animi tempor, consequat? </li><li>Tempora aliquid adipisci rhoncus eiusmod elementum placerat ullam mattis cubilia? </li><li>Similique voluptatem! Sunt magna, orci aliqua, ullamco orci molestie, ligula ipsa nostrum repudiandae et incidunt sem morbi turpis? Pellentesque? </li><li>Dolore ipsam! Viverra nostra ab, excepturi. Congue maiores? Mattis omnis. Esse curae magna fugiat. Adipiscing. </li><li>Excepteur cubilia ratione imperdiet adipisci! Ipsam vel quidem possimus ac voluptatibus, reprehenderit nostrum quam ipsam.</li></ul>
-<!-- /wp:list -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				
-				
-				Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. 						]]></excerpt:encoded>
-		<wp:post_id>127</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-03-07 07:01:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-03-07 07:01:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="collection"><![CDATA[Collection]]></category>
-		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="post_tag" nicename="iskra-lawrence"><![CDATA[Iskra Lawrence]]></category>
-		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[658]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[newsphere-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[248]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-content]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-
-Served from: demo.afthemes.com @ 2021-05-18 11:06:16 by W3 Total Cache
--->
