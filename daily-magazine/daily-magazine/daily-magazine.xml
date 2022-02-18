@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.2" created="2021-03-02 09:24" -->
+	<!-- generator="WordPress/5.8.3" created="2022-02-17 10:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Daily Magazine</title>
 	<link>https://demo.afthemes.com/elegant-magazine/daily-magazine</link>
 	<description>elegant and minimalist</description>
-	<pubDate>Tue, 02 Mar 2021 09:24:09 +0000</pubDate>
+	<pubDate>Thu, 17 Feb 2022 10:33:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/elegant-magazine/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/elegant-magazine/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/elegant-magazine/daily-magazine</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -208,10 +208,10 @@
 	<wp:term><wp:term_id>13</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 		<item>
-		<title>desktop-3246124_1920</title>
+		<title><![CDATA[desktop-3246124_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/desktop-3246124_1920/</link>
 		<pubDate>Thu, 29 Mar 2018 18:44:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -222,6 +222,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:44:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:44:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:44:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:44:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[desktop-3246124_1920]]></wp:post_name>
@@ -246,7 +248,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-desktop-3246124_1920.jpg</title>
+		<title><![CDATA[cropped-desktop-3246124_1920.jpg]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/cropped-desktop-3246124_1920-jpg/</link>
 		<pubDate>Thu, 29 Mar 2018 18:45:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -257,6 +259,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:45:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:45:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:45:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:45:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-desktop-3246124_1920-jpg]]></wp:post_name>
@@ -293,7 +297,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>desktop-3246124_1920</title>
+		<title><![CDATA[desktop-3246124_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/women-united-gives-65k-for-abss-elementary-programs/desktop-3246124_1920-2/</link>
 		<pubDate>Thu, 29 Mar 2018 18:50:02 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -304,6 +308,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:50:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:50:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[desktop-3246124_1920-2]]></wp:post_name>
@@ -328,7 +334,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>people-2575608_1920</title>
+		<title><![CDATA[people-2575608_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/women-united-gives-65k-for-abss-elementary-programs/people-2575608_1920/</link>
 		<pubDate>Thu, 29 Mar 2018 18:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -339,6 +345,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:50:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:50:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-2575608_1920]]></wp:post_name>
@@ -363,7 +371,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>crowd-2152653_1920</title>
+		<title><![CDATA[crowd-2152653_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/burlington-sets-6th-community-improvement-meeting/crowd-2152653_1920/</link>
 		<pubDate>Thu, 29 Mar 2018 18:51:38 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -374,6 +382,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:51:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:51:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crowd-2152653_1920]]></wp:post_name>
@@ -398,7 +408,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>poland-2537067_1920</title>
+		<title><![CDATA[poland-2537067_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/labcorp-hit-with-federal-suit-over-robocalls/poland-2537067_1920/</link>
 		<pubDate>Thu, 29 Mar 2018 18:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -409,6 +419,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:53:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[poland-2537067_1920]]></wp:post_name>
@@ -433,7 +445,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blue-1283011_1920</title>
+		<title><![CDATA[blue-1283011_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/where-will-it-hit-chinas-defunct-space-lab-hurtling-toward-earth-for-re-entry/blue-1283011_1920/</link>
 		<pubDate>Thu, 29 Mar 2018 18:55:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -444,6 +456,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:55:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:55:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blue-1283011_1920]]></wp:post_name>
@@ -468,7 +482,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>berlin-eu-european-union-federal-chancellery</title>
+		<title><![CDATA[berlin-eu-european-union-federal-chancellery]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/nc-green-party-becomes-latest-official-party/berlin-eu-european-union-federal-chancellery/</link>
 		<pubDate>Thu, 29 Mar 2018 18:58:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -479,6 +493,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:58:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:58:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[berlin-eu-european-union-federal-chancellery]]></wp:post_name>
@@ -503,7 +519,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>man-person-suit-united-states-of-america</title>
+		<title><![CDATA[man-person-suit-united-states-of-america]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/sen-claire-mccaskill-under-fire-for-beverly-hills-fundraiser-with-obama/man-person-suit-united-states-of-america/</link>
 		<pubDate>Thu, 29 Mar 2018 19:00:03 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -514,6 +530,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:00:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:00:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[man-person-suit-united-states-of-america]]></wp:post_name>
@@ -538,7 +556,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promotions</title>
+		<title><![CDATA[banner-promotions]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/banner-promotions/</link>
 		<pubDate>Thu, 29 Mar 2018 19:29:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -549,6 +567,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:29:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:29:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 19:29:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 19:29:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promotions]]></wp:post_name>
@@ -573,7 +593,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vertical-promo-yelow-news</title>
+		<title><![CDATA[vertical-promo-yelow-news]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/vertical-promo-yelow-news/</link>
 		<pubDate>Wed, 11 Apr 2018 03:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -584,6 +604,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:09:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:09:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:09:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:09:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vertical-promo-yelow-news]]></wp:post_name>
@@ -608,7 +630,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vertical-promo-blue-news</title>
+		<title><![CDATA[vertical-promo-blue-news]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/vertical-promo-blue-news/</link>
 		<pubDate>Wed, 11 Apr 2018 03:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -619,6 +641,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:09:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:09:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:09:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:09:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vertical-promo-blue-news]]></wp:post_name>
@@ -643,7 +667,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>square-promo-yellow-news</title>
+		<title><![CDATA[square-promo-yellow-news]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/square-promo-yellow-news/</link>
 		<pubDate>Wed, 11 Apr 2018 03:09:20 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -654,6 +678,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:09:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:09:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:09:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:09:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[square-promo-yellow-news]]></wp:post_name>
@@ -678,7 +704,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>square-promo-blue-news</title>
+		<title><![CDATA[square-promo-blue-news]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/square-promo-blue-news/</link>
 		<pubDate>Wed, 11 Apr 2018 03:10:21 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -689,6 +715,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:10:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:10:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:10:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:10:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[square-promo-blue-news]]></wp:post_name>
@@ -713,7 +741,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-vertical-promo-blue-news.jpg</title>
+		<title><![CDATA[cropped-vertical-promo-blue-news.jpg]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/cropped-vertical-promo-blue-news-jpg/</link>
 		<pubDate>Wed, 11 Apr 2018 03:12:23 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -724,6 +752,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:12:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:12:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:12:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:12:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-vertical-promo-blue-news-jpg]]></wp:post_name>
@@ -752,7 +782,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>green-2596624_1920</title>
+		<title><![CDATA[green-2596624_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/green-2596624_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -763,6 +793,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[green-2596624_1920]]></wp:post_name>
@@ -787,7 +819,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>football-461340_1920</title>
+		<title><![CDATA[football-461340_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/football-461340_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:03 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -798,6 +830,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[football-461340_1920]]></wp:post_name>
@@ -822,7 +856,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>urban-438393_1920</title>
+		<title><![CDATA[urban-438393_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/urban-438393_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -833,6 +867,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[urban-438393_1920]]></wp:post_name>
@@ -857,7 +893,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newspaper-943004_1920</title>
+		<title><![CDATA[newspaper-943004_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/newspaper-943004_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:08 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -868,6 +904,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newspaper-943004_1920]]></wp:post_name>
@@ -892,7 +930,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>counting-3125587_1920</title>
+		<title><![CDATA[counting-3125587_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/counting-3125587_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -903,6 +941,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[counting-3125587_1920]]></wp:post_name>
@@ -927,34 +967,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>One Click Demo Import - log_file_2018-04-25__06-27-22</title>
-		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/one-click-demo-import-log_file_2018-04-25__06-27-22/</link>
-		<pubDate>Wed, 25 Apr 2018 06:27:22 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/daily-magazine/wp-content/uploads/sites/9/2018/04/log_file_2018-04-25__06-27-22.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-25 06:27:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-25 06:27:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2018-04-25__06-27-22]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/elegant-magazine/daily-magazine/wp-content/uploads/sites/9/2018/04/log_file_2018-04-25__06-27-22.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/04/log_file_2018-04-25__06-27-22.txt]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/36/</link>
 		<pubDate>Thu, 29 Mar 2018 19:34:15 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -965,6 +978,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:34:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:34:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[36]]></wp:post_name>
@@ -1009,7 +1024,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/37/</link>
 		<pubDate>Thu, 29 Mar 2018 19:34:16 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1020,6 +1035,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:34:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:34:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[37]]></wp:post_name>
@@ -1064,7 +1081,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/38/</link>
 		<pubDate>Thu, 29 Mar 2018 19:34:16 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1075,6 +1092,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:34:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:34:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[38]]></wp:post_name>
@@ -1119,7 +1138,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Elegant Magazine</title>
+		<title><![CDATA[Elegant Magazine]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/all-demos/</link>
 		<pubDate>Mon, 09 Apr 2018 17:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1130,6 +1149,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:31:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:31:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1174,7 +1195,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default</title>
+		<title><![CDATA[Default]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/default/</link>
 		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1185,6 +1206,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -1229,7 +1252,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>News Portal</title>
+		<title><![CDATA[News Portal]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/news-portal/</link>
 		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1240,6 +1263,8 @@
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news-portal]]></wp:post_name>
@@ -1284,7 +1309,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Minimal Magazine</title>
+		<title><![CDATA[Minimal Magazine]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/minimal-magazine/</link>
 		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1295,6 +1320,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimal-magazine]]></wp:post_name>
@@ -1339,7 +1366,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Architecture &amp; Interior</title>
+		<title><![CDATA[Architecture & Interior]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/architecture-interior/</link>
 		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1350,6 +1377,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-interior]]></wp:post_name>
@@ -1394,7 +1423,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Travel Blog</title>
+		<title><![CDATA[Travel Blog]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/travel-blog/</link>
 		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1405,6 +1434,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 16:44:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 16:44:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-blog]]></wp:post_name>
@@ -1449,62 +1480,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Upgrade to Pro</title>
-		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/09/upgrade-to-pro/</link>
-		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 17:34:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[upgrade-to-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://afthemes.com/products/elegant-magazine-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>protest-3290026_1920</title>
+		<title><![CDATA[protest-3290026_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/protest-3290026_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:26:51 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1515,6 +1491,8 @@
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:26:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:26:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:26:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:26:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[protest-3290026_1920]]></wp:post_name>
@@ -1539,7 +1517,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>security-protection-anti-virus-software-60504</title>
+		<title><![CDATA[security-protection-anti-virus-software-60504]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/security-protection-anti-virus-software-60504/</link>
 		<pubDate>Wed, 11 Apr 2018 03:29:05 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1550,6 +1528,8 @@
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:29:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:29:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 03:29:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 03:29:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[security-protection-anti-virus-software-60504]]></wp:post_name>
@@ -1574,7 +1554,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-757432</title>
+		<title><![CDATA[pexels-photo-757432]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/is-your-citys-population-keeping-pace-the-fastest-growing-city-in-each-state/pexels-photo-757432/</link>
 		<pubDate>Wed, 11 Apr 2018 03:49:27 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1585,6 +1565,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:49:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:49:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-757432]]></wp:post_name>
@@ -1609,7 +1591,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>business-1031754_1920</title>
+		<title><![CDATA[business-1031754_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/tax-deadline-is-1-week-away-why-you-shouldnt-be-a-last-minute-filer/business-1031754_1920/</link>
 		<pubDate>Wed, 11 Apr 2018 03:55:18 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1620,6 +1602,8 @@
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:55:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:55:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-1031754_1920]]></wp:post_name>
@@ -1644,7 +1628,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/95/</link>
 		<pubDate>Wed, 11 Apr 2018 04:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1655,6 +1639,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 04:21:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 04:21:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[95]]></wp:post_name>
@@ -1699,7 +1685,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/96/</link>
 		<pubDate>Wed, 11 Apr 2018 04:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1710,6 +1696,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 04:21:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 04:21:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[96]]></wp:post_name>
@@ -1754,7 +1742,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/97/</link>
 		<pubDate>Wed, 11 Apr 2018 04:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1765,6 +1753,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 04:21:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 04:21:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[97]]></wp:post_name>
@@ -1809,7 +1799,64 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promo-red-dim</title>
+		<title><![CDATA[]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/98/</link>
+		<pubDate>Wed, 11 Apr 2018 04:21:45 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=98</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>98</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-11 04:21:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-11 04:21:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[98]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[banner-promo-red-dim]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/banner-promo-red-dim/</link>
 		<pubDate>Wed, 25 Apr 2018 06:29:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1820,6 +1867,8 @@
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:29:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 06:29:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:29:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:29:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promo-red-dim]]></wp:post_name>
@@ -1844,7 +1893,64 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>VK</title>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/25/facebook/</link>
+		<pubDate>Wed, 25 Apr 2018 06:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/daily-magazine/?p=113</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-25 06:52:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-25 06:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:53:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:53:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[113]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://facebook.com/afthemes]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[VK]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/?p=117</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1855,6 +1961,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:52:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:52:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -1902,7 +2010,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/</link>
 		<pubDate>Thu, 29 Mar 2018 18:46:51 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1913,6 +2021,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:46:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:46:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:46:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:46:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1928,7 +2038,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Burlington sets 6th Community Improvement</title>
+		<title><![CDATA[Burlington sets 6th Community Improvement]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/burlington-sets-6th-community-improvement-meeting/</link>
 		<pubDate>Thu, 29 Mar 2018 18:52:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1939,6 +2049,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:52:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:52:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:52:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:52:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[burlington-sets-6th-community-improvement-meeting]]></wp:post_name>
@@ -1959,7 +2071,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Women United gives $65K for ABSS programs</title>
+		<title><![CDATA[Women United gives $65K for ABSS programs]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/women-united-gives-65k-for-abss-elementary-programs/</link>
 		<pubDate>Thu, 29 Mar 2018 18:50:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1970,6 +2082,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:50:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:50:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:04:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:04:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[women-united-gives-65k-for-abss-elementary-programs]]></wp:post_name>
@@ -1995,7 +2109,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LabCorp hit with federal suit over robocalls</title>
+		<title><![CDATA[LabCorp hit with federal suit over robocalls]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/labcorp-hit-with-federal-suit-over-robocalls/</link>
 		<pubDate>Thu, 29 Mar 2018 18:53:59 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2006,6 +2120,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:53:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:53:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:53:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:53:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[labcorp-hit-with-federal-suit-over-robocalls]]></wp:post_name>
@@ -2026,7 +2142,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>China’s defunct space lab hurtling toward Earth</title>
+		<title><![CDATA[China’s defunct space lab hurtling toward Earth]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/where-will-it-hit-chinas-defunct-space-lab-hurtling-toward-earth-for-re-entry/</link>
 		<pubDate>Thu, 29 Mar 2018 18:55:56 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2037,6 +2153,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:55:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:55:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:09:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:09:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-will-it-hit-chinas-defunct-space-lab-hurtling-toward-earth-for-re-entry]]></wp:post_name>
@@ -2062,7 +2180,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>NC Green Party becomes latest official party</title>
+		<title><![CDATA[NC Green Party becomes latest official party]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/nc-green-party-becomes-latest-official-party/</link>
 		<pubDate>Thu, 29 Mar 2018 18:58:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2073,6 +2191,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 18:58:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 18:58:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 18:58:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 18:58:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[nc-green-party-becomes-latest-official-party]]></wp:post_name>
@@ -2094,7 +2214,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>McCaskill under fire for Beverly with Obama</title>
+		<title><![CDATA[McCaskill under fire for Beverly with Obama]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/03/29/sen-claire-mccaskill-under-fire-for-beverly-hills-fundraiser-with-obama/</link>
 		<pubDate>Thu, 29 Mar 2018 19:00:14 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2105,6 +2225,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-29 19:00:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-29 19:00:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-29 19:00:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-29 19:00:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sen-claire-mccaskill-under-fire-for-beverly-hills-fundraiser-with-obama]]></wp:post_name>
@@ -2126,7 +2248,68 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Mexican border town of Laredo braces for influx</title>
+		<title><![CDATA[Upgrade to Pro]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2022/02/03/upgrade-to-pro/</link>
+		<pubDate>Mon, 09 Apr 2018 17:34:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-03 07:57:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-09 17:34:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-03 07:57:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-03 07:57:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[upgrade-to-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://afthemes.com/products/elegant-magazine-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-09]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Mexican border town of Laredo braces for influx]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/mexican-border-town-of-laredo-braces-for-influx-of-national-guard-troops-in-backyard/</link>
 		<pubDate>Wed, 11 Apr 2018 03:32:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2139,6 +2322,8 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Quisque velit
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:32:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:32:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:04:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:04:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[mexican-border-town-of-laredo-braces-for-influx-of-national-guard-troops-in-backyard]]></wp:post_name>
@@ -2164,7 +2349,7 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Quisque velit
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>No, Facebook doesn&#039;t secretly listen</title>
+		<title><![CDATA[No, Facebook doesn't secretly listen]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/no-facebook-doesnt-secretly-listen-via-your-microphone-to-target-ads-at-you/</link>
 		<pubDate>Wed, 11 Apr 2018 03:33:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2175,6 +2360,8 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Quisque velit
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:33:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:33:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:06:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:06:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[no-facebook-doesnt-secretly-listen-via-your-microphone-to-target-ads-at-you]]></wp:post_name>
@@ -2223,7 +2410,7 @@ Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Quisque velit
 							</wp:comment>
 					</item>
 					<item>
-		<title>EPA fires staffer who approved report downplaying threats</title>
+		<title><![CDATA[EPA fires staffer who approved report downplaying threats]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/epa-fires-staffer-who-approved-report-downplaying-threats-to-scott-pruitt/</link>
 		<pubDate>Wed, 11 Apr 2018 03:34:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2236,6 +2423,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:34:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:34:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:03:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:03:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[epa-fires-staffer-who-approved-report-downplaying-threats-to-scott-pruitt]]></wp:post_name>
@@ -2289,7 +2478,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 							</wp:comment>
 					</item>
 					<item>
-		<title>Arizona teachers, schools prepare for a walkout.</title>
+		<title><![CDATA[Arizona teachers, schools prepare for a walkout.]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/arizona-teachers-schools-prepare-for-a-walkout-over-salaries-education-money/</link>
 		<pubDate>Wed, 11 Apr 2018 03:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2300,6 +2489,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:36:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:36:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:03:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:03:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[arizona-teachers-schools-prepare-for-a-walkout-over-salaries-education-money]]></wp:post_name>
@@ -2325,7 +2516,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>76ers set franchise record with 15th win</title>
+		<title><![CDATA[76ers set franchise record with 15th win]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/76ers-set-franchise-record-with-15th-consecutive-win-121-113-over-hawks/</link>
 		<pubDate>Wed, 11 Apr 2018 03:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2336,6 +2527,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:37:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:37:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:02:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:02:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[76ers-set-franchise-record-with-15th-consecutive-win-121-113-over-hawks]]></wp:post_name>
@@ -2360,9 +2553,23 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>6</wp:comment_id>
+			<wp:comment_author><![CDATA[hfchmgskuu]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[b2efda8bd035d8f673f964fc707fea7a.roopert@ssemarketing.net]]></wp:comment_author_email>
+			<wp:comment_author_url>http://alpxidnatm</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[81.16.33.31]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-12 22:25:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-12 22:25:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Muchas gracias. ?Como puedo iniciar sesion?]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>Dodgers will host 2020 MLB All-Star Game.</title>
+		<title><![CDATA[Dodgers will host 2020 MLB All-Star Game.]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/dodgers-will-host-2020-mlb-all-star-game-their-first-since-1980/</link>
 		<pubDate>Wed, 11 Apr 2018 03:39:23 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2373,6 +2580,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:39:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:39:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:02:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:02:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dodgers-will-host-2020-mlb-all-star-game-their-first-since-1980]]></wp:post_name>
@@ -2398,7 +2607,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Is your city&#039;s population keeping pace?</title>
+		<title><![CDATA[Is your city's population keeping pace?]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/is-your-citys-population-keeping-pace-the-fastest-growing-city-in-each-state/</link>
 		<pubDate>Wed, 11 Apr 2018 03:49:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2409,6 +2618,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-11 03:49:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-11 03:49:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:01:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:01:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[is-your-citys-population-keeping-pace-the-fastest-growing-city-in-each-state]]></wp:post_name>
@@ -2456,62 +2667,44 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 							</wp:comment>
 					</item>
 					<item>
-		<title></title>
-		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/98/</link>
-		<pubDate>Wed, 11 Apr 2018 04:21:45 +0000</pubDate>
+		<title><![CDATA[Tax deadline: Why you shouldn't be a last?]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/tax-deadline-is-1-week-away-why-you-shouldnt-be-a-last-minute-filer/</link>
+		<pubDate>Wed, 11 Apr 2018 03:55:33 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=98</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=87</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-11 04:21:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-11 04:21:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[98]]></wp:post_name>
+		<content:encoded><![CDATA[Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-11 03:55:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-11 03:55:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 07:02:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 07:02:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[tax-deadline-is-1-week-away-why-you-shouldnt-be-a-last-minute-filer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+										<category domain="category" nicename="research"><![CDATA[Research]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[89]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/blog/</link>
 		<pubDate>Wed, 25 Apr 2018 06:40:41 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2522,6 +2715,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:40:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 06:40:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:40:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2541,62 +2736,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
-		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/25/facebook/</link>
-		<pubDate>Wed, 25 Apr 2018 06:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/daily-magazine/?p=113</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>113</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-25 06:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-25 06:52:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[facebook]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[113]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://facebook.com/afthemes]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/25/twitter/</link>
 		<pubDate>Wed, 25 Apr 2018 06:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2607,6 +2747,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:52:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 06:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:53:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:53:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -2651,7 +2793,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Instagram</title>
+		<title><![CDATA[Instagram]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/25/instagram/</link>
 		<pubDate>Wed, 25 Apr 2018 06:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2662,6 +2804,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:52:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 06:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:53:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:53:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -2706,7 +2850,7 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube</title>
+		<title><![CDATA[Youtube]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/25/youtube/</link>
 		<pubDate>Wed, 25 Apr 2018 06:52:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2717,6 +2861,8 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-25 06:52:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-25 06:52:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-25 06:53:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-25 06:53:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -2758,41 +2904,6 @@ Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesq
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://youtube.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Tax deadline: Why you shouldn&#039;t be a last?</title>
-		<link>https://demo.afthemes.com/elegant-magazine/daily-magazine/2018/04/11/tax-deadline-is-1-week-away-why-you-shouldnt-be-a-last-minute-filer/</link>
-		<pubDate>Wed, 11 Apr 2018 03:55:33 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/newsportal/?p=87</guid>
-		<description></description>
-		<content:encoded><![CDATA[Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Pellentesque in ipsum id orci porta dapibus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ipsum id orci porta dapibus.]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-11 03:55:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-11 03:55:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[tax-deadline-is-1-week-away-why-you-shouldnt-be-a-last-minute-filer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="research"><![CDATA[Research]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[89]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

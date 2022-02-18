@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6.2" created="2021-03-02 10:20" -->
+	<!-- generator="WordPress/5.8.3" created="2022-02-17 10:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Magnificent Blog</title>
 	<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog</link>
 	<description>Clean and Elegant WordPress Theme</description>
-	<pubDate>Tue, 02 Mar 2021 10:20:50 +0000</pubDate>
+	<pubDate>Thu, 17 Feb 2022 10:38:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.afthemes.com/elegant-magazine/</wp:base_site_url>
+	<wp:base_site_url>https://demo.afthemes.com/elegant-magazine/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.afthemes.com/elegant-magazine/magnificent-blog</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
@@ -273,37 +273,10 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 		<item>
-		<title>One Click Demo Import - log_file_2018-07-17__17-29-44</title>
-		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/one-click-demo-import-log_file_2018-07-17__17-29-44/</link>
-		<pubDate>Tue, 17 Jul 2018 17:29:44 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/07/log_file_2018-07-17__17-29-44.txt</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-17 17:29:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-17 17:29:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2018-07-17__17-29-44]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/07/log_file_2018-07-17__17-29-44.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/log_file_2018-07-17__17-29-44.txt]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>pexels-photo-175658</title>
+		<title><![CDATA[pexels-photo-175658]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/pexels-photo-175658/</link>
 		<pubDate>Mon, 12 Mar 2018 10:36:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -314,6 +287,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 10:36:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 10:36:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-175658]]></wp:post_name>
@@ -338,7 +313,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-291762</title>
+		<title><![CDATA[pexels-photo-291762]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/pexels-photo-291762/</link>
 		<pubDate>Mon, 12 Mar 2018 11:05:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -349,6 +324,8 @@
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:05:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:05:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-291762]]></wp:post_name>
@@ -373,7 +350,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-794064</title>
+		<title><![CDATA[pexels-photo-794064]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/pexels-photo-794064/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:36 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -384,6 +361,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:25:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-794064]]></wp:post_name>
@@ -408,7 +387,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-903171</title>
+		<title><![CDATA[pexels-photo-903171]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/pexels-photo-903171/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:33 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -419,6 +398,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:34:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-903171]]></wp:post_name>
@@ -443,7 +424,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-206512</title>
+		<title><![CDATA[pexels-photo-206512]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-206512/</link>
 		<pubDate>Mon, 12 Mar 2018 12:37:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -454,6 +435,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:37:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:37:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-206512]]></wp:post_name>
@@ -478,7 +461,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-875862</title>
+		<title><![CDATA[pexels-photo-875862]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/pexels-photo-875862/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -489,6 +472,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:44:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-875862]]></wp:post_name>
@@ -513,7 +498,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-458766</title>
+		<title><![CDATA[pexels-photo-458766]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/pexels-photo-458766/</link>
 		<pubDate>Mon, 12 Mar 2018 13:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -524,6 +509,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:01:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:01:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-458766]]></wp:post_name>
@@ -548,7 +535,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-206470</title>
+		<title><![CDATA[pexels-photo-206470]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-photo-206470/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -559,6 +546,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:06:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-206470]]></wp:post_name>
@@ -583,7 +572,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-301326</title>
+		<title><![CDATA[pexels-photo-301326]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-photo-301326/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -594,6 +583,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:06:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-301326]]></wp:post_name>
@@ -618,7 +609,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-371085</title>
+		<title><![CDATA[pexels-photo-371085]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/pexels-photo-371085/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -629,6 +620,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:06:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-371085]]></wp:post_name>
@@ -653,7 +646,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>woman-3219507_1920</title>
+		<title><![CDATA[woman-3219507_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/woman-3219507_1920/</link>
 		<pubDate>Mon, 26 Mar 2018 03:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -664,6 +657,8 @@
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 03:08:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 03:08:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 03:08:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 03:08:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-3219507_1920]]></wp:post_name>
@@ -688,7 +683,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-woman-3219507_1920.jpg</title>
+		<title><![CDATA[cropped-woman-3219507_1920.jpg]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/cropped-woman-3219507_1920-jpg/</link>
 		<pubDate>Mon, 26 Mar 2018 03:09:20 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -699,6 +694,8 @@
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 03:09:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 03:09:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 03:09:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 03:09:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-woman-3219507_1920-jpg]]></wp:post_name>
@@ -735,7 +732,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner-promotions</title>
+		<title><![CDATA[banner-promotions]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/banner-promotions/</link>
 		<pubDate>Wed, 04 Apr 2018 01:43:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -746,6 +743,8 @@
 		<wp:post_id>186</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-04 01:43:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-04 01:43:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-04 01:43:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-04 01:43:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-promotions]]></wp:post_name>
@@ -770,7 +769,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-woman-3219507_1920</title>
+		<title><![CDATA[cropped-woman-3219507_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/cropped-woman-3219507_1920/</link>
 		<pubDate>Wed, 04 Apr 2018 02:34:26 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -781,6 +780,8 @@
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-04 02:34:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-04 02:34:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-04 02:34:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-04 02:34:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-woman-3219507_1920]]></wp:post_name>
@@ -809,7 +810,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-woman-3219507_1920</title>
+		<title><![CDATA[cropped-woman-3219507_1920]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/cropped-woman-3219507_1920-2/</link>
 		<pubDate>Tue, 17 Jul 2018 17:30:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -820,6 +821,8 @@
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:30:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:30:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:30:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:30:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-woman-3219507_1920-2]]></wp:post_name>
@@ -848,7 +851,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architectural-design-architecture-buildings-161878</title>
+		<title><![CDATA[architectural-design-architecture-buildings-161878]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/architectural-design-architecture-buildings-161878/</link>
 		<pubDate>Tue, 17 Jul 2018 17:34:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -859,6 +862,8 @@
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:34:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:34:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:34:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:34:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architectural-design-architecture-buildings-161878]]></wp:post_name>
@@ -883,7 +888,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-architectural-design-architecture-buildings-161878.jpg</title>
+		<title><![CDATA[cropped-architectural-design-architecture-buildings-161878.jpg]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/cropped-architectural-design-architecture-buildings-161878-jpg/</link>
 		<pubDate>Tue, 17 Jul 2018 17:35:13 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -894,6 +899,8 @@
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:35:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:35:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:35:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:35:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-architectural-design-architecture-buildings-161878-jpg]]></wp:post_name>
@@ -930,7 +937,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-220777</title>
+		<title><![CDATA[pexels-photo-220777]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-220777/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -941,6 +948,8 @@
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-220777]]></wp:post_name>
@@ -961,7 +970,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-417430</title>
+		<title><![CDATA[pexels-photo-417430]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-417430/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -972,6 +981,8 @@
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-417430]]></wp:post_name>
@@ -996,7 +1007,40 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[pexels-photo-1143416]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-1143416/</link>
+		<pubDate>Tue, 17 Jul 2018 17:39:12 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/03/pexels-photo-1143416.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>213</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-17 17:39:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-photo-1143416]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>88</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/03/pexels-photo-1143416.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/03/pexels-photo-1143416.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"1920";s:6:"height";s:4:"1280";s:4:"file";s:33:"2018/03/pexels-photo-1143416.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-1143416-150x150.jpeg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"pexels-photo-1143416-300x200.jpeg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-photo-1143416-768x512.jpeg";s:5:"width";s:3:"768";s:6:"height";s:3:"512";s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-photo-1143416-1024x683.jpeg";s:5:"width";s:4:"1024";s:6:"height";s:3:"683";s:9:"mime-type";s:10:"image/jpeg";}s:25:"elegant-magazine-featured";a:4:{s:4:"file";s:34:"pexels-photo-1143416-1024x683.jpeg";s:5:"width";s:4:"1024";s:6:"height";s:3:"683";s:9:"mime-type";s:10:"image/jpeg";}s:23:"elegant-magazine-medium";a:4:{s:4:"file";s:33:"pexels-photo-1143416-720x380.jpeg";s:5:"width";s:3:"720";s:6:"height";s:3:"380";s:9:"mime-type";s:10:"image/jpeg";}s:29:"elegant-magazine-medium-small";a:4:{s:4:"file";s:33:"pexels-photo-1143416-300x200.jpeg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";s:9:"mime-type";s:10:"image/jpeg";}s:32:"elegant-magazine-thumbnail-small";a:4:{s:4:"file";s:31:"pexels-photo-1143416-50x50.jpeg";s:5:"width";s:2:"50";s:6:"height";s:2:"50";s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/9/</link>
 		<pubDate>Tue, 06 Mar 2018 09:18:36 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1007,6 +1051,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:18:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:18:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[9]]></wp:post_name>
@@ -1051,7 +1097,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/10/</link>
 		<pubDate>Tue, 06 Mar 2018 09:18:36 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1062,6 +1108,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:18:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:18:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:18:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:18:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[10]]></wp:post_name>
@@ -1106,7 +1154,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Facebook</title>
+		<title><![CDATA[Facebook]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/facebook/</link>
 		<pubDate>Tue, 06 Mar 2018 11:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1117,6 +1165,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 11:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -1161,7 +1211,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Twitter</title>
+		<title><![CDATA[Twitter]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/twitter/</link>
 		<pubDate>Tue, 06 Mar 2018 11:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1172,6 +1222,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 11:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -1216,7 +1268,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Youtube</title>
+		<title><![CDATA[Youtube]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/youtube/</link>
 		<pubDate>Tue, 06 Mar 2018 11:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1227,6 +1279,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 11:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -1271,7 +1325,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>LinkedIn</title>
+		<title><![CDATA[LinkedIn]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/linkedin/</link>
 		<pubDate>Tue, 06 Mar 2018 11:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1282,6 +1336,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 11:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -1326,7 +1382,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Pinterest</title>
+		<title><![CDATA[Pinterest]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/pinterest/</link>
 		<pubDate>Tue, 06 Mar 2018 11:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1337,6 +1393,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 11:29:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:29:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:29:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pinterest]]></wp:post_name>
@@ -1381,7 +1439,64 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[Vimeo]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/vimeo/</link>
+		<pubDate>Tue, 06 Mar 2018 11:30:55 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-06 11:30:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-06 11:30:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 11:30:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 11:30:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vimeo]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://vimeo.com]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/?p=143</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1392,6 +1507,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:36:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:36:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -1439,7 +1556,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/?p=156</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1450,6 +1567,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:39:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:39:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -1497,38 +1616,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1143416</title>
-		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-1143416/</link>
-		<pubDate>Tue, 17 Jul 2018 17:39:12 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/03/pexels-photo-1143416.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-17 17:39:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:12]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-photo-1143416]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>88</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/elegant-magazine/magnificent-blog/wp-content/uploads/sites/11/2018/03/pexels-photo-1143416.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/03/pexels-photo-1143416.jpeg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"1920";s:6:"height";s:4:"1280";s:4:"file";s:33:"2018/03/pexels-photo-1143416.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-1143416-150x150.jpeg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"pexels-photo-1143416-300x200.jpeg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-photo-1143416-768x512.jpeg";s:5:"width";s:3:"768";s:6:"height";s:3:"512";s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-photo-1143416-1024x683.jpeg";s:5:"width";s:4:"1024";s:6:"height";s:3:"683";s:9:"mime-type";s:10:"image/jpeg";}s:25:"elegant-magazine-featured";a:4:{s:4:"file";s:34:"pexels-photo-1143416-1024x683.jpeg";s:5:"width";s:4:"1024";s:6:"height";s:3:"683";s:9:"mime-type";s:10:"image/jpeg";}s:23:"elegant-magazine-medium";a:4:{s:4:"file";s:33:"pexels-photo-1143416-720x380.jpeg";s:5:"width";s:3:"720";s:6:"height";s:3:"380";s:9:"mime-type";s:10:"image/jpeg";}s:29:"elegant-magazine-medium-small";a:4:{s:4:"file";s:33:"pexels-photo-1143416-300x200.jpeg";s:5:"width";s:3:"300";s:6:"height";s:3:"200";s:9:"mime-type";s:10:"image/jpeg";}s:32:"elegant-magazine-thumbnail-small";a:4:{s:4:"file";s:31:"pexels-photo-1143416-50x50.jpeg";s:5:"width";s:2:"50";s:6:"height";s:2:"50";s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>pexels-photo-813362</title>
+		<title><![CDATA[pexels-photo-813362]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-813362/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:15 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1539,6 +1627,8 @@
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-813362]]></wp:post_name>
@@ -1559,7 +1649,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-1227808</title>
+		<title><![CDATA[pexels-photo-1227808]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-1227808/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:18 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1570,6 +1660,8 @@
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1227808]]></wp:post_name>
@@ -1590,7 +1682,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-290386</title>
+		<title><![CDATA[pexels-photo-290386]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-290386/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:20 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1601,6 +1693,8 @@
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-290386]]></wp:post_name>
@@ -1621,7 +1715,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-739407</title>
+		<title><![CDATA[pexels-photo-739407]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-739407/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:21 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1632,6 +1726,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-739407]]></wp:post_name>
@@ -1652,7 +1748,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-417344</title>
+		<title><![CDATA[pexels-photo-417344]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-417344/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:23 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1663,6 +1759,8 @@
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-417344]]></wp:post_name>
@@ -1683,7 +1781,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-barge-bay-161764</title>
+		<title><![CDATA[architecture-barge-bay-161764]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/architecture-barge-bay-161764/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:25 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1694,6 +1792,8 @@
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-barge-bay-161764]]></wp:post_name>
@@ -1714,7 +1814,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-buildings-business-327502</title>
+		<title><![CDATA[architecture-buildings-business-327502]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/architecture-buildings-business-327502/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1725,6 +1825,8 @@
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-buildings-business-327502]]></wp:post_name>
@@ -1745,7 +1847,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>architecture-building-business-302769</title>
+		<title><![CDATA[architecture-building-business-302769]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/architecture-building-business-302769/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:31 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1756,6 +1858,8 @@
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture-building-business-302769]]></wp:post_name>
@@ -1776,7 +1880,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pexels-photo-548084</title>
+		<title><![CDATA[pexels-photo-548084]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/pexels-photo-548084/</link>
 		<pubDate>Tue, 17 Jul 2018 17:39:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1787,6 +1891,8 @@
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:39:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:39:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:39:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:39:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-548084]]></wp:post_name>
@@ -1807,7 +1913,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-pexels-photo-548084.jpeg</title>
+		<title><![CDATA[cropped-pexels-photo-548084.jpeg]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/cropped-pexels-photo-548084-jpeg/</link>
 		<pubDate>Tue, 17 Jul 2018 18:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1818,6 +1924,8 @@
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 18:06:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 18:06:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:06:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:06:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-548084-jpeg]]></wp:post_name>
@@ -1854,7 +1962,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/blog/</link>
 		<pubDate>Tue, 06 Mar 2018 09:13:57 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1865,6 +1973,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:13:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:13:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:13:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:13:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1876,62 +1986,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Vimeo</title>
-		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/vimeo/</link>
-		<pubDate>Tue, 06 Mar 2018 11:30:55 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=58</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-06 11:30:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-06 11:30:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[vimeo]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu"><![CDATA[Social menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://vimeo.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/about/</link>
 		<pubDate>Mon, 26 Mar 2018 14:35:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1942,6 +1997,8 @@
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:35:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:35:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:35:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:35:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1957,7 +2014,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/contact/</link>
 		<pubDate>Mon, 26 Mar 2018 14:35:43 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1968,6 +2025,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:35:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:35:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:35:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:35:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1983,7 +2042,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/142/</link>
 		<pubDate>Mon, 26 Mar 2018 14:37:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -1994,6 +2053,8 @@
 		<wp:post_id>142</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:37:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:37:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[142]]></wp:post_name>
@@ -2038,7 +2099,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/147/</link>
 		<pubDate>Mon, 26 Mar 2018 14:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2049,6 +2110,8 @@
 		<wp:post_id>147</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:37:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:37:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[147]]></wp:post_name>
@@ -2093,7 +2156,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/148/</link>
 		<pubDate>Mon, 26 Mar 2018 14:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2104,6 +2167,8 @@
 		<wp:post_id>148</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:37:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:37:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[148]]></wp:post_name>
@@ -2148,7 +2213,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/150/</link>
 		<pubDate>Mon, 26 Mar 2018 14:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2159,6 +2224,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:37:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:37:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[150]]></wp:post_name>
@@ -2203,7 +2270,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/151/</link>
 		<pubDate>Mon, 26 Mar 2018 14:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2214,6 +2281,8 @@
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:38:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:38:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[151]]></wp:post_name>
@@ -2258,7 +2327,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/152/</link>
 		<pubDate>Mon, 26 Mar 2018 14:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2269,6 +2338,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:38:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:38:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[152]]></wp:post_name>
@@ -2313,7 +2384,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/153/</link>
 		<pubDate>Mon, 26 Mar 2018 14:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2324,6 +2395,8 @@
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:38:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:38:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[153]]></wp:post_name>
@@ -2368,7 +2441,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/26/154/</link>
 		<pubDate>Mon, 26 Mar 2018 14:38:34 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2379,6 +2452,8 @@
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-26 14:38:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-26 14:38:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-26 14:38:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[154]]></wp:post_name>
@@ -2423,7 +2498,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/04/03/165/</link>
 		<pubDate>Tue, 03 Apr 2018 07:34:57 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2434,6 +2509,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:34:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:34:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:34:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:34:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[165]]></wp:post_name>
@@ -2478,7 +2555,35 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[Press Center]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/press-center/</link>
+		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-03 07:40:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:40:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[press-center]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/04/03/173/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2489,6 +2594,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:41:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:41:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[173]]></wp:post_name>
@@ -2533,7 +2640,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/04/03/174/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2544,6 +2651,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:41:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:41:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -2588,7 +2697,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/04/03/175/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2599,6 +2708,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:41:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:41:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:41:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[175]]></wp:post_name>
@@ -2643,7 +2754,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/</link>
 		<pubDate>Tue, 06 Mar 2018 09:13:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2654,6 +2765,8 @@
 		<wp:post_id>187</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:13:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:13:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:13:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:13:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2665,8 +2778,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Upgrade to Pro</title>
-		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/04/07/upgrade-to-pro/</link>
+		<title><![CDATA[Upgrade to Pro]]></title>
+		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2022/02/03/upgrade-to-pro/</link>
 		<pubDate>Sat, 07 Apr 2018 02:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/fashion/?p=205</guid>
@@ -2674,8 +2787,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>205</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 02:20:52]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-02-03 08:00:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 02:20:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-03 08:00:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-03 08:00:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upgrade-to-pro]]></wp:post_name>
@@ -2716,11 +2831,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.afthemes.com/products/elegant-magazine-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://afthemes.com/products/elegant-magazine-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-07]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/07/17/248/</link>
 		<pubDate>Tue, 17 Jul 2018 18:28:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2731,6 +2850,8 @@
 		<wp:post_id>248</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 18:28:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[248]]></wp:post_name>
@@ -2775,7 +2896,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/07/17/249/</link>
 		<pubDate>Tue, 17 Jul 2018 18:28:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2786,6 +2907,8 @@
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 18:28:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:28:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:28:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[249]]></wp:post_name>
@@ -2830,7 +2953,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sample Page</title>
+		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/sample-page/</link>
 		<pubDate>Tue, 17 Jul 2018 17:25:29 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2849,6 +2972,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 		<wp:post_id>2</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-17 17:25:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-17 17:25:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:25:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:25:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2864,7 +2989,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Valentino Goes Deliberately Feminine for Fall 2018</title>
+		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2875,6 +3000,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:32:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:32:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
@@ -2908,7 +3035,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Meet Jo Jo, Body Positive Model and Cousin of Gigi</title>
+		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
 		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -2919,6 +3046,8 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:45:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:45:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
@@ -3470,9 +3599,121 @@ views on this web site.]]></wp:comment_content>
 			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1593117657.7206718921661376953125;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
 			</wp:commentmeta>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>26</wp:comment_id>
+			<wp:comment_author><![CDATA[asaadinu]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[oowere@aviye.jonjamail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.139.12]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 12:35:05]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 12:35:05]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin 500 Mg <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin</a> ezw.uxgp.demo.afthemes.com.urf.dp http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>27</wp:comment_id>
+			<wp:comment_author><![CDATA[ezebumilek]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[upukayes@aviye.jonjamail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.139.12]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 12:39:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 12:39:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin 500mg <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin 500mg Capsules</a> zdw.ehks.demo.afthemes.com.ptd.wu http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>28</wp:comment_id>
+			<wp:comment_author><![CDATA[idedeise]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[atezfet@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 12:42:49]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 12:42:49]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Buy Amoxicillin Online</a> dat.mnhr.demo.afthemes.com.onv.ay http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>29</wp:comment_id>
+			<wp:comment_author><![CDATA[aguwetoxen]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[amiwesuva@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 12:56:30]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 12:56:30]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Buy Amoxil <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin 500 Mg</a> hon.mtxc.demo.afthemes.com.ufv.hw http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>30</wp:comment_id>
+			<wp:comment_author><![CDATA[ogecurexenge]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[eybvumau@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 17:52:24]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 17:52:24]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxil Dose For 55 Pounds <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin Online</a> iuf.xqjb.demo.afthemes.com.suu.vj http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>31</wp:comment_id>
+			<wp:comment_author><![CDATA[osdoberi]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[aleojqem@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 18:11:42]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 18:11:42]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin 500mg <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin 500 Mg</a> krr.qzkb.demo.afthemes.com.ldt.it http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>32</wp:comment_id>
+			<wp:comment_author><![CDATA[juholujvetat]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[esebah@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-07 23:48:45]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-07 23:48:45]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin 500 Mg <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin No Prescription</a> lox.kocm.demo.afthemes.com.xsb.uj http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>33</wp:comment_id>
+			<wp:comment_author><![CDATA[aeyuomu]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[emepuni@ziman.letiasmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>http://mewkid.net/when-is-xuxlya3/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[62.210.207.209]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-08 00:02:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-08 00:02:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[http://mewkid.net/when-is-xuxlya3/ - Amoxicillin 500mg Dosage <a href="http://mewkid.net/when-is-xuxlya3/" rel="nofollow ugc">Amoxicillin Without Prescription</a> zch.lzkx.demo.afthemes.com.huh.gi http://mewkid.net/when-is-xuxlya3/]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
 					<item>
-		<title>Finland&#039;s Down&#039;s model Maija makes strides on catwalk</title>
+		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3483,6 +3724,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:45:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:45:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
@@ -3516,7 +3759,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>How to Create Adjustment Layers Based on Color</title>
+		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3527,6 +3770,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 03:29:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 03:29:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
@@ -3558,9 +3803,23 @@ views on this web site.]]></wp:comment_content>
 		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
 		<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>34</wp:comment_id>
+			<wp:comment_author><![CDATA[iilegal sales of alprostadil]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[a.p.ro.s.t.k.s.kvkr.cv.kf.@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://alprostadildrugs.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[92.204.174.134]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2021-03-27 21:32:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2021-03-27 21:32:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[muse alprostadil suppository https://alprostadildrugs.com/ alprostadil drug guide nursing implication]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
-		<title>If You Have $5, Zendaya Found the Spring Collections</title>
+		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3571,6 +3830,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:43:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:43:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
@@ -3604,7 +3865,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Beauty Products Chrissy Teigen Can’t Travel Without</title>
+		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
 		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3615,6 +3876,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:32:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:32:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
@@ -3669,7 +3932,7 @@ views on this web site.]]></wp:comment_content>
 							</wp:comment>
 					</item>
 					<item>
-		<title>Meet Gisele Bündchen Can’t Stop Wearing These Retro Jeans</title>
+		<title><![CDATA[Meet Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3680,6 +3943,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:31:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:31:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
@@ -3716,7 +3981,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Perms Are Coming Back—but They’re Getting a Modern</title>
+		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3727,6 +3992,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 17:42:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 17:42:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
@@ -3761,7 +4028,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out</title>
+		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3772,6 +4039,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:31:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:31:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
@@ -3829,7 +4098,7 @@ views on this web site.]]></wp:comment_content>
 							</wp:comment>
 					</item>
 					<item>
-		<title>New Aerie Collection Was Designed By Iskra Lawrence</title>
+		<title><![CDATA[New Aerie Collection Was Designed By Iskra Lawrence]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3840,6 +4109,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-17 18:31:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-17 18:31:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
@@ -3876,33 +4147,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Press Center</title>
-		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/press-center/</link>
-		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
-		<description></description>
-		<content:encoded><![CDATA[Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-03 07:40:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[press-center]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>EM Reports</title>
+		<title><![CDATA[EM Reports]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/em-reports/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3913,6 +4158,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:40:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:40:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[em-reports]]></wp:post_name>
@@ -3928,7 +4175,7 @@ views on this web site.]]></wp:comment_content>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Careers</title>
+		<title><![CDATA[Careers]]></title>
 		<link>https://demo.afthemes.com/elegant-magazine/magnificent-blog/careers/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes]]></dc:creator>
@@ -3939,6 +4186,8 @@ views on this web site.]]></wp:comment_content>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-03 07:41:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-03 07:41:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:41:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:41:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[careers]]></wp:post_name>
