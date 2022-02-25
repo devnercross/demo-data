@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9" created="2022-02-11 13:13" -->
+	<!-- generator="WordPress/5.9.1" created="2022-02-23 10:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sport</title>
 	<link>https://demo.afthemes.com/chromenews/sport</link>
 	<description>Just another ChromeNews site</description>
-	<pubDate>Fri, 11 Feb 2022 13:13:38 +0000</pubDate>
+	<pubDate>Wed, 23 Feb 2022 10:02:40 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.afthemes.com/chromenews/</wp:base_site_url>
@@ -245,7 +245,7 @@
 	<wp:term><wp:term_id>18</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 
 <image>
 	<url>https://demo.afthemes.com/chromenews/sport/wp-content/uploads/sites/3/2018/08/cropped-af-themes-main-dark-150x150.png</url>
@@ -963,40 +963,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
 		<wp:meta_value><![CDATA[chromenews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/chromenews/sport/</link>
-		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1945,6 +1911,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[pexels-ti]]></title>
+		<link>https://demo.afthemes.com/chromenews/sport/pexels-ti/</link>
+		<pubDate>Wed, 23 Feb 2022 06:19:20 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/sport/wp-content/uploads/sites/3/2022/02/pexels-ti.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>339</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-23 06:19:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-23 06:19:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-23 06:19:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-23 06:19:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-ti]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.afthemes.com/chromenews/sport/wp-content/uploads/sites/3/2022/02/pexels-ti.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/02/pexels-ti.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1283;s:4:"file";s:21:"2022/02/pexels-ti.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:21:"pexels-ti-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"pexels-ti-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"pexels-ti-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"pexels-ti-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:23:"pexels-ti-1536x1026.jpg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";}s:19:"chromenews-featured";a:4:{s:4:"file";s:22:"pexels-ti-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:16:"chromenews-large";a:4:{s:4:"file";s:21:"pexels-ti-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:17:"chromenews-medium";a:4:{s:4:"file";s:21:"pexels-ti-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Page]]></title>
 		<link>https://demo.afthemes.com/chromenews/sport/sample-page/</link>
 		<pubDate>Mon, 07 Feb 2022 09:59:11 +0000</pubDate>
@@ -2486,6 +2485,40 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.afthemes.com/chromenews/sport/</link>
+		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+						]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

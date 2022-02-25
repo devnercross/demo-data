@@ -1963,6 +1963,34 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demo.afthemes.com/chromenews/china-news/"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Elementor",
+          "slug": "business",
+          "preview": "https://demo.afthemes.com/chromenews/business/",
+          "plugins":"elementor,elespare"
+        },
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demo.afthemes.com/chromenews/covid-19/",
+          "plugins":"elementor,elespare"
+        },
+        "beauty": {
+          "name": "Beauty",
+          "catgory": "Elementor",
+          "slug": "beauty",
+          "preview": "https://demo.afthemes.com/chromenews/beauty/",
+          "plugins":"elementor,elespare"
+        },
+        "restaurant": {
+          "name": "Restaurant",
+          "catgory": "Elementor",
+          "slug": "restaurant",
+          "preview": "https://demo.afthemes.com/chromenews/restaurant/",
+          "plugins":"elementor,elespare"
         }
       }
     },
@@ -2020,6 +2048,55 @@
           "slug": "covid-19",
           "preview": "https://demo.afthemes.com/chromenews-pro/covid-19/",
           "plugins":"elementor,elespare"
+        },
+        "beauty": {
+          "name": "Beauty Pro",
+          "catgory": "Elementor",
+          "slug": "beauty",
+          "preview": "https://demo.afthemes.com/chromenews-pro/beauty/",
+          "plugins":"elementor,elespare"
+        },
+        "restaurant": {
+          "name": "Restaurant Pro",
+          "catgory": "Elementor",
+          "slug": "restaurant",
+          "preview": "https://demo.afthemes.com/chromenews-pro/restaurant/",
+          "plugins":"elementor,elespare"
+        },
+        "gadgets": {
+          "name": "Gadgets Pro",
+          "catgory": "Elementor",
+          "slug": "gadgets",
+          "preview": "https://demo.afthemes.com/chromenews-pro/gadgets/",
+          "plugins":"elementor,elespare"
+        },
+        "travel": {
+          "name": "Travel Pro",
+          "catgory": "Elementor",
+          "slug": "travel",
+          "preview": "https://demo.afthemes.com/chromenews-pro/travel/",
+          "plugins":"elementor,elespare"
+        },
+        "fitness": {
+          "name": "Fitness Pro",
+          "catgory": "Elementor",
+          "slug": "fitness",
+          "preview": "https://demo.afthemes.com/chromenews-pro/fitness/",
+          "plugins":"elementor,elespare"
+        },
+        "crypto-news": {
+          "name": "Crypto News Pro",
+          "catgory": "Elementor",
+          "slug": "crypto-news",
+          "preview": "https://demo.afthemes.com/chromenews-pro/crypto-news/",
+          "plugins":"elementor,elespare"
+        },
+        "charity": {
+          "name": "Charity Pro",
+          "catgory": "Blockspare",
+          "slug": "charity",
+          "preview": "https://demo.afthemes.com/chromenews-pro/charity/",
+          "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
         }  
       }
     }        
