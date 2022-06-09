@@ -1997,6 +1997,24 @@
           "slug": "restaurant",
           "preview": "https://demo.afthemes.com/chromenews/restaurant/",
           "plugins":"elementor,elespare"
+        },
+        "gaming": {
+          "name": "Gaming",
+          "catgory": "Blog",
+          "slug": "gaming",
+          "preview": "https://demo.afthemes.com/chromenews/gaming/"
+        },
+        "automobile": {
+          "name": "Automobile",
+          "catgory": "Blog",
+          "slug": "automobile",
+          "preview": "https://demo.afthemes.com/chromenews/automobile/"
+        },
+        "construction-blog": {
+          "name": "Construction Blog",
+          "catgory": "Blog",
+          "slug": "construction-blog",
+          "preview": "https://demo.afthemes.com/chromenews/construction-blog/"
         }
       }
     },
@@ -2103,6 +2121,30 @@
           "slug": "charity",
           "preview": "https://demo.afthemes.com/chromenews-pro/charity/",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
+        },
+        "gaming": {
+          "name": "Gaming Pro",
+          "catgory": "Blog",
+          "slug": "gaming",
+          "preview": "https://demo.afthemes.com/chromenews-pro/gaming/"
+        },
+        "automobile": {
+          "name": "Automobile Pro",
+          "catgory": "Blog",
+          "slug": "automobile",
+          "preview": "https://demo.afthemes.com/chromenews-pro/automobile/"
+        },
+        "online-news": {
+          "name": "Online News Pro",
+          "catgory": "General",
+          "slug": "online-news",
+          "preview": "https://demo.afthemes.com/chromenews-pro/online-news/"
+        },
+        "construction-blog": {
+          "name": "Construction Blog Pro",
+          "catgory": "Blog",
+          "slug": "construction-blog",
+          "preview": "https://demo.afthemes.com/chromenews-pro/construction-blog/"
         }  
       }
     }        
