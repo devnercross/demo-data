@@ -9,7 +9,7 @@
           "name": "CoverStory",
           "catgory": "General",
           "slug": "coverstory",
-          "preview": "https://demo.afthemes.com/covernews/coverstory/"
+          "preview": "https://demos.afthemes.com/covernews/coverstory/"
         }
       }
     },
@@ -22,7 +22,7 @@
           "name": "NewsCover",
           "catgory": "Dark",
           "slug": "newscover",
-          "preview": "https://demo.afthemes.com/covernews/newscover/"
+          "preview": "https://demos.afthemes.com/covernews/newscover/"
         }
       }
     },
@@ -35,7 +35,7 @@
           "name": "HardNews",
           "catgory": "General",
           "slug": "hardnews",
-          "preview": "https://demo.afthemes.com/covernews/hardnews/"
+          "preview": "https://demos.afthemes.com/covernews/hardnews/"
         }
       }
     },
@@ -48,7 +48,7 @@
           "name": "Daily Newscast",
           "catgory": "General",
           "slug": "daily-newscast",
-          "preview": "https://demo.afthemes.com/covernews/daily-newscast/"
+          "preview": "https://demos.afthemes.com/covernews/daily-newscast/"
         }
       }
     },
@@ -61,7 +61,7 @@
           "name": "CoverMag",
           "catgory": "General",
           "slug": "covermag",
-          "preview": "https://demo.afthemes.com/covernews/covermag/"
+          "preview": "https://demos.afthemes.com/covernews/covermag/"
         }
       }
     },
@@ -74,7 +74,7 @@
           "name": "Newsport",
           "catgory": "General",
           "slug": "newsport",
-          "preview": "https://demo.afthemes.com/covernews/newsport/"
+          "preview": "https://demos.afthemes.com/covernews/newsport/"
         }
       }
     },
@@ -87,7 +87,7 @@
           "name": "NewsWords",
           "catgory": "General",
           "slug": "newswords",
-          "preview": "https://demo.afthemes.com/covernews/newswords/"
+          "preview": "https://demos.afthemes.com/covernews/newswords/"
         }
       }
     },
@@ -100,7 +100,7 @@
           "name": "NewsQuare",
           "catgory": "General",
           "slug": "newsquare",
-          "preview": "https://demo.afthemes.com/covernews/newsquare/"
+          "preview": "https://demos.afthemes.com/covernews/newsquare/"
         }
       }
     },
@@ -113,90 +113,90 @@
           "name": "CoverNews",
           "catgory": "General",
           "slug": "covernews",
-          "preview": "https://demo.afthemes.com/covernews/"
-        },
-        "sport": {
-          "name": "Sport",
-          "catgory": "Sport",
-          "slug": "sport",
-          "preview": "https://demo.afthemes.com/covernews/sport/"
-        },
-        "covid": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid",
-          "preview": "https://demo.afthemes.com/covernews/covid/",
-          "plugins": "elementor,elespare"
+          "preview": "https://demos.afthemes.com/covernews/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/covernews/fashion/"
-        },
-        "crypto-news": {
-          "name": "Crypto News",
-          "catgory": "Business",
-          "slug": "crypto-news",
-          "preview": "https://demo.afthemes.com/covernews/crypto-news/"
-        },
-        "arabic-news": {
-          "name": "Arabic News",
-          "catgory": "General",
-          "slug": "arabic-news",
-          "preview": "https://demo.afthemes.com/covernews/arabic-news/"
-        },
-        "china-news": {
-          "name": "China News",
-          "catgory": "General",
-          "slug": "china-news",
-          "preview": "https://demo.afthemes.com/covernews/china-news/"
-        },
-        "business": {
-          "name": "Business",
-          "catgory": "Business",
-          "slug": "business",
-          "preview": "https://demo.afthemes.com/covernews/business/"
-        },
-        "ornament": {
-          "name": "Ornament",
-          "catgory": "Elementor",
-          "slug": "ornament",
-          "preview": "https://demo.afthemes.com/covernews/ornament/",
-          "plugins": "elementor,elespare"
+          "preview": "https://demos.afthemes.com/covernews/fashion/"
         },
         "general": {
           "name": "General",
           "catgory": "Elementor",
           "slug": "general",
-          "preview": "https://demo.afthemes.com/covernews/general/",
+          "preview": "https://demos.afthemes.com/covernews/general/",
+          "plugins": "elementor,elespare"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demos.afthemes.com/covernews/sport/"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demos.afthemes.com/covernews/business/"
+        },
+        "covid": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid",
+          "preview": "https://demos.afthemes.com/covernews/covid/",
+          "plugins": "elementor,elespare"
+        },
+        "ornament": {
+          "name": "Ornament",
+          "catgory": "Elementor",
+          "slug": "ornament",
+          "preview": "https://demos.afthemes.com/covernews/ornament/",
           "plugins": "elementor,elespare"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Business",
           "slug": "gadgets",
-          "preview": "https://demo.afthemes.com/covernews/gadgets/"
+          "preview": "https://demos.afthemes.com/covernews/gadgets/"
         },
         "wedding": {
           "name": "Wedding",
           "catgory": "Blog",
           "slug": "wedding",
-          "preview": "https://demo.afthemes.com/covernews/wedding/"
+          "preview": "https://demos.afthemes.com/covernews/wedding/"
         },
         "music": {
           "name": "Music",
           "catgory": "Elementor",
           "slug": "music",
-          "preview": "https://demo.afthemes.com/covernews/music/",
+          "preview": "https://demos.afthemes.com/covernews/music/",
           "plugins": "elementor,elespare"
         },
         "vegetables": {
           "name": "Vegetables",
           "catgory": "Elementor",
           "slug": "vegetables",
-          "preview": "https://demo.afthemes.com/covernews/vegetables/",
+          "preview": "https://demos.afthemes.com/covernews/vegetables/",
           "plugins": "elementor,elespare"
+        },
+        "crypto-news": {
+          "name": "Crypto News",
+          "catgory": "Business",
+          "slug": "crypto-news",
+          "preview": "https://demos.afthemes.com/covernews/crypto-news/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demos.afthemes.com/covernews/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demos.afthemes.com/covernews/china-news/"
         }
       }
     },
@@ -209,110 +209,110 @@
           "name": "CoverNews Pro",
           "catgory": "General",
           "slug": "covernews",
-          "preview": "https://demo.afthemes.com/covernews-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/"
         },
         "sport-pro": {
           "name": "Sport Pro",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/covernews-pro/sport-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/sport/"
         },
         "fashion-pro": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/covernews-pro/fashion-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/fashion/"
         },
         "beauty-mag-pro": {
           "name": "Beauty Pro",
           "catgory": "Fashion",
           "slug": "beauty-mag",
-          "preview": "https://demo.afthemes.com/covernews-pro/beauty-mag/"
+          "preview": "https://demos.afthemes.com/covernews-pro/beauty-mag/"
         },
         "business-pro": {
           "name": "Business Pro",
           "catgory": "Business",
           "slug": "business",
-          "preview": "https://demo.afthemes.com/covernews-pro/business-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/business/"
         },
         "athletics-mag": {
           "name": "Athletics Mag",
           "catgory": "Sport",
           "slug": "athletics-mag",
-          "preview": "https://demo.afthemes.com/covernews-pro/athletics-mag/"
+          "preview": "https://demos.afthemes.com/covernews-pro/athletics-mag/"
         },
         "classic-pro": {
           "name": "Classic Pro",
           "catgory": "General",
           "slug": "classic",
-          "preview": "https://demo.afthemes.com/covernews-pro/classic-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/classic/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Business",
           "slug": "gadgets",
-          "preview": "https://demo.afthemes.com/covernews-pro/gadgets-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/gadgets/"
         },
         "general-news-pro": {
           "name": "General Pro",
           "catgory": "General",
           "slug": "general-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/general-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/general-news/"
         },
         "minimal-pro": {
           "name": "Minimal Pro",
           "catgory": "Blog",
           "slug": "minimal",
-          "preview": "https://demo.afthemes.com/covernews-pro/minimal-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/minimal-pro/"
         },
         "onlinenews-pro": {
           "name": "Online News Pro",
           "catgory": "General",
           "slug": "online-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/online-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/online-news/"
         },
         "topnews-pro": {
           "name": "Top News Pro",
           "catgory": "General",
           "slug": "top-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/top-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/top-news/"
         },
         "travel-pro": {
           "name": "Travel Pro",
           "catgory": "Blog",
           "slug": "travel",
-          "preview": "https://demo.afthemes.com/covernews-pro/travel-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/travel/"
         },
         "wedding-pro": {
           "name": "Wedding Pro",
           "catgory": "Blog",
           "slug": "wedding",
-          "preview": "https://demo.afthemes.com/covernews-pro/wedding-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/wedding/"
         },
         "gym-blog": {
           "name": "Gym Blog",
           "catgory": "Blog",
           "slug": "gym-blog",
-          "preview": "https://demo.afthemes.com/covernews-pro/gym-blog/",
+          "preview": "https://demos.afthemes.com/covernews-pro/gym-blog/",
           "plugins": "elementor,elespare"
         },
         "crypto-news": {
           "name": "Crypto News",
           "catgory": "Business",
           "slug": "crypto-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/crypto-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/crypto-news/"
         },
         "arabic-news": {
           "name": "Arabic News",
           "catgory": "General",
           "slug": "arabic-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/arabic-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/arabic-news/"
         },
         "china-news": {
           "name": "China News",
           "catgory": "General",
           "slug": "china-news",
-          "preview": "https://demo.afthemes.com/covernews-pro/china-news/"
+          "preview": "https://demos.afthemes.com/covernews-pro/china-news/"
         }
       }
     },
@@ -823,7 +823,7 @@
           "preview": "https://demo.afthemes.com/storeship/foodshop/"
         }
       }
-    },    
+    },
     "storeship-pro": {
       "data": "storeship-pro",
       "free": "storeship",
@@ -1835,7 +1835,7 @@
           "preview": "https://demo.afthemes.com/elegant-magazine/magnificent-blog/"
         }
       }
-    },    
+    },
     "daily-magazine": {
       "data": "daily-magazine",
       "free": "elegant-magazine",
@@ -1944,77 +1944,77 @@
           "name": "Chromenews",
           "catgory": "General",
           "slug": "chromenews",
-          "preview": "https://demo.afthemes.com/chromenews/"
+          "preview": "https://demos.afthemes.com/chromenews/"
         },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/chromenews/sport/"
+          "preview": "https://demos.afthemes.com/chromenews/sport/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/chromenews/fashion/"
+          "preview": "https://demos.afthemes.com/chromenews/fashion/"
         },
         "arabic-news": {
           "name": "Arabic News",
           "catgory": "General",
           "slug": "arabic-news",
-          "preview": "https://demo.afthemes.com/chromenews/arabic-news/"
+          "preview": "https://demos.afthemes.com/chromenews/arabic-news/"
         },
         "china-news": {
           "name": "China News",
           "catgory": "General",
           "slug": "china-news",
-          "preview": "https://demo.afthemes.com/chromenews/china-news/"
+          "preview": "https://demos.afthemes.com/chromenews/china-news/"
         },
         "business": {
           "name": "Business",
           "catgory": "Elementor",
           "slug": "business",
-          "preview": "https://demo.afthemes.com/chromenews/business/",
+          "preview": "https://demos.afthemes.com/chromenews/business/",
           "plugins":"elementor,elespare"
         },
         "covid-19": {
           "name": "Covid 19",
           "catgory": "Elementor",
           "slug": "covid-19",
-          "preview": "https://demo.afthemes.com/chromenews/covid-19/",
+          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
           "plugins":"elementor,elespare"
         },
         "beauty": {
           "name": "Beauty",
           "catgory": "Elementor",
           "slug": "beauty",
-          "preview": "https://demo.afthemes.com/chromenews/beauty/",
+          "preview": "https://demos.afthemes.com/chromenews/beauty/",
           "plugins":"elementor,elespare"
         },
         "restaurant": {
           "name": "Restaurant",
           "catgory": "Elementor",
           "slug": "restaurant",
-          "preview": "https://demo.afthemes.com/chromenews/restaurant/",
+          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
           "plugins":"elementor,elespare"
         },
         "gaming": {
           "name": "Gaming",
           "catgory": "Blog",
           "slug": "gaming",
-          "preview": "https://demo.afthemes.com/chromenews/gaming/"
+          "preview": "https://demos.afthemes.com/chromenews/gaming/"
         },
         "automobile": {
           "name": "Automobile",
           "catgory": "Blog",
           "slug": "automobile",
-          "preview": "https://demo.afthemes.com/chromenews/automobile/"
+          "preview": "https://demos.afthemes.com/chromenews/automobile/"
         },
         "construction-blog": {
           "name": "Construction Blog",
           "catgory": "Blog",
           "slug": "construction-blog",
-          "preview": "https://demo.afthemes.com/chromenews/construction-blog/"
+          "preview": "https://demos.afthemes.com/chromenews/construction-blog/"
         }
       }
     },
@@ -2027,64 +2027,64 @@
           "name": "Chromenews Pro",
           "catgory": "General",
           "slug": "chromenews-pro",
-          "preview": "https://demo.afthemes.com/chromenews-pro/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/chromenews-pro/fashion/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/fashion/"
         },
         "sport": {
           "name": "Sport Pro",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/chromenews-pro/sport/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/sport/"
         },
         "classic": {
           "name": "Classic Pro",
           "catgory": "Classic",
           "slug": "classic",
-          "preview": "https://demo.afthemes.com/chromenews-pro/classic/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/classic/"
         },
         "arabic-news": {
           "name": "Arabic News Pro",
           "catgory": "General",
           "slug": "arabic-news",
-          "preview": "https://demo.afthemes.com/chromenews-pro/arabic-news/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/arabic-news/"
         },
         "china-news": {
           "name": "China News Pro",
           "catgory": "General",
           "slug": "china-news",
-          "preview": "https://demo.afthemes.com/chromenews-pro/china-news/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/china-news/"
         },
         "business": {
           "name": "Business Pro",
           "catgory": "Elementor",
           "slug": "business",
-          "preview": "https://demo.afthemes.com/chromenews-pro/business/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/business/",
           "plugins":"elementor,elespare"
         },
         "covid-19": {
           "name": "Covid 19 Pro",
           "catgory": "Elementor",
           "slug": "covid-19",
-          "preview": "https://demo.afthemes.com/chromenews-pro/covid-19/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/covid-19/",
           "plugins":"elementor,elespare"
         },
         "beauty": {
           "name": "Beauty Pro",
           "catgory": "Elementor",
           "slug": "beauty",
-          "preview": "https://demo.afthemes.com/chromenews-pro/beauty/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/beauty/",
           "plugins":"elementor,elespare"
         },
         "restaurant": {
           "name": "Restaurant Pro",
           "catgory": "Elementor",
           "slug": "restaurant",
-          "preview": "https://demo.afthemes.com/chromenews-pro/restaurant/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/restaurant/",
           "plugins":"elementor,elespare"
         },
         "gadgets": {
@@ -2098,55 +2098,141 @@
           "name": "Travel Pro",
           "catgory": "Elementor",
           "slug": "travel",
-          "preview": "https://demo.afthemes.com/chromenews-pro/travel/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/travel/",
           "plugins":"elementor,elespare"
         },
         "fitness": {
           "name": "Fitness Pro",
           "catgory": "Elementor",
           "slug": "fitness",
-          "preview": "https://demo.afthemes.com/chromenews-pro/fitness/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/fitness/",
           "plugins":"elementor,elespare"
         },
         "crypto-news": {
           "name": "Crypto News Pro",
           "catgory": "Elementor",
           "slug": "crypto-news",
-          "preview": "https://demo.afthemes.com/chromenews-pro/crypto-news/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/crypto-news/",
           "plugins":"elementor,elespare"
         },
         "charity": {
           "name": "Charity Pro",
           "catgory": "Blockspare",
           "slug": "charity",
-          "preview": "https://demo.afthemes.com/chromenews-pro/charity/",
+          "preview": "https://demos.afthemes.com/chromenews-pro/charity/",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
         },
         "gaming": {
           "name": "Gaming Pro",
           "catgory": "Blog",
           "slug": "gaming",
-          "preview": "https://demo.afthemes.com/chromenews-pro/gaming/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/gaming/"
         },
         "automobile": {
           "name": "Automobile Pro",
           "catgory": "Blog",
           "slug": "automobile",
-          "preview": "https://demo.afthemes.com/chromenews-pro/automobile/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/automobile/"
         },
         "online-news": {
           "name": "Online News Pro",
           "catgory": "General",
           "slug": "online-news",
-          "preview": "https://demo.afthemes.com/chromenews-pro/online-news/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/online-news/"
         },
         "construction-blog": {
           "name": "Construction Blog Pro",
           "catgory": "Blog",
           "slug": "construction-blog",
-          "preview": "https://demo.afthemes.com/chromenews-pro/construction-blog/"
+          "preview": "https://demos.afthemes.com/chromenews-pro/construction-blog/"
         }  
       }
-    }        
+    },
+    "broadnews": {
+      "data": "broadnews",
+      "free": "",
+      "premium": "broadnews-pro",
+      "demodata": {
+        "default": {
+          "name": "Broadnews",
+          "catgory": "General",
+          "slug": "broadnews",
+          "preview": "https://demos.afthemes.com/broadnews/"
+        },
+        "fashion": {
+          "name": "Fashion",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demos.afthemes.com/broadnews/fashion/"
+        },
+        "sport": {
+          "name": "Sport",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demos.afthemes.com/broadnews/sport/"
+        },
+        "classic": {
+          "name": "Classic",
+          "catgory": "Classic",
+          "slug": "classic",
+          "preview": "https://demos.afthemes.com/broadnews/classic/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demos.afthemes.com/broadnews/arabic-news/"
+        },
+        "chinese-news": {
+          "name": "Chinese News",
+          "catgory": "General",
+          "slug": "chinese-news",
+          "preview": "https://demos.afthemes.com/broadnews/chinese-news/"
+        }
+      }
+    },
+    "broadnews-pro": {
+      "data": "broadnews-pro",
+      "free": "broadnews",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "Broadnews Pro",
+          "catgory": "General",
+          "slug": "broadnews-pro",
+          "preview": "https://demos.afthemes.com/broadnews-pro/"
+        },
+        "fashion": {
+          "name": "Fashion Pro",
+          "catgory": "Fashion",
+          "slug": "fashion",
+          "preview": "https://demos.afthemes.com/broadnews-pro/fashion/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demos.afthemes.com/broadnews-pro/sport/"
+        },
+        "classic": {
+          "name": "Classic Pro",
+          "catgory": "Classic",
+          "slug": "classic",
+          "preview": "https://demos.afthemes.com/broadnews-pro/classic/"
+        },
+        "arabic-news": {
+          "name": "Arabic News Pro",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demos.afthemes.com/broadnews-pro/arabic-news/"
+        },
+        "chinese-news": {
+          "name": "Chinese News Pro",
+          "catgory": "General",
+          "slug": "chinese-news",
+          "preview": "https://demos.afthemes.com/broadnews-pro/chinese-news/"
+        }
+      }
+    }          
   }
 } 
