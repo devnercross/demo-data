@@ -117,6 +117,19 @@
         }
       }
     },
+    "newsback": {
+      "data": "newsback",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsback",
+          "catgory": "General",
+          "slug": "newsback",
+          "preview": "https://demos.afthemes.com/covernews/newsback/"
+        }
+      }
+    },
     "covernews": {
       "data": "covernews",
       "free": "",
@@ -614,43 +627,43 @@
         "light": {
           "name": "Light Pro",
           "catgory": "General",
-          "slug": "newsium-light",
+          "slug": "light",
           "preview": "https://demos.afthemes.com/newsium-pro/light/"
         },
         "dark": {
           "name": "Dark Pro",
           "catgory": "General",
-          "slug": "newsium-dark",
+          "slug": "dark",
           "preview": "https://demos.afthemes.com/newsium-pro/dark/"
         },
         "classic": {
           "name": "Classic Pro",
           "catgory": "General",
-          "slug": "classic-pro",
+          "slug": "classic",
           "preview": "https://demos.afthemes.com/newsium-pro/classic/"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
-          "slug": "fashion-pro",
+          "slug": "fashion",
           "preview": "https://demos.afthemes.com/newsium-pro/fashion/"
         },
         "sport": {
           "name": "Sport Pro",
           "catgory": "Sport",
-          "slug": "sport-pro",
+          "slug": "sport",
           "preview": "https://demos.afthemes.com/newsium-pro/sport/"
         },
         "gadgets": {
           "name": "Gadgets Pro",
           "catgory": "Business",
-          "slug": "gadgets-pro",
+          "slug": "gadgets",
           "preview": "https://demos.afthemes.com/newsium-pro/gadgets/"
         },
         "lifestyle": {
           "name": "Lifestyle Pro",
           "catgory": "Blog",
-          "slug": "lifestyle-pro",
+          "slug": "lifestyle",
           "preview": "https://demos.afthemes.com/newsium-pro/lifestyle/"
         }
       }
@@ -808,19 +821,19 @@
           "name": "Storeship",
           "catgory": "General",
           "slug": "storeship",
-          "preview": "https://demo.afthemes.com/storeship/"
+          "preview": "https://demos.afthemes.com/storeship/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/storeship/fashion/"
+          "preview": "https://demos.afthemes.com/storeship/fashion/"
         },
         "furniture": {
           "name": "Furniture",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demo.afthemes.com/storeship/furniture/"
+          "preview": "https://demos.afthemes.com/storeship/furniture/"
         }
       }
     },
@@ -833,7 +846,7 @@
           "name": "FoodShop",
           "catgory": "Food and Beverage",
           "slug": "foodshop",
-          "preview": "https://demo.afthemes.com/storeship/foodshop/"
+          "preview": "https://demos.afthemes.com/storeship/foodshop/"
         }
       }
     },
@@ -846,37 +859,37 @@
           "name": "Storeship Pro",
           "catgory": "General",
           "slug": "storeship-pro",
-          "preview": "https://demo.afthemes.com/storeship-pro/"
+          "preview": "https://demos.afthemes.com/storeship-pro/"
         },
         "liquor": {
           "name": "Liquor Pro",
           "catgory": "Food and Beverage",
           "slug": "liquor",
-          "preview": "https://demo.afthemes.com/storeship-pro/liquor/"
+          "preview": "https://demos.afthemes.com/storeship-pro/liquor/"
         },
         "retailer": {
           "name": "Retailer Pro",
           "catgory": "General",
           "slug": "retailer",
-          "preview": "https://demo.afthemes.com/storeship-pro/retailer/"
+          "preview": "https://demos.afthemes.com/storeship-pro/retailer/"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/storeship-pro/fashion/"
+          "preview": "https://demos.afthemes.com/storeship-pro/fashion/"
         },
         "furniture": {
           "name": "Furniture Pro",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demo.afthemes.com/storeship-pro/furniture/"
+          "preview": "https://demos.afthemes.com/storeship-pro/furniture/"
         },
         "restaurant": {
           "name": "Restaurant Pro",
           "catgory": "Food and Beverage",
           "slug": "restaurant",
-          "preview": "https://demo.afthemes.com/storeship-pro/restaurant/"
+          "preview": "https://demos.afthemes.com/storeship-pro/restaurant/"
         }
       }
     },
@@ -889,31 +902,31 @@
           "name": "Kreeti Lite",
           "catgory": "General",
           "slug": "kreeti-lite",
-          "preview": "https://demo.afthemes.com/kreeti-lite/"
+          "preview": "https://demos.afthemes.com/kreeti-lite/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/kreeti-lite/fashion/"
+          "preview": "https://demos.afthemes.com/kreeti-lite/fashion/"
         },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/kreeti-lite/sport/"
+          "preview": "https://demos.afthemes.com/kreeti-lite/sport/"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Business",
           "slug": "gadgets",
-          "preview": "https://demo.afthemes.com/kreeti-lite/gadgets/"
+          "preview": "https://demos.afthemes.com/kreeti-lite/gadgets/"
         },
         "wedding": {
           "name": "Wedding",
           "catgory": "Blog",
           "slug": "wedding",
-          "preview": "https://demo.afthemes.com/kreeti-lite/wedding/"
+          "preview": "https://demos.afthemes.com/kreeti-lite/wedding/"
         }
       }
     },
@@ -926,49 +939,49 @@
           "name": "Kreeti",
           "catgory": "General",
           "slug": "kreeti",
-          "preview": "https://demo.afthemes.com/kreeti/"
+          "preview": "https://demos.afthemes.com/kreeti/"
         },
         "dark": {
           "name": "Dark Pro",
           "catgory": "General",
           "slug": "dark",
-          "preview": "https://demo.afthemes.com/kreeti/dark/"
+          "preview": "https://demos.afthemes.com/kreeti/dark/"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/kreeti/fashion/"
+          "preview": "https://demos.afthemes.com/kreeti/fashion/"
         },
         "sport": {
           "name": "Sport Pro",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/kreeti/sport/"
+          "preview": "https://demos.afthemes.com/kreeti/sport/"
         },
         "recipe": {
           "name": "Recipe Pro",
           "catgory": "Blog",
           "slug": "recipe",
-          "preview": "https://demo.afthemes.com/kreeti/recipe/"
+          "preview": "https://demos.afthemes.com/kreeti/recipe/"
         },
         "travel": {
           "name": "Travel Pro",
           "catgory": "Blog",
           "slug": "travel",
-          "preview": "https://demo.afthemes.com/kreeti/travel/"
+          "preview": "https://demos.afthemes.com/kreeti/travel/"
         },
         "wedding": {
           "name": "Wedding Pro",
           "catgory": "Blog",
           "slug": "wedding",
-          "preview": "https://demo.afthemes.com/kreeti/wedding/"
+          "preview": "https://demos.afthemes.com/kreeti/wedding/"
         },
         "lifestyle": {
           "name": "Lifestyle Pro",
           "catgory": "Blog",
           "slug": "lifestyle",
-          "preview": "https://demo.afthemes.com/kreeti/lifestyle/"
+          "preview": "https://demos.afthemes.com/kreeti/lifestyle/"
         }
       }
     },
@@ -1549,13 +1562,13 @@
           "name": "Shopical",
           "catgory": "General",
           "slug": "shopical",
-          "preview": "https://demo.afthemes.com/shopical/"
+          "preview": "https://demos.afthemes.com/shopical/"
         },
         "automobile": {
           "name": "Automobile",
           "catgory": "Automobile",
           "slug": "automobile",
-          "preview": "https://demo.afthemes.com/shopical/automobile/"
+          "preview": "https://demos.afthemes.com/shopical/automobile/"
         }
       }
     },
@@ -1568,13 +1581,13 @@
           "name": "Shopical Pro",
           "catgory": "General",
           "slug": "shopical-pro",
-          "preview": "https://demo.afthemes.com/shopical-pro/"
+          "preview": "https://demos.afthemes.com/shopical-pro/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demo.afthemes.com/shopical-pro/gadgets-pro/"
+          "preview": "https://demos.afthemes.com/shopical-pro/gadgets/"
         }
       }
     },
@@ -1587,7 +1600,7 @@
           "name": "Shopage",
           "catgory": "General",
           "slug": "shopage",
-          "preview": "https://demo.afthemes.com/shopical/shopage/"
+          "preview": "https://demos.afthemes.com/shopical/shopage/"
         }
       }
     },
@@ -1600,19 +1613,19 @@
           "name": "Magnitude",
           "catgory": "General",
           "slug": "magnitude",
-          "preview": "https://demo.afthemes.com/magnitude/"
+          "preview": "https://demos.afthemes.com/magnitude/"
         },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
-          "preview": "https://demo.afthemes.com/magnitude/sport/"
+          "preview": "https://demos.afthemes.com/magnitude/sport/"
         },
         "newsportal": {
           "name": "Newsportal",
           "catgory": "General",
           "slug": "newsportal",
-          "preview": "https://demo.afthemes.com/magnitude/newsportal/"
+          "preview": "https://demos.afthemes.com/magnitude/newsportal/"
         }
       }
     },
@@ -1625,31 +1638,31 @@
           "name": "Magnitude-pro",
           "catgory": "General",
           "slug": "magnitude-pro",
-          "preview": "https://demo.afthemes.com/magnitude-pro/"
+          "preview": "https://demos.afthemes.com/magnitude-pro/"
         },
         "sport-pro": {
           "name": "Sport Pro",
           "catgory": "Sport",
           "slug": "sport-pro",
-          "preview": "https://demo.afthemes.com/magnitude-pro/sport-pro/"
+          "preview": "https://demos.afthemes.com/magnitude-pro/sport/"
         },
         "newsportal-pro": {
           "name": "Newsportal Pro",
           "catgory": "General",
           "slug": "newsportal-pro",
-          "preview": "https://demo.afthemes.com/magnitude-pro/newsportal-pro/"
+          "preview": "https://demos.afthemes.com/magnitude-pro/newsportal/"
         },
         "magnitude-dark": {
           "name": "Magnitude Dark",
           "catgory": "Dark",
           "slug": "magnitude-dark",
-          "preview": "https://demo.afthemes.com/magnitude-pro/magnitude-dark/"
+          "preview": "https://demos.afthemes.com/magnitude-pro/dark/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Business",
           "slug": "gadgets-pro",
-          "preview": "https://demo.afthemes.com/magnitude-pro/gadgets-pro/"
+          "preview": "https://demos.afthemes.com/magnitude-pro/gadgets/"
         }
       }
     },
@@ -1662,13 +1675,13 @@
           "name": "Magazine 7",
           "catgory": "General",
           "slug": "magazine-7",
-          "preview": "https://demo.afthemes.com/magazine-7/"
+          "preview": "https://demos.afthemes.com/magazine-7/"
         },
         "restro": {
           "name": "Restro",
           "catgory": "Blog",
           "slug": "restro",
-          "preview": "https://demo.afthemes.com/magazine-7/restro/"
+          "preview": "https://demos.afthemes.com/magazine-7/restro/"
         }
       }
     },
@@ -1681,31 +1694,31 @@
           "name": "Magazine 7-plus",
           "catgory": "General",
           "slug": "magazine-7-plus",
-          "preview": "https://demo.afthemes.com/magazine-7-plus/"
+          "preview": "https://demos.afthemes.com/magazine-7-plus/"
         },
         "restro": {
           "name": "Restro",
           "catgory": "Blog",
           "slug": "restro",
-          "preview": "https://demo.afthemes.com/magazine-7-plus/restro/"
+          "preview": "https://demos.afthemes.com/magazine-7-plus/restro/"
         },
         "photography": {
           "name": "Photography",
           "catgory": "Blog",
           "slug": "photography",
-          "preview": "https://demo.afthemes.com/magazine-7-plus/photography/"
+          "preview": "https://demos.afthemes.com/magazine-7-plus/photography/"
         },
         "minimal-mag": {
           "name": "Minimal Mag",
           "catgory": "Blog",
           "slug": "minimal-mag",
-          "preview": "https://demo.afthemes.com/magazine-7-plus/minimal-mag/"
+          "preview": "https://demos.afthemes.com/magazine-7-plus/minimal-mag/"
         },
         "mag-shop": {
           "name": "Mag Shop",
           "catgory": "Shop",
           "slug": "mag-shop",
-          "preview": "https://demo.afthemes.com/magazine-7-plus/mag-shop/"
+          "preview": "https://demos.afthemes.com/magazine-7-plus/mag-shop/"
         }
       }
     },
@@ -1718,7 +1731,7 @@
           "name": "Beautiful Blog",
           "catgory": "Blog",
           "slug": "beautiful-blog",
-          "preview": "https://demo.afthemes.com/magazine-7/beautiful-blog/"
+          "preview": "https://demos.afthemes.com/magazine-7/beautiful-blog/"
         }
       }
     },
@@ -1731,7 +1744,7 @@
           "name": "Newstorial",
           "catgory": "General",
           "slug": "newstorial",
-          "preview": "https://demo.afthemes.com/magazine-7/newstorial/"
+          "preview": "https://demos.afthemes.com/magazine-7/newstorial/"
         }
       }
     },
@@ -1744,7 +1757,7 @@
           "name": "Magaziness",
           "catgory": "General",
           "slug": "magaziness",
-          "preview": "https://demo.afthemes.com/magazine-7/magaziness/"
+          "preview": "https://demos.afthemes.com/magazine-7/magaziness/"
         }
       }
     },
@@ -1757,7 +1770,7 @@
           "name": "Storekeeper",
           "catgory": "General",
           "slug": "storekeeper",
-          "preview": "https://demo.afthemes.com/storecommerce/storekeeper/"
+          "preview": "https://demos.afthemes.com/storecommerce/storekeeper/"
         }
       }
     },
@@ -1770,19 +1783,19 @@
           "name": "Storecommerce",
           "catgory": "General",
           "slug": "storecommerce",
-          "preview": "https://demo.afthemes.com/storecommerce/"
+          "preview": "https://demos.afthemes.com/storecommerce/"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Gadgets",
           "slug": "gadgets",
-          "preview": "https://demo.afthemes.com/storecommerce/gadgets"
+          "preview": "https://demos.afthemes.com/storecommerce/gadgets"
         },
         "interior": {
           "name": "Interior",
           "catgory": "Interior",
           "slug": "interior",
-          "preview": "https://demo.afthemes.com/storecommerce/interior"
+          "preview": "https://demos.afthemes.com/storecommerce/interior"
         }
       }
     },
@@ -1795,31 +1808,31 @@
           "name": "Storecommerce Pro",
           "catgory": "General",
           "slug": "storecommerce-pro",
-          "preview": "https://demo.afthemes.com/storecommerce-pro/"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demo.afthemes.com/storecommerce-pro/gadgets-pro"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/gadgets"
         },
         "interior-pro": {
           "name": "Interior Pro",
           "catgory": "Interior",
           "slug": "interior-pro",
-          "preview": "https://demo.afthemes.com/storecommerce-pro/interior-pro"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/interior"
         },
         "automobile-pro": {
           "name": "Automobile Pro",
           "catgory": "Automobile",
           "slug": "automobile-pro",
-          "preview": "https://demo.afthemes.com/storecommerce-pro/automobile-pro"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/automobile"
         },
         "just-food-pro": {
           "name": "Just Food Pro",
           "catgory": "Food",
           "slug": "just-food-pro",
-          "preview": "https://demo.afthemes.com/storecommerce-pro/just-food-pro"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/just-food"
         }
       }
     },
@@ -1832,7 +1845,7 @@
           "name": "Vivacious Magazine",
           "catgory": "Fashion",
           "slug": "vivacious-magazine",
-          "preview": "https://demo.afthemes.com/elegant-magazine/vivacious-magazine/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/vivacious-magazine/"
         }
       }
     },
@@ -1845,7 +1858,7 @@
           "name": "Magnificent Blog",
           "catgory": "Blog",
           "slug": "magnificent-blog",
-          "preview": "https://demo.afthemes.com/elegant-magazine/magnificent-blog/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/magnificent-blog/"
         }
       }
     },
@@ -1858,7 +1871,7 @@
           "name": "Daily Magazine",
           "catgory": "General",
           "slug": "daily-magazine",
-          "preview": "https://demo.afthemes.com/elegant-magazine/daily-magazine/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/daily-magazine/"
         }
       }
     },
@@ -1871,31 +1884,31 @@
           "name": "Elegant Magazine",
           "catgory": "General",
           "slug": "elegant-magazine",
-          "preview": "https://demo.afthemes.com/elegant-magazine/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demo.afthemes.com/elegant-magazine/fashion/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/fashion/"
         },
         "minimal": {
           "name": "Minimal",
           "catgory": "Blog",
           "slug": "minimal",
-          "preview": "https://demo.afthemes.com/elegant-magazine/minimal/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/minimal/"
         },
         "newsportal": {
           "name": "Newsportal",
           "catgory": "General",
           "slug": "newsportal",
-          "preview": "https://demo.afthemes.com/elegant-magazine/newsportal/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/newsportal/"
         },
         "travel-blog": {
           "name": "Travel Blog",
           "catgory": "Blog",
           "slug": "travel-blog",
-          "preview": "https://demo.afthemes.com/elegant-magazine/travel-blog/"
+          "preview": "https://demos.afthemes.com/elegant-magazine/travel-blog/"
         }
       }
     },
@@ -1908,43 +1921,43 @@
           "name": "Elegant Magazine Pro",
           "catgory": "General",
           "slug": "elegant-magazine-pro",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/"
         },
         "fashion-boxed": {
           "name": "Fashion Boxed",
           "catgory": "Fashion",
           "slug": "fashion-boxed",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/fashion-boxed/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/fashion-boxed/"
         },
         "minimal": {
           "name": "Minimal",
           "catgory": "Blog",
           "slug": "minimal",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/minimal/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/minimal/"
         },
         "newsportal": {
           "name": "Newsportal",
           "catgory": "General",
           "slug": "newsportal",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/newsportal/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/newsportal/"
         },
         "newsportal-boxed": {
           "name": "Newsportal Boxed",
           "catgory": "General",
           "slug": "newsportal-boxed",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/newsportal-boxed/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/newsportal-boxed/"
         },
         "travel-blog": {
           "name": "Travel Blog",
           "catgory": "Blog",
           "slug": "travel-blog",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/travel-blog/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/travel-blog/"
         },
         "photography": {
           "name": "Photography",
           "catgory": "Blog",
           "slug": "photography",
-          "preview": "https://demo.afthemes.com/elegant-magazine-pro/photography/"
+          "preview": "https://demos.afthemes.com/elegant-magazine-pro/photography/"
         }
       }
     },

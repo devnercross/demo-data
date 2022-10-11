@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-20 09:31" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-06 07:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Travel</title>
-	<link>https://demo.afthemes.com/enternews-pro/travel</link>
-	<description>Just another EnterNews Pro Site</description>
-	<pubDate>Thu, 20 Jan 2022 09:31:04 +0000</pubDate>
+	<title>Travel Pro</title>
+	<link>https://demos.afthemes.com/enternews-pro/travel</link>
+	<description>Just another EnterNews Pro Sites site</description>
+	<pubDate>Tue, 06 Sep 2022 07:53:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/enternews-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/enternews-pro/travel</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/enternews-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/enternews-pro/travel</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -136,7 +136,7 @@
 		<wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[top-menu]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -157,7 +157,7 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -167,24 +167,24 @@
 </wp:term>
 	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
+	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2019/04/cropped-af-themes-main-dark-1-150x150.png</url>
-	<title>Travel</title>
-	<link>https://demo.afthemes.com/enternews-pro/travel</link>
+	<url>http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2019/04/cropped-af-themes-main-dark-1-150x150.png</url>
+	<title>Travel Pro</title>
+	<link>https://demos.afthemes.com/enternews-pro/travel</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[pexels-photo-421759]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/pexels-photo-421759/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/pexels-photo-421759/</link>
 		<pubDate>Sat, 07 Apr 2018 09:34:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-421759.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -192,8 +192,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:34:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:34:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-10 09:16:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-10 09:16:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-421759]]></wp:post_name>
@@ -203,14 +203,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-421759.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-421759.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-421759.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1276;s:4:"file";s:32:"2018/04/pexels-photo-421759.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-421759-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-421759-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-421759-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-421759-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-421759-1536x1021.jpeg";s:5:"width";i:1536;s:6:"height";i:1021;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-421759-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-421759-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-421759-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1276;s:4:"file";s:32:"2018/04/pexels-photo-421759.jpeg";s:8:"filesize";i:342397;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-421759-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14739;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-421759-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94073;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-421759-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6661;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-421759-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60366;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-421759-1536x1021.jpeg";s:5:"width";i:1536;s:6:"height";i:1021;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:175950;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-421759-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94073;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-421759-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54686;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-421759-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30189;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -219,9 +219,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-307008]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/pexels-photo-307008/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/pexels-photo-307008/</link>
 		<pubDate>Sat, 07 Apr 2018 09:36:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-307008.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -231,8 +231,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:36:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:36:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 08:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 08:49:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-307008]]></wp:post_name>
@@ -242,14 +242,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-307008.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-307008.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-307008.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-307008.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-307008-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-307008-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-307008-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-307008-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-307008-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-307008-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-307008-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-307008-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-307008.jpeg";s:8:"filesize";i:555205;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-307008-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14510;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-307008-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133599;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-307008-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5921;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-307008-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79310;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-307008-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:266788;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-307008-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133599;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-307008-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70354;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-307008-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33801;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -258,9 +258,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-238622]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/pexels-photo-238622/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/pexels-photo-238622/</link>
 		<pubDate>Sat, 07 Apr 2018 09:39:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-238622.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -270,8 +270,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:39:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:39:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 08:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 08:49:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-238622]]></wp:post_name>
@@ -281,14 +281,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-238622.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-238622.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-238622.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1282;s:4:"file";s:32:"2018/04/pexels-photo-238622.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-238622-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-238622-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-238622-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-238622-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-238622-1536x1026.jpeg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-238622-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-238622-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-238622-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1282;s:4:"file";s:32:"2018/04/pexels-photo-238622.jpeg";s:8:"filesize";i:658309;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-238622-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19216;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-238622-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167695;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-238622-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8306;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-238622-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102682;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-238622-1536x1026.jpeg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:328871;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-238622-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167695;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-238622-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90679;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-238622-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44693;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -297,9 +297,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-413960]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/pexels-photo-413960/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/pexels-photo-413960/</link>
 		<pubDate>Sat, 07 Apr 2018 09:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-413960.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -309,8 +309,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:40:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:40:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 08:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 08:49:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-413960]]></wp:post_name>
@@ -320,14 +320,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-413960.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-413960.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-413960.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-413960.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-413960-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-413960-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-413960-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-413960-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-413960-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-413960-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-413960-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-413960-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-413960.jpeg";s:8:"filesize";i:343451;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-413960-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13957;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-413960-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92514;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-413960-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6610;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-413960-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59140;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-413960-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171500;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-413960-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92514;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-413960-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53309;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-413960-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28751;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -336,9 +336,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-378153]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/pexels-photo-378153/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/pexels-photo-378153/</link>
 		<pubDate>Sat, 07 Apr 2018 09:41:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-378153.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -346,8 +346,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:41:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:41:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-10 09:15:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-10 09:15:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-378153]]></wp:post_name>
@@ -357,14 +357,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-378153.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-378153.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-378153.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1355;s:4:"file";s:32:"2018/04/pexels-photo-378153.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-378153-300x212.jpeg";s:5:"width";i:300;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-378153-1024x723.jpeg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-378153-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-378153-768x542.jpeg";s:5:"width";i:768;s:6:"height";i:542;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-378153-1536x1084.jpeg";s:5:"width";i:1536;s:6:"height";i:1084;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-378153-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-378153-1024x723.jpeg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-378153-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1355;s:4:"file";s:32:"2018/04/pexels-photo-378153.jpeg";s:8:"filesize";i:592892;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-378153-300x212.jpeg";s:5:"width";i:300;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17294;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-378153-1024x723.jpeg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150728;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-378153-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6703;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-378153-768x542.jpeg";s:5:"width";i:768;s:6:"height";i:542;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91273;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-378153-1536x1084.jpeg";s:5:"width";i:1536;s:6:"height";i:1084;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:294342;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-378153-1024x723.jpeg";s:5:"width";i:1024;s:6:"height";i:723;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150728;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-378153-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76740;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-378153-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37468;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -373,9 +373,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-291732]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-291732/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-291732/</link>
 		<pubDate>Sat, 07 Apr 2018 09:46:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-291732.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -385,8 +385,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:46:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:46:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 08:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 08:49:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-291732]]></wp:post_name>
@@ -396,14 +396,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-291732.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-291732.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-291732.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1283;s:4:"file";s:32:"2018/04/pexels-photo-291732.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-291732-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-291732-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-291732-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-291732-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-291732-1536x1026.jpeg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-291732-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-291732-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-291732-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1283;s:4:"file";s:32:"2018/04/pexels-photo-291732.jpeg";s:8:"filesize";i:549308;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-291732-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15799;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-291732-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137054;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-291732-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7317;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-291732-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83067;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-291732-1536x1026.jpeg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:274036;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-291732-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137054;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-291732-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73338;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-291732-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36064;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -412,9 +412,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-745119]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-745119/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/pexels-photo-745119/</link>
 		<pubDate>Sat, 07 Apr 2018 09:47:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/wp-content/uploads/sites/3/2018/04/pexels-photo-745119.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -424,8 +424,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:47:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:47:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-23 08:49:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-23 08:49:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-745119]]></wp:post_name>
@@ -435,14 +435,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-745119.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/pexels-photo-745119.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/pexels-photo-745119.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-745119.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-745119-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-745119-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-745119-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-745119-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:34:"pexels-photo-745119-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-745119-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-745119-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-745119-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/04/pexels-photo-745119.jpeg";s:8:"filesize";i:219032;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-745119-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9806;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-745119-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62512;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-745119-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4820;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-745119-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40052;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-745119-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114273;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-745119-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62512;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-745119-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36176;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-745119-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19803;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -451,18 +451,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/63/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/63/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -478,10 +478,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
@@ -490,12 +486,20 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -507,14 +511,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-04-09]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Facebook.com]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/facebook-com/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/facebook-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/facebook-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -541,10 +545,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[99]]></wp:meta_value>
 		</wp:postmeta>
@@ -553,16 +553,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -571,9 +563,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/twitter/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/twitter/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -600,10 +592,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[100]]></wp:meta_value>
 		</wp:postmeta>
@@ -612,16 +600,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -630,9 +610,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube.com]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/youtube-com/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/youtube-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/youtube-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -659,10 +639,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[101]]></wp:meta_value>
 		</wp:postmeta>
@@ -671,16 +647,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -689,9 +657,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram.com]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/instagram-com/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/instagram-com/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/instagram-com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -718,10 +686,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[102]]></wp:meta_value>
 		</wp:postmeta>
@@ -730,16 +694,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -748,9 +704,9 @@
 							</item>
 					<item>
 		<title><![CDATA[VK]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/vk/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/vk/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/vk/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -777,10 +733,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[103]]></wp:meta_value>
 		</wp:postmeta>
@@ -789,16 +741,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -806,43 +750,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/mc4wp-form/114/</link>
-		<pubDate>Mon, 09 Apr 2018 15:17:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/mc4wp-form/114/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				<p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-
-<p>
-	<input type="submit" value="Sign up" />
-</p>		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>114</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 15:17:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 15:17:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-09 15:17:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-09 15:17:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[114]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[elegant-magazine-pro]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/09/elegant-magazine-pro/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/09/elegant-magazine-pro/</link>
 		<pubDate>Mon, 09 Apr 2018 17:17:31 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/elegant-magazine-pro/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -867,132 +778,10 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/all-demos/</link>
-		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=167</guid>
-		<description></description>
-		<content:encoded><![CDATA[15+]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://afthemes.com/enternews-pro-the-best-responsive-news-and-magazine-wordpress-theme/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/home-2/</link>
-		<pubDate>Sun, 15 Apr 2018 18:52:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=174</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[174]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/elegant-magazine-pro/travel-blog/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[cropped-pexels-photo-581669-1.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/cropped-pexels-photo-581669-1-jpeg/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/cropped-pexels-photo-581669-1-jpeg/</link>
 		<pubDate>Tue, 31 Jul 2018 11:32:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/wp-content/uploads/sites/4/2018/04/cropped-pexels-photo-581669-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -1000,8 +789,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-31 11:32:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-31 11:32:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-17 13:42:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-17 13:42:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-31 11:32:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-31 11:32:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-pexels-photo-581669-1-jpeg]]></wp:post_name>
@@ -1011,14 +800,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/cropped-pexels-photo-581669-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2018/04/cropped-pexels-photo-581669-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/04/cropped-pexels-photo-581669-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:42:"2018/04/cropped-pexels-photo-581669-1.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-581669-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1280x599.jpeg";s:5:"width";i:1280;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:42:"2018/04/cropped-pexels-photo-581669-1.jpeg";s:8:"filesize";i:31990;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-pexels-photo-581669-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2143;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12137;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1814;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7758;}s:9:"1536x1536";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23370;}s:18:"enternews-featured";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12137;}s:16:"enternews-medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11411;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6084;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -1042,71 +831,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/213/</link>
-		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=213</guid>
-		<description></description>
-		<content:encoded><![CDATA[New]]></content:encoded>
-		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
-		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[213]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[cropped-af-themes-main-dark-1.png]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/cropped-af-themes-main-dark-1-png/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/cropped-af-themes-main-dark-1-png/</link>
 		<pubDate>Mon, 02 Dec 2019 06:10:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsium-pro/travel-pro/wp-content/uploads/sites/12/2019/04/cropped-af-themes-main-dark-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/newsium-pro/travel-pro/wp-content/uploads/sites/12/2019/04/cropped-af-themes-main-dark-1.png]]></content:encoded>
@@ -1125,14 +853,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2019/04/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2019/04/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/04/cropped-af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2019/04/cropped-af-themes-main-dark-1.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:16:"enternews-medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2019/04/cropped-af-themes-main-dark-1.png";s:8:"filesize";i:20812;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46510;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13583;}s:16:"enternews-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20523;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-480x315.png";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:39872;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -1140,19 +868,378 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2021/03/18/home/</link>
+		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=273</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>273</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[273]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/214/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2021/03/18/274/</link>
+		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=274</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>274</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[274]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2021/03/18/275/</link>
+		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=275</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>275</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[275]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-pexels-photo-581669-1]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/cropped-pexels-photo-581669-1/</link>
+		<pubDate>Thu, 21 Jul 2022 06:34:58 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2022/07/cropped-pexels-photo-581669-1.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>277</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-21 06:34:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:34:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:34:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-pexels-photo-581669-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/travel/wp-content/uploads/sites/10/2022/07/cropped-pexels-photo-581669-1.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-pexels-photo-581669-1.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:42:"2022/07/cropped-pexels-photo-581669-1.jpeg";s:8:"filesize";i:31990;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-pexels-photo-581669-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2143;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12137;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1814;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7758;}s:9:"1536x1536";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23370;}s:18:"enternews-featured";a:5:{s:4:"file";s:43:"cropped-pexels-photo-581669-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12137;}s:16:"enternews-medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11411;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-581669-1-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6084;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enternews-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Demos]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/all-demos/</link>
+		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[15+]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://afthemes.com/enternews-pro-the-best-responsive-news-and-magazine-wordpress-theme/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/home-2/</link>
+		<pubDate>Sun, 15 Apr 2018 18:52:20 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=174</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>174</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[174]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/elegant-magazine-pro/travel-blog/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/213/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=213</guid>
+		<description></description>
+		<content:encoded><![CDATA[New]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
+		<wp:post_id>214</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[213]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/214/</link>
+		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=214</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[214]]></wp:post_name>
@@ -1180,12 +1267,16 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1197,23 +1288,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/215/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/215/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=215</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>216</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[215]]></wp:post_name>
@@ -1241,12 +1332,16 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1258,23 +1353,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/216/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/216/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=216</guid>
 		<description></description>
 		<content:encoded><![CDATA[Offers]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>217</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[216]]></wp:post_name>
@@ -1302,12 +1397,16 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1319,23 +1418,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Enternews Pro]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/enternews-pro/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/enternews-pro/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=259</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>259</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[enternews-pro]]></wp:post_name>
@@ -1363,36 +1462,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Dark]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/dark/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/dark/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=260</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>260</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dark]]></wp:post_name>
@@ -1420,36 +1523,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/dark/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/dark/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Light]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/light/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/light/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=261</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>261</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[light]]></wp:post_name>
@@ -1477,36 +1584,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/light/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/light/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Classic]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/classic/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/classic/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=262</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>262</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic]]></wp:post_name>
@@ -1534,36 +1645,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/classic/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/fashion/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/fashion/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=263</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>263</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -1591,36 +1706,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/fashion/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/sport/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/sport/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=264</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>264</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
@@ -1648,36 +1767,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/sport/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/business/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/business/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=265</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>265</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business]]></wp:post_name>
@@ -1705,36 +1828,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/business/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Recipe]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/recipe/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/recipe/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=266</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>266</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipe]]></wp:post_name>
@@ -1762,36 +1889,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/recipe/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gadgets]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/gadgets/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/gadgets/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=267</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>267</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets]]></wp:post_name>
@@ -1819,36 +1950,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/gadgets/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/gadgets/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lifestyle]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/lifestyle/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/lifestyle/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=268</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>268</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle]]></wp:post_name>
@@ -1876,36 +2011,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/lifestyle/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/lifestyle/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Masonry]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/masonry/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/masonry/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=269</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>269</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[masonry]]></wp:post_name>
@@ -1933,36 +2072,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/masonry/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/masonry/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top News]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/top-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/top-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=270</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>270</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-news]]></wp:post_name>
@@ -1990,36 +2133,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/top-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/top-news/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[General News]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/general-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/general-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=271</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>271</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[general-news]]></wp:post_name>
@@ -2047,36 +2194,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/general-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/general-news/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Online News]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/online-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2022/07/21/online-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:59:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=272</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>272</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:59:23]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 09:07:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:59:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:59:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 09:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 09:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[online-news]]></wp:post_name>
@@ -2104,199 +2255,32 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/online-news/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/home/</link>
-		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=273</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>273</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[273]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/online-news/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/travel/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/274/</link>
-		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=274</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>274</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[274]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2021/03/18/275/</link>
-		<pubDate>Thu, 18 Mar 2021 11:45:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?p=275</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:45:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:45:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:45:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[275]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/sample-page/</link>
-		<pubDate>Tue, 08 Dec 2020 09:41:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?page_id=2</guid>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page/</link>
+		<pubDate>Thu, 21 Jul 2022 06:33:40 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/enternews-pro/travel/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -2315,14 +2299,14 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/travel/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/enternews-pro/travel/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-08 09:41:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-08 09:41:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-08 09:41:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-08 09:41:06]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-21 06:33:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-21 06:33:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:33:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:33:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2339,9 +2323,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/blog/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/blog/</link>
 		<pubDate>Sat, 07 Apr 2018 08:50:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?page_id=7</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2369,9 +2353,9 @@
 							</item>
 					<item>
 		<title><![CDATA[ADVENTURE OVERLAND TRAVEL: AN INTERVIEW WITH RIC]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/adventure-races-and-overland-travel-an-interview-with-ric/</link>
 		<pubDate>Sat, 07 Apr 2018 09:30:24 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2420,9 +2404,9 @@ Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Nulla porttitor acc
 							</item>
 					<item>
 		<title><![CDATA[24 THINGS EVERY SOLO TRAVELER LEARNS ON THE ROAD]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/24-things-every-solo-female-traveler-learns-on-the-road/</link>
 		<pubDate>Sat, 07 Apr 2018 09:33:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2464,9 +2448,9 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 							</item>
 					<item>
 		<title><![CDATA[LIVING LAGOM IN SWEDEN: AN INTERVIEW WITH LOLA]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/</link>
 		<pubDate>Sat, 07 Apr 2018 09:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=31</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
@@ -2475,8 +2459,8 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:35:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-10 09:16:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-10 09:16:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:35:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[living-lagom-in-sweden-an-interview-with-lola-akerstrom]]></wp:post_name>
@@ -2504,31 +2488,15 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[A JOURNEY TO MADAGASCAR: THE PRIVILEGE OF TRAVEL]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/</link>
 		<pubDate>Sat, 07 Apr 2018 09:36:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=34</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2569,9 +2537,9 @@ Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Nulla q
 							</item>
 					<item>
 		<title><![CDATA[HOW TO PICK THE BEST CAMERA FOR TRAVEL]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/</link>
 		<pubDate>Sat, 07 Apr 2018 09:40:41 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2613,9 +2581,9 @@ Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Curabitu
 							</item>
 					<item>
 		<title><![CDATA[HOW TO TRAVEL AROUND NAMIBIA ON A BUDGET]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-around-namibia-on-a-budget/</link>
 		<pubDate>Sat, 07 Apr 2018 09:47:21 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec rutrum congue leo eget malesuada. Donec rutrum congue leo eget malesuada. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada.
@@ -2628,8 +2596,8 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:47:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:47:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-04 11:49:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-04 11:49:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:47:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:47:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-travel-around-namibia-on-a-budget]]></wp:post_name>
@@ -2661,20 +2629,12 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[HOW TO TRAVEL WITH A THEME A WALK FOR FREEDOM]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-with-a-theme/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/2018/04/07/how-to-travel-with-a-theme/</link>
 		<pubDate>Sat, 07 Apr 2018 09:50:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
@@ -2683,8 +2643,8 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-04-07 09:50:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-07 09:50:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-10 09:16:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-10 09:16:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:50:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:50:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-travel-with-a-theme]]></wp:post_name>
@@ -2716,20 +2676,12 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 		<wp:meta_key><![CDATA[enternews-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[enternews-meta-ytvideo-link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Resources]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/resources/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/resources/</link>
 		<pubDate>Sat, 07 Apr 2018 11:32:44 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?page_id=72</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2757,9 +2709,9 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 							</item>
 					<item>
 		<title><![CDATA[Destinations]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/destinations/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/destinations/</link>
 		<pubDate>Sat, 07 Apr 2018 11:46:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?page_id=79</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2787,9 +2739,9 @@ Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in fa
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/sample-page-2-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page-2-2/</link>
 		<pubDate>Mon, 09 Apr 2018 14:45:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2825,9 +2777,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/ele
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/sample-page-2-3/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page-2-3/</link>
 		<pubDate>Tue, 31 Jul 2018 03:36:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2863,9 +2815,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/sample-page-2-4/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page-2-4/</link>
 		<pubDate>Wed, 24 Apr 2019 02:46:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsphere-pro/travel-pro/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2911,9 +2863,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/travel/sample-page-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page-2-5/</link>
 		<pubDate>Mon, 02 Dec 2019 05:42:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsium-pro/travel-pro/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2941,6 +2893,52 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:post_date_gmt><![CDATA[2019-12-02 05:42:22]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2019-12-02 05:42:22]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2019-12-02 05:42:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-5]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/travel/sample-page-2/</link>
+		<pubDate>Tue, 08 Dec 2020 09:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/travel/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/travel/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>276</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-08 09:41:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-08 09:41:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-08 09:41:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-08 09:41:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-13 09:56" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-06 07:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Recipe</title>
-	<link>https://demo.afthemes.com/enternews-pro/recipe</link>
+	<title>Recipe Pro</title>
+	<link>https://demos.afthemes.com/enternews-pro/recipe</link>
 	<description>Just another EnterNews Pro Sites site</description>
-	<pubDate>Thu, 13 May 2021 09:56:55 +0000</pubDate>
+	<pubDate>Tue, 06 Sep 2022 07:29:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/enternews-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/enternews-pro/recipe</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/enternews-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/enternews-pro/recipe</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -309,54 +309,21 @@
 	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1-32x32.png</url>
-	<title>Recipe</title>
-	<link>https://demo.afthemes.com/enternews-pro/recipe</link>
+	<url>http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1-150x150.png</url>
+	<title>Recipe Pro</title>
+	<link>https://demos.afthemes.com/enternews-pro/recipe</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/mc4wp-form/246/</link>
-		<pubDate>Mon, 09 Apr 2018 20:19:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/blog/mc4wp-form/246/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				<p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-
-<p>
-	<input type="submit" value="Sign up" />
-</p>		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>246</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 20:19:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-09 20:19:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-09 20:19:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-09 20:19:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[246]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/facebook/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/facebook/</link>
 		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=434</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -383,10 +350,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[434]]></wp:meta_value>
 		</wp:postmeta>
@@ -395,16 +358,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -413,9 +368,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-dinner-pasta-spaghetti-8500]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/food-dinner-pasta-spaghetti-8500/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/food-dinner-pasta-spaghetti-8500/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/food-dinner-pasta-spaghetti-8500.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -436,14 +391,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:856;s:4:"file";s:44:"2018/06/food-dinner-pasta-spaghetti-8500.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:856;s:4:"file";s:44:"2018/06/food-dinner-pasta-spaghetti-8500.jpg";s:8:"filesize";i:159582;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14000;}s:5:"large";a:5:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83347;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7799;}s:12:"medium_large";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55167;}s:18:"enternews-featured";a:5:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83347;}s:16:"enternews-medium";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49965;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-480x315.jpg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27643;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -452,9 +407,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-salad-healthy-vegetables]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/food-salad-healthy-vegetables/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/food-salad-healthy-vegetables/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:28 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/food-salad-healthy-vegetables.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -473,14 +428,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/food-salad-healthy-vegetables.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/food-salad-healthy-vegetables.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-salad-healthy-vegetables.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/06/food-salad-healthy-vegetables.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:42:"food-salad-healthy-vegetables-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/06/food-salad-healthy-vegetables.jpg";s:8:"filesize";i:205441;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18558;}s:5:"large";a:5:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109934;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8703;}s:12:"medium_large";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73128;}s:18:"enternews-featured";a:5:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109934;}s:16:"enternews-medium";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66411;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-480x315.jpg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36883;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -489,9 +444,9 @@
 							</item>
 					<item>
 		<title><![CDATA[meat-vegetables-gemuesepiess-mushrooms-111131]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/meat-vegetables-gemuesepiess-mushrooms-111131/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/meat-vegetables-gemuesepiess-mushrooms-111131/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -512,14 +467,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:58:"2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:58:"2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg";s:8:"filesize";i:258048;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19293;}s:5:"large";a:5:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127624;}s:9:"thumbnail";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9337;}s:12:"medium_large";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83715;}s:18:"enternews-featured";a:5:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127624;}s:16:"enternews-medium";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83397;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44523;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -528,9 +483,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-70497]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-70497/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-70497/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:32 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-70497.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -551,14 +506,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-70497.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-70497.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-70497.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:31:"2018/06/pexels-photo-70497.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:31:"pexels-photo-70497-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:31:"pexels-photo-70497-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"pexels-photo-70497-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:32:"pexels-photo-70497-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:31:"pexels-photo-70497-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:31:"2018/06/pexels-photo-70497.jpeg";s:8:"filesize";i:205327;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"pexels-photo-70497-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15483;}s:5:"large";a:5:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98758;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-70497-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6942;}s:12:"medium_large";a:5:{s:4:"file";s:31:"pexels-photo-70497-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63244;}s:18:"enternews-featured";a:5:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98758;}s:16:"enternews-medium";a:5:{s:4:"file";s:31:"pexels-photo-70497-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57079;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-70497-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30806;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -567,9 +522,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-76093]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-76093/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-76093/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:34 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-76093.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -588,14 +543,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-76093.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-76093.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-76093.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:31:"2018/06/pexels-photo-76093.jpeg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:31:"pexels-photo-76093-300x188.jpeg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:31:"pexels-photo-76093-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"pexels-photo-76093-768x480.jpeg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:31:"pexels-photo-76093-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:31:"2018/06/pexels-photo-76093.jpeg";s:8:"filesize";i:236557;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"pexels-photo-76093-300x188.jpeg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14405;}s:5:"large";a:5:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111803;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-76093-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7719;}s:12:"medium_large";a:5:{s:4:"file";s:31:"pexels-photo-76093-768x480.jpeg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67940;}s:18:"enternews-featured";a:5:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111803;}s:16:"enternews-medium";a:5:{s:4:"file";s:31:"pexels-photo-76093-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64659;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-76093-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32294;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -604,9 +559,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-410648]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-410648/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-410648/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-410648.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -625,14 +580,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-410648.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-410648.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-410648.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:32:"2018/06/pexels-photo-410648.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-410648-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-410648-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-410648-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-410648-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:32:"2018/06/pexels-photo-410648.jpeg";s:8:"filesize";i:387576;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-410648-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21804;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191243;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8779;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-410648-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118630;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191243;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-410648-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95308;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-410648-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46596;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -641,9 +596,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-461198]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-461198/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-461198/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-461198.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -662,14 +617,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-461198.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-461198.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-461198.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:32:"2018/06/pexels-photo-461198.jpeg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-461198-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-461198-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-461198-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:32:"2018/06/pexels-photo-461198.jpeg";s:8:"filesize";i:132133;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-461198-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11342;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69296;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6578;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-461198-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45519;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69296;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-461198-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47846;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-461198-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26146;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -678,9 +633,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-566566]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-566566/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-566566/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-566566.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -699,14 +654,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-566566.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-566566.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-566566.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-566566.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-566566-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-566566-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-566566-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-566566-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-566566.jpeg";s:8:"filesize";i:228343;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-566566-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16709;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112079;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8335;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-566566-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72366;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112079;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-566566-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65131;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-566566-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34482;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -715,9 +670,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-940302]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-940302/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-940302/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:44 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-940302.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -738,14 +693,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-940302.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-940302.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-940302.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-940302.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-940302-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-940302-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-940302-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-940302-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-940302-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-940302.jpeg";s:8:"filesize";i:93880;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-940302-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6304;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42734;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-940302-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3742;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-940302-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26670;}s:18:"enternews-featured";a:5:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42734;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-940302-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24111;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-940302-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12572;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -754,9 +709,9 @@
 							</item>
 					<item>
 		<title><![CDATA[salmon-dish-food-meal-46239]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/salmon-dish-food-meal-46239/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/salmon-dish-food-meal-46239/</link>
 		<pubDate>Mon, 18 Jun 2018 06:38:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/salmon-dish-food-meal-46239.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -777,14 +732,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:40:"2018/06/salmon-dish-food-meal-46239.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:40:"2018/06/salmon-dish-food-meal-46239.jpeg";s:8:"filesize";i:168604;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14499;}s:5:"large";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6654;}s:12:"medium_large";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56920;}s:18:"enternews-featured";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:16:"enternews-medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49106;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27163;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -793,9 +748,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-461198.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-461198-jpeg/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-461198-jpeg/</link>
 		<pubDate>Mon, 18 Jun 2018 06:45:31 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/cropped-pexels-photo-461198.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -816,14 +771,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-461198.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-461198.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-pexels-photo-461198.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:40:"2018/06/cropped-pexels-photo-461198.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-461198-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-461198-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-461198-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:41:"cropped-pexels-photo-461198-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-461198-1280x599.jpeg";s:5:"width";i:1280;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-461198-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-461198-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:40:"2018/06/cropped-pexels-photo-461198.jpeg";s:8:"filesize";i:101749;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:39:"cropped-pexels-photo-461198-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7109;}s:5:"large";a:5:{s:4:"file";s:41:"cropped-pexels-photo-461198-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41264;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5760;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cropped-pexels-photo-461198-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27346;}s:9:"1536x1536";a:5:{s:4:"file";s:41:"cropped-pexels-photo-461198-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73734;}s:18:"enternews-featured";a:5:{s:4:"file";s:41:"cropped-pexels-photo-461198-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41264;}s:16:"enternews-medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-461198-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41895;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-461198-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23542;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -844,9 +799,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-541216]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/pexels-photo-541216/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/pexels-photo-541216/</link>
 		<pubDate>Sun, 24 Jun 2018 05:25:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/wp-content/uploads/sites/7/2018/06/pexels-photo-541216.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[						]]></content:encoded>
@@ -865,14 +820,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-541216.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/pexels-photo-541216.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-541216.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1441;s:4:"file";s:32:"2018/06/pexels-photo-541216.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-541216-266x300.jpeg";s:5:"width";i:266;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-541216-910x1024.jpeg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-541216-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-541216-768x865.jpeg";s:5:"width";i:768;s:6:"height";i:865;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-541216-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:34:"pexels-photo-541216-1024x1153.jpeg";s:5:"width";i:1024;s:6:"height";i:1153;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:32:"pexels-photo-541216-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1441;s:4:"file";s:32:"2018/06/pexels-photo-541216.jpeg";s:8:"filesize";i:1526342;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-541216-266x300.jpeg";s:5:"width";i:266;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27456;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-541216-910x1024.jpeg";s:5:"width";i:910;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:196386;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-541216-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9952;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-541216-768x865.jpeg";s:5:"width";i:768;s:6:"height";i:865;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149999;}s:18:"enternews-featured";a:5:{s:4:"file";s:34:"pexels-photo-541216-1024x1153.jpeg";s:5:"width";i:1024;s:6:"height";i:1153;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:238235;}s:16:"enternews-medium";a:5:{s:4:"file";s:32:"pexels-photo-541216-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73002;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-541216-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37995;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -885,9 +840,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-410648.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-410648-jpeg/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-410648-jpeg/</link>
 		<pubDate>Tue, 25 Jun 2019 08:50:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/recipe/wp-content/uploads/sites/5/2018/06/cropped-pexels-photo-410648.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/recipe/wp-content/uploads/sites/5/2018/06/cropped-pexels-photo-410648.jpeg]]></content:encoded>
@@ -906,14 +861,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-410648.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-410648.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-pexels-photo-410648.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:40:"2018/06/cropped-pexels-photo-410648.jpeg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-410648-300x191.jpeg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-410648-1024x653.jpeg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-410648-768x490.jpeg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-410648-1024x653.jpeg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-410648-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:40:"2018/06/cropped-pexels-photo-410648.jpeg";s:8:"filesize";i:288762;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-410648-300x191.jpeg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19221;}s:5:"large";a:5:{s:4:"file";s:41:"cropped-pexels-photo-410648-1024x653.jpeg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171858;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9377;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cropped-pexels-photo-410648-768x490.jpeg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105068;}s:18:"enternews-featured";a:5:{s:4:"file";s:41:"cropped-pexels-photo-410648-1024x653.jpeg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171858;}s:16:"enternews-medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-410648-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96750;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-410648-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46440;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -922,9 +877,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-461198-1.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-461198-1-jpeg-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-461198-1-jpeg-2/</link>
 		<pubDate>Tue, 25 Jun 2019 08:51:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/recipe/wp-content/uploads/sites/5/2018/06/cropped-pexels-photo-461198-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/recipe/wp-content/uploads/sites/5/2018/06/cropped-pexels-photo-461198-1.jpeg]]></content:encoded>
@@ -943,14 +898,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-461198-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-461198-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-pexels-photo-461198-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1126;s:6:"height";i:720;s:4:"file";s:42:"2018/06/cropped-pexels-photo-461198-1.jpeg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-300x192.jpeg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-461198-1-1024x655.jpeg";s:5:"width";i:1024;s:6:"height";i:655;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-768x491.jpeg";s:5:"width";i:768;s:6:"height";i:491;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-461198-1-1024x655.jpeg";s:5:"width";i:1024;s:6:"height";i:655;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1126;s:6:"height";i:720;s:4:"file";s:42:"2018/06/cropped-pexels-photo-461198-1.jpeg";s:8:"filesize";i:93875;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-300x192.jpeg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12636;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-461198-1-1024x655.jpeg";s:5:"width";i:1024;s:6:"height";i:655;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78679;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6574;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-768x491.jpeg";s:5:"width";i:768;s:6:"height";i:491;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51416;}s:18:"enternews-featured";a:5:{s:4:"file";s:43:"cropped-pexels-photo-461198-1-1024x655.jpeg";s:5:"width";i:1024;s:6:"height";i:655;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78679;}s:16:"enternews-medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47878;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-461198-1-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26157;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -959,9 +914,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-566566.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-566566-jpeg/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-pexels-photo-566566-jpeg/</link>
 		<pubDate>Tue, 22 Dec 2020 18:09:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-566566.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-566566.jpeg]]></content:encoded>
@@ -980,25 +935,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-566566.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-pexels-photo-566566.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-pexels-photo-566566.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[main-banner-background-section]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:40:"2018/06/cropped-pexels-photo-566566.jpeg";s:8:"filesize";i:172803;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-566566-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16690;}s:5:"large";a:5:{s:4:"file";s:41:"cropped-pexels-photo-566566-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112592;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8330;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cropped-pexels-photo-566566-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72510;}s:18:"enternews-featured";a:5:{s:4:"file";s:41:"cropped-pexels-photo-566566-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112592;}s:16:"enternews-medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-566566-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65288;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-566566-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34480;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:40:"2018/06/cropped-pexels-photo-566566.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-566566-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-566566-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-566566-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-566566-1280x845.jpeg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-566566-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-566566-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[main-banner-background-section]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-blue-1.png]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-af-themes-main-blue-1-png/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-af-themes-main-blue-1-png/</link>
 		<pubDate>Tue, 22 Dec 2020 18:16:36 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1.png]]></content:encoded>
@@ -1017,25 +972,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-af-themes-main-blue-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-af-themes-main-blue-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/06/cropped-af-themes-main-blue-1.png";s:8:"filesize";i:25687;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:57171;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15576;}s:16:"enternews-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:25377;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-480x315.png";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:55485;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/06/cropped-af-themes-main-blue-1.png";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:16:"enternews-medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-270";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:41:"cropped-af-themes-main-blue-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:39:"cropped-af-themes-main-blue-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-cropped-pexels-photo-541216-1.jpeg]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/cropped-cropped-pexels-photo-541216-1-jpeg/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-cropped-pexels-photo-541216-1-jpeg/</link>
 		<pubDate>Tue, 22 Dec 2020 18:16:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-cropped-pexels-photo-541216-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1054,18 +1009,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-cropped-pexels-photo-541216-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2018/06/cropped-cropped-pexels-photo-541216-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cropped-cropped-pexels-photo-541216-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:50:"2018/06/cropped-cropped-pexels-photo-541216-1.jpeg";s:8:"filesize";i:179394;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:49:"cropped-cropped-pexels-photo-541216-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9662;}s:5:"large";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64414;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8396;}s:12:"medium_large";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40709;}s:9:"1536x1536";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:122538;}s:18:"enternews-featured";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64414;}s:16:"enternews-medium";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66146;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34328;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:50:"2018/06/cropped-cropped-pexels-photo-541216-1.jpeg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:49:"cropped-cropped-pexels-photo-541216-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";}s:21:"enternews-slider-full";a:4:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1280x599.jpeg";s:5:"width";i:1280;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";}s:18:"enternews-featured";a:4:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:602;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_enternews-pro]]></wp:meta_key>
@@ -1078,9 +1033,9 @@
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-full-light-green]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/banner-promo-full-light-green/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/banner-promo-full-light-green/</link>
 		<pubDate>Wed, 17 Mar 2021 12:36:41 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2021/03/banner-promo-full-light-green.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1099,30 +1054,67 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2021/03/banner-promo-full-light-green.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2021/03/banner-promo-full-light-green.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/03/banner-promo-full-light-green.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:120;s:4:"file";s:41:"2021/03/banner-promo-full-light-green.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:40:"banner-promo-full-light-green-300x39.jpg";s:5:"width";i:300;s:6:"height";i:39;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"banner-promo-full-light-green-150x120.jpg";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"banner-promo-full-light-green-768x99.jpg";s:5:"width";i:768;s:6:"height";i:99;s:9:"mime-type";s:10:"image/jpeg";}s:16:"enternews-medium";a:4:{s:4:"file";s:41:"banner-promo-full-light-green-720x120.jpg";s:5:"width";i:720;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}s:19:"enternews-thumbnail";a:4:{s:4:"file";s:41:"banner-promo-full-light-green-480x120.jpg";s:5:"width";i:480;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:120;s:4:"file";s:41:"2021/03/banner-promo-full-light-green.jpg";s:8:"filesize";i:61335;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:40:"banner-promo-full-light-green-300x39.jpg";s:5:"width";i:300;s:6:"height";i:39;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3571;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"banner-promo-full-light-green-150x120.jpg";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3740;}s:12:"medium_large";a:5:{s:4:"file";s:40:"banner-promo-full-light-green-768x99.jpg";s:5:"width";i:768;s:6:"height";i:99;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13684;}s:16:"enternews-medium";a:5:{s:4:"file";s:41:"banner-promo-full-light-green-720x120.jpg";s:5:"width";i:720;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15154;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:41:"banner-promo-full-light-green-480x120.jpg";s:5:"width";i:480;s:6:"height";i:120;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9463;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-cropped-pexels-photo-541216-1]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/cropped-cropped-pexels-photo-541216-1/</link>
+		<pubDate>Thu, 21 Jul 2022 06:23:47 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2022/07/cropped-cropped-pexels-photo-541216-1.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>646</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-21 06:23:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-21 06:23:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:23:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:23:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-cropped-pexels-photo-541216-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demos.afthemes.com/enternews-pro/recipe/wp-content/uploads/sites/8/2022/07/cropped-cropped-pexels-photo-541216-1.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-cropped-pexels-photo-541216-1.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:50:"2022/07/cropped-cropped-pexels-photo-541216-1.jpeg";s:8:"filesize";i:179394;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:49:"cropped-cropped-pexels-photo-541216-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9662;}s:5:"large";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64414;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8396;}s:12:"medium_large";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40709;}s:9:"1536x1536";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1536x484.jpeg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:122538;}s:18:"enternews-featured";a:5:{s:4:"file";s:51:"cropped-cropped-pexels-photo-541216-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64414;}s:16:"enternews-medium";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-720x475.jpeg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66146;}s:19:"enternews-thumbnail";a:5:{s:4:"file";s:50:"cropped-cropped-pexels-photo-541216-1-480x315.jpeg";s:5:"width";i:480;s:6:"height";i:315;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34328;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enternews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/423/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/423/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=423</guid>
 		<description></description>
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>423</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[423]]></wp:post_name>
@@ -1138,10 +1130,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
@@ -1150,12 +1138,20 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1167,14 +1163,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/youtube/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/youtube/</link>
 		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=436</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1201,10 +1197,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[436]]></wp:meta_value>
 		</wp:postmeta>
@@ -1213,16 +1205,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1231,9 +1215,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/instagram/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/instagram/</link>
 		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=437</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1260,10 +1244,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[437]]></wp:meta_value>
 		</wp:postmeta>
@@ -1272,16 +1252,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1290,9 +1262,9 @@
 							</item>
 					<item>
 		<title><![CDATA[VK]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/vk/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/vk/</link>
 		<pubDate>Sun, 17 Jun 2018 08:56:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=438</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1319,10 +1291,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[438]]></wp:meta_value>
 		</wp:postmeta>
@@ -1331,16 +1299,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1349,9 +1309,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Linkedin]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/linkedin/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/linkedin/</link>
 		<pubDate>Sun, 17 Jun 2018 09:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/blog/2018/06/17/linkedin/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1378,10 +1338,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[443]]></wp:meta_value>
 		</wp:postmeta>
@@ -1390,16 +1346,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1408,9 +1356,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Whatsapp]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/06/17/whatsapp/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/06/17/whatsapp/</link>
 		<pubDate>Sun, 17 Jun 2018 09:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/blog/2018/06/17/whatsapp/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -1437,10 +1385,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[444]]></wp:meta_value>
 		</wp:postmeta>
@@ -1449,16 +1393,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1467,18 +1403,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/496/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/496/</link>
 		<pubDate>Tue, 19 Jun 2018 10:40:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/?p=496</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>496</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 10:40:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[496]]></wp:post_name>
@@ -1494,10 +1430,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
@@ -1506,12 +1438,20 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1523,23 +1463,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/497/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/497/</link>
 		<pubDate>Tue, 19 Jun 2018 10:40:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/?p=497</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>497</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 10:40:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[497]]></wp:post_name>
@@ -1567,12 +1507,16 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1584,23 +1528,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/498/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/498/</link>
 		<pubDate>Tue, 19 Jun 2018 10:40:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/?p=498</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>498</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 10:40:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[498]]></wp:post_name>
@@ -1628,12 +1572,16 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1645,23 +1593,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/499/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/499/</link>
 		<pubDate>Tue, 19 Jun 2018 10:40:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/?p=499</guid>
 		<description></description>
 		<content:encoded><![CDATA[Special]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>499</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 10:40:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[499]]></wp:post_name>
@@ -1677,10 +1625,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
@@ -1689,12 +1633,20 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1706,23 +1658,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/tips-tricks/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/tips-tricks/</link>
 		<pubDate>Tue, 19 Jun 2018 10:40:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/restro/?p=500</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>500</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 10:40:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tips-tricks]]></wp:post_name>
@@ -1738,10 +1690,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
@@ -1750,12 +1698,20 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -1767,23 +1723,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-19]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/all-demos/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 02:53:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/recipe-pro/?p=534</guid>
 		<description></description>
 		<content:encoded><![CDATA[15+]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>534</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 02:53:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1799,10 +1755,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[534]]></wp:meta_value>
 		</wp:postmeta>
@@ -1811,16 +1763,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1830,21 +1774,37 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/home-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/home-2/</link>
 		<pubDate>Thu, 29 Aug 2019 12:05:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/recipe/2019/08/29/home-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>583</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-29 12:05:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -1860,10 +1820,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[583]]></wp:meta_value>
 		</wp:postmeta>
@@ -1872,16 +1828,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1891,21 +1839,37 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019-08-29]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Enternews Pro]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/enternews-pro/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/enternews-pro/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=631</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>631</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[enternews-pro]]></wp:post_name>
@@ -1933,36 +1897,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Dark]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/dark/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/dark/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=632</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>632</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dark]]></wp:post_name>
@@ -1990,36 +1958,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/dark/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/dark/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Light]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/light/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/light/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=633</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>633</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[light]]></wp:post_name>
@@ -2047,36 +2019,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/light/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/light/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Classic]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/classic/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/classic/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=634</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>634</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic]]></wp:post_name>
@@ -2104,36 +2080,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/classic/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/fashion/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/fashion/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=635</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>635</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -2161,36 +2141,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/fashion/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/sport/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/sport/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=636</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>636</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
@@ -2218,36 +2202,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/sport/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/business/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/business/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=637</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>637</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business]]></wp:post_name>
@@ -2275,27 +2263,31 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/business/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2331,9 +2323,9 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/about/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/about/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2365,9 +2357,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/contact/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/contact/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2399,9 +2391,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/blog/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/blog/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2433,9 +2425,9 @@
 							</item>
 					<item>
 		<title><![CDATA[A homepage section]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/a-homepage-section/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/a-homepage-section/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2467,9 +2459,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Press Center]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/press-center/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/press-center/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2497,9 +2489,9 @@
 							</item>
 					<item>
 		<title><![CDATA[EM Reports]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/em-reports/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/em-reports/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2527,9 +2519,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Careers]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/careers/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/careers/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=171</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2557,18 +2549,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/426/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/426/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=426</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>426</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:30:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:30:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:30:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[426]]></wp:post_name>
@@ -2584,10 +2576,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
@@ -2596,12 +2584,20 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2613,23 +2609,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/427/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/427/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=427</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>427</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:30:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:30:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:30:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[427]]></wp:post_name>
@@ -2645,10 +2641,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
@@ -2657,12 +2649,20 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2674,23 +2674,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/428/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/428/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=428</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>428</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:30:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:30:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:30:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[428]]></wp:post_name>
@@ -2706,10 +2706,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
@@ -2718,12 +2714,20 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2735,23 +2739,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/429/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/429/</link>
 		<pubDate>Sun, 17 Jun 2018 08:53:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?p=429</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>429</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 11:30:59]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-17 08:53:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 11:30:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 11:30:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[429]]></wp:post_name>
@@ -2767,10 +2771,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
@@ -2779,12 +2779,20 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -2796,14 +2804,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-06-17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/?page_id=459</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/?page_id=459</link>
 		<pubDate>Sun, 10 Jun 2018 03:28:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7-plus/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -2831,18 +2839,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Gadgets]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/gadgets/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/gadgets/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=638</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>638</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets]]></wp:post_name>
@@ -2870,36 +2878,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/gadgets/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/gadgets/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/travel/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/travel/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=639</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>639</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
@@ -2927,36 +2939,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/travel/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lifestyle]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/lifestyle/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/lifestyle/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=640</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>640</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle]]></wp:post_name>
@@ -2984,36 +3000,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/lifestyle/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/lifestyle/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Masonry]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/masonry/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/masonry/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=641</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>641</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[masonry]]></wp:post_name>
@@ -3041,36 +3061,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/masonry/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/masonry/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top News]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/top-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/top-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=642</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>642</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-news]]></wp:post_name>
@@ -3098,36 +3122,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/top-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/top-news/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[General News]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/general-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/general-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=643</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>643</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[general-news]]></wp:post_name>
@@ -3155,36 +3183,40 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/general-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/general-news/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Online news]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2021/03/18/online-news/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2022/07/21/online-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:48:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?p=644</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>644</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 09:48:30]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-21 08:59:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 09:48:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 09:48:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 08:59:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 08:59:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[online-news]]></wp:post_name>
@@ -3212,28 +3244,32 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/enternews-pro/online-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/enternews-pro/online-news/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/sample-page/</link>
-		<pubDate>Tue, 08 Dec 2020 09:40:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?page_id=2</guid>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/sample-page/</link>
+		<pubDate>Thu, 21 Jul 2022 06:22:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/enternews-pro/recipe/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -3252,14 +3288,14 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/recipe/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/enternews-pro/recipe/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-12-08 09:40:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-12-08 09:40:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-12-08 09:40:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-12-08 09:40:14]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-21 06:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-21 06:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-21 06:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-21 06:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -3276,9 +3312,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3333,9 +3369,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3393,9 +3429,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3449,9 +3485,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3501,9 +3537,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
 		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3554,9 +3590,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3613,9 +3649,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3667,9 +3703,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 							</item>
 					<item>
 		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3725,9 +3761,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 							</item>
 					<item>
 		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3783,9 +3819,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 							</item>
 					<item>
 		<title><![CDATA[My account]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/my-account/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/my-account/</link>
 		<pubDate>Fri, 27 Apr 2018 15:13:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/magazined/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[
@@ -3809,9 +3845,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 														</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/sample-page-2-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/sample-page-2-2/</link>
 		<pubDate>Thu, 29 Aug 2019 08:24:15 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/recipe/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3855,9 +3891,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/enternews-pro/recipe/sample-page-2/</link>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/sample-page-2-3/</link>
 		<pubDate>Sat, 02 May 2020 11:32:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/recipe/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3885,6 +3921,52 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:post_date_gmt><![CDATA[2020-05-02 11:32:23]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2020-05-02 11:32:23]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2020-05-02 11:32:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/enternews-pro/recipe/sample-page-2/</link>
+		<pubDate>Tue, 08 Dec 2020 09:40:14 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/recipe/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/enternews-pro/recipe/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>645</wp:post_id>
+		<wp:post_date><![CDATA[2020-12-08 09:40:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-12-08 09:40:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-08 09:40:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-08 09:40:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>

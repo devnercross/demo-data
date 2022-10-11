@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-02-17 04:44" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-07 09:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>NEWSPORT</title>
-	<link>https://demo.afthemes.com/covernews/newsport</link>
-	<description>Just another Newsport demo</description>
-	<pubDate>Thu, 17 Feb 2022 04:44:18 +0000</pubDate>
+	<title>Newsport</title>
+	<link>https://demos.afthemes.com/covernews/newsport</link>
+	<description>Just another CoverNews Sites site</description>
+	<pubDate>Wed, 07 Sep 2022 09:17:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/covernews/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/covernews/newsport</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/covernews/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/covernews/newsport</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -68,6 +68,13 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[post-format-image]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Image]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[leagues-clubs]]></wp:term_slug>
@@ -82,21 +89,7 @@
 		<wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[post-format-image]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Image]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Video]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -137,28 +130,35 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Video]]></wp:term_name>
+	</wp:term>
 			<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
+	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top Menu Items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/08/af-themes-main-dark-150x150.png</url>
-	<title>NEWSPORT</title>
-	<link>https://demo.afthemes.com/covernews/newsport</link>
+	<url>https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/08/af-themes-main-dark-150x150.png</url>
+	<title>Newsport</title>
+	<link>https://demos.afthemes.com/covernews/newsport</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[afa-athlete-blood-70567]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/afa-athlete-blood-70567/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/afa-athlete-blood-70567/</link>
 		<pubDate>Mon, 30 Jul 2018 15:32:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/afa-athlete-blood-70567.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -166,8 +166,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:32:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:32:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[afa-athlete-blood-70567]]></wp:post_name>
@@ -177,14 +177,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/afa-athlete-blood-70567-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/afa-athlete-blood-70567-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/afa-athlete-blood-70567-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2100;s:6:"height";i:1400;s:4:"file";s:37:"2018/07/afa-athlete-blood-70567-1.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"afa-athlete-blood-70567-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:39:"afa-athlete-blood-70567-1-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:38:"afa-athlete-blood-70567-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:37:"afa-athlete-blood-70567-1-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2100;s:6:"height";i:1400;s:4:"file";s:37:"2018/07/afa-athlete-blood-70567-1.jpg";s:8:"filesize";i:677380;s:5:"sizes";a:11:{s:6:"medium";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19832;}s:5:"large";a:5:{s:4:"file";s:38:"afa-athlete-blood-70567-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:131840;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9036;}s:12:"medium_large";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82692;}s:9:"1536x1536";a:5:{s:4:"file";s:39:"afa-athlete-blood-70567-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:262935;}s:9:"2048x2048";a:5:{s:4:"file";s:39:"afa-athlete-blood-70567-1-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:446392;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:38:"afa-athlete-blood-70567-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146043;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83367;}s:18:"covernews-featured";a:5:{s:4:"file";s:38:"afa-athlete-blood-70567-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:131840;}s:16:"covernews-medium";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46091;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:37:"afa-athlete-blood-70567-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28919;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -193,9 +193,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-1191548]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/pexels-photo-1191548/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/pexels-photo-1191548/</link>
 		<pubDate>Mon, 30 Jul 2018 15:35:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-1191548.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -203,8 +203,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:35:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:35:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-1191548]]></wp:post_name>
@@ -214,14 +214,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/pexels-photo-1191548-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/pexels-photo-1191548-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-1191548-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1342;s:4:"file";s:35:"2018/07/pexels-photo-1191548-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-300x210.jpeg";s:5:"width";i:300;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-768x537.jpeg";s:5:"width";i:768;s:6:"height";i:537;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"pexels-photo-1191548-1-1024x716.jpeg";s:5:"width";i:1024;s:6:"height";i:716;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:37:"pexels-photo-1191548-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:36:"pexels-photo-1191548-1-1024x716.jpeg";s:5:"width";i:1024;s:6:"height";i:716;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:35:"pexels-photo-1191548-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1342;s:4:"file";s:35:"2018/07/pexels-photo-1191548-1.jpeg";s:8:"filesize";i:516860;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-300x210.jpeg";s:5:"width";i:300;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18655;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-photo-1191548-1-1024x716.jpeg";s:5:"width";i:1024;s:6:"height";i:716;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115781;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7937;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-768x537.jpeg";s:5:"width";i:768;s:6:"height";i:537;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73742;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"pexels-photo-1191548-1-1536x1074.jpeg";s:5:"width";i:1536;s:6:"height";i:1074;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:235330;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:36:"pexels-photo-1191548-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:125467;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72287;}s:18:"covernews-featured";a:5:{s:4:"file";s:36:"pexels-photo-1191548-1-1024x716.jpeg";s:5:"width";i:1024;s:6:"height";i:716;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115781;}s:16:"covernews-medium";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40455;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:35:"pexels-photo-1191548-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25779;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -230,9 +230,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-139762]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/pexels-photo-139762/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/pexels-photo-139762/</link>
 		<pubDate>Mon, 30 Jul 2018 15:37:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-139762.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -240,8 +240,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:37:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:37:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-139762]]></wp:post_name>
@@ -251,14 +251,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/pexels-photo-139762-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/pexels-photo-139762-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-139762-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1283;s:4:"file";s:34:"2018/07/pexels-photo-139762-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"pexels-photo-139762-1-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:36:"pexels-photo-139762-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:35:"pexels-photo-139762-1-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:34:"pexels-photo-139762-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1283;s:4:"file";s:34:"2018/07/pexels-photo-139762-1.jpeg";s:8:"filesize";i:841066;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17301;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-photo-139762-1-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189356;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8179;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-768x513.jpeg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109940;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"pexels-photo-139762-1-1536x1026.jpeg";s:5:"width";i:1536;s:6:"height";i:1026;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:394792;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:35:"pexels-photo-139762-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:214611;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111745;}s:18:"covernews-featured";a:5:{s:4:"file";s:35:"pexels-photo-139762-1-1024x684.jpeg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189356;}s:16:"covernews-medium";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52179;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:34:"pexels-photo-139762-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28599;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -267,9 +267,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-248559]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/pexels-photo-248559/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/pexels-photo-248559/</link>
 		<pubDate>Mon, 30 Jul 2018 15:38:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-248559.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -277,8 +277,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:38:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:38:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-248559]]></wp:post_name>
@@ -288,14 +288,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/pexels-photo-248559-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/pexels-photo-248559-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-248559-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:34:"2018/07/pexels-photo-248559-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"pexels-photo-248559-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:36:"pexels-photo-248559-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:35:"pexels-photo-248559-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:34:"pexels-photo-248559-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:34:"2018/07/pexels-photo-248559-1.jpeg";s:8:"filesize";i:460995;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19480;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-photo-248559-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134005;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8573;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86289;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"pexels-photo-248559-1-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:244497;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:35:"pexels-photo-248559-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150780;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89994;}s:18:"covernews-featured";a:5:{s:4:"file";s:35:"pexels-photo-248559-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134005;}s:16:"covernews-medium";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48950;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:34:"pexels-photo-248559-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30139;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -304,9 +304,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-848682]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/pexels-photo-848682/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/pexels-photo-848682/</link>
 		<pubDate>Mon, 30 Jul 2018 15:40:34 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-848682.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -314,8 +314,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:40:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:40:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-848682]]></wp:post_name>
@@ -325,14 +325,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/pexels-photo-848682-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/pexels-photo-848682-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-848682-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:34:"2018/07/pexels-photo-848682-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"pexels-photo-848682-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:36:"pexels-photo-848682-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:35:"pexels-photo-848682-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:34:"pexels-photo-848682-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:34:"2018/07/pexels-photo-848682-1.jpeg";s:8:"filesize";i:346449;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16538;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-photo-848682-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102599;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7120;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67572;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"pexels-photo-848682-1-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:183541;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:35:"pexels-photo-848682-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113786;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68398;}s:18:"covernews-featured";a:5:{s:4:"file";s:35:"pexels-photo-848682-1-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102599;}s:16:"covernews-medium";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38570;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:34:"pexels-photo-848682-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24118;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -341,9 +341,9 @@
 							</item>
 					<item>
 		<title><![CDATA[action-bike-biker-139976]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/action-bike-biker-139976/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/action-bike-biker-139976/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/action-bike-biker-139976.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -351,8 +351,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-bike-biker-139976]]></wp:post_name>
@@ -362,14 +362,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/action-bike-biker-139976-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/action-bike-biker-139976-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/action-bike-biker-139976-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:38:"2018/07/action-bike-biker-139976-1.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:39:"action-bike-biker-139976-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:40:"action-bike-biker-139976-1-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:39:"action-bike-biker-139976-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:38:"action-bike-biker-139976-1-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2000;s:6:"height";i:1333;s:4:"file";s:38:"2018/07/action-bike-biker-139976-1.jpg";s:8:"filesize";i:700371;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19279;}s:5:"large";a:5:{s:4:"file";s:39:"action-bike-biker-139976-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:163188;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8421;}s:12:"medium_large";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98309;}s:9:"1536x1536";a:5:{s:4:"file";s:40:"action-bike-biker-139976-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:320082;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:39:"action-bike-biker-139976-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185124;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103283;}s:18:"covernews-featured";a:5:{s:4:"file";s:39:"action-bike-biker-139976-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:163188;}s:16:"covernews-medium";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52055;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:38:"action-bike-biker-139976-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30955;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -378,9 +378,9 @@
 							</item>
 					<item>
 		<title><![CDATA[float-pool-water-swim-50596]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/float-pool-water-swim-50596/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/float-pool-water-swim-50596/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/float-pool-water-swim-50596.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -388,8 +388,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[float-pool-water-swim-50596]]></wp:post_name>
@@ -399,14 +399,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/float-pool-water-swim-50596-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/float-pool-water-swim-50596-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/float-pool-water-swim-50596-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1276;s:4:"file";s:42:"2018/07/float-pool-water-swim-50596-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"float-pool-water-swim-50596-1-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:44:"float-pool-water-swim-50596-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:43:"float-pool-water-swim-50596-1-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:42:"float-pool-water-swim-50596-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1276;s:4:"file";s:42:"2018/07/float-pool-water-swim-50596-1.jpeg";s:8:"filesize";i:502764;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17182;}s:5:"large";a:5:{s:4:"file";s:43:"float-pool-water-swim-50596-1-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132288;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7600;}s:12:"medium_large";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-768x510.jpeg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82818;}s:9:"1536x1536";a:5:{s:4:"file";s:44:"float-pool-water-swim-50596-1-1536x1021.jpeg";s:5:"width";i:1536;s:6:"height";i:1021;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:249353;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:43:"float-pool-water-swim-50596-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:148829;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85610;}s:18:"covernews-featured";a:5:{s:4:"file";s:43:"float-pool-water-swim-50596-1-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132288;}s:16:"covernews-medium";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45018;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:42:"float-pool-water-swim-50596-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26840;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -415,9 +415,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-12795]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/pexels-photo-12795/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/pexels-photo-12795/</link>
 		<pubDate>Mon, 30 Jul 2018 15:46:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/pexels-photo-12795.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -425,8 +425,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:46:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:46:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:30:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-photo-12795]]></wp:post_name>
@@ -436,14 +436,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/pexels-photo-12795-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/pexels-photo-12795-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-12795-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1159;s:4:"file";s:33:"2018/07/pexels-photo-12795-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-300x181.jpeg";s:5:"width";i:300;s:6:"height";i:181;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-768x464.jpeg";s:5:"width";i:768;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-photo-12795-1-1024x618.jpeg";s:5:"width";i:1024;s:6:"height";i:618;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:35:"pexels-photo-12795-1-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:34:"pexels-photo-12795-1-1024x618.jpeg";s:5:"width";i:1024;s:6:"height";i:618;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:33:"pexels-photo-12795-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1159;s:4:"file";s:33:"2018/07/pexels-photo-12795-1.jpeg";s:8:"filesize";i:362492;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-300x181.jpeg";s:5:"width";i:300;s:6:"height";i:181;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14891;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-photo-12795-1-1024x618.jpeg";s:5:"width";i:1024;s:6:"height";i:618;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97199;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7405;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-768x464.jpeg";s:5:"width";i:768;s:6:"height";i:464;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62138;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-12795-1-1536x927.jpeg";s:5:"width";i:1536;s:6:"height";i:927;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:184343;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:34:"pexels-photo-12795-1-1115x715.jpeg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117076;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68367;}s:18:"covernews-featured";a:5:{s:4:"file";s:34:"pexels-photo-12795-1-1024x618.jpeg";s:5:"width";i:1024;s:6:"height";i:618;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97199;}s:16:"covernews-medium";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37681;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:33:"pexels-photo-12795-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23518;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -452,9 +452,9 @@
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-1120-wu-1]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/banner-promo-1120-wu-1/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/banner-promo-1120-wu-1/</link>
 		<pubDate>Mon, 30 Jul 2018 16:01:13 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/banner-promo-1120-wu-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -473,14 +473,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/banner-promo-1120-wu-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/banner-promo-1120-wu-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/banner-promo-1120-wu-1-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:36:"2018/07/banner-promo-1120-wu-1-1.png";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:36:"banner-promo-1120-wu-1-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-936x90.png";s:5:"width";i:936;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:18:"covernews-featured";a:4:{s:4:"file";s:36:"banner-promo-1120-wu-1-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:16:"covernews-medium";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-675x90.png";s:5:"width";i:675;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:36:"2018/07/banner-promo-1120-wu-1-1.png";s:8:"filesize";i:14372;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6876;}s:5:"large";a:5:{s:4:"file";s:36:"banner-promo-1120-wu-1-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:51883;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1765;}s:12:"medium_large";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28099;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:36:"banner-promo-1120-wu-1-1-1115x90.png";s:5:"width";i:1115;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14502;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-800x90.png";s:5:"width";i:800;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8659;}s:18:"covernews-featured";a:5:{s:4:"file";s:36:"banner-promo-1120-wu-1-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:51883;}s:16:"covernews-medium";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-540x90.png";s:5:"width";i:540;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4796;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:35:"banner-promo-1120-wu-1-1-400x90.png";s:5:"width";i:400;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3829;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -489,9 +489,9 @@
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-black]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/banner-promo-black/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/banner-promo-black/</link>
 		<pubDate>Tue, 31 Jul 2018 11:37:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/wp-content/uploads/sites/2/2018/07/banner-promo-black.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -510,14 +510,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/banner-promo-black-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/banner-promo-black-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/banner-promo-black-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:32:"2018/07/banner-promo-black-1.png";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"banner-promo-black-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"banner-promo-black-1-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:31:"banner-promo-black-1-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:32:"banner-promo-black-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:31:"banner-promo-black-1-936x90.png";s:5:"width";i:936;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:18:"covernews-featured";a:4:{s:4:"file";s:32:"banner-promo-black-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"banner-promo-black-1-720x90.png";s:5:"width";i:720;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:31:"banner-promo-black-1-675x90.png";s:5:"width";i:675;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1119;s:6:"height";i:90;s:4:"file";s:32:"2018/07/banner-promo-black-1.png";s:8:"filesize";i:15600;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:31:"banner-promo-black-1-300x24.png";s:5:"width";i:300;s:6:"height";i:24;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7557;}s:5:"large";a:5:{s:4:"file";s:32:"banner-promo-black-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54593;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"banner-promo-black-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1912;}s:12:"medium_large";a:5:{s:4:"file";s:31:"banner-promo-black-1-768x62.png";s:5:"width";i:768;s:6:"height";i:62;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29511;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:32:"banner-promo-black-1-1115x90.png";s:5:"width";i:1115;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15616;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:31:"banner-promo-black-1-800x90.png";s:5:"width";i:800;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9877;}s:18:"covernews-featured";a:5:{s:4:"file";s:32:"banner-promo-black-1-1024x82.png";s:5:"width";i:1024;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:54593;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"banner-promo-black-1-540x90.png";s:5:"width";i:540;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5527;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"banner-promo-black-1-400x90.png";s:5:"width";i:400;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4350;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -525,70 +525,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/?p=54</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=54</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-31 14:22:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-31 14:22:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533046955]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[af-themes main dark]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/af-themes-main-dark/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/af-themes-main-dark/</link>
 		<pubDate>Wed, 08 Aug 2018 06:11:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/sport/wp-content/uploads/sites/2/2018/08/af-themes-main-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -607,14 +547,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/08/af-themes-main-dark.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/08/af-themes-main-dark.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/af-themes-main-dark.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:31:"2018/08/af-themes-main-dark.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"af-themes-main-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"af-themes-main-dark-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"af-themes-main-dark-405x380.png";s:5:"width";i:405;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:31:"2018/08/af-themes-main-dark.png";s:8:"filesize";i:6498;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:31:"af-themes-main-dark-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31991;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"af-themes-main-dark-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12890;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"af-themes-main-dark-405x340.png";s:5:"width";i:405;s:6:"height";i:340;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7881;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"af-themes-main-dark-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:47132;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -623,9 +563,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-139762-1.jpeg]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/cropped-pexels-photo-139762-1-jpeg/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/cropped-pexels-photo-139762-1-jpeg/</link>
 		<pubDate>Wed, 05 Sep 2018 08:11:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cropped-pexels-photo-139762-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -644,18 +584,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cropped-pexels-photo-139762-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/cropped-pexels-photo-139762-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-pexels-photo-139762-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:42:"2018/07/cropped-pexels-photo-139762-1.jpeg";s:8:"filesize";i:291457;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-pexels-photo-139762-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9277;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94600;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10407;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-768x243.jpeg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56106;}s:9:"1536x1536";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1536x485.jpeg";s:5:"width";i:1536;s:6:"height";i:485;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:187518;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1115x600.jpeg";s:5:"width";i:1115;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:203880;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126364;}s:18:"covernews-featured";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94600;}s:16:"covernews-medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65949;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37660;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:42:"2018/07/cropped-pexels-photo-139762-1.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"cropped-pexels-photo-139762-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-768x243.jpeg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1536x600.jpeg";s:5:"width";i:1536;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-936x600.jpeg";s:5:"width";i:936;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_newsport]]></wp:meta_key>
@@ -672,9 +612,9 @@
 							</item>
 					<item>
 		<title><![CDATA[ferrari-490617_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/ferrari-490617_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/ferrari-490617_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:16:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/ferrari-490617_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -682,8 +622,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:16:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:16:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:16:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:16:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ferrari-490617_1920]]></wp:post_name>
@@ -693,14 +633,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/ferrari-490617_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/ferrari-490617_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/ferrari-490617_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:31:"2018/07/ferrari-490617_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"ferrari-490617_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"ferrari-490617_1920-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"ferrari-490617_1920-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"ferrari-490617_1920-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:33:"ferrari-490617_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:31:"ferrari-490617_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:32:"ferrari-490617_1920-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"ferrari-490617_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:31:"ferrari-490617_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:31:"2018/07/ferrari-490617_1920.jpg";s:8:"filesize";i:530854;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:31:"ferrari-490617_1920-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14976;}s:5:"large";a:5:{s:4:"file";s:32:"ferrari-490617_1920-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104213;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"ferrari-490617_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7514;}s:12:"medium_large";a:5:{s:4:"file";s:31:"ferrari-490617_1920-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66240;}s:9:"1536x1536";a:5:{s:4:"file";s:32:"ferrari-490617_1920-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:202584;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:32:"ferrari-490617_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133461;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:31:"ferrari-490617_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76732;}s:18:"covernews-featured";a:5:{s:4:"file";s:32:"ferrari-490617_1920-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104213;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"ferrari-490617_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41829;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"ferrari-490617_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25590;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -709,9 +649,9 @@
 							</item>
 					<item>
 		<title><![CDATA[ferrari-957630_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/ferrari-957630_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/ferrari-957630_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:19:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/ferrari-957630_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -719,8 +659,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:19:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:19:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:19:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:19:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ferrari-957630_1920]]></wp:post_name>
@@ -730,14 +670,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/ferrari-957630_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/ferrari-957630_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/ferrari-957630_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1277;s:4:"file";s:31:"2018/07/ferrari-957630_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"ferrari-957630_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"ferrari-957630_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"ferrari-957630_1920-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"ferrari-957630_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:33:"ferrari-957630_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:31:"ferrari-957630_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:32:"ferrari-957630_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"ferrari-957630_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:31:"ferrari-957630_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1277;s:4:"file";s:31:"2018/07/ferrari-957630_1920.jpg";s:8:"filesize";i:702067;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:31:"ferrari-957630_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11942;}s:5:"large";a:5:{s:4:"file";s:32:"ferrari-957630_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120818;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"ferrari-957630_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5155;}s:12:"medium_large";a:5:{s:4:"file";s:31:"ferrari-957630_1920-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70418;}s:9:"1536x1536";a:5:{s:4:"file";s:33:"ferrari-957630_1920-1536x1022.jpg";s:5:"width";i:1536;s:6:"height";i:1022;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:251777;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:32:"ferrari-957630_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137672;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:31:"ferrari-957630_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72999;}s:18:"covernews-featured";a:5:{s:4:"file";s:32:"ferrari-957630_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120818;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"ferrari-957630_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35023;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"ferrari-957630_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19634;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -746,9 +686,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cycling-1814362_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/cycling-1814362_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/cycling-1814362_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:21:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cycling-1814362_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -756,8 +696,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:21:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:21:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:21:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:21:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cycling-1814362_1920]]></wp:post_name>
@@ -767,14 +707,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cycling-1814362_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/cycling-1814362_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cycling-1814362_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:32:"2018/07/cycling-1814362_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"cycling-1814362_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"cycling-1814362_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"cycling-1814362_1920-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"cycling-1814362_1920-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:34:"cycling-1814362_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:32:"cycling-1814362_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:33:"cycling-1814362_1920-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:32:"cycling-1814362_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:32:"cycling-1814362_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D300S";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"800";s:13:"shutter_speed";s:6:"0.0004";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1279;s:4:"file";s:32:"2018/07/cycling-1814362_1920.jpg";s:8:"filesize";i:882598;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:32:"cycling-1814362_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22850;}s:5:"large";a:5:{s:4:"file";s:33:"cycling-1814362_1920-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152581;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"cycling-1814362_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11124;}s:12:"medium_large";a:5:{s:4:"file";s:32:"cycling-1814362_1920-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96434;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"cycling-1814362_1920-1536x1023.jpg";s:5:"width";i:1536;s:6:"height";i:1023;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:304467;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:33:"cycling-1814362_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:170502;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:32:"cycling-1814362_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98276;}s:18:"covernews-featured";a:5:{s:4:"file";s:33:"cycling-1814362_1920-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152581;}s:16:"covernews-medium";a:5:{s:4:"file";s:32:"cycling-1814362_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54343;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:32:"cycling-1814362_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34058;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D300S";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"800";s:13:"shutter_speed";s:6:"0.0004";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -783,9 +723,9 @@
 							</item>
 					<item>
 		<title><![CDATA[action-1854040_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/action-1854040_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/action-1854040_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:23:34 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/action-1854040_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -793,8 +733,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:23:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:23:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:23:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:23:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-1854040_1920]]></wp:post_name>
@@ -804,14 +744,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/action-1854040_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/action-1854040_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/action-1854040_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:31:"2018/07/action-1854040_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"action-1854040_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"action-1854040_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"action-1854040_1920-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"action-1854040_1920-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:33:"action-1854040_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:31:"action-1854040_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:32:"action-1854040_1920-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"action-1854040_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:31:"action-1854040_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 50D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:31:"2018/07/action-1854040_1920.jpg";s:8:"filesize";i:730230;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:31:"action-1854040_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20178;}s:5:"large";a:5:{s:4:"file";s:32:"action-1854040_1920-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154580;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"action-1854040_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8617;}s:12:"medium_large";a:5:{s:4:"file";s:31:"action-1854040_1920-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96275;}s:9:"1536x1536";a:5:{s:4:"file";s:33:"action-1854040_1920-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:293710;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:32:"action-1854040_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171402;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:31:"action-1854040_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98084;}s:18:"covernews-featured";a:5:{s:4:"file";s:32:"action-1854040_1920-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154580;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"action-1854040_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51664;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"action-1854040_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31258;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 50D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -820,9 +760,9 @@
 							</item>
 					<item>
 		<title><![CDATA[action-1854040_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/action-1854040_1920-2/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/action-1854040_1920-2/</link>
 		<pubDate>Wed, 05 Sep 2018 08:24:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/action-1854040_1920-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -830,8 +770,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:24:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:24:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:24:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:24:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-1854040_1920-2]]></wp:post_name>
@@ -841,14 +781,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/action-1854040_1920-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/action-1854040_1920-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/action-1854040_1920-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/07/action-1854040_1920-1.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"action-1854040_1920-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"action-1854040_1920-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"action-1854040_1920-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"action-1854040_1920-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:35:"action-1854040_1920-1-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:33:"action-1854040_1920-1-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:34:"action-1854040_1920-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:33:"action-1854040_1920-1-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:33:"action-1854040_1920-1-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 50D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/07/action-1854040_1920-1.jpg";s:8:"filesize";i:730230;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:33:"action-1854040_1920-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20178;}s:5:"large";a:5:{s:4:"file";s:34:"action-1854040_1920-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154580;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"action-1854040_1920-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8617;}s:12:"medium_large";a:5:{s:4:"file";s:33:"action-1854040_1920-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96275;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"action-1854040_1920-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:293710;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:34:"action-1854040_1920-1-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171402;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:33:"action-1854040_1920-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98084;}s:18:"covernews-featured";a:5:{s:4:"file";s:34:"action-1854040_1920-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154580;}s:16:"covernews-medium";a:5:{s:4:"file";s:33:"action-1854040_1920-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51664;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:33:"action-1854040_1920-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31258;}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"3.5";s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 50D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"200";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.001";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -857,9 +797,9 @@
 							</item>
 					<item>
 		<title><![CDATA[people-1284253_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/people-1284253_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/people-1284253_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:25:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/people-1284253_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -867,8 +807,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:25:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:25:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:25:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:25:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[people-1284253_1920]]></wp:post_name>
@@ -878,14 +818,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/people-1284253_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/people-1284253_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/people-1284253_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1101;s:4:"file";s:31:"2018/07/people-1284253_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"people-1284253_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"people-1284253_1920-300x172.jpg";s:5:"width";i:300;s:6:"height";i:172;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"people-1284253_1920-768x440.jpg";s:5:"width";i:768;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"people-1284253_1920-1024x587.jpg";s:5:"width";i:1024;s:6:"height";i:587;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:33:"people-1284253_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:31:"people-1284253_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:32:"people-1284253_1920-1024x587.jpg";s:5:"width";i:1024;s:6:"height";i:587;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:31:"people-1284253_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:31:"people-1284253_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1101;s:4:"file";s:31:"2018/07/people-1284253_1920.jpg";s:8:"filesize";i:556722;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:31:"people-1284253_1920-300x172.jpg";s:5:"width";i:300;s:6:"height";i:172;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15835;}s:5:"large";a:5:{s:4:"file";s:32:"people-1284253_1920-1024x587.jpg";s:5:"width";i:1024;s:6:"height";i:587;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118202;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"people-1284253_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8427;}s:12:"medium_large";a:5:{s:4:"file";s:31:"people-1284253_1920-768x440.jpg";s:5:"width";i:768;s:6:"height";i:440;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74348;}s:9:"1536x1536";a:5:{s:4:"file";s:32:"people-1284253_1920-1536x881.jpg";s:5:"width";i:1536;s:6:"height";i:881;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:224879;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:32:"people-1284253_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150611;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:31:"people-1284253_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86437;}s:18:"covernews-featured";a:5:{s:4:"file";s:32:"people-1284253_1920-1024x587.jpg";s:5:"width";i:1024;s:6:"height";i:587;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118202;}s:16:"covernews-medium";a:5:{s:4:"file";s:31:"people-1284253_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46251;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:31:"people-1284253_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27736;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -894,9 +834,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cheerleaders-654359_1920]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/cheerleaders-654359_1920/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/cheerleaders-654359_1920/</link>
 		<pubDate>Wed, 05 Sep 2018 08:28:07 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cheerleaders-654359_1920.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -904,8 +844,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2018-09-05 08:28:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-09-05 08:28:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:28:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:28:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cheerleaders-654359_1920]]></wp:post_name>
@@ -915,14 +855,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/covernews/newsport/wp-content/uploads/sites/5/2018/07/cheerleaders-654359_1920.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2018/07/cheerleaders-654359_1920.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cheerleaders-654359_1920.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1277;s:4:"file";s:36:"2018/07/cheerleaders-654359_1920.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:37:"cheerleaders-654359_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:21:"covernews-slider-full";a:4:{s:4:"file";s:38:"cheerleaders-654359_1920-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-slider-center";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:18:"covernews-featured";a:4:{s:4:"file";s:37:"cheerleaders-654359_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:16:"covernews-medium";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:23:"covernews-medium-square";a:4:{s:4:"file";s:36:"cheerleaders-654359_1920-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1277;s:4:"file";s:36:"2018/07/cheerleaders-654359_1920.jpg";s:8:"filesize";i:452052;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14270;}s:5:"large";a:5:{s:4:"file";s:37:"cheerleaders-654359_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96765;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7189;}s:12:"medium_large";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62003;}s:9:"1536x1536";a:5:{s:4:"file";s:38:"cheerleaders-654359_1920-1536x1022.jpg";s:5:"width";i:1536;s:6:"height";i:1022;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:180731;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:37:"cheerleaders-654359_1920-1115x715.jpg";s:5:"width";i:1115;s:6:"height";i:715;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108842;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64221;}s:18:"covernews-featured";a:5:{s:4:"file";s:37:"cheerleaders-654359_1920-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96765;}s:16:"covernews-medium";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35085;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:36:"cheerleaders-654359_1920-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21769;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -930,42 +870,47 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/</link>
-		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
+		<title><![CDATA[cropped-pexels-photo-139762-1]]></title>
+		<link>https://demos.afthemes.com/covernews/newsport/cropped-pexels-photo-139762-1/</link>
+		<pubDate>Wed, 06 Jul 2022 05:03:52 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2022/07/cropped-pexels-photo-139762-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>98</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-06 05:03:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:03:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[cropped-pexels-photo-139762-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews/newsport/wp-content/uploads/sites/17/2022/07/cropped-pexels-photo-139762-1.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-pexels-photo-139762-1.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:600;s:4:"file";s:42:"2022/07/cropped-pexels-photo-139762-1.jpeg";s:8:"filesize";i:291457;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-pexels-photo-139762-1-300x95.jpeg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9277;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94600;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10407;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-768x243.jpeg";s:5:"width";i:768;s:6:"height";i:243;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56106;}s:9:"1536x1536";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1536x485.jpeg";s:5:"width";i:1536;s:6:"height";i:485;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:187518;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1115x600.jpeg";s:5:"width";i:1115;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:203880;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126364;}s:18:"covernews-featured";a:5:{s:4:"file";s:43:"cropped-pexels-photo-139762-1-1024x323.jpeg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94600;}s:16:"covernews-medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65949;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:42:"cropped-pexels-photo-139762-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37660;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[newsport]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/42/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/42/</link>
 		<pubDate>Mon, 30 Jul 2018 16:03:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -990,10 +935,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
@@ -1002,27 +943,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/facebook/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/facebook/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=43</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1047,10 +976,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[43]]></wp:meta_value>
 		</wp:postmeta>
@@ -1059,16 +984,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1077,9 +994,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/twitter/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/twitter/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1104,10 +1021,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
@@ -1116,16 +1029,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1134,9 +1039,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/youtube/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/youtube/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1161,10 +1066,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
@@ -1173,16 +1074,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1191,9 +1084,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Vimeo]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/vimeo/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/vimeo/</link>
 		<pubDate>Mon, 30 Jul 2018 16:05:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1218,10 +1111,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
@@ -1230,16 +1119,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1248,9 +1129,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/31/50/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/31/50/</link>
 		<pubDate>Tue, 31 Jul 2018 14:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[Hot]]></content:encoded>
@@ -1275,10 +1156,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
@@ -1287,27 +1164,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Leagues & Clubs]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/31/leagues-clubs/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/31/leagues-clubs/</link>
 		<pubDate>Tue, 31 Jul 2018 14:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1332,10 +1197,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1344,27 +1205,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/31/52/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/31/52/</link>
 		<pubDate>Tue, 31 Jul 2018 14:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[Schedules]]></content:encoded>
@@ -1389,10 +1238,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
@@ -1401,27 +1246,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/31/53/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/31/53/</link>
 		<pubDate>Tue, 31 Jul 2018 14:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1446,10 +1279,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
@@ -1458,27 +1287,59 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews/newsport/?p=54</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=54</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-31 14:22:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-31 14:22:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1533046955]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/?p=55</link>
+		<link>https://demos.afthemes.com/covernews/newsport/?p=55</link>
 		<pubDate></pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1502,10 +1363,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
@@ -1514,20 +1371,8 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
@@ -1536,9 +1381,9 @@
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/08/02/all-demos/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/08/02/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 03:47:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1546,8 +1391,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:47:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:43:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:43:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1563,10 +1408,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[60]]></wp:meta_value>
 		</wp:postmeta>
@@ -1575,16 +1416,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1593,9 +1426,9 @@
 							</item>
 					<item>
 		<title><![CDATA[CoverNews]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/08/02/storymag/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/08/02/storymag/</link>
 		<pubDate>Thu, 02 Aug 2018 03:47:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1603,8 +1436,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:47:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:43:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:43:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[storymag]]></wp:post_name>
@@ -1632,16 +1465,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1650,9 +1475,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/08/02/sport/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/08/02/sport/</link>
 		<pubDate>Thu, 02 Aug 2018 03:47:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1660,8 +1485,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:47:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:43:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:43:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
@@ -1689,16 +1514,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1707,9 +1524,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/08/02/fashion/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/08/02/fashion/</link>
 		<pubDate>Thu, 02 Aug 2018 03:47:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1717,8 +1534,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:47:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 05:43:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 05:43:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:47:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:47:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -1746,16 +1563,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1764,9 +1573,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Upgrade]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/08/02/upgrade/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/08/02/upgrade/</link>
 		<pubDate>Thu, 02 Aug 2018 03:47:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=64</guid>
 		<description></description>
 		<content:encoded><![CDATA[Pro]]></content:encoded>
@@ -1791,10 +1600,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
@@ -1803,16 +1608,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1821,9 +1618,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/09/05/home/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/09/05/home/</link>
 		<pubDate>Wed, 05 Sep 2018 08:55:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/2018/09/05/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1848,10 +1645,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[91]]></wp:meta_value>
 		</wp:postmeta>
@@ -1860,16 +1653,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1878,9 +1663,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/09/05/92/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/09/05/92/</link>
 		<pubDate>Wed, 05 Sep 2018 08:55:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/2018/09/05/92/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1905,10 +1690,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
@@ -1917,27 +1698,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/09/05/93/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/09/05/93/</link>
 		<pubDate>Wed, 05 Sep 2018 08:55:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/2018/09/05/93/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1962,10 +1731,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
@@ -1974,27 +1739,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Purchase]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2022/02/02/purchase/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2022/02/02/purchase/</link>
 		<pubDate>Wed, 02 Feb 2022 07:01:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/2022/02/02/purchase/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2019,10 +1772,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[96]]></wp:meta_value>
 		</wp:postmeta>
@@ -2031,16 +1780,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2049,26 +1790,36 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/sample-page/</link>
-		<pubDate>Wed, 05 Sep 2018 03:23:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/?page_id=2</guid>
+		<link>https://demos.afthemes.com/covernews/newsport/sample-page/</link>
+		<pubDate>Wed, 06 Jul 2022 05:02:13 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/covernews/newsport/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
 
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
 
-...or something like this:
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
 
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
 
-As a new WordPress user, you should go to <a href="https://demo.afthemes.com/covernews/newsport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/covernews/newsport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2018-09-05 03:23:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-09-05 03:23:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 03:23:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 03:23:35]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-06 05:02:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-06 05:02:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-06 05:02:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-06 05:02:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2085,9 +1836,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[London Spitfire punches ticket to Overwatch League finals]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/london-spitfire-punches-ticket-to-overwatch-league-finals/</link>
 		<pubDate>Mon, 30 Jul 2018 15:28:21 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2121,24 +1872,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[KivaNeing]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[admin@kiva.team]]></wp:comment_author_email>
 			<wp:comment_author_url>https://kiva.team</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[5.188.240.28]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2018-11-18 11:30:26]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2018-11-18 11:30:26]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[<a href="https://kiva.team/universe.html" rel="nofollow"></a> 
+			<wp:comment_content><![CDATA[<a href=\"https://kiva.team/universe.html\" rel=\"nofollow ugc\"></a> 
  
-Топовый приватный чит от разработчика с многолетним опытом работы в разработке программного обеспечения для WF. <a href="https://kiva.team/cheat-kiva.html" rel="nofollow">Приватный чит для Warface - автошот KIVA</a> Свыше 2х лет его программы работают, регулярно обновляются и постоянно дорабатываются. 
+Топовый приватный чит от разработчика с многолетним опытом работы в разработке программного обеспечения для WF. <a href=\"https://kiva.team/cheat-kiva.html\" rel=\"nofollow ugc\">Приватный чит для Warface - автошот KIVA</a> Свыше 2х лет его программы работают, регулярно обновляются и постоянно дорабатываются. 
  
  
 Супер обновление! Теперь автошот не стреляет по своим! Автоматически стреляет только по врагам. 
 Даже случайное проведение курсором мышки по врагу, приведёт AutoShot в боевую готовность, и он выстрелит прямо в цель. 
  
  
-<a href="https://kiva.team/trainer-wf.html" rel="nofollow"></a> 
-<a href="https://vk.com/id429531683" rel="nofollow"></a> 
+<a href=\"https://kiva.team/trainer-wf.html\" rel=\"nofollow ugc\"></a> 
+<a href=\"https://vk.com/id429531683\" rel=\"nofollow ugc\"></a> 
  
  
  
@@ -2159,9 +1910,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 					</item>
 					<item>
 		<title><![CDATA[Gordon Hayward still fan of esports, not yet investor]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/gordon-hayward-still-fan-of-esports-not-yet-investor/</link>
 		<pubDate>Mon, 30 Jul 2018 15:35:07 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2194,9 +1945,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[League of Legends global power rankings through July 16]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/league-of-legends-global-power-rankings-through-july-16/</link>
 		<pubDate>Mon, 30 Jul 2018 15:37:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.  Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2208,8 +1959,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:37:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:37:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:46:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:46:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:37:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:37:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[league-of-legends-global-power-rankings-through-july-16]]></wp:post_name>
@@ -2219,8 +1970,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="leagues-clubs"><![CDATA[Leagues &amp; Clubs]]></category>
-		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+										<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+		<category domain="category" nicename="leagues-clubs"><![CDATA[Leagues &amp; Clubs]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[12]]></wp:meta_value>
@@ -2244,9 +1995,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Fortnite Summer Skirmish Series struggles in opening week]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/fortnite-summer-skirmish-series-struggles-in-opening-week/</link>
 		<pubDate>Mon, 30 Jul 2018 15:38:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=14</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2256,8 +2007,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:38:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:38:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:47:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:47:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:38:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:38:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fortnite-summer-skirmish-series-struggles-in-opening-week]]></wp:post_name>
@@ -2267,9 +2018,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-		<category domain="category" nicename="test-series"><![CDATA[Test Series]]></category>
+										<category domain="category" nicename="test-series"><![CDATA[Test Series]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[85]]></wp:meta_value>
@@ -2293,9 +2044,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Rise Nation intent to 'stay humble, stay hungry']]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/rise-nation-intent-to-stay-humble-stay-hungry/</link>
 		<pubDate>Mon, 30 Jul 2018 15:40:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2307,8 +2058,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:40:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:40:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:34:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:34:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:40:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:40:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[rise-nation-intent-to-stay-humble-stay-hungry]]></wp:post_name>
@@ -2343,9 +2094,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Explaining Boston Uprising's fall from grace]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/explaining-boston-uprisings-fall-from-grace/</link>
 		<pubDate>Mon, 30 Jul 2018 15:42:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2355,8 +2106,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:42:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:42:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:23:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:23:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:42:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:42:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[explaining-boston-uprisings-fall-from-grace]]></wp:post_name>
@@ -2390,9 +2141,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[United Talent Agency acquires two esports agencies]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/2018/07/30/united-talent-agency-acquires-two-esports-agencies/</link>
 		<pubDate>Mon, 30 Jul 2018 15:47:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2402,8 +2153,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-30 15:47:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-09-05 08:47:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-05 08:47:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:47:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:47:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[united-talent-agency-acquires-two-esports-agencies]]></wp:post_name>
@@ -2413,9 +2164,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-		<category domain="category" nicename="transfers"><![CDATA[Transfers]]></category>
+										<category domain="category" nicename="transfers"><![CDATA[Transfers]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[77]]></wp:meta_value>
@@ -2438,10 +2189,42 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demos.afthemes.com/covernews/newsport/</link>
+		<pubDate>Mon, 30 Jul 2018 15:52:56 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=35</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 15:52:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 15:52:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 15:52:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[tmpl-front-page.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/blog/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/blog/</link>
 		<pubDate>Wed, 01 Aug 2018 08:46:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/sport/?page_id=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2475,9 +2258,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/covernews/newsport/sample-page-2/</link>
+		<link>https://demos.afthemes.com/covernews/newsport/sample-page-2-2/</link>
 		<pubDate>Wed, 08 Aug 2018 06:07:23 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/sport/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
@@ -2495,6 +2278,42 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:post_date_gmt><![CDATA[2018-08-08 06:07:23]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2018-08-08 06:07:23]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2018-08-08 06:07:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/covernews/newsport/sample-page-2/</link>
+		<pubDate>Wed, 05 Sep 2018 03:23:35 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsport/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="https://demo.afthemes.com/covernews/newsport/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>97</wp:post_id>
+		<wp:post_date><![CDATA[2018-09-05 03:23:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-05 03:23:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-09-05 03:23:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-05 03:23:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.9" created="2022-01-28 06:14" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-08 07:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Wedding</title>
-	<link>https://demo.afthemes.com/kreeti/wedding</link>
+	<title>Wedding Pro</title>
+	<link>https://demos.afthemes.com/kreeti/wedding</link>
 	<description>Just another Kreeti Sites site</description>
-	<pubDate>Fri, 28 Jan 2022 06:14:44 +0000</pubDate>
+	<pubDate>Thu, 08 Sep 2022 07:31:28 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/kreeti/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/kreeti/wedding</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/kreeti/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/kreeti/wedding</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -273,13 +273,13 @@
 	<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/504/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/504/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=504</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -287,8 +287,8 @@
 		<wp:post_id>504</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[504]]></wp:post_name>
@@ -304,10 +304,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[417]]></wp:meta_value>
 		</wp:postmeta>
@@ -316,27 +312,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/506/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/506/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=506</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -344,8 +328,8 @@
 		<wp:post_id>506</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[506]]></wp:post_name>
@@ -373,27 +357,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/507/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/507/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=507</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -401,8 +373,8 @@
 		<wp:post_id>507</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[507]]></wp:post_name>
@@ -418,10 +390,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
@@ -430,27 +398,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/508/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/508/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=508</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -458,8 +414,8 @@
 		<wp:post_id>508</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[508]]></wp:post_name>
@@ -475,10 +431,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
@@ -487,27 +439,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/509/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/509/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=509</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -515,8 +455,8 @@
 		<wp:post_id>509</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[509]]></wp:post_name>
@@ -544,27 +484,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/510/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/510/</link>
 		<pubDate>Fri, 15 Jun 2018 09:55:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=510</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -572,8 +500,8 @@
 		<wp:post_id>510</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:55:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:55:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:55:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[510]]></wp:post_name>
@@ -589,10 +517,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
@@ -601,27 +525,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/511/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/511/</link>
 		<pubDate>Fri, 15 Jun 2018 09:56:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=511</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -646,10 +558,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
@@ -658,84 +566,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/512/</link>
-		<pubDate>Fri, 15 Jun 2018 09:56:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=512</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>512</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-15 09:56:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-15 09:56:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-15 09:56:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-15 09:56:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[512]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[416]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-371312]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-371312/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-371312/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:31 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-371312.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -754,14 +593,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-371312.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-371312.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-371312.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-371312.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-371312-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-371312-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-371312-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-371312-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-371312-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-371312-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-371312-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-371312-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-371312.jpeg";s:8:"filesize";i:319109;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-371312-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12022;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-371312-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84947;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-371312-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5421;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-371312-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52984;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-371312-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:161877;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-371312-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103806;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-371312-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84947;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-371312-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52007;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-371312-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19766;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -770,9 +609,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-247295]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-247295/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-247295/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:34 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-247295.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -791,14 +630,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-247295.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-247295.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-247295.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-247295.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-247295-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-247295-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-247295-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-247295-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-247295-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-247295-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-247295-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-247295-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-247295.jpeg";s:8:"filesize";i:373774;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-247295-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17065;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-247295-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108191;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-247295-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7943;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-247295-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69879;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-247295-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:197228;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-247295-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132006;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-247295-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108191;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-247295-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68699;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-247295-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28628;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -807,9 +646,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-540522]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-540522/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-540522/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-540522.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -828,14 +667,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-540522.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-540522.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-540522.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-540522.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-540522-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-540522-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-540522-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-540522-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-540522-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-540522-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-540522-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-540522-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-540522.jpeg";s:8:"filesize";i:225311;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-540522-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10950;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-540522-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64338;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-540522-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6349;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-540522-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41903;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-540522-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116147;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-540522-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79941;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-540522-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64338;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-540522-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42702;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-540522-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20642;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -844,9 +683,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-302028]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-302028/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-302028/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-302028.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -865,14 +704,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-302028.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-302028.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-302028.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-302028.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-302028-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-302028-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-302028-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-302028-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-302028-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-302028-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-302028-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-302028-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-302028.jpeg";s:8:"filesize";i:497876;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-302028-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18291;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-302028-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135294;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-302028-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7582;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-302028-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85782;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-302028-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:251347;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-302028-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:160485;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-302028-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135294;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-302028-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81535;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-302028-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29746;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -881,9 +720,9 @@
 							</item>
 					<item>
 		<title><![CDATA[beautiful-blur-bouquet-265727]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/beautiful-blur-bouquet-265727/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/beautiful-blur-bouquet-265727/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/beautiful-blur-bouquet-265727.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -902,14 +741,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/beautiful-blur-bouquet-265727.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/beautiful-blur-bouquet-265727.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/beautiful-blur-bouquet-265727.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:41:"2018/07/beautiful-blur-bouquet-265727.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:41:"2018/07/beautiful-blur-bouquet-265727.jpg";s:8:"filesize";i:383870;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12529;}s:5:"large";a:5:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92364;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5522;}s:12:"medium_large";a:5:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57113;}s:9:"1536x1536";a:5:{s:4:"file";s:43:"beautiful-blur-bouquet-265727-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171907;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:110442;}s:15:"kreeti-featured";a:5:{s:4:"file";s:42:"beautiful-blur-bouquet-265727-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92364;}s:13:"kreeti-medium";a:5:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54810;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:41:"beautiful-blur-bouquet-265727-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21076;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -918,9 +757,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-566451]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-566451/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-566451/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-566451.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -939,14 +778,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-566451.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-566451.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-566451.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-566451.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-566451-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-566451-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-566451-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-566451-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-566451-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-566451-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-566451-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-566451-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:32:"2018/07/pexels-photo-566451.jpeg";s:8:"filesize";i:447420;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-566451-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19551;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-566451-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129284;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-566451-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8665;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-566451-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83422;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-566451-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:234272;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-566451-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:155319;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-566451-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129284;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-566451-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80603;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-566451-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31629;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -955,9 +794,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-169198]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-169198/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-169198/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-169198.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -976,14 +815,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-169198.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-169198.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-169198.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1281;s:4:"file";s:32:"2018/07/pexels-photo-169198.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-169198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-169198-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-169198-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-169198-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:33:"pexels-photo-169198-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:33:"pexels-photo-169198-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:32:"pexels-photo-169198-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-169198-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1281;s:4:"file";s:32:"2018/07/pexels-photo-169198.jpeg";s:8:"filesize";i:699544;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-169198-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19435;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-169198-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:174038;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-169198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8507;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-169198-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105014;}s:9:"1536x1536";a:5:{s:4:"file";s:34:"pexels-photo-169198-1536x1025.jpeg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:343618;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:33:"pexels-photo-169198-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:235136;}s:15:"kreeti-featured";a:5:{s:4:"file";s:33:"pexels-photo-169198-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:174038;}s:13:"kreeti-medium";a:5:{s:4:"file";s:32:"pexels-photo-169198-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103378;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-169198-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37841;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -992,9 +831,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-1073567]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/pexels-photo-1073567/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/pexels-photo-1073567/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/pexels-photo-1073567.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1013,14 +852,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/pexels-photo-1073567.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/pexels-photo-1073567.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-photo-1073567.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/07/pexels-photo-1073567.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-1073567-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:33:"pexels-photo-1073567-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-photo-1073567-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-photo-1073567-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:34:"pexels-photo-1073567-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:34:"pexels-photo-1073567-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:33:"pexels-photo-1073567-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:33:"pexels-photo-1073567-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:33:"2018/07/pexels-photo-1073567.jpeg";s:8:"filesize";i:299306;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:33:"pexels-photo-1073567-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10735;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-photo-1073567-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75971;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-photo-1073567-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5642;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-photo-1073567-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47050;}s:9:"1536x1536";a:5:{s:4:"file";s:35:"pexels-photo-1073567-1536x1024.jpeg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:148149;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:34:"pexels-photo-1073567-1280x720.jpeg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94958;}s:15:"kreeti-featured";a:5:{s:4:"file";s:34:"pexels-photo-1073567-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75971;}s:13:"kreeti-medium";a:5:{s:4:"file";s:33:"pexels-photo-1073567-720x530.jpeg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47227;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:33:"pexels-photo-1073567-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20127;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1029,9 +868,9 @@
 							</item>
 					<item>
 		<title><![CDATA[attractive-beautiful-bride-236194]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/attractive-beautiful-bride-236194/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/attractive-beautiful-bride-236194/</link>
 		<pubDate>Thu, 05 Jul 2018 03:26:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/beautiful-blog/wp-content/uploads/sites/6/2018/07/attractive-beautiful-bride-236194.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1050,14 +889,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/attractive-beautiful-bride-236194.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/attractive-beautiful-bride-236194-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/attractive-beautiful-bride-236194.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2018/07/attractive-beautiful-bride-236194-scaled.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2048;s:6:"height";i:3072;s:4:"file";s:45:"2018/07/attractive-beautiful-bride-236194.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:45:"attractive-beautiful-bride-236194-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:45:"attractive-beautiful-bride-236194-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"attractive-beautiful-bride-236194-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"attractive-beautiful-bride-236194-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:46:"attractive-beautiful-bride-236194-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:47:"attractive-beautiful-bride-236194-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:45:"attractive-beautiful-bride-236194-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:45:"attractive-beautiful-bride-236194-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1707;s:6:"height";i:2560;s:4:"file";s:52:"2018/07/attractive-beautiful-bride-236194-scaled.jpg";s:8:"filesize";i:434022;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:45:"attractive-beautiful-bride-236194-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13367;}s:5:"large";a:5:{s:4:"file";s:46:"attractive-beautiful-bride-236194-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95961;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"attractive-beautiful-bride-236194-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6367;}s:12:"medium_large";a:5:{s:4:"file";s:46:"attractive-beautiful-bride-236194-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113011;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"attractive-beautiful-bride-236194-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188560;}s:9:"2048x2048";a:5:{s:4:"file";s:47:"attractive-beautiful-bride-236194-1365x2048.jpg";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:296531;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:46:"attractive-beautiful-bride-236194-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109464;}s:15:"kreeti-featured";a:5:{s:4:"file";s:47:"attractive-beautiful-bride-236194-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188560;}s:13:"kreeti-medium";a:5:{s:4:"file";s:45:"attractive-beautiful-bride-236194-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54885;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:45:"attractive-beautiful-bride-236194-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23201;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:37:"attractive-beautiful-bride-236194.jpg";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1066,9 +905,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-photo-302028.jpeg]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/cropped-pexels-photo-302028-jpeg/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/cropped-pexels-photo-302028-jpeg/</link>
 		<pubDate>Mon, 02 Sep 2019 07:19:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/cropped-pexels-photo-302028.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1087,18 +926,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/cropped-pexels-photo-302028.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/cropped-pexels-photo-302028.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-pexels-photo-302028.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:40:"2018/07/cropped-pexels-photo-302028.jpeg";s:8:"filesize";i:94629;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:39:"cropped-pexels-photo-302028-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7713;}s:5:"large";a:5:{s:4:"file";s:41:"cropped-pexels-photo-302028-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50662;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cropped-pexels-photo-302028-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5441;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cropped-pexels-photo-302028-768x204.jpeg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33481;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:41:"cropped-pexels-photo-302028-1280x399.jpeg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80350;}s:15:"kreeti-featured";a:5:{s:4:"file";s:41:"cropped-pexels-photo-302028-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50662;}s:13:"kreeti-medium";a:5:{s:4:"file";s:40:"cropped-pexels-photo-302028-720x399.jpeg";s:5:"width";i:720;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45967;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:40:"cropped-pexels-photo-302028-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17496;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:40:"2018/07/cropped-pexels-photo-302028.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-pexels-photo-302028-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"cropped-pexels-photo-302028-300x80.jpeg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-pexels-photo-302028-768x204.jpeg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-pexels-photo-302028-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:41:"cropped-pexels-photo-302028-1280x399.jpeg";s:5:"width";i:1280;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:41:"cropped-pexels-photo-302028-1024x272.jpeg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:40:"cropped-pexels-photo-302028-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:40:"cropped-pexels-photo-302028-350x350.jpeg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:532;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_kreeti]]></wp:meta_key>
@@ -1111,9 +950,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-attractive-beautiful-bride-236194.jpg]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/cropped-attractive-beautiful-bride-236194-jpg/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/cropped-attractive-beautiful-bride-236194-jpg/</link>
 		<pubDate>Mon, 02 Sep 2019 09:04:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/cropped-attractive-beautiful-bride-236194.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1132,18 +971,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/kreeti/wedding/wp-content/uploads/sites/13/2018/07/cropped-attractive-beautiful-bride-236194.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2018/07/cropped-attractive-beautiful-bride-236194.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-attractive-beautiful-bride-236194.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:53:"2018/07/cropped-attractive-beautiful-bride-236194.jpg";s:8:"filesize";i:94372;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:52:"cropped-attractive-beautiful-bride-236194-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7206;}s:5:"large";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48808;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6651;}s:12:"medium_large";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30725;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1280x401.jpg";s:5:"width";i:1280;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82910;}s:15:"kreeti-featured";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48808;}s:13:"kreeti-medium";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-720x401.jpg";s:5:"width";i:720;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47124;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22489;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:53:"2018/07/cropped-attractive-beautiful-bride-236194.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:52:"cropped-attractive-beautiful-bride-236194-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";}s:18:"kreeti-slider-full";a:4:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1280x401.jpg";s:5:"width";i:1280;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}s:15:"kreeti-featured";a:4:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";}s:13:"kreeti-medium";a:4:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:20:"kreeti-medium-square";a:4:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:537;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_kreeti]]></wp:meta_key>
@@ -1156,9 +995,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/mc4wp-form/579/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/mc4wp-form/579/</link>
 		<pubDate>Fri, 13 Sep 2019 08:59:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/mc4wp-form/579/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
@@ -1186,10 +1025,88 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[cropped-attractive-beautiful-bride-236194]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/cropped-attractive-beautiful-bride-236194/</link>
+		<pubDate>Wed, 27 Jul 2022 06:12:31 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2022/07/cropped-attractive-beautiful-bride-236194.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>594</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 06:12:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 06:12:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 06:12:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 06:12:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-attractive-beautiful-bride-236194]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/kreeti/wedding/wp-content/uploads/sites/12/2022/07/cropped-attractive-beautiful-bride-236194.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-attractive-beautiful-bride-236194.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:53:"2022/07/cropped-attractive-beautiful-bride-236194.jpg";s:8:"filesize";i:94372;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:52:"cropped-attractive-beautiful-bride-236194-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7206;}s:5:"large";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48808;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6651;}s:12:"medium_large";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30725;}s:18:"kreeti-slider-full";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1280x401.jpg";s:5:"width";i:1280;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82910;}s:15:"kreeti-featured";a:5:{s:4:"file";s:54:"cropped-attractive-beautiful-bride-236194-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48808;}s:13:"kreeti-medium";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-720x401.jpg";s:5:"width";i:720;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47124;}s:20:"kreeti-medium-square";a:5:{s:4:"file";s:53:"cropped-attractive-beautiful-bride-236194-350x350.jpg";s:5:"width";i:350;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22489;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/513/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/512/</link>
 		<pubDate>Fri, 15 Jun 2018 09:56:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=512</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>512</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-15 09:56:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-15 09:56:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:56:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:56:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[512]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[416]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/513/</link>
+		<pubDate>Fri, 15 Jun 2018 09:56:06 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=513</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1214,10 +1131,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[415]]></wp:meta_value>
 		</wp:postmeta>
@@ -1226,27 +1139,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/facebook/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/facebook/</link>
 		<pubDate>Fri, 15 Jun 2018 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=514</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1271,10 +1172,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[514]]></wp:meta_value>
 		</wp:postmeta>
@@ -1283,16 +1180,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1301,9 +1190,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/twitter/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/twitter/</link>
 		<pubDate>Fri, 15 Jun 2018 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=515</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1328,10 +1217,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[515]]></wp:meta_value>
 		</wp:postmeta>
@@ -1340,16 +1225,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1358,9 +1235,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/instagram/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/instagram/</link>
 		<pubDate>Fri, 15 Jun 2018 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=516</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1368,8 +1245,8 @@
 		<wp:post_id>516</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 09:57:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 09:57:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 08:39:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 08:39:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 09:57:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 09:57:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -1385,10 +1262,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[516]]></wp:meta_value>
 		</wp:postmeta>
@@ -1397,16 +1270,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1415,9 +1280,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/youtube/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/youtube/</link>
 		<pubDate>Fri, 15 Jun 2018 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=517</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1442,10 +1307,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[517]]></wp:meta_value>
 		</wp:postmeta>
@@ -1454,16 +1315,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1472,9 +1325,9 @@
 							</item>
 					<item>
 		<title><![CDATA[VK]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/vk/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/vk/</link>
 		<pubDate>Fri, 15 Jun 2018 09:57:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=518</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1499,10 +1352,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[518]]></wp:meta_value>
 		</wp:postmeta>
@@ -1511,16 +1360,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1529,9 +1370,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/519/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/519/</link>
 		<pubDate>Fri, 15 Jun 2018 09:58:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=519</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1556,10 +1397,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[524]]></wp:meta_value>
 		</wp:postmeta>
@@ -1568,27 +1405,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/520/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/520/</link>
 		<pubDate>Fri, 15 Jun 2018 09:58:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=520</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1613,10 +1438,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
@@ -1625,27 +1446,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/521/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/521/</link>
 		<pubDate>Fri, 15 Jun 2018 09:58:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=521</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1670,10 +1479,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[169]]></wp:meta_value>
 		</wp:postmeta>
@@ -1682,27 +1487,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/06/15/522/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/06/15/522/</link>
 		<pubDate>Fri, 15 Jun 2018 09:58:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?p=522</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1727,10 +1520,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[167]]></wp:meta_value>
 		</wp:postmeta>
@@ -1739,27 +1528,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/02/home/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/02/home/</link>
 		<pubDate>Mon, 02 Sep 2019 08:47:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/2019/09/02/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1767,8 +1544,8 @@
 		<wp:post_id>566</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-02 08:47:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-02 08:47:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-02 08:47:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-02 08:47:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1784,10 +1561,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[566]]></wp:meta_value>
 		</wp:postmeta>
@@ -1796,16 +1569,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1814,9 +1579,9 @@
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/all-demos/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/all-demos/</link>
 		<pubDate>Fri, 13 Sep 2019 11:58:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=581</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1824,8 +1589,8 @@
 		<wp:post_id>581</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:58:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:58:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:58:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:58:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1841,10 +1606,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[581]]></wp:meta_value>
 		</wp:postmeta>
@@ -1853,16 +1614,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1871,9 +1624,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Kreeti]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/kreeti/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/kreeti/</link>
 		<pubDate>Fri, 13 Sep 2019 11:58:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=582</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1881,8 +1634,8 @@
 		<wp:post_id>582</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:58:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:58:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:58:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:58:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kreeti]]></wp:post_name>
@@ -1910,16 +1663,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1928,9 +1673,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Dark]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/dark/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/dark/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=583</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1938,8 +1683,8 @@
 		<wp:post_id>583</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dark]]></wp:post_name>
@@ -1967,16 +1712,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1985,9 +1722,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/sport/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/sport/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=584</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1995,8 +1732,8 @@
 		<wp:post_id>584</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
@@ -2024,16 +1761,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2042,9 +1771,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/fashion/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/fashion/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=585</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2052,8 +1781,8 @@
 		<wp:post_id>585</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -2081,16 +1810,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2099,9 +1820,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Gadgets]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/gadgets/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/gadgets/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=586</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2109,8 +1830,8 @@
 		<wp:post_id>586</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets]]></wp:post_name>
@@ -2138,16 +1859,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2156,9 +1869,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Recipe]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/recipe/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/recipe/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=587</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2166,8 +1879,8 @@
 		<wp:post_id>587</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipe]]></wp:post_name>
@@ -2195,16 +1908,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2213,9 +1918,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Business News]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/business-news/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/business-news/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=588</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2223,8 +1928,8 @@
 		<wp:post_id>588</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-news]]></wp:post_name>
@@ -2252,16 +1957,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2269,67 +1966,56 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Travel]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/travel/</link>
-		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=589</guid>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/sample-page/</link>
+		<pubDate>Wed, 27 Jul 2022 06:11:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/kreeti/wedding/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/kreeti/wedding/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>589</wp:post_id>
-		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 06:11:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 06:11:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 06:11:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 06:11:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[travel]]></wp:post_name>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[581]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[589]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/kreeti/travel]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[My account]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/my-account/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/my-account/</link>
 		<pubDate>Wed, 06 Jun 2018 06:50:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/my-account/</guid>
 		<description></description>
 		<content:encoded><![CDATA[[woocommerce_my_account]]]></content:encoded>
@@ -2351,9 +2037,9 @@
 														</item>
 					<item>
 		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2396,14 +2082,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[242]]></wp:meta_value>
+		<wp:meta_value><![CDATA[245]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Nulla porttitor accumsan tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.]]></content:encoded>
@@ -2446,10 +2132,10 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[296]]></wp:meta_value>
+		<wp:meta_value><![CDATA[297]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[easy play guitar]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[erna_burdekin@live.de]]></wp:comment_author_email>
 			<wp:comment_author_url>http://jo.my/qrflt6</wp:comment_author_url>
@@ -2457,7 +2143,7 @@
 			<wp:comment_date><![CDATA[2020-06-07 07:51:46]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-06-07 07:51:46]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[When someone writes an piece of writing he/she retains the idea of a user in his/her brain that how a user can be aware of 
-it. So that's why this piece of writing is great. Thanks!]]></wp:comment_content>
+it. So that\'s why this piece of writing is great. Thanks!]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -2472,7 +2158,7 @@ it. So that's why this piece of writing is great. Thanks!]]></wp:comment_content
 			</wp:commentmeta>
 							</wp:comment>
 					<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[guitar songs and chords free]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[nikolebadham@arcor.de]]></wp:comment_author_email>
 			<wp:comment_author_url>https://o2o.jjfwpt.com/home.php?mod=space&amp;uid=98648&amp;do=profile</wp:comment_author_url>
@@ -2480,7 +2166,7 @@ it. So that's why this piece of writing is great. Thanks!]]></wp:comment_content
 			<wp:comment_date><![CDATA[2020-06-27 09:54:34]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2020-06-27 09:54:34]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Excellent goods from you, man. I have understand your 
-stuff previous to and you're just extremely wonderful.
+stuff previous to and you\'re just extremely wonderful.
 
 I really like what you have acquired here, really like what you are stating and the way in which you say it.
 You make it enjoyable and you still take care of tto keep 
@@ -2501,112 +2187,10 @@ really a tremendous site.]]></wp:comment_content>
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
-		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
-		<description></description>
-		<content:encoded><![CDATA[Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.]]></excerpt:encoded>
-		<wp:post_id>103</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[532]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magazine-7-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[286]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
-		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
-		<description></description>
-		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. ]]></excerpt:encoded>
-		<wp:post_id>106</wp:post_id>
-		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
-		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magazine-7-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[537]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[273]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Press Center]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/press-center/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/press-center/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
@@ -2632,9 +2216,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Reports]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/reports/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/reports/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat.]]></content:encoded>
@@ -2664,9 +2248,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Careers]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/careers/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/careers/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=171</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Sed porttitor lectus nibh.]]></content:encoded>
@@ -2692,9 +2276,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2728,9 +2312,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/about/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/about/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.]]></content:encoded>
@@ -2760,9 +2344,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/contact/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/contact/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.]]></content:encoded>
@@ -2792,9 +2376,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/blog/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/blog/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2824,9 +2408,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[A homepage section]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/a-homepage-section/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/a-homepage-section/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.]]></content:encoded>
@@ -2856,9 +2440,9 @@ really a tremendous site.]]></wp:comment_content>
 							</item>
 					<item>
 		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt.]]></content:encoded>
@@ -2902,14 +2486,14 @@ really a tremendous site.]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[249]]></wp:meta_value>
+		<wp:meta_value><![CDATA[252]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
 		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sed porttitor lectus nibh. Proin eget tortor risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
@@ -2953,14 +2537,14 @@ really a tremendous site.]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[261]]></wp:meta_value>
+		<wp:meta_value><![CDATA[263]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/privacy-policy/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/privacy-policy/</link>
 		<pubDate>Tue, 05 Jun 2018 11:33:24 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Who we are</h2>
@@ -3027,10 +2611,59 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Lifestyle]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/lifestyle/</link>
+		<title><![CDATA[Travel]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/travel/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=589</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>589</wp:post_id>
+		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[581]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[589]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/kreeti/travel]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Lifestyle]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/lifestyle/</link>
+		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=590</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3038,8 +2671,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:post_id>590</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle]]></wp:post_name>
@@ -3067,16 +2700,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -3085,9 +2710,9 @@ Visitor comments may be checked through an automated spam detection service.
 							</item>
 					<item>
 		<title><![CDATA[Masonry]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/masonry/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/masonry/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=591</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3095,8 +2720,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:post_id>591</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[masonry]]></wp:post_name>
@@ -3124,16 +2749,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -3142,9 +2759,9 @@ Visitor comments may be checked through an automated spam detection service.
 							</item>
 					<item>
 		<title><![CDATA[Retro]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/retro/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/retro/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=592</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3152,8 +2769,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:post_id>592</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[retro]]></wp:post_name>
@@ -3181,16 +2798,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -3199,9 +2808,9 @@ Visitor comments may be checked through an automated spam detection service.
 							</item>
 					<item>
 		<title><![CDATA[Wedding]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2019/09/13/wedding/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2019/09/13/wedding/</link>
 		<pubDate>Fri, 13 Sep 2019 11:59:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/wedding/?p=593</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -3209,8 +2818,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:post_id>593</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-13 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-10-03 03:03:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-10-03 03:03:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2019-09-13 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-13 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wedding]]></wp:post_name>
@@ -3238,16 +2847,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -3255,10 +2856,112 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
+		<description></description>
+		<content:encoded><![CDATA[Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[532]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magazine-7-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[289]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
+		<description></description>
+		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. ]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="artist"><![CDATA[Artist]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-image-options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[full-width-image]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ramp-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magazine-7-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[537]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[274]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.]]></content:encoded>
@@ -3277,8 +2980,8 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="category" nicename="model"><![CDATA[Model]]></category>
 		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
@@ -3305,14 +3008,14 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[266]]></wp:meta_value>
+		<wp:meta_value><![CDATA[269]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
@@ -3358,14 +3061,14 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[271]]></wp:meta_value>
+		<wp:meta_value><![CDATA[274]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur aliquet quam id dui posuere blandit. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur aliquet quam id dui posuere blandit.]]></content:encoded>
@@ -3384,8 +3087,8 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
@@ -3410,14 +3113,14 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[305]]></wp:meta_value>
+		<wp:meta_value><![CDATA[307]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
-		<link>https://demo.afthemes.com/kreeti/wedding/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<link>https://demos.afthemes.com/kreeti/wedding/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.]]></content:encoded>
@@ -3463,10 +3166,10 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[273]]></wp:meta_value>
+		<wp:meta_value><![CDATA[279]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[Mahreen Shahzadi]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[mehrubriya@gmail.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>
@@ -3480,7 +3183,7 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[Mahreen Shahzadi]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[mehrubriya@gmail.com]]></wp:comment_author_email>
 			<wp:comment_author_url></wp:comment_author_url>

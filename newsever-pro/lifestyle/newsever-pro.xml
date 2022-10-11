@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-25 11:11" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-06 10:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,15 +27,15 @@
 
 <channel>
 	<title>Lifestyle Pro</title>
-	<link>https://demo.afthemes.com/newsever-pro/lifestyle</link>
-	<description>Just another Newsever Pro site</description>
-	<pubDate>Tue, 25 Jan 2022 11:11:54 +0000</pubDate>
+	<link>https://demos.afthemes.com/newsever-pro/lifestyle</link>
+	<description>Just another Newsever Pro Sites site</description>
+	<pubDate>Tue, 06 Sep 2022 10:07:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/newsever-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/newsever-pro/lifestyle</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/newsever-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/newsever-pro/lifestyle</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF themes]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -212,21 +212,21 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
+	<url>https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
 	<title>Lifestyle Pro</title>
-	<link>https://demo.afthemes.com/newsever-pro/lifestyle</link>
+	<link>https://demos.afthemes.com/newsever-pro/lifestyle</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[af-themes main dark]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/af-themes-main-dark/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/af-themes-main-dark/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:33 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/af-themes-main-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -245,14 +245,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:33:"2018/08/af-themes-main-dark-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:33:"af-themes-main-dark-1-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:33:"2018/08/af-themes-main-dark-1.png";s:8:"filesize";i:6498;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:33:"af-themes-main-dark-1-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31991;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12890;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -261,9 +261,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-af-themes-main-dark-png/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/cropped-af-themes-main-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/cropped-af-themes-main-dark.png]]></content:encoded>
@@ -282,14 +282,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:15:"newsever-medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:8:"filesize";i:16866;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46533;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13659;}s:15:"newsever-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x475.png";s:5:"width";i:512;s:6:"height";i:475;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20550;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -302,9 +302,9 @@
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_1CXI0CSPE5-(1)]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_1cxi0cspe5-1/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_1cxi0cspe5-1/</link>
 		<pubDate>Wed, 27 Feb 2019 15:52:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsquare/wp-content/uploads/sites/8/2018/07/StockSnap_1CXI0CSPE5-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -312,8 +312,8 @@
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-27 15:52:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-27 15:52:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 11:36:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 11:36:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-22 05:55:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-22 05:55:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_1cxi0cspe5-1]]></wp:post_name>
@@ -323,14 +323,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_1CXI0CSPE5-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_1CXI0CSPE5-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/StockSnap_1CXI0CSPE5-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:34:"2018/07/StockSnap_1CXI0CSPE5-1.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:34:"2018/07/StockSnap_1CXI0CSPE5-1.jpg";s:8:"filesize";i:1310609;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13729;}s:5:"large";a:5:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150476;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6018;}s:12:"medium_large";a:5:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85299;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:226748;}s:17:"newsever-featured";a:5:{s:4:"file";s:35:"StockSnap_1CXI0CSPE5-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150476;}s:15:"newsever-medium";a:5:{s:4:"file";s:34:"StockSnap_1CXI0CSPE5-1-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74779;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -339,9 +339,9 @@
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_MBA68WVPGZ]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_mba68wvpgz/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_mba68wvpgz/</link>
 		<pubDate>Wed, 27 Feb 2019 15:52:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsquare/wp-content/uploads/sites/8/2018/07/StockSnap_MBA68WVPGZ.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -349,8 +349,8 @@
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-27 15:52:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-27 15:52:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 11:36:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 11:36:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-22 05:55:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-22 05:55:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_mba68wvpgz]]></wp:post_name>
@@ -360,14 +360,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_MBA68WVPGZ.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_MBA68WVPGZ.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/StockSnap_MBA68WVPGZ.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:32:"2018/07/StockSnap_MBA68WVPGZ.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:32:"2018/07/StockSnap_MBA68WVPGZ.jpg";s:8:"filesize";i:743792;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7481;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47372;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4228;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29284;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70482;}s:17:"newsever-featured";a:5:{s:4:"file";s:33:"StockSnap_MBA68WVPGZ-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47372;}s:15:"newsever-medium";a:5:{s:4:"file";s:32:"StockSnap_MBA68WVPGZ-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26290;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -376,9 +376,9 @@
 							</item>
 					<item>
 		<title><![CDATA[StockSnap_ZY41T9GFX7]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_zy41t9gfx7/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/stocksnap_zy41t9gfx7/</link>
 		<pubDate>Wed, 27 Feb 2019 15:52:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsquare/wp-content/uploads/sites/8/2018/07/StockSnap_ZY41T9GFX7.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -386,8 +386,8 @@
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-27 15:52:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-27 15:52:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 11:36:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 11:36:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-22 05:55:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-22 05:55:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[stocksnap_zy41t9gfx7]]></wp:post_name>
@@ -397,14 +397,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_ZY41T9GFX7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/StockSnap_ZY41T9GFX7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/StockSnap_ZY41T9GFX7.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:997;s:4:"file";s:32:"2018/07/StockSnap_ZY41T9GFX7.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:997;s:4:"file";s:32:"2018/07/StockSnap_ZY41T9GFX7.jpg";s:8:"filesize";i:1165104;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10844;}s:5:"large";a:5:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87691;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5783;}s:12:"medium_large";a:5:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51700;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134081;}s:17:"newsever-featured";a:5:{s:4:"file";s:33:"StockSnap_ZY41T9GFX7-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87691;}s:15:"newsever-medium";a:5:{s:4:"file";s:32:"StockSnap_ZY41T9GFX7-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46034;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -413,9 +413,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_1CXI0CSPE5-1.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_1cxi0cspe5-1-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_1cxi0cspe5-1-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 10:54:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg]]></content:encoded>
@@ -434,14 +434,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:42:"2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:42:"2018/07/cropped-StockSnap_1CXI0CSPE5-1.jpg";s:8:"filesize";i:343268;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13137;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146385;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6039;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83098;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:228700;}s:17:"newsever-featured";a:5:{s:4:"file";s:43:"cropped-StockSnap_1CXI0CSPE5-1-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146385;}s:15:"newsever-medium";a:5:{s:4:"file";s:42:"cropped-StockSnap_1CXI0CSPE5-1-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75375;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -450,9 +450,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_MBA68WVPGZ.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_mba68wvpgz-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_mba68wvpgz-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 10:55:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2018/07/cropped-StockSnap_MBA68WVPGZ.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2018/07/cropped-StockSnap_MBA68WVPGZ.jpg]]></content:encoded>
@@ -471,14 +471,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_MBA68WVPGZ.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_MBA68WVPGZ.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-StockSnap_MBA68WVPGZ.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:40:"2018/07/cropped-StockSnap_MBA68WVPGZ.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:958;s:4:"file";s:40:"2018/07/cropped-StockSnap_MBA68WVPGZ.jpg";s:8:"filesize";i:107757;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-300x192.jpg";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7120;}s:5:"large";a:5:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46910;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4219;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28927;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74257;}s:17:"newsever-featured";a:5:{s:4:"file";s:41:"cropped-StockSnap_MBA68WVPGZ-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46910;}s:15:"newsever-medium";a:5:{s:4:"file";s:40:"cropped-StockSnap_MBA68WVPGZ-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26955;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -487,9 +487,9 @@
 							</item>
 					<item>
 		<title><![CDATA[female-fit-fitness-747963]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/female-fit-fitness-747963/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/female-fit-fitness-747963/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/female-fit-fitness-747963.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -508,21 +508,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/female-fit-fitness-747963.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/female-fit-fitness-747963.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/female-fit-fitness-747963.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:37:"2019/06/female-fit-fitness-747963.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:37:"female-fit-fitness-747963-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"female-fit-fitness-747963-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"female-fit-fitness-747963-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:38:"female-fit-fitness-747963-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:38:"female-fit-fitness-747963-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:37:"female-fit-fitness-747963-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:37:"2019/06/female-fit-fitness-747963.jpg";s:8:"filesize";i:262721;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:37:"female-fit-fitness-747963-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19819;}s:5:"large";a:5:{s:4:"file";s:38:"female-fit-fitness-747963-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143242;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7893;}s:12:"medium_large";a:5:{s:4:"file";s:37:"female-fit-fitness-747963-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93523;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:38:"female-fit-fitness-747963-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:195751;}s:17:"newsever-featured";a:5:{s:4:"file";s:38:"female-fit-fitness-747963-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143242;}s:15:"newsever-medium";a:5:{s:4:"file";s:37:"female-fit-fitness-747963-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76601;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[acro-yoga-active-balance-1882005]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/acro-yoga-active-balance-1882005/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/acro-yoga-active-balance-1882005/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/acro-yoga-active-balance-1882005.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -541,21 +541,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:44:"2019/06/acro-yoga-active-balance-1882005.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:44:"2019/06/acro-yoga-active-balance-1882005.jpg";s:8:"filesize";i:239285;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16565;}s:5:"large";a:5:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121898;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7768;}s:12:"medium_large";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77131;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189584;}s:17:"newsever-featured";a:5:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121898;}s:15:"newsever-medium";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69044;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[body-casual-daylight-802417]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/body-casual-daylight-802417/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/body-casual-daylight-802417/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/body-casual-daylight-802417.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -574,21 +574,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/body-casual-daylight-802417.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/body-casual-daylight-802417.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/body-casual-daylight-802417.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:840;s:4:"file";s:39:"2019/06/body-casual-daylight-802417.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:39:"body-casual-daylight-802417-300x197.jpg";s:5:"width";i:300;s:6:"height";i:197;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"body-casual-daylight-802417-1024x672.jpg";s:5:"width";i:1024;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:39:"body-casual-daylight-802417-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"body-casual-daylight-802417-768x504.jpg";s:5:"width";i:768;s:6:"height";i:504;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:40:"body-casual-daylight-802417-1024x672.jpg";s:5:"width";i:1024;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:39:"body-casual-daylight-802417-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:840;s:4:"file";s:39:"2019/06/body-casual-daylight-802417.jpg";s:8:"filesize";i:211567;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:39:"body-casual-daylight-802417-300x197.jpg";s:5:"width";i:300;s:6:"height";i:197;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13799;}s:5:"large";a:5:{s:4:"file";s:40:"body-casual-daylight-802417-1024x672.jpg";s:5:"width";i:1024;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97256;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"body-casual-daylight-802417-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6692;}s:12:"medium_large";a:5:{s:4:"file";s:39:"body-casual-daylight-802417-768x504.jpg";s:5:"width";i:768;s:6:"height";i:504;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60651;}s:17:"newsever-featured";a:5:{s:4:"file";s:40:"body-casual-daylight-802417-1024x672.jpg";s:5:"width";i:1024;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97256;}s:15:"newsever-medium";a:5:{s:4:"file";s:39:"body-casual-daylight-802417-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54787;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[active-beauty-body-868757]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/active-beauty-body-868757/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/active-beauty-body-868757/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/active-beauty-body-868757.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -607,21 +607,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-beauty-body-868757.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-beauty-body-868757.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/active-beauty-body-868757.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2019/06/active-beauty-body-868757.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:37:"active-beauty-body-868757-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"active-beauty-body-868757-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"active-beauty-body-868757-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"active-beauty-body-868757-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:38:"active-beauty-body-868757-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:38:"active-beauty-body-868757-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:37:"active-beauty-body-868757-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2019/06/active-beauty-body-868757.jpg";s:8:"filesize";i:155346;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:37:"active-beauty-body-868757-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15723;}s:5:"large";a:5:{s:4:"file";s:38:"active-beauty-body-868757-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86003;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"active-beauty-body-868757-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7234;}s:12:"medium_large";a:5:{s:4:"file";s:37:"active-beauty-body-868757-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58132;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:38:"active-beauty-body-868757-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121168;}s:17:"newsever-featured";a:5:{s:4:"file";s:38:"active-beauty-body-868757-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86003;}s:15:"newsever-medium";a:5:{s:4:"file";s:37:"active-beauty-body-868757-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52872;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[balance-fitness-girl-317155]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/balance-fitness-girl-317155/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/balance-fitness-girl-317155/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/balance-fitness-girl-317155.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -640,21 +640,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/balance-fitness-girl-317155.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/balance-fitness-girl-317155.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/balance-fitness-girl-317155.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:39:"2019/06/balance-fitness-girl-317155.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"balance-fitness-girl-317155-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"balance-fitness-girl-317155-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:39:"balance-fitness-girl-317155-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"balance-fitness-girl-317155-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:40:"balance-fitness-girl-317155-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:40:"balance-fitness-girl-317155-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:39:"balance-fitness-girl-317155-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:39:"2019/06/balance-fitness-girl-317155.jpg";s:8:"filesize";i:96730;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:39:"balance-fitness-girl-317155-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7585;}s:5:"large";a:5:{s:4:"file";s:40:"balance-fitness-girl-317155-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49648;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"balance-fitness-girl-317155-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4162;}s:12:"medium_large";a:5:{s:4:"file";s:39:"balance-fitness-girl-317155-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31073;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:40:"balance-fitness-girl-317155-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70242;}s:17:"newsever-featured";a:5:{s:4:"file";s:40:"balance-fitness-girl-317155-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49648;}s:15:"newsever-medium";a:5:{s:4:"file";s:39:"balance-fitness-girl-317155-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28112;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[exercise-fitness-mat-2294352]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/exercise-fitness-mat-2294352/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/exercise-fitness-mat-2294352/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/exercise-fitness-mat-2294352.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -673,21 +673,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/exercise-fitness-mat-2294352.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/exercise-fitness-mat-2294352.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/exercise-fitness-mat-2294352.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:915;s:4:"file";s:40:"2019/06/exercise-fitness-mat-2294352.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"exercise-fitness-mat-2294352-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1024x732.jpg";s:5:"width";i:1024;s:6:"height";i:732;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"exercise-fitness-mat-2294352-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"exercise-fitness-mat-2294352-768x549.jpg";s:5:"width";i:768;s:6:"height";i:549;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1024x732.jpg";s:5:"width";i:1024;s:6:"height";i:732;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"exercise-fitness-mat-2294352-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:915;s:4:"file";s:40:"2019/06/exercise-fitness-mat-2294352.jpg";s:8:"filesize";i:87540;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"exercise-fitness-mat-2294352-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8044;}s:5:"large";a:5:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1024x732.jpg";s:5:"width";i:1024;s:6:"height";i:732;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45719;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"exercise-fitness-mat-2294352-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4422;}s:12:"medium_large";a:5:{s:4:"file";s:40:"exercise-fitness-mat-2294352-768x549.jpg";s:5:"width";i:768;s:6:"height";i:549;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30242;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63620;}s:17:"newsever-featured";a:5:{s:4:"file";s:41:"exercise-fitness-mat-2294352-1024x732.jpg";s:5:"width";i:1024;s:6:"height";i:732;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45719;}s:15:"newsever-medium";a:5:{s:4:"file";s:40:"exercise-fitness-mat-2294352-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25788;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[active-activity-female-40974]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/active-activity-female-40974/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/active-activity-female-40974/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/active-activity-female-40974.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -706,21 +706,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-activity-female-40974.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-activity-female-40974.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/active-activity-female-40974.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2019/06/active-activity-female-40974.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"active-activity-female-40974-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"active-activity-female-40974-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"active-activity-female-40974-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"active-activity-female-40974-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"active-activity-female-40974-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"active-activity-female-40974-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"active-activity-female-40974-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2019/06/active-activity-female-40974.jpg";s:8:"filesize";i:75989;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"active-activity-female-40974-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7165;}s:5:"large";a:5:{s:4:"file";s:41:"active-activity-female-40974-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41124;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"active-activity-female-40974-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4307;}s:12:"medium_large";a:5:{s:4:"file";s:40:"active-activity-female-40974-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26836;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:41:"active-activity-female-40974-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61421;}s:17:"newsever-featured";a:5:{s:4:"file";s:41:"active-activity-female-40974-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41124;}s:15:"newsever-medium";a:5:{s:4:"file";s:40:"active-activity-female-40974-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24185;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[active-body-exercise-2294353]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/active-body-exercise-2294353/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/active-body-exercise-2294353/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/active-body-exercise-2294353.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -739,21 +739,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-body-exercise-2294353.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/active-body-exercise-2294353.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/active-body-exercise-2294353.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:40:"2019/06/active-body-exercise-2294353.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"active-body-exercise-2294353-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"active-body-exercise-2294353-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"active-body-exercise-2294353-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"active-body-exercise-2294353-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:41:"active-body-exercise-2294353-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:41:"active-body-exercise-2294353-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:40:"active-body-exercise-2294353-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:40:"2019/06/active-body-exercise-2294353.jpg";s:8:"filesize";i:62594;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"active-body-exercise-2294353-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5712;}s:5:"large";a:5:{s:4:"file";s:41:"active-body-exercise-2294353-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33320;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"active-body-exercise-2294353-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3187;}s:12:"medium_large";a:5:{s:4:"file";s:40:"active-body-exercise-2294353-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21699;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:41:"active-body-exercise-2294353-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48663;}s:17:"newsever-featured";a:5:{s:4:"file";s:41:"active-body-exercise-2294353-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33320;}s:15:"newsever-medium";a:5:{s:4:"file";s:40:"active-body-exercise-2294353-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19800;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[action-active-activity-2294355]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/action-active-activity-2294355/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/action-active-activity-2294355/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/action-active-activity-2294355.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -772,21 +772,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/action-active-activity-2294355.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/action-active-activity-2294355.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/action-active-activity-2294355.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:42:"2019/06/action-active-activity-2294355.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"action-active-activity-2294355-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"action-active-activity-2294355-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"action-active-activity-2294355-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"action-active-activity-2294355-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"action-active-activity-2294355-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"action-active-activity-2294355-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"action-active-activity-2294355-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:42:"2019/06/action-active-activity-2294355.jpg";s:8:"filesize";i:60101;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"action-active-activity-2294355-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5659;}s:5:"large";a:5:{s:4:"file";s:43:"action-active-activity-2294355-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32879;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"action-active-activity-2294355-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3049;}s:12:"medium_large";a:5:{s:4:"file";s:42:"action-active-activity-2294355-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21148;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:43:"action-active-activity-2294355-1280x845.jpg";s:5:"width";i:1280;s:6:"height";i:845;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46945;}s:17:"newsever-featured";a:5:{s:4:"file";s:43:"action-active-activity-2294355-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32879;}s:15:"newsever-medium";a:5:{s:4:"file";s:42:"action-active-activity-2294355-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19164;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-female-fit-fitness-747963.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-female-fit-fitness-747963-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-female-fit-fitness-747963-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 11:08:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-female-fit-fitness-747963.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-female-fit-fitness-747963.jpg]]></content:encoded>
@@ -805,14 +805,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:45:"2019/06/cropped-female-fit-fitness-747963.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:45:"2019/06/cropped-female-fit-fitness-747963.jpg";s:8:"filesize";i:194637;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17316;}s:5:"large";a:5:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127808;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8046;}s:12:"medium_large";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82840;}s:17:"newsever-featured";a:5:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127808;}s:15:"newsever-medium";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76621;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -821,9 +821,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-active-beauty-body-868757.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-active-beauty-body-868757-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-active-beauty-body-868757-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 11:08:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-active-beauty-body-868757.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-active-beauty-body-868757.jpg]]></content:encoded>
@@ -842,14 +842,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-active-beauty-body-868757.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-active-beauty-body-868757.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-active-beauty-body-868757.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:817;s:4:"file";s:45:"2019/06/cropped-active-beauty-body-868757.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:45:"cropped-active-beauty-body-868757-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"cropped-active-beauty-body-868757-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"cropped-active-beauty-body-868757-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"cropped-active-beauty-body-868757-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:46:"cropped-active-beauty-body-868757-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:45:"cropped-active-beauty-body-868757-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:817;s:4:"file";s:45:"2019/06/cropped-active-beauty-body-868757.jpg";s:8:"filesize";i:119370;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-active-beauty-body-868757-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15305;}s:5:"large";a:5:{s:4:"file";s:46:"cropped-active-beauty-body-868757-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83759;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"cropped-active-beauty-body-868757-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7195;}s:12:"medium_large";a:5:{s:4:"file";s:45:"cropped-active-beauty-body-868757-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56775;}s:17:"newsever-featured";a:5:{s:4:"file";s:46:"cropped-active-beauty-body-868757-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83759;}s:15:"newsever-medium";a:5:{s:4:"file";s:45:"cropped-active-beauty-body-868757-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52581;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -858,9 +858,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-active-activity-female-40974.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-active-activity-female-40974-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-active-activity-female-40974-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 11:08:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-active-activity-female-40974.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-active-activity-female-40974.jpg]]></content:encoded>
@@ -879,14 +879,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-active-activity-female-40974.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-active-activity-female-40974.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-active-activity-female-40974.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:817;s:4:"file";s:48:"2019/06/cropped-active-activity-female-40974.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:48:"cropped-active-activity-female-40974-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"cropped-active-activity-female-40974-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"cropped-active-activity-female-40974-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"cropped-active-activity-female-40974-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:49:"cropped-active-activity-female-40974-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:48:"cropped-active-activity-female-40974-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:817;s:4:"file";s:48:"2019/06/cropped-active-activity-female-40974.jpg";s:8:"filesize";i:61204;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:48:"cropped-active-activity-female-40974-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7022;}s:5:"large";a:5:{s:4:"file";s:49:"cropped-active-activity-female-40974-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40906;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"cropped-active-activity-female-40974-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4324;}s:12:"medium_large";a:5:{s:4:"file";s:48:"cropped-active-activity-female-40974-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26710;}s:17:"newsever-featured";a:5:{s:4:"file";s:49:"cropped-active-activity-female-40974-1024x654.jpg";s:5:"width";i:1024;s:6:"height";i:654;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40906;}s:15:"newsever-medium";a:5:{s:4:"file";s:48:"cropped-active-activity-female-40974-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25225;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -895,9 +895,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-body-casual-daylight-802417.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-body-casual-daylight-802417-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-body-casual-daylight-802417-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 11:09:05 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-body-casual-daylight-802417.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-body-casual-daylight-802417.jpg]]></content:encoded>
@@ -916,14 +916,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-body-casual-daylight-802417.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2019/06/cropped-body-casual-daylight-802417.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-body-casual-daylight-802417.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:47:"2019/06/cropped-body-casual-daylight-802417.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:48:"cropped-body-casual-daylight-802417-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:48:"cropped-body-casual-daylight-802417-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:47:"2019/06/cropped-body-casual-daylight-802417.jpg";s:8:"filesize";i:153647;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13259;}s:5:"large";a:5:{s:4:"file";s:48:"cropped-body-casual-daylight-802417-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95472;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6693;}s:12:"medium_large";a:5:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59348;}s:17:"newsever-featured";a:5:{s:4:"file";s:48:"cropped-body-casual-daylight-802417-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95472;}s:15:"newsever-medium";a:5:{s:4:"file";s:47:"cropped-body-casual-daylight-802417-720x475.jpg";s:5:"width";i:720;s:6:"height";i:475;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54491;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -932,9 +932,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/facebook/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/facebook/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -959,10 +959,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
@@ -971,16 +967,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -989,9 +977,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/twitter/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/twitter/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1016,10 +1004,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
@@ -1028,16 +1012,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1046,9 +1022,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/youtube/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/youtube/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1073,10 +1049,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
@@ -1085,16 +1057,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1103,9 +1067,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/instagram/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/instagram/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1130,10 +1094,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[47]]></wp:meta_value>
 		</wp:postmeta>
@@ -1142,16 +1102,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1160,9 +1112,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Linkedin]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/linkedin/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/linkedin/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1187,10 +1139,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[48]]></wp:meta_value>
 		</wp:postmeta>
@@ -1199,16 +1147,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1217,9 +1157,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/51/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/51/</link>
 		<pubDate>Wed, 18 Jul 2018 12:09:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1244,10 +1184,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
@@ -1256,27 +1192,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/60/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/60/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[Exclusive]]></content:encoded>
@@ -1301,10 +1225,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
@@ -1313,27 +1233,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/61/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/61/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1358,10 +1266,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1370,27 +1274,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/62/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/62/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1427,27 +1319,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/63/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/63/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1472,10 +1352,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
@@ -1484,27 +1360,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/64/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/64/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=64</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1541,27 +1405,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/65/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/65/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=65</guid>
 		<description></description>
 		<content:encoded><![CDATA[Schedule]]></content:encoded>
@@ -1586,10 +1438,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
@@ -1598,27 +1446,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/66/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/66/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[New]]></content:encoded>
@@ -1655,27 +1491,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/67/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/67/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1712,27 +1536,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/83/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/83/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/83/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1757,10 +1569,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
@@ -1769,27 +1577,15 @@
 		<wp:meta_value><![CDATA[post_format]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/86/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/86/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:37 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/86/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1814,10 +1610,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
@@ -1826,27 +1618,15 @@
 		<wp:meta_value><![CDATA[post_format]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/home/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/home/</link>
 		<pubDate>Mon, 30 Jul 2018 13:27:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1871,10 +1651,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[91]]></wp:meta_value>
 		</wp:postmeta>
@@ -1883,16 +1659,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1901,9 +1669,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/97/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/97/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/97/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1928,10 +1696,6 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
@@ -1940,84 +1704,15 @@
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/98/</link>
-		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/98/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[98]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-StockSnap_ZY41T9GFX7-1.jpg]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_zy41t9gfx7-1-jpg/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_zy41t9gfx7-1-jpg/</link>
 		<pubDate>Thu, 05 Sep 2019 10:58:32 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2036,14 +1731,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-StockSnap_ZY41T9GFX7-1-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"newsever-slider-full";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1280x400.jpg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:17:"newsever-featured";a:4:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";}s:15:"newsever-medium";a:4:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-720x400.jpg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2018/07/cropped-StockSnap_ZY41T9GFX7-1.jpg";s:8:"filesize";i:77337;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-StockSnap_ZY41T9GFX7-1-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4473;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32869;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4511;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19589;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1280x400.jpg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68597;}s:17:"newsever-featured";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32869;}s:15:"newsever-medium";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-720x400.jpg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40705;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -2063,11 +1758,48 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[cropped-StockSnap_ZY41T9GFX7-1]]></title>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/cropped-stocksnap_zy41t9gfx7-1/</link>
+		<pubDate>Fri, 22 Jul 2022 05:55:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2022/07/cropped-StockSnap_ZY41T9GFX7-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-22 05:55:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-22 05:55:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-22 05:55:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-22 05:55:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-stocksnap_zy41t9gfx7-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/newsever-pro/lifestyle/wp-content/uploads/sites/8/2022/07/cropped-StockSnap_ZY41T9GFX7-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-StockSnap_ZY41T9GFX7-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:400;s:4:"file";s:42:"2022/07/cropped-StockSnap_ZY41T9GFX7-1.jpg";s:8:"filesize";i:77337;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-StockSnap_ZY41T9GFX7-1-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4473;}s:5:"large";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32869;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4511;}s:12:"medium_large";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19589;}s:20:"newsever-slider-full";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1280x400.jpg";s:5:"width";i:1280;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68597;}s:17:"newsever-featured";a:5:{s:4:"file";s:43:"cropped-StockSnap_ZY41T9GFX7-1-1024x273.jpg";s:5:"width";i:1024;s:6:"height";i:273;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32869;}s:15:"newsever-medium";a:5:{s:4:"file";s:42:"cropped-StockSnap_ZY41T9GFX7-1-720x400.jpg";s:5:"width";i:720;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40705;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[newsever-pro]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/sample-page/</link>
-		<pubDate>Sat, 02 May 2020 11:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/lifestyle/?page_id=2</guid>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/sample-page/</link>
+		<pubDate>Fri, 22 Jul 2022 05:54:03 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/newsever-pro/lifestyle/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -2086,14 +1818,14 @@
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/newsever-pro/lifestyle/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/newsever-pro/lifestyle/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-02 11:30:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-02 11:30:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 11:30:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 11:30:22]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-22 05:54:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-22 05:54:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-22 05:54:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-22 05:54:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2110,9 +1842,9 @@
 							</item>
 					<item>
 		<title><![CDATA[The full story of Thailand’s extraordinary cave rescue]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2161,9 +1893,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2207,9 +1939,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2258,9 +1990,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2317,9 +2049,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[The man who saved thousands of people from HIV]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2344,14 +2076,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[181]]></wp:meta_value>
 		</wp:postmeta>
@@ -2382,9 +2106,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2411,14 +2135,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[186]]></wp:meta_value>
 		</wp:postmeta>
@@ -2445,9 +2161,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA['Somebody threatened to burn the school down']]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2474,14 +2190,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
@@ -2513,20 +2221,12 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Trump-Putin: Your toolkit to help understand the story]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. &nbsp;Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2550,14 +2250,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[179]]></wp:meta_value>
 		</wp:postmeta>
@@ -2588,9 +2280,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Business booming for giant cargo planes]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -2614,14 +2306,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[187]]></wp:meta_value>
 		</wp:postmeta>
@@ -2651,75 +2335,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
-		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
-
-Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[184]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[43]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/</link>
 		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?page_id=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2769,9 +2388,50 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/99/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/98/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/98/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>98</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-30 13:53:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-30 13:53:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-30 13:53:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[98]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/99/</link>
+		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/99/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2796,10 +2456,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
@@ -2808,27 +2464,15 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/100/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/100/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/100/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2853,10 +2497,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
@@ -2865,27 +2505,15 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/blog/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/blog/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?page_id=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2915,9 +2543,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/07/30/111/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/30/111/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/111/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2942,10 +2570,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[108]]></wp:meta_value>
 		</wp:postmeta>
@@ -2954,27 +2578,15 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/2018/08/02/all-demos/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/08/02/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 03:37:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?p=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2982,8 +2594,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-02 03:37:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:37:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-13 12:21:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-13 12:21:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-08-02 03:37:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-02 03:37:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -2999,10 +2611,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[122]]></wp:meta_value>
 		</wp:postmeta>
@@ -3011,16 +2619,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -3029,9 +2629,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/?page_id=145</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/?page_id=145</link>
 		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Who we are</h2><p>Our website address is: https://demo.afthemes.com/covernews.</p><h2>What personal data we collect and why we collect it</h2><h3>Comments</h3><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h3>Media</h3><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h3>Contact forms</h3><h3>Cookies</h3><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h3>Embedded content from other websites</h3><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><h3>Analytics</h3><h2>Who we share your data with</h2><h2>How long we retain your data</h2><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2>What rights you have over your data</h2><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2>Where we send your data</h2><p>Visitor comments may be checked through an automated spam detection service.</p><h2>Your contact information</h2><h2>Additional information</h2><h3>How we protect your data</h3><h3>What data breach procedures we have in place</h3><h3>What third parties we receive data from</h3><h3>What automated decision making and/or profiling we do with user data</h3><h3>Industry regulatory disclosure requirements</h3>]]></content:encoded>
@@ -3057,9 +2657,55 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/newsever-pro/lifestyle/sample-page-2/</link>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/sample-page-2/</link>
+		<pubDate>Sat, 02 May 2020 11:30:22 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/lifestyle/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/newsever-pro/lifestyle/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-02 11:30:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-02 11:30:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-05-02 11:30:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-05-02 11:30:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/sample-page-2-2/</link>
 		<pubDate>Thu, 29 Aug 2019 08:24:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/lifestyle/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3089,7 +2735,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_modified_gmt><![CDATA[2019-08-29 08:24:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
+		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -3099,6 +2745,63 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
+		<link>https://demos.afthemes.com/newsever-pro/lifestyle/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
+
+Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  ]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[184]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

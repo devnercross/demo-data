@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-06-10 08:11" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-02 07:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Fitness Magazine</title>
-	<link>https://demo.afthemes.com/morenews-pro/fitness-magazine</link>
+	<title>Fitness Magazine Pro</title>
+	<link>https://demos.afthemes.com/morenews-pro/fitness-magazine</link>
 	<description>Just another MoreNews Pro Sites site</description>
-	<pubDate>Thu, 10 Jun 2021 08:11:55 +0000</pubDate>
+	<pubDate>Fri, 02 Sep 2022 07:11:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/morenews-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/morenews-pro/fitness-magazine</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/morenews-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/morenews-pro/fitness-magazine</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
@@ -212,19 +212,19 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
-	<title>Fitness Magazine</title>
-	<link>https://demo.afthemes.com/morenews-pro/fitness-magazine</link>
+	<url>https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
+	<title>Fitness Magazine Pro</title>
+	<link>https://demos.afthemes.com/morenews-pro/fitness-magazine</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/facebook/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/facebook/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=44</guid>
@@ -235,7 +235,7 @@
 		<wp:post_date><![CDATA[2021-05-28 08:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2021-05-28 08:13:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 08:13:45]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -267,25 +267,13 @@
 		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/twitter/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/twitter/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=45</guid>
@@ -296,7 +284,7 @@
 		<wp:post_date><![CDATA[2021-05-28 08:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2021-05-28 08:13:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 08:13:45]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[twitter]]></wp:post_name>
@@ -328,25 +316,13 @@
 		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/51/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/51/</link>
 		<pubDate>Wed, 18 Jul 2018 12:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=51</guid>
@@ -387,7 +363,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/83/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/83/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:00 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/83/</guid>
@@ -428,7 +404,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/86/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/86/</link>
 		<pubDate>Mon, 30 Jul 2018 13:23:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/86/</guid>
@@ -469,7 +445,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/97/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/97/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/97/</guid>
@@ -510,7 +486,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/98/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/98/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/98/</guid>
@@ -551,7 +527,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/99/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/99/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/99/</guid>
@@ -592,7 +568,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/100/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/30/100/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/100/</guid>
@@ -633,7 +609,7 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/cropped-af-themes-main-dark-png/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:52 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/cropped-af-themes-main-dark.png</guid>
@@ -654,14 +630,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:15:"morenews-medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x410.png";s:5:"width";i:512;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:8:"filesize";i:16866;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46533;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13659;}s:15:"morenews-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x410.png";s:5:"width";i:512;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17866;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -674,7 +650,7 @@
 							</item>
 					<item>
 		<title><![CDATA[acro-yoga-active-balance-1882005]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/acro-yoga-active-balance-1882005/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/acro-yoga-active-balance-1882005/</link>
 		<pubDate>Tue, 25 Jun 2019 11:02:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/acro-yoga-active-balance-1882005.jpg</guid>
@@ -695,19 +671,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/acro-yoga-active-balance-1882005.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:44:"2019/06/acro-yoga-active-balance-1882005.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:44:"2019/06/acro-yoga-active-balance-1882005.jpg";s:8:"filesize";i:239285;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16565;}s:5:"large";a:5:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121898;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7768;}s:12:"medium_large";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77131;}s:17:"morenews-featured";a:5:{s:4:"file";s:45:"acro-yoga-active-balance-1882005-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121898;}s:14:"morenews-large";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90449;}s:15:"morenews-medium";a:5:{s:4:"file";s:44:"acro-yoga-active-balance-1882005-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52709;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-female-fit-fitness-747963.jpg]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/cropped-female-fit-fitness-747963-jpg/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/cropped-female-fit-fitness-747963-jpg/</link>
 		<pubDate>Tue, 25 Jun 2019 11:08:08 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/lifestyle/wp-content/uploads/sites/7/2019/06/cropped-female-fit-fitness-747963.jpg</guid>
@@ -728,14 +704,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-female-fit-fitness-747963.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:45:"2019/06/cropped-female-fit-fitness-747963.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:816;s:4:"file";s:45:"2019/06/cropped-female-fit-fitness-747963.jpg";s:8:"filesize";i:194637;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17316;}s:5:"large";a:5:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127808;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8046;}s:12:"medium_large";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-768x490.jpg";s:5:"width";i:768;s:6:"height";i:490;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82840;}s:17:"morenews-featured";a:5:{s:4:"file";s:46:"cropped-female-fit-fitness-747963-1024x653.jpg";s:5:"width";i:1024;s:6:"height";i:653;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127808;}s:14:"morenews-large";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98560;}s:15:"morenews-medium";a:5:{s:4:"file";s:45:"cropped-female-fit-fitness-747963-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58322;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -748,7 +724,7 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-ketut-subiyanto-5000455]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/pexels-ketut-subiyanto-5000455/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/pexels-ketut-subiyanto-5000455/</link>
 		<pubDate>Thu, 03 Jun 2021 10:07:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5000455.jpg</guid>
@@ -758,8 +734,8 @@
 		<wp:post_id>254</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:07:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:07:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:07:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:07:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-ketut-subiyanto-5000455]]></wp:post_name>
@@ -769,19 +745,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5000455.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5000455.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-ketut-subiyanto-5000455.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/07/pexels-ketut-subiyanto-5000455.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"pexels-ketut-subiyanto-5000455-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:43:"pexels-ketut-subiyanto-5000455-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/07/pexels-ketut-subiyanto-5000455.jpg";s:8:"filesize";i:120981;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11400;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-ketut-subiyanto-5000455-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66310;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5601;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43563;}s:17:"morenews-featured";a:5:{s:4:"file";s:43:"pexels-ketut-subiyanto-5000455-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66310;}s:14:"morenews-large";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49861;}s:15:"morenews-medium";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5000455-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30681;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-cliff-booth-4058411]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/business-booming-for-giant-cargo-planes/pexels-cliff-booth-4058411/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/business-booming-for-giant-cargo-planes/pexels-cliff-booth-4058411/</link>
 		<pubDate>Thu, 03 Jun 2021 10:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-cliff-booth-4058411.jpg</guid>
@@ -791,8 +767,8 @@
 		<wp:post_id>256</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:07:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:07:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-cliff-booth-4058411]]></wp:post_name>
@@ -802,19 +778,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-cliff-booth-4058411.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-cliff-booth-4058411.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-cliff-booth-4058411.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:38:"2018/07/pexels-cliff-booth-4058411.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:38:"pexels-cliff-booth-4058411-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:39:"pexels-cliff-booth-4058411-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:38:"pexels-cliff-booth-4058411-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"pexels-cliff-booth-4058411-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:39:"pexels-cliff-booth-4058411-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:38:"pexels-cliff-booth-4058411-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:38:"pexels-cliff-booth-4058411-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:38:"2018/07/pexels-cliff-booth-4058411.jpg";s:8:"filesize";i:126665;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:38:"pexels-cliff-booth-4058411-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12595;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-cliff-booth-4058411-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71968;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-cliff-booth-4058411-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6587;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-cliff-booth-4058411-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48066;}s:17:"morenews-featured";a:5:{s:4:"file";s:39:"pexels-cliff-booth-4058411-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71968;}s:14:"morenews-large";a:5:{s:4:"file";s:38:"pexels-cliff-booth-4058411-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55095;}s:15:"morenews-medium";a:5:{s:4:"file";s:38:"pexels-cliff-booth-4058411-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33695;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-elly-fairytale-3822365]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/pexels-elly-fairytale-3822365/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/pexels-elly-fairytale-3822365/</link>
 		<pubDate>Thu, 03 Jun 2021 10:08:35 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-elly-fairytale-3822365.jpg</guid>
@@ -824,8 +800,8 @@
 		<wp:post_id>258</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:08:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:08:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:08:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:08:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-elly-fairytale-3822365]]></wp:post_name>
@@ -835,19 +811,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-elly-fairytale-3822365.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-elly-fairytale-3822365.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-elly-fairytale-3822365.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/07/pexels-elly-fairytale-3822365.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"pexels-elly-fairytale-3822365-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:42:"pexels-elly-fairytale-3822365-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/07/pexels-elly-fairytale-3822365.jpg";s:8:"filesize";i:155064;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11359;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-elly-fairytale-3822365-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80630;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5169;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50208;}s:17:"morenews-featured";a:5:{s:4:"file";s:42:"pexels-elly-fairytale-3822365-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80630;}s:14:"morenews-large";a:5:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58025;}s:15:"morenews-medium";a:5:{s:4:"file";s:41:"pexels-elly-fairytale-3822365-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34032;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-ketut-subiyanto-5039659]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/somebody-threatened-to-burn-the-school-down/pexels-ketut-subiyanto-5039659/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/somebody-threatened-to-burn-the-school-down/pexels-ketut-subiyanto-5039659/</link>
 		<pubDate>Thu, 03 Jun 2021 10:55:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5039659.jpg</guid>
@@ -857,8 +833,8 @@
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:55:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:55:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:55:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:55:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-ketut-subiyanto-5039659]]></wp:post_name>
@@ -868,19 +844,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5039659.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-ketut-subiyanto-5039659.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-ketut-subiyanto-5039659.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/07/pexels-ketut-subiyanto-5039659.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"pexels-ketut-subiyanto-5039659-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:43:"pexels-ketut-subiyanto-5039659-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/07/pexels-ketut-subiyanto-5039659.jpg";s:8:"filesize";i:193523;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12266;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-ketut-subiyanto-5039659-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102206;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5780;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62646;}s:17:"morenews-featured";a:5:{s:4:"file";s:43:"pexels-ketut-subiyanto-5039659-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102206;}s:14:"morenews-large";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73216;}s:15:"morenews-medium";a:5:{s:4:"file";s:42:"pexels-ketut-subiyanto-5039659-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41898;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mentatdgt-1111304]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/pexels-mentatdgt-1111304/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/pexels-mentatdgt-1111304/</link>
 		<pubDate>Thu, 03 Jun 2021 10:56:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-mentatdgt-1111304.jpg</guid>
@@ -890,8 +866,8 @@
 		<wp:post_id>262</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:56:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:56:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:56:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:56:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-mentatdgt-1111304]]></wp:post_name>
@@ -901,19 +877,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-mentatdgt-1111304.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-mentatdgt-1111304.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-mentatdgt-1111304.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:36:"2018/07/pexels-mentatdgt-1111304.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:36:"pexels-mentatdgt-1111304-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:37:"pexels-mentatdgt-1111304-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"pexels-mentatdgt-1111304-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:36:"pexels-mentatdgt-1111304-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:37:"pexels-mentatdgt-1111304-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:36:"pexels-mentatdgt-1111304-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:36:"pexels-mentatdgt-1111304-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:36:"2018/07/pexels-mentatdgt-1111304.jpg";s:8:"filesize";i:170593;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:36:"pexels-mentatdgt-1111304-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16119;}s:5:"large";a:5:{s:4:"file";s:37:"pexels-mentatdgt-1111304-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93420;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"pexels-mentatdgt-1111304-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7743;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-mentatdgt-1111304-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61888;}s:17:"morenews-featured";a:5:{s:4:"file";s:37:"pexels-mentatdgt-1111304-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93420;}s:14:"morenews-large";a:5:{s:4:"file";s:36:"pexels-mentatdgt-1111304-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70448;}s:15:"morenews-medium";a:5:{s:4:"file";s:36:"pexels-mentatdgt-1111304-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44020;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-andrea-piacquadio-3836880]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/pexels-andrea-piacquadio-3836880/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/pexels-andrea-piacquadio-3836880/</link>
 		<pubDate>Thu, 03 Jun 2021 10:57:14 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3836880.jpg</guid>
@@ -923,8 +899,8 @@
 		<wp:post_id>264</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:57:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:57:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:57:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:57:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-andrea-piacquadio-3836880]]></wp:post_name>
@@ -934,19 +910,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3836880.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3836880.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-andrea-piacquadio-3836880.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:911;s:4:"file";s:44:"2018/07/pexels-andrea-piacquadio-3836880.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"pexels-andrea-piacquadio-3836880-1024x729.jpg";s:5:"width";i:1024;s:6:"height";i:729;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-768x547.jpg";s:5:"width";i:768;s:6:"height";i:547;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:45:"pexels-andrea-piacquadio-3836880-1024x729.jpg";s:5:"width";i:1024;s:6:"height";i:729;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:911;s:4:"file";s:44:"2018/07/pexels-andrea-piacquadio-3836880.jpg";s:8:"filesize";i:118621;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13088;}s:5:"large";a:5:{s:4:"file";s:45:"pexels-andrea-piacquadio-3836880-1024x729.jpg";s:5:"width";i:1024;s:6:"height";i:729;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69822;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6067;}s:12:"medium_large";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-768x547.jpg";s:5:"width";i:768;s:6:"height";i:547;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47039;}s:17:"morenews-featured";a:5:{s:4:"file";s:45:"pexels-andrea-piacquadio-3836880-1024x729.jpg";s:5:"width";i:1024;s:6:"height";i:729;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69822;}s:14:"morenews-large";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50828;}s:15:"morenews-medium";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3836880-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31924;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-andrea-piacquadio-3764154]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/all-you-need-to-know-about-penalty-shootouts/pexels-andrea-piacquadio-3764154/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/all-you-need-to-know-about-penalty-shootouts/pexels-andrea-piacquadio-3764154/</link>
 		<pubDate>Thu, 03 Jun 2021 10:58:44 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3764154.jpg</guid>
@@ -956,8 +932,8 @@
 		<wp:post_id>266</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 10:58:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 10:58:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:58:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:58:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-andrea-piacquadio-3764154]]></wp:post_name>
@@ -967,19 +943,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3764154.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-andrea-piacquadio-3764154.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-andrea-piacquadio-3764154.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:44:"2018/07/pexels-andrea-piacquadio-3764154.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"pexels-andrea-piacquadio-3764154-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:45:"pexels-andrea-piacquadio-3764154-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:44:"2018/07/pexels-andrea-piacquadio-3764154.jpg";s:8:"filesize";i:127995;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12240;}s:5:"large";a:5:{s:4:"file";s:45:"pexels-andrea-piacquadio-3764154-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73908;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5793;}s:12:"medium_large";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48533;}s:17:"morenews-featured";a:5:{s:4:"file";s:45:"pexels-andrea-piacquadio-3764154-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73908;}s:14:"morenews-large";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54919;}s:15:"morenews-medium";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-3764154-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33876;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-416778]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/pexels-pixabay-416778/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/pexels-pixabay-416778/</link>
 		<pubDate>Thu, 03 Jun 2021 11:02:07 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-pixabay-416778.jpg</guid>
@@ -989,8 +965,8 @@
 		<wp:post_id>269</wp:post_id>
 		<wp:post_date><![CDATA[2021-06-03 11:02:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-03 11:02:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 11:02:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 11:02:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:33:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-pixabay-416778]]></wp:post_name>
@@ -1000,19 +976,19 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-pixabay-416778.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-content/uploads/sites/9/2018/07/pexels-pixabay-416778.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/07/pexels-pixabay-416778.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2018/07/pexels-pixabay-416778.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:33:"pexels-pixabay-416778-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-pixabay-416778-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-pixabay-416778-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-pixabay-416778-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"morenews-featured";a:4:{s:4:"file";s:34:"pexels-pixabay-416778-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"morenews-large";a:4:{s:4:"file";s:33:"pexels-pixabay-416778-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"morenews-medium";a:4:{s:4:"file";s:33:"pexels-pixabay-416778-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2018/07/pexels-pixabay-416778.jpg";s:8:"filesize";i:104790;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:33:"pexels-pixabay-416778-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7978;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-pixabay-416778-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56126;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-pixabay-416778-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4158;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-pixabay-416778-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34539;}s:17:"morenews-featured";a:5:{s:4:"file";s:34:"pexels-pixabay-416778-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56126;}s:14:"morenews-large";a:5:{s:4:"file";s:33:"pexels-pixabay-416778-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40994;}s:15:"morenews-medium";a:5:{s:4:"file";s:33:"pexels-pixabay-416778-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23602;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/youtube/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/youtube/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=46</guid>
@@ -1023,7 +999,7 @@
 		<wp:post_date><![CDATA[2021-05-28 08:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2021-05-28 08:13:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 08:13:45]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[youtube]]></wp:post_name>
@@ -1055,25 +1031,13 @@
 		<wp:meta_value><![CDATA[https://youtube.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/instagram/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/instagram/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=47</guid>
@@ -1084,7 +1048,7 @@
 		<wp:post_date><![CDATA[2021-05-28 08:14:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2021-05-28 08:14:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 08:14:16]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[instagram]]></wp:post_name>
@@ -1116,25 +1080,13 @@
 		<wp:meta_value><![CDATA[https://instagram.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Linkedin]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/linkedin/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/linkedin/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=48</guid>
@@ -1145,7 +1097,7 @@
 		<wp:post_date><![CDATA[2021-05-28 08:13:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2021-05-28 08:13:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 08:13:45]]></wp:post_modified_gmt>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
@@ -1177,25 +1129,13 @@
 		<wp:meta_value><![CDATA[https://linkedin.com]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/60/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/60/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=60</guid>
@@ -1203,10 +1143,10 @@
 		<content:encoded><![CDATA[Exclusive]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[60]]></wp:post_name>
@@ -1234,6 +1174,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1251,12 +1195,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/61/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/61/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=61</guid>
@@ -1264,10 +1208,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[61]]></wp:post_name>
@@ -1295,6 +1239,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1312,12 +1260,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/62/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/62/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=62</guid>
@@ -1325,10 +1273,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[62]]></wp:post_name>
@@ -1360,6 +1308,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1373,12 +1325,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/63/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/63/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=63</guid>
@@ -1386,10 +1338,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -1417,6 +1369,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1434,12 +1390,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/64/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/64/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=64</guid>
@@ -1447,10 +1403,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[64]]></wp:post_name>
@@ -1482,6 +1438,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1495,12 +1455,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/65/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/65/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=65</guid>
@@ -1508,10 +1468,10 @@
 		<content:encoded><![CDATA[Schedule]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[65]]></wp:post_name>
@@ -1539,6 +1499,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1556,12 +1520,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/66/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/66/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=66</guid>
@@ -1569,10 +1533,10 @@
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[66]]></wp:post_name>
@@ -1604,6 +1568,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1617,12 +1585,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/67/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/67/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=67</guid>
@@ -1630,10 +1598,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[67]]></wp:post_name>
@@ -1665,6 +1633,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1678,12 +1650,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/home/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/home/</link>
 		<pubDate>Mon, 30 Jul 2018 13:27:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/home/</guid>
@@ -1691,10 +1663,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>91</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 13:27:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1726,6 +1698,10 @@
 		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1739,12 +1715,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/111/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/111/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:58 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/111/</guid>
@@ -1752,10 +1728,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 14:02:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[111]]></wp:post_name>
@@ -1783,6 +1759,10 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-07-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1800,12 +1780,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-07-30]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/all-demos/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 03:37:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?p=122</guid>
@@ -1813,10 +1793,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:37:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1844,8 +1824,8 @@
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
@@ -1860,13 +1840,17 @@
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[TikTok]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/tiktok/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/tiktok/</link>
 		<pubDate>Fri, 28 May 2021 08:13:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/05/28/tiktok/</guid>
@@ -1893,10 +1877,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[250]]></wp:meta_value>
 		</wp:postmeta>
@@ -1905,16 +1885,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1923,7 +1895,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Morenews]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/morenews/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/morenews/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=271</guid>
@@ -1931,10 +1903,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>271</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[morenews]]></wp:post_name>
@@ -1962,25 +1934,29 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/sport-2/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/sport-2/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=272</guid>
@@ -1988,10 +1964,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>272</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport-2]]></wp:post_name>
@@ -2019,25 +1995,29 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/dark/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/dark/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/fashion-3/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/fashion-3/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=273</guid>
@@ -2045,10 +2025,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>273</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-3]]></wp:post_name>
@@ -2076,25 +2056,29 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/fashion/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Classic]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/classic/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/classic/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=274</guid>
@@ -2102,10 +2086,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>274</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic]]></wp:post_name>
@@ -2133,25 +2117,29 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/classic/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Food Recipe]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/food-recipe/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/food-recipe/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=275</guid>
@@ -2159,10 +2147,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[food-recipe]]></wp:post_name>
@@ -2190,89 +2178,32 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/food-recipe/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/food-recipe/]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=1</link>
-		<pubDate>Wed, 26 May 2021 04:37:35 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://demo.afthemes.com/morenews-pro/">MoreNews Pro Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-26 04:37:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-26 04:37:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-28 07:28:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-28 07:28:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1622186937]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://demo.afthemes.com/morenews-pro/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-05-26 04:37:35]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-05-26 04:37:35]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/sample-page/</link>
-		<pubDate>Wed, 26 May 2021 04:37:35 +0000</pubDate>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/sample-page/</link>
+		<pubDate>Thu, 14 Jul 2022 09:32:36 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?page_id=2</guid>
+		<guid isPermaLink="false">https://demos.afthemes.com/morenews-pro/fitness-magazine/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -2291,14 +2222,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/morenews-pro/fitness-magazine/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-05-26 04:37:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-05-26 04:37:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-26 04:37:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-26 04:37:35]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-14 09:32:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-14 09:32:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-14 09:32:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-14 09:32:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -2315,7 +2246,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title><![CDATA[The full story of Thailand’s extraordinary cave rescue]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=6</guid>
@@ -2329,8 +2260,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:03:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 11:02:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 11:02:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:03:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:03:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -2353,7 +2284,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2378,7 +2309,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=9</guid>
@@ -2392,8 +2323,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 11:01:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 11:01:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:07:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -2411,7 +2342,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[141]]></wp:meta_value>
+		<wp:meta_value><![CDATA[155]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2433,18 +2364,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=12</guid>
@@ -2486,7 +2409,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[178]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2495,7 +2418,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=15</guid>
@@ -2509,8 +2432,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:16:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 11:00:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 11:00:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:16:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:16:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -2541,7 +2464,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[114]]></wp:meta_value>
+		<wp:meta_value><![CDATA[130]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2566,7 +2489,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[The man who saved thousands of people from HIV]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=18</guid>
@@ -2578,8 +2501,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:24:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:57:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:57:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:24:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:24:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -2610,7 +2533,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[124]]></wp:meta_value>
+		<wp:meta_value><![CDATA[138]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2635,7 +2558,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=21</guid>
@@ -2649,8 +2572,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:26:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:56:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:56:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:26:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:26:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -2677,7 +2600,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2702,7 +2625,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA['Somebody threatened to burn the school down']]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=24</guid>
@@ -2716,8 +2639,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:38:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:56:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:56:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:38:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:38:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
@@ -2748,7 +2671,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[127]]></wp:meta_value>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2777,7 +2700,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Trump-Putin: Your toolkit to help understand the story]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=27</guid>
@@ -2789,8 +2712,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:41:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:08:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:08:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:41:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:41:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
@@ -2820,7 +2743,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[130]]></wp:meta_value>
+		<wp:meta_value><![CDATA[148]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2845,7 +2768,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Business booming for giant cargo planes]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=30</guid>
@@ -2857,8 +2780,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:43:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:07:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:07:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:43:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:43:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -2888,7 +2811,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
+		<wp:meta_value><![CDATA[154]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2913,7 +2836,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
@@ -2925,8 +2848,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-03 10:07:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-03 10:07:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -2957,7 +2880,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		<wp:meta_value><![CDATA[143]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -2982,7 +2905,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/</link>
 		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?page_id=37</guid>
@@ -3034,7 +2957,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/blog/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/blog/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?page_id=108</guid>
@@ -3066,7 +2989,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/?page_id=145</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/?page_id=145</link>
 		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=3</guid>
@@ -3094,7 +3017,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/sample-page-2/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/sample-page-2-2/</link>
 		<pubDate>Thu, 29 Aug 2019 08:24:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kreeti/lifestyle/?page_id=2</guid>
@@ -3126,6 +3049,52 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_modified_gmt><![CDATA[2019-08-29 08:24:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/sample-page-2/</link>
+		<pubDate>Wed, 26 May 2021 04:37:35 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/morenews-pro/fitness-magazine/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>277</wp:post_id>
+		<wp:post_date><![CDATA[2021-05-26 04:37:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-05-26 04:37:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-05-26 04:37:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-26 04:37:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3140,138 +3109,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Travel]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/travel-2/</link>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/travel-2/</link>
 		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=276</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>276</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
+		<wp:post_id>278</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>17</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[276]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/travel/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Online Mag]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/online-mag/</link>
-		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=277</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>277</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[online-mag]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[277]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/onlinemag/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Crypto News]]></title>
-		<link>https://demo.afthemes.com/morenews-pro/fitness-magazine/2021/06/09/crypto-news/</link>
-		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=278</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>278</wp:post_id>
-		<wp:post_date><![CDATA[2021-06-09 10:36:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-06-09 10:36:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[crypto-news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3293,20 +3148,146 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Online Mag]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/online-mag/</link>
+		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=277</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>279</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[online-mag]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>18</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[279]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/morenews-pro/crypto-news/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/onlinemag/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Crypto News]]></title>
+		<link>https://demos.afthemes.com/morenews-pro/fitness-magazine/2022/07/20/crypto-news/</link>
+		<pubDate>Wed, 09 Jun 2021 10:36:10 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews-pro/fitness-magazine/?p=278</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>280</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-20 10:34:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-06-09 10:36:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 10:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 10:34:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[crypto-news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[280]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/morenews-pro/crypto-news/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-06-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

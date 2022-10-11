@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7" created="2021-04-15 09:27" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-05 10:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,15 +27,15 @@
 
 <channel>
 	<title>Gadgets Pro</title>
-	<link>https://demo.afthemes.com/darknews-pro/gadgets</link>
-	<description>Just another DarkNews Pro site</description>
-	<pubDate>Thu, 15 Apr 2021 09:27:52 +0000</pubDate>
+	<link>https://demos.afthemes.com/darknews-pro/gadgets</link>
+	<description>Just another DarkNews Pro Sites site</description>
+	<pubDate>Mon, 05 Sep 2022 10:11:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/darknews-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/darknews-pro/gadgets</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/darknews-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/darknews-pro/gadgets</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -183,7 +183,7 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>16</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -203,21 +203,21 @@
 	<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1-32x32.png</url>
+	<url>https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1-150x150.png</url>
 	<title>Gadgets Pro</title>
-	<link>https://demo.afthemes.com/darknews-pro/gadgets</link>
+	<link>https://demos.afthemes.com/darknews-pro/gadgets</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/facebook/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/facebook/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=44</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -260,9 +260,9 @@
 							</item>
 					<item>
 		<title><![CDATA[af-themes main dark]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/af-themes-main-dark/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/af-themes-main-dark/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:33 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/af-themes-main-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -281,14 +281,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:33:"2018/08/af-themes-main-dark-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:33:"af-themes-main-dark-1-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:33:"2018/08/af-themes-main-dark-1.png";s:8:"filesize";i:6498;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:33:"af-themes-main-dark-1-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31991;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12890;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -297,9 +297,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark.png]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cropped-af-themes-main-dark-png/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-af-themes-main-dark-png/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/cropped-af-themes-main-dark.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/storymag/wp-content/uploads/2018/08/cropped-af-themes-main-dark.png]]></content:encoded>
@@ -318,14 +318,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:41:"2018/08/cropped-af-themes-main-dark-1.png";s:8:"filesize";i:16866;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46533;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13659;}s:15:"darknews-medium";a:5:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-512x410.png";s:5:"width";i:512;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17866;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -337,81 +337,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/mc4wp-form/174/</link>
-		<pubDate>Wed, 26 Jun 2019 07:53:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/kriti/racing/mc4wp-form/174/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-
-<p>
-	<input type="submit" value="Sign up" />
-</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-26 07:53:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-26 07:53:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-06-26 07:53:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-06-26 07:53:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[174]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[mc4wp-form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_mc4wp_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:15:"required_fields";s:5:"EMAIL";s:12:"double_optin";s:1:"1";s:15:"update_existing";s:1:"0";s:17:"replace_interests";s:1:"1";s:15:"subscriber_tags";s:0:"";s:18:"hide_after_success";s:1:"0";s:8:"redirect";s:0:"";s:18:"grecaptcha_enabled";s:1:"0";s:3:"css";s:1:"0";s:5:"lists";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thank you, your sign-up request was successful! Please check your email inbox to confirm.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_invalid_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please provide a valid email address.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_required_field_missing]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please fill in the required fields.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_already_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Given email address is already subscribed, thank you!]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_error]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Oops. Something went wrong. Please try again later.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_unsubscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[You were successfully unsubscribed.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_not_subscribed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Given email address is not subscribed.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_no_lists_selected]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Please select at least one list.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[text_updated]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thank you, your records have been updated!]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[blurred-background-cellphone-cellular-telephone-1866703]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/blurred-background-cellphone-cellular-telephone-1866703/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/blurred-background-cellphone-cellular-telephone-1866703/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -430,21 +359,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:67:"2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:68:"blurred-background-cellphone-cellular-telephone-1866703-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:68:"blurred-background-cellphone-cellular-telephone-1866703-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:69:"blurred-background-cellphone-cellular-telephone-1866703-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:68:"blurred-background-cellphone-cellular-telephone-1866703-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:69:"blurred-background-cellphone-cellular-telephone-1866703-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:67:"2019/06/blurred-background-cellphone-cellular-telephone-1866703.jpg";s:8:"filesize";i:137206;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6609;}s:5:"large";a:5:{s:4:"file";s:68:"blurred-background-cellphone-cellular-telephone-1866703-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37670;}s:9:"thumbnail";a:5:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3577;}s:12:"medium_large";a:5:{s:4:"file";s:68:"blurred-background-cellphone-cellular-telephone-1866703-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45106;}s:9:"1536x1536";a:5:{s:4:"file";s:69:"blurred-background-cellphone-cellular-telephone-1866703-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71457;}s:17:"darknews-featured";a:5:{s:4:"file";s:69:"blurred-background-cellphone-cellular-telephone-1866703-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71457;}s:14:"darknews-large";a:5:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29397;}s:15:"darknews-medium";a:5:{s:4:"file";s:67:"blurred-background-cellphone-cellular-telephone-1866703-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17458;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cellphone-device-electronics-2530428]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cellphone-device-electronics-2530428/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cellphone-device-electronics-2530428/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/cellphone-device-electronics-2530428.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -463,21 +392,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cellphone-device-electronics-2530428.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cellphone-device-electronics-2530428.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cellphone-device-electronics-2530428.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1919;s:4:"file";s:48:"2019/06/cellphone-device-electronics-2530428.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:48:"cellphone-device-electronics-2530428-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"cellphone-device-electronics-2530428-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"cellphone-device-electronics-2530428-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:49:"cellphone-device-electronics-2530428-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:50:"cellphone-device-electronics-2530428-1025x1536.jpg";s:5:"width";i:1025;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:49:"cellphone-device-electronics-2530428-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:50:"cellphone-device-electronics-2530428-1024x1535.jpg";s:5:"width";i:1024;s:6:"height";i:1535;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:48:"cellphone-device-electronics-2530428-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1919;s:4:"file";s:48:"2019/06/cellphone-device-electronics-2530428.jpg";s:8:"filesize";i:272954;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:48:"cellphone-device-electronics-2530428-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8364;}s:5:"large";a:5:{s:4:"file";s:49:"cellphone-device-electronics-2530428-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54401;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"cellphone-device-electronics-2530428-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4711;}s:12:"medium_large";a:5:{s:4:"file";s:49:"cellphone-device-electronics-2530428-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67729;}s:9:"1536x1536";a:5:{s:4:"file";s:50:"cellphone-device-electronics-2530428-1025x1536.jpg";s:5:"width";i:1025;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121642;}s:17:"darknews-featured";a:5:{s:4:"file";s:50:"cellphone-device-electronics-2530428-1024x1535.jpg";s:5:"width";i:1024;s:6:"height";i:1535;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121021;}s:14:"darknews-large";a:5:{s:4:"file";s:48:"cellphone-device-electronics-2530428-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43598;}s:15:"darknews-medium";a:5:{s:4:"file";s:48:"cellphone-device-electronics-2530428-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25024;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[connection-desk-device-400678]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/connection-desk-device-400678/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/connection-desk-device-400678/</link>
 		<pubDate>Wed, 26 Jun 2019 08:17:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/connection-desk-device-400678.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -496,21 +425,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/connection-desk-device-400678.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/connection-desk-device-400678.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/connection-desk-device-400678.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2019/06/connection-desk-device-400678.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"connection-desk-device-400678-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"connection-desk-device-400678-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"connection-desk-device-400678-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"connection-desk-device-400678-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:42:"connection-desk-device-400678-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:42:"connection-desk-device-400678-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:41:"connection-desk-device-400678-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2019/06/connection-desk-device-400678.jpg";s:8:"filesize";i:166982;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"connection-desk-device-400678-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12414;}s:5:"large";a:5:{s:4:"file";s:42:"connection-desk-device-400678-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85951;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"connection-desk-device-400678-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6016;}s:12:"medium_large";a:5:{s:4:"file";s:41:"connection-desk-device-400678-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54533;}s:17:"darknews-featured";a:5:{s:4:"file";s:42:"connection-desk-device-400678-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85951;}s:14:"darknews-large";a:5:{s:4:"file";s:41:"connection-desk-device-400678-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62938;}s:15:"darknews-medium";a:5:{s:4:"file";s:41:"connection-desk-device-400678-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36742;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[computer-device-display-2473167]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/computer-device-display-2473167/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/computer-device-display-2473167/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/computer-device-display-2473167.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -529,21 +458,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/computer-device-display-2473167.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/computer-device-display-2473167.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/computer-device-display-2473167.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:43:"2019/06/computer-device-display-2473167.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:43:"computer-device-display-2473167-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"computer-device-display-2473167-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"computer-device-display-2473167-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"computer-device-display-2473167-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:44:"computer-device-display-2473167-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:44:"computer-device-display-2473167-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:43:"computer-device-display-2473167-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:43:"2019/06/computer-device-display-2473167.jpg";s:8:"filesize";i:125431;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:43:"computer-device-display-2473167-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9107;}s:5:"large";a:5:{s:4:"file";s:44:"computer-device-display-2473167-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63500;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"computer-device-display-2473167-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5126;}s:12:"medium_large";a:5:{s:4:"file";s:43:"computer-device-display-2473167-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40574;}s:17:"darknews-featured";a:5:{s:4:"file";s:44:"computer-device-display-2473167-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63500;}s:14:"darknews-large";a:5:{s:4:"file";s:43:"computer-device-display-2473167-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48172;}s:15:"darknews-medium";a:5:{s:4:"file";s:43:"computer-device-display-2473167-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28209;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[gadgets-iphone-laptop-163143]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/gadgets-iphone-laptop-163143/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/gadgets-iphone-laptop-163143/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:02 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/gadgets-iphone-laptop-163143.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -562,21 +491,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/gadgets-iphone-laptop-163143.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/gadgets-iphone-laptop-163143.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/gadgets-iphone-laptop-163143.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:956;s:4:"file";s:40:"2019/06/gadgets-iphone-laptop-163143.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-300x224.jpg";s:5:"width";i:300;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"gadgets-iphone-laptop-163143-1024x765.jpg";s:5:"width";i:1024;s:6:"height";i:765;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-768x574.jpg";s:5:"width";i:768;s:6:"height";i:574;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:41:"gadgets-iphone-laptop-163143-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:41:"gadgets-iphone-laptop-163143-1024x765.jpg";s:5:"width";i:1024;s:6:"height";i:765;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:956;s:4:"file";s:40:"2019/06/gadgets-iphone-laptop-163143.jpg";s:8:"filesize";i:364543;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-300x224.jpg";s:5:"width";i:300;s:6:"height";i:224;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16060;}s:5:"large";a:5:{s:4:"file";s:41:"gadgets-iphone-laptop-163143-1024x765.jpg";s:5:"width";i:1024;s:6:"height";i:765;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:184660;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5360;}s:12:"medium_large";a:5:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-768x574.jpg";s:5:"width";i:768;s:6:"height";i:574;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112676;}s:17:"darknews-featured";a:5:{s:4:"file";s:41:"gadgets-iphone-laptop-163143-1024x765.jpg";s:5:"width";i:1024;s:6:"height";i:765;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:184660;}s:14:"darknews-large";a:5:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119712;}s:15:"darknews-medium";a:5:{s:4:"file";s:40:"gadgets-iphone-laptop-163143-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63304;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[action-blur-drone-1686869]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/action-blur-drone-1686869/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/action-blur-drone-1686869/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/action-blur-drone-1686869.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -595,21 +524,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/action-blur-drone-1686869.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/action-blur-drone-1686869.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/action-blur-drone-1686869.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:37:"2019/06/action-blur-drone-1686869.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:37:"action-blur-drone-1686869-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"action-blur-drone-1686869-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"action-blur-drone-1686869-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:38:"action-blur-drone-1686869-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:39:"action-blur-drone-1686869-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:38:"action-blur-drone-1686869-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:39:"action-blur-drone-1686869-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:37:"action-blur-drone-1686869-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:37:"2019/06/action-blur-drone-1686869.jpg";s:8:"filesize";i:158557;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:37:"action-blur-drone-1686869-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8997;}s:5:"large";a:5:{s:4:"file";s:38:"action-blur-drone-1686869-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46419;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"action-blur-drone-1686869-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4647;}s:12:"medium_large";a:5:{s:4:"file";s:38:"action-blur-drone-1686869-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54850;}s:9:"1536x1536";a:5:{s:4:"file";s:39:"action-blur-drone-1686869-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83320;}s:17:"darknews-featured";a:5:{s:4:"file";s:39:"action-blur-drone-1686869-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83320;}s:14:"darknews-large";a:5:{s:4:"file";s:37:"action-blur-drone-1686869-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32659;}s:15:"darknews-medium";a:5:{s:4:"file";s:37:"action-blur-drone-1686869-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20282;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[blur-cellphone-close-up-1826060]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/blur-cellphone-close-up-1826060/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/blur-cellphone-close-up-1826060/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/blur-cellphone-close-up-1826060.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -628,21 +557,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/blur-cellphone-close-up-1826060.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/blur-cellphone-close-up-1826060.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/blur-cellphone-close-up-1826060.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1919;s:4:"file";s:43:"2019/06/blur-cellphone-close-up-1826060.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"blur-cellphone-close-up-1826060-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"blur-cellphone-close-up-1826060-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:45:"blur-cellphone-close-up-1826060-1025x1536.jpg";s:5:"width";i:1025;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:44:"blur-cellphone-close-up-1826060-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:45:"blur-cellphone-close-up-1826060-1024x1535.jpg";s:5:"width";i:1024;s:6:"height";i:1535;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1919;s:4:"file";s:43:"2019/06/blur-cellphone-close-up-1826060.jpg";s:8:"filesize";i:320879;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10493;}s:5:"large";a:5:{s:4:"file";s:44:"blur-cellphone-close-up-1826060-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70403;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5665;}s:12:"medium_large";a:5:{s:4:"file";s:44:"blur-cellphone-close-up-1826060-768x1151.jpg";s:5:"width";i:768;s:6:"height";i:1151;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85744;}s:9:"1536x1536";a:5:{s:4:"file";s:45:"blur-cellphone-close-up-1826060-1025x1536.jpg";s:5:"width";i:1025;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143663;}s:17:"darknews-featured";a:5:{s:4:"file";s:45:"blur-cellphone-close-up-1826060-1024x1535.jpg";s:5:"width";i:1024;s:6:"height";i:1535;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142264;}s:14:"darknews-large";a:5:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67407;}s:15:"darknews-medium";a:5:{s:4:"file";s:43:"blur-cellphone-close-up-1826060-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39212;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[audio-brown-connection-1337753]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/audio-brown-connection-1337753/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/audio-brown-connection-1337753/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:13 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/audio-brown-connection-1337753.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -661,21 +590,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/audio-brown-connection-1337753.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/audio-brown-connection-1337753.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/audio-brown-connection-1337753.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:42:"2019/06/audio-brown-connection-1337753.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:42:"audio-brown-connection-1337753-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"audio-brown-connection-1337753-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"audio-brown-connection-1337753-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"audio-brown-connection-1337753-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:44:"audio-brown-connection-1337753-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:43:"audio-brown-connection-1337753-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:44:"audio-brown-connection-1337753-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:42:"audio-brown-connection-1337753-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1920;s:4:"file";s:42:"2019/06/audio-brown-connection-1337753.jpg";s:8:"filesize";i:875885;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:42:"audio-brown-connection-1337753-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19386;}s:5:"large";a:5:{s:4:"file";s:43:"audio-brown-connection-1337753-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:202779;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"audio-brown-connection-1337753-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8321;}s:12:"medium_large";a:5:{s:4:"file";s:43:"audio-brown-connection-1337753-768x1152.jpg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:251196;}s:9:"1536x1536";a:5:{s:4:"file";s:44:"audio-brown-connection-1337753-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:413706;}s:17:"darknews-featured";a:5:{s:4:"file";s:44:"audio-brown-connection-1337753-1024x1536.jpg";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:413706;}s:14:"darknews-large";a:5:{s:4:"file";s:42:"audio-brown-connection-1337753-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:130401;}s:15:"darknews-medium";a:5:{s:4:"file";s:42:"audio-brown-connection-1337753-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72656;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[camera-desk-device-265014]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/camera-desk-device-265014/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/camera-desk-device-265014/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/camera-desk-device-265014.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -694,21 +623,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/camera-desk-device-265014.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/camera-desk-device-265014.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/camera-desk-device-265014.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2019/06/camera-desk-device-265014.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:37:"camera-desk-device-265014-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"camera-desk-device-265014-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"camera-desk-device-265014-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:37:"camera-desk-device-265014-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:38:"camera-desk-device-265014-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:38:"camera-desk-device-265014-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:37:"camera-desk-device-265014-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2019/06/camera-desk-device-265014.jpg";s:8:"filesize";i:165649;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:37:"camera-desk-device-265014-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12416;}s:5:"large";a:5:{s:4:"file";s:38:"camera-desk-device-265014-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86785;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"camera-desk-device-265014-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5703;}s:12:"medium_large";a:5:{s:4:"file";s:37:"camera-desk-device-265014-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55517;}s:17:"darknews-featured";a:5:{s:4:"file";s:38:"camera-desk-device-265014-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86785;}s:14:"darknews-large";a:5:{s:4:"file";s:37:"camera-desk-device-265014-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64227;}s:15:"darknews-medium";a:5:{s:4:"file";s:37:"camera-desk-device-265014-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38119;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[black-blank-cellular-telephone-947407]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/black-blank-cellular-telephone-947407/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/black-blank-cellular-telephone-947407/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/black-blank-cellular-telephone-947407.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -727,21 +656,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/black-blank-cellular-telephone-947407.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/black-blank-cellular-telephone-947407.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/black-blank-cellular-telephone-947407.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:1280;s:4:"file";s:49:"2019/06/black-blank-cellular-telephone-947407.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"black-blank-cellular-telephone-947407-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:50:"black-blank-cellular-telephone-947407-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:51:"black-blank-cellular-telephone-947407-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:1280;s:4:"file";s:49:"2019/06/black-blank-cellular-telephone-947407.jpg";s:8:"filesize";i:382850;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18546;}s:5:"large";a:5:{s:4:"file";s:51:"black-blank-cellular-telephone-947407-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188018;}s:9:"thumbnail";a:5:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4012;}s:12:"medium_large";a:5:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114934;}s:17:"darknews-featured";a:5:{s:4:"file";s:51:"black-blank-cellular-telephone-947407-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188018;}s:14:"darknews-large";a:5:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88130;}s:15:"darknews-medium";a:5:{s:4:"file";s:49:"black-blank-cellular-telephone-947407-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48274;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[black-connection-curve-414831]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/black-connection-curve-414831/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/black-connection-curve-414831/</link>
 		<pubDate>Wed, 26 Jun 2019 08:18:25 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/wp-content/uploads/sites/9/2019/06/black-connection-curve-414831.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -760,21 +689,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/black-connection-curve-414831.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/black-connection-curve-414831.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/black-connection-curve-414831.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2019/06/black-connection-curve-414831.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:41:"black-connection-curve-414831-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"black-connection-curve-414831-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:41:"black-connection-curve-414831-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"black-connection-curve-414831-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:42:"black-connection-curve-414831-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:42:"black-connection-curve-414831-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:41:"black-connection-curve-414831-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2019/06/black-connection-curve-414831.jpg";s:8:"filesize";i:61979;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:41:"black-connection-curve-414831-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6600;}s:5:"large";a:5:{s:4:"file";s:42:"black-connection-curve-414831-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35470;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"black-connection-curve-414831-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3839;}s:12:"medium_large";a:5:{s:4:"file";s:41:"black-connection-curve-414831-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23287;}s:17:"darknews-featured";a:5:{s:4:"file";s:42:"black-connection-curve-414831-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35470;}s:14:"darknews-large";a:5:{s:4:"file";s:41:"black-connection-curve-414831-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27402;}s:15:"darknews-medium";a:5:{s:4:"file";s:41:"black-connection-curve-414831-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16824;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-computer-device-display-2473167.jpg]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cropped-computer-device-display-2473167-jpg/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-computer-device-display-2473167-jpg/</link>
 		<pubDate>Sat, 02 May 2020 11:48:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/gadgets/wp-content/uploads/sites/7/2019/06/cropped-computer-device-display-2473167.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -793,14 +722,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-computer-device-display-2473167.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-computer-device-display-2473167.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-computer-device-display-2473167.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:51:"2019/06/cropped-computer-device-display-2473167.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:50:"cropped-computer-device-display-2473167-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:51:"cropped-computer-device-display-2473167-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:51:"cropped-computer-device-display-2473167-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1280x599.jpg";s:5:"width";i:1280;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:51:"cropped-computer-device-display-2473167-720x530.jpg";s:5:"width";i:720;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:51:"2019/06/cropped-computer-device-display-2473167.jpg";s:8:"filesize";i:67347;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:50:"cropped-computer-device-display-2473167-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3937;}s:5:"large";a:5:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25131;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"cropped-computer-device-display-2473167-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4363;}s:12:"medium_large";a:5:{s:4:"file";s:51:"cropped-computer-device-display-2473167-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16404;}s:9:"1536x1536";a:5:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46248;}s:17:"darknews-featured";a:5:{s:4:"file";s:52:"cropped-computer-device-display-2473167-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25131;}s:14:"darknews-large";a:5:{s:4:"file";s:51:"cropped-computer-device-display-2473167-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41262;}s:15:"darknews-medium";a:5:{s:4:"file";s:51:"cropped-computer-device-display-2473167-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25374;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -817,9 +746,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-black-blank-cellular-telephone-947407.jpg]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cropped-black-blank-cellular-telephone-947407-jpg/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-black-blank-cellular-telephone-947407-jpg/</link>
 		<pubDate>Wed, 17 Mar 2021 13:17:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/wp-content/uploads/sites/9/2019/06/cropped-black-blank-cellular-telephone-947407.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -838,14 +767,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-black-blank-cellular-telephone-947407.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-black-blank-cellular-telephone-947407.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-black-blank-cellular-telephone-947407.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:356;s:4:"file";s:57:"2019/06/cropped-black-blank-cellular-telephone-947407.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:56:"cropped-black-blank-cellular-telephone-947407-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:58:"cropped-black-blank-cellular-telephone-947407-1024x285.jpg";s:5:"width";i:1024;s:6:"height";i:285;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-768x214.jpg";s:5:"width";i:768;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:58:"cropped-black-blank-cellular-telephone-947407-1024x285.jpg";s:5:"width";i:1024;s:6:"height";i:285;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-720x356.jpg";s:5:"width";i:720;s:6:"height";i:356;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:356;s:4:"file";s:57:"2019/06/cropped-black-blank-cellular-telephone-947407.jpg";s:8:"filesize";i:78113;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:56:"cropped-black-blank-cellular-telephone-947407-300x83.jpg";s:5:"width";i:300;s:6:"height";i:83;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5244;}s:5:"large";a:5:{s:4:"file";s:58:"cropped-black-blank-cellular-telephone-947407-1024x285.jpg";s:5:"width";i:1024;s:6:"height";i:285;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48698;}s:9:"thumbnail";a:5:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5099;}s:12:"medium_large";a:5:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-768x214.jpg";s:5:"width";i:768;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29950;}s:17:"darknews-featured";a:5:{s:4:"file";s:58:"cropped-black-blank-cellular-telephone-947407-1024x285.jpg";s:5:"width";i:1024;s:6:"height";i:285;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48698;}s:14:"darknews-large";a:5:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-825x356.jpg";s:5:"width";i:825;s:6:"height";i:356;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48501;}s:15:"darknews-medium";a:5:{s:4:"file";s:57:"cropped-black-blank-cellular-telephone-947407-590x356.jpg";s:5:"width";i:590;s:6:"height";i:356;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34142;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -862,9 +791,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark-1-1.png]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cropped-af-themes-main-dark-1-1-png/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-af-themes-main-dark-1-1-png/</link>
 		<pubDate>Thu, 08 Apr 2021 09:58:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1.png]]></content:encoded>
@@ -883,25 +812,25 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:43:"2018/08/cropped-af-themes-main-dark-1-1.png";s:8:"filesize";i:28675;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:48817;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14126;}s:15:"darknews-medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-512x410.png";s:5:"width";i:512;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:25355;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:43:"2018/08/cropped-af-themes-main-dark-1-1.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-270";a:4:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:41:"cropped-af-themes-main-dark-1-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-blur-cellphone-close-up-1826060.jpg]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/cropped-blur-cellphone-close-up-1826060-jpg/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-blur-cellphone-close-up-1826060-jpg/</link>
 		<pubDate>Thu, 08 Apr 2021 10:33:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-blur-cellphone-close-up-1826060.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -920,18 +849,18 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-blur-cellphone-close-up-1826060.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2019/06/cropped-blur-cellphone-close-up-1826060.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/cropped-blur-cellphone-close-up-1826060.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:51:"2019/06/cropped-blur-cellphone-close-up-1826060.jpg";s:8:"filesize";i:24099;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:50:"cropped-blur-cellphone-close-up-1826060-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2546;}s:5:"large";a:5:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13199;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2066;}s:12:"medium_large";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8339;}s:17:"darknews-featured";a:5:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13199;}s:14:"darknews-large";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-825x401.jpg";s:5:"width";i:825;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14783;}s:15:"darknews-medium";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-590x401.jpg";s:5:"width";i:590;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11040;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:51:"2019/06/cropped-blur-cellphone-close-up-1826060.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:50:"cropped-blur-cellphone-close-up-1826060-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";}s:20:"darknews-slider-full";a:4:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1280x401.jpg";s:5:"width";i:1280;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-720x401.jpg";s:5:"width";i:720;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:17:"attachment_parent";i:194;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_darknews-pro]]></wp:meta_key>
@@ -944,9 +873,9 @@
 							</item>
 					<item>
 		<title><![CDATA[banner-promo-full-orange]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/banner-promo-full-orange/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/banner-promo-full-orange/</link>
 		<pubDate>Thu, 15 Apr 2021 06:27:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2021/04/banner-promo-full-orange.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -965,21 +894,58 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2021/04/banner-promo-full-orange.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2021/04/banner-promo-full-orange.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/04/banner-promo-full-orange.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:36:"2021/04/banner-promo-full-orange.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:35:"banner-promo-full-orange-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"banner-promo-full-orange-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"banner-promo-full-orange-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:36:"banner-promo-full-orange-825x110.jpg";s:5:"width";i:825;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:36:"banner-promo-full-orange-590x110.jpg";s:5:"width";i:590;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:930;s:6:"height";i:110;s:4:"file";s:36:"2021/04/banner-promo-full-orange.jpg";s:8:"filesize";i:49798;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:35:"banner-promo-full-orange-300x35.jpg";s:5:"width";i:300;s:6:"height";i:35;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3312;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"banner-promo-full-orange-150x110.jpg";s:5:"width";i:150;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2855;}s:12:"medium_large";a:5:{s:4:"file";s:35:"banner-promo-full-orange-768x91.jpg";s:5:"width";i:768;s:6:"height";i:91;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10844;}s:14:"darknews-large";a:5:{s:4:"file";s:36:"banner-promo-full-orange-825x110.jpg";s:5:"width";i:825;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13672;}s:15:"darknews-medium";a:5:{s:4:"file";s:36:"banner-promo-full-orange-590x110.jpg";s:5:"width";i:590;s:6:"height";i:110;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9800;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-blur-cellphone-close-up-1826060]]></title>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/cropped-blur-cellphone-close-up-1826060/</link>
+		<pubDate>Fri, 15 Jul 2022 07:59:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2022/07/cropped-blur-cellphone-close-up-1826060.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>274</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-15 07:59:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-15 07:59:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 07:59:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 07:59:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-blur-cellphone-close-up-1826060]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/gadgets/wp-content/uploads/sites/8/2022/07/cropped-blur-cellphone-close-up-1826060.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/cropped-blur-cellphone-close-up-1826060.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:401;s:4:"file";s:51:"2022/07/cropped-blur-cellphone-close-up-1826060.jpg";s:8:"filesize";i:24099;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:50:"cropped-blur-cellphone-close-up-1826060-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2546;}s:5:"large";a:5:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13199;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2066;}s:12:"medium_large";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-768x205.jpg";s:5:"width";i:768;s:6:"height";i:205;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8339;}s:17:"darknews-featured";a:5:{s:4:"file";s:52:"cropped-blur-cellphone-close-up-1826060-1024x274.jpg";s:5:"width";i:1024;s:6:"height";i:274;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13199;}s:14:"darknews-large";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-825x401.jpg";s:5:"width";i:825;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14783;}s:15:"darknews-medium";a:5:{s:4:"file";s:51:"cropped-blur-cellphone-close-up-1826060-590x401.jpg";s:5:"width";i:590;s:6:"height";i:401;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11040;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[darknews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/twitter/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/twitter/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1022,9 +988,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/youtube/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/youtube/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1067,9 +1033,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/instagram/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/instagram/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1112,9 +1078,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Linkedin]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/linkedin/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/linkedin/</link>
 		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1157,9 +1123,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/51/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/51/</link>
 		<pubDate>Wed, 18 Jul 2018 12:09:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1198,18 +1164,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/60/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/60/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[Exclusive]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[60]]></wp:post_name>
@@ -1241,6 +1207,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1258,23 +1228,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/61/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/61/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>61</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[61]]></wp:post_name>
@@ -1306,6 +1276,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1323,23 +1297,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/62/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/62/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[62]]></wp:post_name>
@@ -1375,6 +1349,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1388,23 +1366,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/63/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/63/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -1436,6 +1414,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1453,23 +1435,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/64/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/64/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=64</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[64]]></wp:post_name>
@@ -1505,6 +1487,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1518,23 +1504,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/65/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/65/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=65</guid>
 		<description></description>
 		<content:encoded><![CDATA[Schedule]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[65]]></wp:post_name>
@@ -1566,6 +1552,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1583,23 +1573,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/66/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/66/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[66]]></wp:post_name>
@@ -1635,6 +1625,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1648,23 +1642,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/67/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/67/</link>
 		<pubDate>Wed, 18 Jul 2018 12:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=67</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 12:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[67]]></wp:post_name>
@@ -1700,6 +1694,10 @@
 		<wp:meta_value><![CDATA[2018-07-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -1713,14 +1711,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/30/97/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/30/97/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/97/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1759,9 +1757,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/30/98/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/30/98/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/98/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1800,9 +1798,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/30/99/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/30/99/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/99/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1841,9 +1839,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/30/100/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/30/100/</link>
 		<pubDate>Mon, 30 Jul 2018 13:53:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/100/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1882,18 +1880,18 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/111/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/111/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:58 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/blog/111/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-30 14:02:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[111]]></wp:post_name>
@@ -1925,6 +1923,10 @@
 		<wp:meta_value><![CDATA[2018-07-30]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -1942,23 +1944,23 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/all-demos/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/all-demos/</link>
 		<pubDate>Thu, 02 Aug 2018 03:37:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?p=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[12+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:37:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1994,6 +1996,10 @@
 		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
@@ -2007,29 +2013,29 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Dark]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/dark/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/dark/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=233</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>233</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[dark]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2056,7 +2062,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2068,14 +2078,14 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/</link>
 		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?page_id=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2125,9 +2135,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/blog/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/blog/</link>
 		<pubDate>Mon, 30 Jul 2018 14:02:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag/?page_id=108</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2157,9 +2167,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-2/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-2/</link>
 		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
@@ -2193,9 +2203,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/?page_id=145</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/?page_id=145</link>
 		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Who we are</h2><p>Our website address is: https://demo.afthemes.com/covernews.</p><h2>What personal data we collect and why we collect it</h2><h3>Comments</h3><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h3>Media</h3><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h3>Contact forms</h3><h3>Cookies</h3><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h3>Embedded content from other websites</h3><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><h3>Analytics</h3><h2>Who we share your data with</h2><h2>How long we retain your data</h2><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2>What rights you have over your data</h2><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2>Where we send your data</h2><p>Visitor comments may be checked through an automated spam detection service.</p><h2>Your contact information</h2><h2>Additional information</h2><h3>How we protect your data</h3><h3>What data breach procedures we have in place</h3><h3>What third parties we receive data from</h3><h3>What automated decision making and/or profiling we do with user data</h3><h3>Industry regulatory disclosure requirements</h3>]]></content:encoded>
@@ -2221,9 +2231,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-3/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-3/</link>
 		<pubDate>Mon, 14 Jan 2019 18:14:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews/newsquare/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
@@ -2257,9 +2267,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-4/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-4/</link>
 		<pubDate>Tue, 25 Jun 2019 08:55:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/racing/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2303,9 +2313,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-5/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-5/</link>
 		<pubDate>Fri, 09 Aug 2019 06:06:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magnitude-pro/gadgets-pro/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2349,9 +2359,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-5-2/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-5-2/</link>
 		<pubDate>Tue, 25 Jun 2019 11:52:07 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/kriti/gadgets/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2395,9 +2405,9 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2-6/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-6/</link>
 		<pubDate>Sat, 02 May 2020 11:30:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/gadgets/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2441,24 +2451,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[Light]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/light/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/light/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=234</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>234</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[light]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2485,7 +2495,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/light/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/light/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2497,29 +2511,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Classic]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/classic/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/classic/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=235</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>235</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2546,7 +2560,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/classic/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2558,29 +2576,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/fashion/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/fashion/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=236</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>236</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2607,7 +2625,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/fashion/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2619,29 +2641,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/sport/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/sport/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=237</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>237</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2668,7 +2690,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/sport/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2680,29 +2706,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/business/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/business/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=238</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>238</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2729,7 +2755,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/business/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2741,29 +2771,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Recipe]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/recipe/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/recipe/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=239</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>239</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[recipe]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2790,7 +2820,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/recipe/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/recipe/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2802,29 +2836,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/travel/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/travel/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=240</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>240</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2851,7 +2885,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/travel/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2863,29 +2901,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fitness]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/lifestyle/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/lifestyle/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=241</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>241</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifestyle]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2912,7 +2950,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/fitness/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/fitness/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2924,29 +2966,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gaming]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/masonry/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/masonry/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=242</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>242</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[masonry]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2973,7 +3015,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/gaming/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/gaming/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -2985,29 +3031,29 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Automobile]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/top-news/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/top-news/</link>
 		<pubDate>Thu, 18 Mar 2021 09:53:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?p=243</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>243</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-03-18 09:53:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-news]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>23</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3034,7 +3080,11 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/darknews-pro/automobile/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/darknews-pro/automobile/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -3046,23 +3096,23 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/270/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2022/07/20/270/</link>
 		<pubDate>Tue, 13 Apr 2021 05:43:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/2021/04/13/270/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>270</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-13 05:43:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-07-20 11:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-13 05:43:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-13 05:43:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-20 11:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-20 11:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[270]]></wp:post_name>
@@ -3078,10 +3128,6 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[37]]></wp:meta_value>
 		</wp:postmeta>
@@ -3090,12 +3136,16 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
@@ -3105,74 +3155,17 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-04-13]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/?p=1</link>
-		<pubDate>Thu, 08 Apr 2021 03:42:04 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://demo.afthemes.com/darknews-pro/">DarkNews Pro</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-08 03:42:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-04-08 03:42:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-08 09:58:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-08 09:58:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1617875894]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://demo.afthemes.com/darknews-pro/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-04-08 03:42:04]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-04-08 03:42:04]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page/</link>
-		<pubDate>Thu, 08 Apr 2021 03:42:04 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/?page_id=2</guid>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page/</link>
+		<pubDate>Fri, 15 Jul 2022 07:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/darknews-pro/gadgets/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -3191,14 +3184,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/darknews-pro/gadgets/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/darknews-pro/gadgets/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-04-08 03:42:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-04-08 03:42:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-08 03:42:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-08 03:42:04]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2022-07-15 07:57:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-15 07:57:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 07:57:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 07:57:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -3215,9 +3208,9 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title><![CDATA[The full story of Thailand’s extraordinary cave rescue]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Wed, 18 Jul 2018 11:03:32 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3253,7 +3246,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3266,9 +3259,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Why local US newspapers are sounding the alarm]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3299,7 +3292,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3312,9 +3305,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Searching for the 'angel' who held me on Westminster Bridge]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Wed, 18 Jul 2018 11:10:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3350,7 +3343,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		<wp:meta_value><![CDATA[93]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3363,9 +3356,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[All you need to know about penalty shootouts]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Wed, 18 Jul 2018 11:16:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3408,7 +3401,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[64]]></wp:meta_value>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3421,9 +3414,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[The man who saved thousands of people from HIV]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Wed, 18 Jul 2018 11:24:54 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3465,7 +3458,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3478,9 +3471,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Searching for the forgotten heroes of World War Two]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Wed, 18 Jul 2018 11:26:28 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3520,7 +3513,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[94]]></wp:meta_value>
+		<wp:meta_value><![CDATA[109]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3533,9 +3526,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA['Somebody threatened to burn the school down']]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Wed, 18 Jul 2018 11:38:06 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=24</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3579,7 +3572,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3592,9 +3585,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Trump-Putin: Your toolkit to help understand the story]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Wed, 18 Jul 2018 11:41:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. &nbsp;Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3635,7 +3628,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3648,9 +3641,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Business booming for giant cargo planes]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Wed, 18 Jul 2018 11:43:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=30</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3691,7 +3684,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3704,9 +3697,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua. Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, no sea takimata sanctus est Lorem ipsum dolor sit amet. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam voluptua.
@@ -3748,7 +3741,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[103]]></wp:meta_value>
+		<wp:meta_value><![CDATA[120]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
@@ -3761,9 +3754,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/gadgets/sample-page-2/</link>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2-7/</link>
 		<pubDate>Tue, 08 Dec 2020 09:40:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/enternews-pro/gadgets/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3791,6 +3784,52 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_date_gmt><![CDATA[2020-12-08 09:40:50]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2020-12-08 09:40:50]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2020-12-08 09:40:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/darknews-pro/gadgets/sample-page-2/</link>
+		<pubDate>Thu, 08 Apr 2021 03:42:04 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/gadgets/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/darknews-pro/gadgets/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>273</wp:post_id>
+		<wp:post_date><![CDATA[2021-04-08 03:42:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-04-08 03:42:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-04-08 03:42:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-04-08 03:42:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>

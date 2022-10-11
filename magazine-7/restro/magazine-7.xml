@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.2" created="2021-12-30 06:11" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-08 07:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,15 +27,15 @@
 
 <channel>
 	<title>Restro</title>
-	<link>https://demo.afthemes.com/magazine-7/restro</link>
-	<description>Just another Magazine 7 Site</description>
-	<pubDate>Thu, 30 Dec 2021 06:11:53 +0000</pubDate>
+	<link>https://demos.afthemes.com/magazine-7/restro</link>
+	<description>Just another Magazine 7 Sites site</description>
+	<pubDate>Thu, 08 Sep 2022 07:38:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/magazine-7/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/magazine-7/restro</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/magazine-7/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/magazine-7/restro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -44,73 +44,73 @@
 		<wp:cat_name><![CDATA[Artist]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>26</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:category_nicename><![CDATA[barbecue]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Barbecue]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Beauty]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>27</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:category_nicename><![CDATA[ethnic]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Ethnic]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>28</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:category_nicename><![CDATA[fast-casual]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fast casual]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>29</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:category_nicename><![CDATA[fine-dining]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fine dining]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:category_nicename><![CDATA[life-style]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Life style]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>5</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:category_nicename><![CDATA[model]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Model]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:category_nicename><![CDATA[music]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Music]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:category_nicename><![CDATA[photography]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Photography]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:category_nicename><![CDATA[ramp]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Ramp]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:category_nicename><![CDATA[tips-tricks]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Tips &amp; Tricks]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:category_nicename><![CDATA[trends]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Trends]]></wp:cat_name>
@@ -122,22 +122,22 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 			<wp:tag>
-		<wp:term_id>11</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:tag_slug><![CDATA[beauty]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Beauty]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:tag_slug><![CDATA[collection]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Collection]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>13</wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:tag_slug><![CDATA[iskra-lawrence]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Iskra Lawrence]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>14</wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:tag_slug><![CDATA[trends]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Trends]]></wp:tag_name>
 	</wp:tag>
@@ -149,56 +149,56 @@
 		<wp:term_name><![CDATA[Artist]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>26</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[barbecue]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Barbecue]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[beauty]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Beauty]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>11</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[beauty]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Beauty]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[collection]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Collection]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>27</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[ethnic]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Ethnic]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>28</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fast-casual]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fast casual]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>29</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fine-dining]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fine dining]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>25</wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -212,63 +212,70 @@
 		<wp:term_name><![CDATA[Gallery]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>13</wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[iskra-lawrence]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Iskra Lawrence]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[life-style]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Life style]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>22</wp:term_id>
+		<wp:term_id>25</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[magazine-7]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[magazine-7]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[main-menu-items]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[model]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Model]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[music]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[photography]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Photography]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[ramp]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Ramp]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>24</wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[tips-tricks]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -282,14 +289,14 @@
 		<wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>10</wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Trends]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trends]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -303,41 +310,33 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>21</wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_format]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[post-format-video]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Video]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>25</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Footer menu items]]></wp:term_name>
+			<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Footer menu items]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Main menu items]]></wp:term_name>
+	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Main menu items]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
+	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>23</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.2</generator>
-
-<image>
-	<url>https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/af-themes-main-blue-150x150.png</url>
-	<title>Restro</title>
-	<link>https://demo.afthemes.com/magazine-7/restro</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
 		<title><![CDATA[af-themes main blue]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/af-themes-main-blue/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/af-themes-main-blue/</link>
 		<pubDate>Wed, 06 Jun 2018 10:36:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-magazine/wp-content/uploads/sites/2/2018/06/af-themes-main-blue.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
+		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-06 10:36:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-06 10:36:10]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2018-06-06 10:36:10]]></wp:post_modified>
@@ -351,14 +350,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/af-themes-main-blue.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/af-themes-main-blue.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/af-themes-main-blue.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:31:"2018/06/af-themes-main-blue.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"af-themes-main-blue-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"af-themes-main-blue-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:31:"af-themes-main-blue-405x380.png";s:5:"width";i:405;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:405;s:6:"height";i:402;s:4:"file";s:31:"2018/06/af-themes-main-blue.png";s:8:"filesize";i:10563;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:31:"af-themes-main-blue-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:42249;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"af-themes-main-blue-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15902;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:31:"af-themes-main-blue-405x380.png";s:5:"width";i:405;s:6:"height";i:380;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12321;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -367,9 +366,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/436/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/436/</link>
 		<pubDate>Fri, 15 Jun 2018 12:36:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=436</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -377,8 +376,8 @@
 		<wp:post_id>436</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 12:36:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 12:36:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[436]]></wp:post_name>
@@ -394,10 +393,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
@@ -406,27 +401,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/437/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/437/</link>
 		<pubDate>Fri, 15 Jun 2018 12:36:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=437</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -434,8 +417,8 @@
 		<wp:post_id>437</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-15 12:36:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 12:36:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[437]]></wp:post_name>
@@ -451,10 +434,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
@@ -463,84 +442,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/440/</link>
-		<pubDate>Fri, 15 Jun 2018 12:36:12 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=440</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>440</wp:post_id>
-		<wp:post_date><![CDATA[2018-06-15 12:36:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[440]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cook-food-kitchen-eat-54455]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/cook-food-kitchen-eat-54455/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/cook-food-kitchen-eat-54455/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:41 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/cook-food-kitchen-eat-54455.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -559,14 +469,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/cook-food-kitchen-eat-54455.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/cook-food-kitchen-eat-54455.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/cook-food-kitchen-eat-54455.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1152;s:4:"file";s:40:"2018/06/cook-food-kitchen-eat-54455.jpeg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-300x180.jpeg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-768x461.jpeg";s:5:"width";i:768;s:6:"height";i:461;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"cook-food-kitchen-eat-54455-1024x614.jpeg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:22:"magazine-7-slider-full";a:4:{s:4:"file";s:42:"cook-food-kitchen-eat-54455-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:41:"cook-food-kitchen-eat-54455-1024x614.jpeg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1152;s:4:"file";s:40:"2018/06/cook-food-kitchen-eat-54455.jpeg";s:8:"filesize";i:481526;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-300x180.jpeg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10646;}s:5:"large";a:5:{s:4:"file";s:41:"cook-food-kitchen-eat-54455-1024x614.jpeg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99083;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4972;}s:12:"medium_large";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-768x461.jpeg";s:5:"width";i:768;s:6:"height";i:461;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56306;}s:9:"1536x1536";a:5:{s:4:"file";s:41:"cook-food-kitchen-eat-54455-1536x922.jpeg";s:5:"width";i:1536;s:6:"height";i:922;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:220014;}s:22:"magazine-7-slider-full";a:5:{s:4:"file";s:42:"cook-food-kitchen-eat-54455-1536x1020.jpeg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:243831;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132165;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:41:"cook-food-kitchen-eat-54455-1024x614.jpeg";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99083;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45632;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:40:"cook-food-kitchen-eat-54455-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49938;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -575,9 +485,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-dinner-lemon-rice]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/food-dinner-lemon-rice/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/food-dinner-lemon-rice/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:44 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-lemon-rice.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -596,14 +506,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-lemon-rice.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-lemon-rice.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-dinner-lemon-rice.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1285;s:4:"file";s:34:"2018/06/food-dinner-lemon-rice.jpg";s:5:"sizes";a:9:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"food-dinner-lemon-rice-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:22:"magazine-7-slider-full";a:4:{s:4:"file";s:36:"food-dinner-lemon-rice-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:35:"food-dinner-lemon-rice-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:34:"food-dinner-lemon-rice-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1285;s:4:"file";s:34:"2018/06/food-dinner-lemon-rice.jpg";s:8:"filesize";i:410800;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13193;}s:5:"large";a:5:{s:4:"file";s:35:"food-dinner-lemon-rice-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90664;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6841;}s:12:"medium_large";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56214;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"food-dinner-lemon-rice-1536x1028.jpg";s:5:"width";i:1536;s:6:"height";i:1028;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:190366;}s:22:"magazine-7-slider-full";a:5:{s:4:"file";s:36:"food-dinner-lemon-rice-1536x1020.jpg";s:5:"width";i:1536;s:6:"height";i:1020;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189329;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116186;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:35:"food-dinner-lemon-rice-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90664;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44930;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:34:"food-dinner-lemon-rice-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45562;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -612,9 +522,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-dinner-pasta-spaghetti-8500]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/food-dinner-pasta-spaghetti-8500/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/food-dinner-pasta-spaghetti-8500/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-pasta-spaghetti-8500.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -633,14 +543,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-dinner-pasta-spaghetti-8500.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:856;s:4:"file";s:44:"2018/06/food-dinner-pasta-spaghetti-8500.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-936x856.jpg";s:5:"width";i:936;s:6:"height";i:856;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:856;s:4:"file";s:44:"2018/06/food-dinner-pasta-spaghetti-8500.jpg";s:8:"filesize";i:159582;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14000;}s:5:"large";a:5:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83347;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7799;}s:12:"medium_large";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55167;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-936x856.jpg";s:5:"width";i:936;s:6:"height";i:856;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106223;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:45:"food-dinner-pasta-spaghetti-8500-1024x685.jpg";s:5:"width";i:1024;s:6:"height";i:685;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83347;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45508;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:44:"food-dinner-pasta-spaghetti-8500-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45702;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -649,9 +559,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-salad-healthy-vegetables]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/food-salad-healthy-vegetables/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/food-salad-healthy-vegetables/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salad-healthy-vegetables.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -670,14 +580,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salad-healthy-vegetables.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salad-healthy-vegetables.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-salad-healthy-vegetables.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/06/food-salad-healthy-vegetables.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-936x853.jpg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:41:"food-salad-healthy-vegetables-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/06/food-salad-healthy-vegetables.jpg";s:8:"filesize";i:205441;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18558;}s:5:"large";a:5:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109934;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8703;}s:12:"medium_large";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73128;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-936x853.jpg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121948;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:42:"food-salad-healthy-vegetables-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109934;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57787;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:41:"food-salad-healthy-vegetables-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61347;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -686,9 +596,9 @@
 							</item>
 					<item>
 		<title><![CDATA[food-salmon-teriyaki-cooking]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/food-salmon-teriyaki-cooking/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/food-salmon-teriyaki-cooking/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salmon-teriyaki-cooking.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -707,14 +617,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salmon-teriyaki-cooking.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-salmon-teriyaki-cooking.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/food-salmon-teriyaki-cooking.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2018/06/food-salmon-teriyaki-cooking.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"food-salmon-teriyaki-cooking-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-936x853.jpg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:41:"food-salmon-teriyaki-cooking-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2018/06/food-salmon-teriyaki-cooking.jpg";s:8:"filesize";i:178807;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14875;}s:5:"large";a:5:{s:4:"file";s:41:"food-salmon-teriyaki-cooking-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91286;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7988;}s:12:"medium_large";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59654;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-936x853.jpg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115570;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:41:"food-salmon-teriyaki-cooking-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91286;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47932;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:40:"food-salmon-teriyaki-cooking-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49665;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -723,9 +633,9 @@
 							</item>
 					<item>
 		<title><![CDATA[meat-vegetables-gemuesepiess-mushrooms-111131]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/meat-vegetables-gemuesepiess-mushrooms-111131/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/meat-vegetables-gemuesepiess-mushrooms-111131/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -744,14 +654,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:58:"2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-936x720.jpeg";s:5:"width";i:936;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:58:"2018/06/meat-vegetables-gemuesepiess-mushrooms-111131.jpeg";s:8:"filesize";i:258048;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19293;}s:5:"large";a:5:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127624;}s:9:"thumbnail";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9337;}s:12:"medium_large";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83715;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-936x720.jpeg";s:5:"width";i:936;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142857;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:59:"meat-vegetables-gemuesepiess-mushrooms-111131-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127624;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71609;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:58:"meat-vegetables-gemuesepiess-mushrooms-111131-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76930;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -760,9 +670,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-70497]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-70497/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-70497/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:52 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-70497.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -781,14 +691,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-70497.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-70497.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-70497.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:31:"2018/06/pexels-photo-70497.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"pexels-photo-70497-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"pexels-photo-70497-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"pexels-photo-70497-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:31:"pexels-photo-70497-936x851.jpeg";s:5:"width";i:936;s:6:"height";i:851;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:31:"pexels-photo-70497-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:31:"pexels-photo-70497-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:851;s:4:"file";s:31:"2018/06/pexels-photo-70497.jpeg";s:8:"filesize";i:205327;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:31:"pexels-photo-70497-300x199.jpeg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15483;}s:5:"large";a:5:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98758;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-70497-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6942;}s:12:"medium_large";a:5:{s:4:"file";s:31:"pexels-photo-70497-768x511.jpeg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63244;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:31:"pexels-photo-70497-936x851.jpeg";s:5:"width";i:936;s:6:"height";i:851;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:113443;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:32:"pexels-photo-70497-1024x681.jpeg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98758;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:31:"pexels-photo-70497-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51461;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:31:"pexels-photo-70497-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52566;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -797,9 +707,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-76093]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-76093/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-76093/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-76093.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -818,14 +728,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-76093.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-76093.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-76093.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:31:"2018/06/pexels-photo-76093.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"pexels-photo-76093-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"pexels-photo-76093-300x188.jpeg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"pexels-photo-76093-768x480.jpeg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:31:"pexels-photo-76093-936x800.jpeg";s:5:"width";i:936;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:31:"pexels-photo-76093-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:31:"pexels-photo-76093-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:31:"2018/06/pexels-photo-76093.jpeg";s:8:"filesize";i:236557;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:31:"pexels-photo-76093-300x188.jpeg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14405;}s:5:"large";a:5:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111803;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"pexels-photo-76093-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7719;}s:12:"medium_large";a:5:{s:4:"file";s:31:"pexels-photo-76093-768x480.jpeg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67940;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:31:"pexels-photo-76093-936x800.jpeg";s:5:"width";i:936;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143758;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:32:"pexels-photo-76093-1024x640.jpeg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111803;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:31:"pexels-photo-76093-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55351;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:31:"pexels-photo-76093-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58908;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -834,9 +744,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-410648]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-410648/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-410648/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-410648.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -855,14 +765,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-410648.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-410648.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-410648.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:32:"2018/06/pexels-photo-410648.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-410648-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-410648-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:32:"pexels-photo-410648-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:32:"pexels-photo-410648-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-410648-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:32:"2018/06/pexels-photo-410648.jpeg";s:8:"filesize";i:387576;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-410648-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21804;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191243;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-410648-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8779;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-410648-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118630;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:32:"pexels-photo-410648-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:207315;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:33:"pexels-photo-410648-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191243;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:32:"pexels-photo-410648-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79027;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-410648-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86190;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -871,9 +781,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-461198]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-461198/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-461198/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:56 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-461198.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -892,14 +802,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-461198.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-461198.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-461198.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:32:"2018/06/pexels-photo-461198.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-461198-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-461198-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:32:"pexels-photo-461198-936x720.jpeg";s:5:"width";i:936;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:32:"pexels-photo-461198-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-461198-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:32:"2018/06/pexels-photo-461198.jpeg";s:8:"filesize";i:132133;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-461198-300x169.jpeg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11342;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69296;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-461198-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6578;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-461198-768x432.jpeg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45519;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:32:"pexels-photo-461198-936x720.jpeg";s:5:"width";i:936;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82934;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:33:"pexels-photo-461198-1024x576.jpeg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69296;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:32:"pexels-photo-461198-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39691;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-461198-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44388;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -908,9 +818,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-566566]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-566566/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-566566/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-566566.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -929,14 +839,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-566566.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-566566.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-566566.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-566566.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-566566-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-566566-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:32:"pexels-photo-566566-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:32:"pexels-photo-566566-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-566566-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-566566.jpeg";s:8:"filesize";i:228343;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-566566-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16709;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112079;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-566566-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8335;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-566566-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72366;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:32:"pexels-photo-566566-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:144832;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:33:"pexels-photo-566566-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112079;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:32:"pexels-photo-566566-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55126;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-566566-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59717;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -945,9 +855,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-793759]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-793759/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-793759/</link>
 		<pubDate>Mon, 18 Jun 2018 07:11:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-793759.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -966,14 +876,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-793759.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-793759.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-793759.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-793759.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-793759-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-793759-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-793759-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-793759-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:32:"pexels-photo-793759-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:33:"pexels-photo-793759-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:32:"pexels-photo-793759-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-793759-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-793759.jpeg";s:8:"filesize";i:193558;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-793759-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16415;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-793759-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100024;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-793759-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8545;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-793759-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65475;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:32:"pexels-photo-793759-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118745;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:33:"pexels-photo-793759-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100024;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:32:"pexels-photo-793759-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48683;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-793759-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55005;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -982,9 +892,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-photo-940302]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/pexels-photo-940302/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/pexels-photo-940302/</link>
 		<pubDate>Mon, 18 Jun 2018 07:12:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-940302.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1003,14 +913,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-940302.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/pexels-photo-940302.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/pexels-photo-940302.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-940302.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-photo-940302-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:32:"pexels-photo-940302-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-photo-940302-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:32:"pexels-photo-940302-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:32:"pexels-photo-940302-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:32:"pexels-photo-940302-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2018/06/pexels-photo-940302.jpeg";s:8:"filesize";i:93880;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-photo-940302-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6304;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42734;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-photo-940302-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3742;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-photo-940302-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26670;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:32:"pexels-photo-940302-936x853.jpeg";s:5:"width";i:936;s:6:"height";i:853;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55868;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:33:"pexels-photo-940302-1024x682.jpeg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42734;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:32:"pexels-photo-940302-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22026;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:32:"pexels-photo-940302-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22050;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1019,9 +929,9 @@
 							</item>
 					<item>
 		<title><![CDATA[salmon-dish-food-meal-46239]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/salmon-dish-food-meal-46239/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/salmon-dish-food-meal-46239/</link>
 		<pubDate>Mon, 18 Jun 2018 07:12:01 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/salmon-dish-food-meal-46239.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1040,14 +950,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/salmon-dish-food-meal-46239.jpeg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:40:"2018/06/salmon-dish-food-meal-46239.jpeg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:40:"salmon-dish-food-meal-46239-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:40:"2018/06/salmon-dish-food-meal-46239.jpeg";s:8:"filesize";i:168604;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14499;}s:5:"large";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6654;}s:12:"medium_large";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56920;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92270;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43918;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45240;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_magazine-7]]></wp:meta_key>
@@ -1064,9 +974,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Magazine-7-plus-theme-promo]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/magazine-7-plus-theme-promo/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/magazine-7-plus-theme-promo/</link>
 		<pubDate>Wed, 27 Jun 2018 11:50:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1085,14 +995,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/Magazine-7-plus-theme-promo.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"1200";s:6:"height";s:3:"960";s:4:"file";s:39:"2018/06/Magazine-7-plus-theme-promo.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-300x240.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"240";s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-768x614.jpg";s:5:"width";s:3:"768";s:6:"height";s:3:"614";s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"Magazine-7-plus-theme-promo-1024x819.jpg";s:5:"width";s:4:"1024";s:6:"height";s:3:"819";s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-936x897.jpg";s:5:"width";s:3:"936";s:6:"height";s:3:"897";s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:40:"Magazine-7-plus-theme-promo-1024x819.jpg";s:5:"width";s:4:"1024";s:6:"height";s:3:"819";s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-720x380.jpg";s:5:"width";s:3:"720";s:6:"height";s:3:"380";s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-675x450.jpg";s:5:"width";s:3:"675";s:6:"height";s:3:"450";s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:960;s:4:"file";s:39:"2018/06/Magazine-7-plus-theme-promo.jpg";s:8:"filesize";i:407847;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29330;}s:5:"large";a:5:{s:4:"file";s:40:"Magazine-7-plus-theme-promo-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:227117;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10709;}s:12:"medium_large";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143145;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:218111;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:40:"Magazine-7-plus-theme-promo-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:227117;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95851;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:39:"Magazine-7-plus-theme-promo-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105879;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1101,9 +1011,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Magazine-7-plus-theme-promo-white]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/magazine-7-plus-theme-promo-white/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/magazine-7-plus-theme-promo-white/</link>
 		<pubDate>Wed, 27 Jun 2018 11:50:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo-white.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1122,14 +1032,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo-white.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/Magazine-7-plus-theme-promo-white.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/06/Magazine-7-plus-theme-promo-white.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";s:4:"1200";s:6:"height";s:3:"960";s:4:"file";s:45:"2018/06/Magazine-7-plus-theme-promo-white.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-150x150.jpg";s:5:"width";s:3:"150";s:6:"height";s:3:"150";s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-300x240.jpg";s:5:"width";s:3:"300";s:6:"height";s:3:"240";s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-768x614.jpg";s:5:"width";s:3:"768";s:6:"height";s:3:"614";s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"Magazine-7-plus-theme-promo-white-1024x819.jpg";s:5:"width";s:4:"1024";s:6:"height";s:3:"819";s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-slider-center";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-936x897.jpg";s:5:"width";s:3:"936";s:6:"height";s:3:"897";s:9:"mime-type";s:10:"image/jpeg";}s:19:"magazine-7-featured";a:4:{s:4:"file";s:46:"Magazine-7-plus-theme-promo-white-1024x819.jpg";s:5:"width";s:4:"1024";s:6:"height";s:3:"819";s:9:"mime-type";s:10:"image/jpeg";}s:17:"magazine-7-medium";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-720x380.jpg";s:5:"width";s:3:"720";s:6:"height";s:3:"380";s:9:"mime-type";s:10:"image/jpeg";}s:24:"magazine-7-medium-square";a:4:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-675x450.jpg";s:5:"width";s:3:"675";s:6:"height";s:3:"450";s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:960;s:4:"file";s:45:"2018/06/Magazine-7-plus-theme-promo-white.jpg";s:8:"filesize";i:381772;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29703;}s:5:"large";a:5:{s:4:"file";s:46:"Magazine-7-plus-theme-promo-white-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:225376;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10767;}s:12:"medium_large";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-768x614.jpg";s:5:"width";i:768;s:6:"height";i:614;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142313;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-936x897.jpg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:215453;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:46:"Magazine-7-plus-theme-promo-white-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:225376;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-720x380.jpg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95790;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:45:"Magazine-7-plus-theme-promo-white-675x450.jpg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105907;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
@@ -1137,10 +1047,47 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[salmon-dish-food-meal-46239]]></title>
+		<link>https://demos.afthemes.com/magazine-7/restro/salmon-dish-food-meal-46239-2/</link>
+		<pubDate>Wed, 27 Jul 2022 09:52:10 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2022/07/salmon-dish-food-meal-46239.jpeg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>523</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 09:52:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 09:52:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 09:52:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 09:52:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[salmon-dish-food-meal-46239-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2022/07/salmon-dish-food-meal-46239.jpeg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/07/salmon-dish-food-meal-46239.jpeg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:40:"2022/07/salmon-dish-food-meal-46239.jpeg";s:8:"filesize";i:168604;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-300x225.jpeg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14499;}s:5:"large";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6654;}s:12:"medium_large";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-768x576.jpeg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56920;}s:24:"magazine-7-slider-center";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-936x897.jpeg";s:5:"width";i:936;s:6:"height";i:897;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92270;}s:19:"magazine-7-featured";a:5:{s:4:"file";s:41:"salmon-dish-food-meal-46239-1024x768.jpeg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86212;}s:17:"magazine-7-medium";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-720x380.jpeg";s:5:"width";i:720;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43918;}s:24:"magazine-7-medium-square";a:5:{s:4:"file";s:40:"salmon-dish-food-meal-46239-675x450.jpeg";s:5:"width";i:675;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45240;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[magazine-7]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Press Center]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/press-center/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/press-center/</link>
 		<pubDate>Tue, 03 Apr 2018 07:40:27 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=167</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sed porttitor lectus nibh. Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
@@ -1165,38 +1112,51 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[EM Reports]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/em-reports/</link>
-		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/440/</link>
+		<pubDate>Fri, 15 Jun 2018 12:36:12 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=440</guid>
 		<description></description>
-		<content:encoded><![CDATA[Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat.]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-03 07:40:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-03 07:40:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_modified_gmt>
+		<wp:post_id>440</wp:post_id>
+		<wp:post_date><![CDATA[2018-06-15 12:36:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-06-15 12:36:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-15 12:36:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[em-reports]]></wp:post_name>
+		<wp:post_name><![CDATA[440]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/442/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/442/</link>
 		<pubDate>Fri, 15 Jun 2018 12:36:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=442</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1221,10 +1181,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
@@ -1233,27 +1189,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/443/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/443/</link>
 		<pubDate>Fri, 15 Jun 2018 12:36:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=443</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1278,10 +1222,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
@@ -1290,27 +1230,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/444/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/444/</link>
 		<pubDate>Fri, 15 Jun 2018 12:36:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=444</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1335,10 +1263,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[167]]></wp:meta_value>
 		</wp:postmeta>
@@ -1347,27 +1271,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/facebook/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/facebook/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=445</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1392,10 +1304,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[445]]></wp:meta_value>
 		</wp:postmeta>
@@ -1404,16 +1312,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1422,9 +1322,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/twitter/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/twitter/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=446</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1449,10 +1349,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[446]]></wp:meta_value>
 		</wp:postmeta>
@@ -1461,16 +1357,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1479,9 +1367,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/instagram/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/instagram/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=447</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1506,10 +1394,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[447]]></wp:meta_value>
 		</wp:postmeta>
@@ -1518,16 +1402,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1536,9 +1412,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/youtube/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/youtube/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:10 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=448</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1563,10 +1439,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[448]]></wp:meta_value>
 		</wp:postmeta>
@@ -1575,16 +1447,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -1593,9 +1457,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/449/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/449/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=449</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1620,10 +1484,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:postmeta>
@@ -1632,27 +1492,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/450/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/450/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=450</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1677,10 +1525,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
@@ -1689,27 +1533,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/451/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/451/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=451</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1734,10 +1566,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
 		</wp:postmeta>
@@ -1746,27 +1574,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/452/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/452/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=452</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1791,10 +1607,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
@@ -1803,27 +1615,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/453/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/15/453/</link>
 		<pubDate>Fri, 15 Jun 2018 12:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/minimal-mag/?p=453</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1848,10 +1648,6 @@
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
@@ -1860,27 +1656,15 @@
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/515/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/19/515/</link>
 		<pubDate>Tue, 19 Jun 2018 06:56:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=515</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1888,8 +1672,8 @@
 		<wp:post_id>515</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-19 06:56:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-19 06:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[515]]></wp:post_name>
@@ -1905,39 +1689,23 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/516/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/19/516/</link>
 		<pubDate>Tue, 19 Jun 2018 06:56:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=516</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1945,8 +1713,8 @@
 		<wp:post_id>516</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-19 06:56:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-19 06:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[516]]></wp:post_name>
@@ -1967,34 +1735,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/517/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/19/517/</link>
 		<pubDate>Tue, 19 Jun 2018 06:56:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=517</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2002,8 +1758,8 @@
 		<wp:post_id>517</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-19 06:56:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-19 06:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[517]]></wp:post_name>
@@ -2019,39 +1775,23 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/518/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/19/518/</link>
 		<pubDate>Tue, 19 Jun 2018 06:56:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=518</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -2059,8 +1799,8 @@
 		<wp:post_id>518</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-19 06:56:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-19 06:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-19 06:56:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[518]]></wp:post_name>
@@ -2076,39 +1816,23 @@
 		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Tips & Tricks]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/tips-tricks/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/19/tips-tricks/</link>
 		<pubDate>Tue, 19 Jun 2018 06:56:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=519</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2116,8 +1840,8 @@
 		<wp:post_id>519</wp:post_id>
 		<wp:post_date><![CDATA[2018-06-19 06:56:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-06-19 06:56:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-26 09:17:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-26 09:17:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-06-19 06:56:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-06-19 06:56:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tips-tricks]]></wp:post_name>
@@ -2138,34 +1862,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
 		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Upgrade to Pro]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/upgrade-to-pro/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/06/26/upgrade-to-pro/</link>
 		<pubDate>Tue, 26 Jun 2018 09:17:28 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/magazine-7/restro/?p=520</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2190,10 +1902,6 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[520]]></wp:meta_value>
 		</wp:postmeta>
@@ -2202,16 +1910,8 @@
 		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
@@ -2219,10 +1919,56 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/magazine-7/restro/sample-page/</link>
+		<pubDate>Wed, 27 Jul 2022 09:46:49 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/restro/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/magazine-7/restro/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-27 09:46:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-27 09:46:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-27 09:46:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-27 09:46:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2256,9 +2002,9 @@
 							</item>
 					<item>
 		<title><![CDATA[About]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/about/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/about/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.]]></content:encoded>
@@ -2288,9 +2034,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/contact/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/contact/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.]]></content:encoded>
@@ -2320,9 +2066,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/blog/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/blog/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2352,9 +2098,9 @@
 							</item>
 					<item>
 		<title><![CDATA[A homepage section]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/a-homepage-section/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/a-homepage-section/</link>
 		<pubDate>Sun, 08 Apr 2018 08:13:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/?page_id=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.]]></content:encoded>
@@ -2384,9 +2130,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Valentino Goes Deliberately Feminine for Fall 2018]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/valentino-goes-deliberately-feminine-for-fall-2018/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/06/valentino-goes-deliberately-feminine-for-fall-2018/</link>
 		<pubDate>Tue, 06 Mar 2018 09:51:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla porttitor accumsan tincidunt.]]></content:encoded>
@@ -2394,8 +2140,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:51:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:53:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:53:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:51:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:51:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[valentino-goes-deliberately-feminine-for-fall-2018]]></wp:post_name>
@@ -2435,9 +2181,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Meet Jo Jo, Body Positive Model and Cousin of Gigi]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/06/meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella/</link>
 		<pubDate>Tue, 06 Mar 2018 09:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[Sed porttitor lectus nibh. Proin eget tortor risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
@@ -2445,8 +2191,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-06 09:53:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:53:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:53:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-06 09:53:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-06 09:53:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[meet-jo-jo-body-positive-model-and-cousin-of-gigi-and-bella]]></wp:post_name>
@@ -2485,9 +2231,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Finland's Down's model Maija makes strides on catwalk]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/finlands-downs-model-maija-mattila-makes-strides-on-catwalk/</link>
 		<pubDate>Mon, 12 Mar 2018 11:25:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=82</guid>
 		<description></description>
 		<content:encoded><![CDATA[Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,  At vero eos et accusam et justo duo dolores et ea rebum.  Lorem ipsum dolor sit amet,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  Stet clita kasd gubergren,  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  no sea takimata sanctus est Lorem ipsum dolor sit amet.  sed diam voluptua.  
@@ -2497,8 +2243,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:25:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:53:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:53:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 11:25:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 11:25:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[finlands-downs-model-maija-mattila-makes-strides-on-catwalk]]></wp:post_name>
@@ -2537,9 +2283,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[How to Create Adjustment Layers Based on Color]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/how-to-create-adjustment-layers-based-on-color-in-capture-one-9/</link>
 		<pubDate>Mon, 12 Mar 2018 11:34:08 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=88</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Pellentesque in ipsum id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Proin eget tortor risus. Nulla porttitor accumsan tincidunt. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.]]></content:encoded>
@@ -2547,8 +2293,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 11:34:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:53:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:53:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 11:34:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 11:34:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-create-adjustment-layers-based-on-color-in-capture-one-9]]></wp:post_name>
@@ -2610,9 +2356,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 					</item>
 					<item>
 		<title><![CDATA[If You Have $5, Zendaya Found the Spring Collections]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs/</link>
 		<pubDate>Mon, 12 Mar 2018 12:34:46 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=103</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat.]]></content:encoded>
@@ -2620,8 +2366,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:34:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:34:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:34:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[if-you-have-5-zendaya-found-the-spring-collection-your-wardrobe-needs]]></wp:post_name>
@@ -2659,7 +2405,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>3</wp:comment_id>
 			<wp:comment_author><![CDATA[nom]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[email@gmail.com]]></wp:comment_author_email>
 			<wp:comment_author_url>http://nonnomemail</wp:comment_author_url>
@@ -2683,9 +2429,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 					</item>
 					<item>
 		<title><![CDATA[The Beauty Products Chrissy Teigen Can’t Travel Without]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/the-beauty-products-chrissy-teigen-cant-travel-without/</link>
 		<pubDate>Mon, 12 Mar 2018 12:35:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=106</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus suscipit tortor eget felis porttitor volutpat. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.]]></content:encoded>
@@ -2693,8 +2439,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:35:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:35:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:35:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-beauty-products-chrissy-teigen-cant-travel-without]]></wp:post_name>
@@ -2734,9 +2480,9 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Gisele Bündchen Can’t Stop Wearing These Retro Jeans]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport/</link>
 		<pubDate>Mon, 12 Mar 2018 12:44:18 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=111</guid>
 		<description></description>
 		<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.]]></content:encoded>
@@ -2744,8 +2490,8 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 12:44:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 12:44:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 12:44:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gisele-bundchen-cant-stop-wearing-these-retro-jeans-to-the-airport]]></wp:post_name>
@@ -2788,20 +2534,23 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Perms Are Coming Back—but They’re Getting a Modern]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/perms-are-coming-back-but-theyre-getting-a-modern-makeover/</link>
 		<pubDate>Mon, 12 Mar 2018 13:06:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=118</guid>
 		<description></description>
-		<content:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+		<content:encoded><![CDATA[<p>Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Quisque velit nisi, pretium ut lacinia in, elementum id enim.</p>
+<p>Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.</p>
 
-Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Pellentesque in ipsum id orci porta dapibus.]]></content:encoded>
+<!-- wp:image {"id":481,"width":1024,"height":685,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://demos.afthemes.com/magazine-7/restro/wp-content/uploads/sites/2/2018/06/food-dinner-pasta-spaghetti-8500-1024x685.jpg" alt="" class="wp-image-481" width="1024" height="685"/></figure>
+<!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.]]></excerpt:encoded>
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:06:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:06:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-16 05:02:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-16 05:02:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[perms-are-coming-back-but-theyre-getting-a-modern-makeover]]></wp:post_name>
@@ -2838,12 +2587,20 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:meta_key><![CDATA[magazine-7-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Don’t Call Demi A “Bad Girl” — She’s Just Speaking Out]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out/</link>
 		<pubDate>Mon, 12 Mar 2018 13:07:47 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[Curabitur aliquet quam id dui posuere blandit. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur aliquet quam id dui posuere blandit.]]></content:encoded>
@@ -2851,8 +2608,8 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:07:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 13:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 13:07:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[dont-call-demi-lovato-a-bad-girl-shes-just-speaking-out]]></wp:post_name>
@@ -2894,9 +2651,9 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 							</item>
 					<item>
 		<title><![CDATA[Aerie Collection Was Originally Designed By Iskra]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/2018/03/12/this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence/</link>
 		<pubDate>Mon, 12 Mar 2018 13:10:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?p=127</guid>
 		<description></description>
 		<content:encoded><![CDATA[Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lectus nibh. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.]]></content:encoded>
@@ -2904,8 +2661,8 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:post_id>127</wp:post_id>
 		<wp:post_date><![CDATA[2018-03-12 13:10:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-06-19 06:52:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-06-19 06:52:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2018-03-12 13:10:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-03-12 13:10:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[this-new-aerie-collection-was-designed-by-aly-raisman-and-iskra-lawrence]]></wp:post_name>
@@ -2944,7 +2701,7 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[Refleksi Family Terdekat]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[shannacassidy@googlemail.com]]></wp:comment_author_email>
 			<wp:comment_author_url>https://halojasa.com/blog/blog/2020/10/08/refleksi-family-terdekat-memiliki-banyak-manfaat-bagi-kesehatan/</wp:comment_author_url>
@@ -2956,7 +2713,7 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 This article posted at this website is genuinely pleasant.
 
 
-My homepage; <a href="https://halojasa.com/blog/blog/2020/10/08/refleksi-family-terdekat-memiliki-banyak-manfaat-bagi-kesehatan/" rel="nofollow">Refleksi Family Terdekat</a>]]></wp:comment_content>
+My homepage; <a href=\"https://halojasa.com/blog/blog/2020/10/08/refleksi-family-terdekat-memiliki-banyak-manfaat-bagi-kesehatan/\" rel=\"nofollow ugc\">Refleksi Family Terdekat</a>]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -2971,7 +2728,7 @@ My homepage; <a href="https://halojasa.com/blog/blog/2020/10/08/refleksi-family-
 			</wp:commentmeta>
 							</wp:comment>
 					<wp:comment>
-			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_id>5</wp:comment_id>
 			<wp:comment_author><![CDATA[paketqq]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[maurinetolentino@gmail.com]]></wp:comment_author_email>
 			<wp:comment_author_url>https://djazairsport.com</wp:comment_author_url>
@@ -2982,7 +2739,7 @@ My homepage; <a href="https://halojasa.com/blog/blog/2020/10/08/refleksi-family-
 on this post. I am returning to your web 
 site for more soon.
 
-Here is my homepage <a href="https://djazairsport.com" rel="nofollow">paketqq</a>]]></wp:comment_content>
+Here is my homepage <a href=\"https://djazairsport.com\" rel=\"nofollow ugc\">paketqq</a>]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -2998,10 +2755,38 @@ Here is my homepage <a href="https://djazairsport.com" rel="nofollow">paketqq</a
 							</wp:comment>
 					</item>
 					<item>
+		<title><![CDATA[EM Reports]]></title>
+		<link>https://demos.afthemes.com/magazine-7/restro/em-reports/</link>
+		<pubDate>Tue, 03 Apr 2018 07:40:49 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur aliquet quam id dui posuere blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Nulla quis lorem ut libero malesuada feugiat.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-03 07:40:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-03 07:40:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-03 07:40:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[em-reports]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Careers]]></title>
-		<link>https://demo.afthemes.com/magazine-7/restro/careers/</link>
+		<link>https://demos.afthemes.com/magazine-7/restro/careers/</link>
 		<pubDate>Tue, 03 Apr 2018 07:41:03 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/?page_id=171</guid>
 		<description></description>
 		<content:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin molestie malesuada. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Sed porttitor lectus nibh.]]></content:encoded>
@@ -3025,6 +2810,31 @@ Here is my homepage <a href="https://djazairsport.com" rel="nofollow">paketqq</a
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/magazine-7/restro/2022/08/16/wp-global-styles-magazine-7/</link>
+		<pubDate>Tue, 16 Aug 2022 05:01:38 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/magazine-7/restro/2022/08/16/wp-global-styles-magazine-7/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>528</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-16 05:01:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-16 05:01:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-16 05:01:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-16 05:01:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-magazine-7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="magazine-7"><![CDATA[magazine-7]]></category>
+						</item>
 				</channel>
 </rss>
 	

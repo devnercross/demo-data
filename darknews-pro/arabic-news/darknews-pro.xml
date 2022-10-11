@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-25 06:06" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-05 10:57" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,15 +27,15 @@
 
 <channel>
 	<title>أخبار عربية</title>
-	<link>https://demo.afthemes.com/darknews-pro/arabic-news</link>
+	<link>https://demos.afthemes.com/darknews-pro/arabic-news</link>
 	<description></description>
-	<pubDate>Tue, 25 Jan 2022 06:06:28 +0000</pubDate>
+	<pubDate>Mon, 05 Sep 2022 10:57:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.afthemes.com/darknews-pro/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.afthemes.com/darknews-pro/arabic-news</wp:base_blog_url>
+	<wp:base_site_url>https://demos.afthemes.com/darknews-pro/</wp:base_site_url>
+	<wp:base_blog_url>https://demos.afthemes.com/darknews-pro/arabic-news</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[-sup3rv1s0r]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -173,13 +173,21 @@
 	<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/cropped-af-themes-main-dark-8-300x300-1-150x150.png</url>
+	<title>أخبار عربية</title>
+	<link>https://demos.afthemes.com/darknews-pro/arabic-news</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
 		<title><![CDATA[pexels-cdc-3992933]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%ac%d8%a7%d8%a1-%d9%85%d8%aa%d8%ad%d9%88%d8%b1-%d8%a3%d9%88%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%86/pexels-cdc-3992933/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%ac%d8%a7%d8%a1-%d9%85%d8%aa%d8%ad%d9%88%d8%b1-%d8%a3%d9%88%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%86/pexels-cdc-3992933/</link>
 		<pubDate>Thu, 16 Dec 2021 05:43:42 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-cdc-3992933.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -187,8 +195,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:43:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:43:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-cdc-3992933]]></wp:post_name>
@@ -198,21 +206,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-cdc-3992933.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-cdc-3992933.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-cdc-3992933.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:30:"2021/12/pexels-cdc-3992933.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:30:"pexels-cdc-3992933-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:31:"pexels-cdc-3992933-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"pexels-cdc-3992933-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"pexels-cdc-3992933-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:31:"pexels-cdc-3992933-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:30:"pexels-cdc-3992933-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:30:"pexels-cdc-3992933-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:30:"2021/12/pexels-cdc-3992933.jpg";s:8:"filesize";i:101950;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:30:"pexels-cdc-3992933-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10690;}s:5:"large";a:5:{s:4:"file";s:31:"pexels-cdc-3992933-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63482;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"pexels-cdc-3992933-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8765;}s:12:"medium_large";a:5:{s:4:"file";s:30:"pexels-cdc-3992933-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42565;}s:17:"darknews-featured";a:5:{s:4:"file";s:31:"pexels-cdc-3992933-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63482;}s:14:"darknews-large";a:5:{s:4:"file";s:30:"pexels-cdc-3992933-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62291;}s:15:"darknews-medium";a:5:{s:4:"file";s:30:"pexels-cdc-3992933-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38356;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-august-de-richelieu-4427609]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7/pexels-august-de-richelieu-4427609/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7/pexels-august-de-richelieu-4427609/</link>
 		<pubDate>Thu, 16 Dec 2021 05:53:31 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-august-de-richelieu-4427609.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -220,8 +228,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:53:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:53:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-august-de-richelieu-4427609]]></wp:post_name>
@@ -231,21 +239,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-august-de-richelieu-4427609.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-august-de-richelieu-4427609.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-august-de-richelieu-4427609.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:46:"2021/12/pexels-august-de-richelieu-4427609.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"pexels-august-de-richelieu-4427609-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:47:"pexels-august-de-richelieu-4427609-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:46:"2021/12/pexels-august-de-richelieu-4427609.jpg";s:8:"filesize";i:174463;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15797;}s:5:"large";a:5:{s:4:"file";s:47:"pexels-august-de-richelieu-4427609-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96221;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7123;}s:12:"medium_large";a:5:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63195;}s:17:"darknews-featured";a:5:{s:4:"file";s:47:"pexels-august-de-richelieu-4427609-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96221;}s:14:"darknews-large";a:5:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72485;}s:15:"darknews-medium";a:5:{s:4:"file";s:46:"pexels-august-de-richelieu-4427609-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44369;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-quang-nguyen-vinh-2150362]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%aa-%d8%a8%d9%82%d8%b9%d8%a9-%d9%85%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7/pexels-quang-nguyen-vinh-2150362/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%aa-%d8%a8%d9%82%d8%b9%d8%a9-%d9%85%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7/pexels-quang-nguyen-vinh-2150362/</link>
 		<pubDate>Thu, 16 Dec 2021 05:56:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-quang-nguyen-vinh-2150362.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -253,8 +261,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:56:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:56:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-quang-nguyen-vinh-2150362]]></wp:post_name>
@@ -264,21 +272,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-quang-nguyen-vinh-2150362.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-quang-nguyen-vinh-2150362.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-quang-nguyen-vinh-2150362.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:44:"2021/12/pexels-quang-nguyen-vinh-2150362.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"pexels-quang-nguyen-vinh-2150362-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:45:"pexels-quang-nguyen-vinh-2150362-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:44:"2021/12/pexels-quang-nguyen-vinh-2150362.jpg";s:8:"filesize";i:218515;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11150;}s:5:"large";a:5:{s:4:"file";s:45:"pexels-quang-nguyen-vinh-2150362-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108792;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4970;}s:12:"medium_large";a:5:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65169;}s:17:"darknews-featured";a:5:{s:4:"file";s:45:"pexels-quang-nguyen-vinh-2150362-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108792;}s:14:"darknews-large";a:5:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77609;}s:15:"darknews-medium";a:5:{s:4:"file";s:44:"pexels-quang-nguyen-vinh-2150362-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42167;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-87772]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa/pexels-pixabay-87772/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa/pexels-pixabay-87772/</link>
 		<pubDate>Thu, 16 Dec 2021 06:01:48 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-pixabay-87772.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -286,8 +294,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:01:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:01:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-pixabay-87772]]></wp:post_name>
@@ -297,21 +305,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-pixabay-87772.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-pixabay-87772.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-pixabay-87772.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:770;s:4:"file";s:32:"2021/12/pexels-pixabay-87772.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-pixabay-87772-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-pixabay-87772-1024x616.jpg";s:5:"width";i:1024;s:6:"height";i:616;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-pixabay-87772-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-pixabay-87772-768x462.jpg";s:5:"width";i:768;s:6:"height";i:462;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:33:"pexels-pixabay-87772-1024x616.jpg";s:5:"width";i:1024;s:6:"height";i:616;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:32:"pexels-pixabay-87772-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:32:"pexels-pixabay-87772-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:770;s:4:"file";s:32:"2021/12/pexels-pixabay-87772.jpg";s:8:"filesize";i:265835;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-pixabay-87772-300x180.jpg";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18425;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-pixabay-87772-1024x616.jpg";s:5:"width";i:1024;s:6:"height";i:616;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143467;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-pixabay-87772-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8313;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-pixabay-87772-768x462.jpg";s:5:"width";i:768;s:6:"height";i:462;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90798;}s:17:"darknews-featured";a:5:{s:4:"file";s:33:"pexels-pixabay-87772-1024x616.jpg";s:5:"width";i:1024;s:6:"height";i:616;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143467;}s:14:"darknews-large";a:5:{s:4:"file";s:32:"pexels-pixabay-87772-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112314;}s:15:"darknews-medium";a:5:{s:4:"file";s:32:"pexels-pixabay-87772-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64798;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-patrick-case-3746005]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%a7/pexels-patrick-case-3746005/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%a7/pexels-patrick-case-3746005/</link>
 		<pubDate>Thu, 16 Dec 2021 06:04:17 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-patrick-case-3746005.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -319,8 +327,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:04:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:04:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-patrick-case-3746005]]></wp:post_name>
@@ -330,21 +338,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-patrick-case-3746005.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-patrick-case-3746005.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-patrick-case-3746005.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2021/12/pexels-patrick-case-3746005.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"pexels-patrick-case-3746005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"pexels-patrick-case-3746005-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:39:"pexels-patrick-case-3746005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"pexels-patrick-case-3746005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:40:"pexels-patrick-case-3746005-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:39:"pexels-patrick-case-3746005-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:39:"pexels-patrick-case-3746005-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2021/12/pexels-patrick-case-3746005.jpg";s:8:"filesize";i:285806;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:39:"pexels-patrick-case-3746005-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18686;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-patrick-case-3746005-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149592;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-patrick-case-3746005-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8359;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-patrick-case-3746005-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92276;}s:17:"darknews-featured";a:5:{s:4:"file";s:40:"pexels-patrick-case-3746005-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149592;}s:14:"darknews-large";a:5:{s:4:"file";s:39:"pexels-patrick-case-3746005-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108380;}s:15:"darknews-medium";a:5:{s:4:"file";s:39:"pexels-patrick-case-3746005-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61357;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-2166]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/pexels-pixabay-2166/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/pexels-pixabay-2166/</link>
 		<pubDate>Thu, 16 Dec 2021 06:07:55 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-pixabay-2166.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -352,8 +360,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:07:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:07:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-pixabay-2166]]></wp:post_name>
@@ -363,21 +371,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-pixabay-2166.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-pixabay-2166.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-pixabay-2166.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:31:"2021/12/pexels-pixabay-2166.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:31:"pexels-pixabay-2166-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"pexels-pixabay-2166-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:31:"pexels-pixabay-2166-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"pexels-pixabay-2166-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:32:"pexels-pixabay-2166-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:31:"pexels-pixabay-2166-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:31:"pexels-pixabay-2166-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:31:"2021/12/pexels-pixabay-2166.jpg";s:8:"filesize";i:146035;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:31:"pexels-pixabay-2166-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10581;}s:5:"large";a:5:{s:4:"file";s:32:"pexels-pixabay-2166-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75048;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"pexels-pixabay-2166-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5039;}s:12:"medium_large";a:5:{s:4:"file";s:31:"pexels-pixabay-2166-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47023;}s:17:"darknews-featured";a:5:{s:4:"file";s:32:"pexels-pixabay-2166-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75048;}s:14:"darknews-large";a:5:{s:4:"file";s:31:"pexels-pixabay-2166-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54599;}s:15:"darknews-medium";a:5:{s:4:"file";s:31:"pexels-pixabay-2166-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31819;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-monstera-6281988]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/pexels-monstera-6281988/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/pexels-monstera-6281988/</link>
 		<pubDate>Thu, 16 Dec 2021 06:22:35 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-monstera-6281988.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -385,8 +393,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:22:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:22:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-monstera-6281988]]></wp:post_name>
@@ -396,21 +404,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-monstera-6281988.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-monstera-6281988.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-monstera-6281988.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2021/12/pexels-monstera-6281988.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:35:"pexels-monstera-6281988-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"pexels-monstera-6281988-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:35:"pexels-monstera-6281988-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:35:"pexels-monstera-6281988-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:36:"pexels-monstera-6281988-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:35:"pexels-monstera-6281988-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:35:"pexels-monstera-6281988-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2021/12/pexels-monstera-6281988.jpg";s:8:"filesize";i:157748;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-monstera-6281988-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11470;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-monstera-6281988-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83719;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-monstera-6281988-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5636;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-monstera-6281988-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52310;}s:17:"darknews-featured";a:5:{s:4:"file";s:36:"pexels-monstera-6281988-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83719;}s:14:"darknews-large";a:5:{s:4:"file";s:35:"pexels-monstera-6281988-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60515;}s:15:"darknews-medium";a:5:{s:4:"file";s:35:"pexels-monstera-6281988-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35308;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-karolina-grabowska-7876503]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/pexels-karolina-grabowska-7876503/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/pexels-karolina-grabowska-7876503/</link>
 		<pubDate>Thu, 16 Dec 2021 06:26:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-karolina-grabowska-7876503.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -418,8 +426,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:26:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:26:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-karolina-grabowska-7876503]]></wp:post_name>
@@ -429,21 +437,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-karolina-grabowska-7876503.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-karolina-grabowska-7876503.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-karolina-grabowska-7876503.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:45:"2021/12/pexels-karolina-grabowska-7876503.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"pexels-karolina-grabowska-7876503-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:46:"pexels-karolina-grabowska-7876503-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:45:"2021/12/pexels-karolina-grabowska-7876503.jpg";s:8:"filesize";i:138846;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10329;}s:5:"large";a:5:{s:4:"file";s:46:"pexels-karolina-grabowska-7876503-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74679;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5511;}s:12:"medium_large";a:5:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48218;}s:17:"darknews-featured";a:5:{s:4:"file";s:46:"pexels-karolina-grabowska-7876503-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74679;}s:14:"darknews-large";a:5:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57167;}s:15:"darknews-medium";a:5:{s:4:"file";s:45:"pexels-karolina-grabowska-7876503-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32919;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pixabay-37072]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-pixabay-37072/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-pixabay-37072/</link>
 		<pubDate>Thu, 16 Dec 2021 06:30:09 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-pixabay-37072.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -451,8 +459,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:30:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:30:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-pixabay-37072]]></wp:post_name>
@@ -462,21 +470,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-pixabay-37072.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-pixabay-37072.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-pixabay-37072.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:835;s:4:"file";s:32:"2021/12/pexels-pixabay-37072.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-pixabay-37072-300x196.jpg";s:5:"width";i:300;s:6:"height";i:196;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-pixabay-37072-1024x668.jpg";s:5:"width";i:1024;s:6:"height";i:668;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-pixabay-37072-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-pixabay-37072-768x501.jpg";s:5:"width";i:768;s:6:"height";i:501;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:33:"pexels-pixabay-37072-1024x668.jpg";s:5:"width";i:1024;s:6:"height";i:668;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:32:"pexels-pixabay-37072-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:32:"pexels-pixabay-37072-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:835;s:4:"file";s:32:"2021/12/pexels-pixabay-37072.jpg";s:8:"filesize";i:165055;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-pixabay-37072-300x196.jpg";s:5:"width";i:300;s:6:"height";i:196;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10638;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-pixabay-37072-1024x668.jpg";s:5:"width";i:1024;s:6:"height";i:668;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83852;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-pixabay-37072-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5429;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-pixabay-37072-768x501.jpg";s:5:"width";i:768;s:6:"height";i:501;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50464;}s:17:"darknews-featured";a:5:{s:4:"file";s:33:"pexels-pixabay-37072-1024x668.jpg";s:5:"width";i:1024;s:6:"height";i:668;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83852;}s:14:"darknews-large";a:5:{s:4:"file";s:32:"pexels-pixabay-37072-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61673;}s:15:"darknews-medium";a:5:{s:4:"file";s:32:"pexels-pixabay-37072-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34459;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mikhail-nilov-8939096]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-mikhail-nilov-8939096/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-mikhail-nilov-8939096/</link>
 		<pubDate>Thu, 16 Dec 2021 06:56:51 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-mikhail-nilov-8939096.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -484,8 +492,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:56:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:56:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-mikhail-nilov-8939096]]></wp:post_name>
@@ -495,21 +503,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-mikhail-nilov-8939096.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-mikhail-nilov-8939096.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-mikhail-nilov-8939096.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:40:"2021/12/pexels-mikhail-nilov-8939096.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"pexels-mikhail-nilov-8939096-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:41:"pexels-mikhail-nilov-8939096-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:40:"2021/12/pexels-mikhail-nilov-8939096.jpg";s:8:"filesize";i:172699;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11960;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-8939096-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89783;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6074;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55749;}s:17:"darknews-featured";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-8939096-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89783;}s:14:"darknews-large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65552;}s:15:"darknews-medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-8939096-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37716;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-johannes-plenio-1996035]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/pexels-johannes-plenio-1996035/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/pexels-johannes-plenio-1996035/</link>
 		<pubDate>Thu, 16 Dec 2021 07:10:39 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-johannes-plenio-1996035.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -528,14 +536,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-johannes-plenio-1996035.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-johannes-plenio-1996035.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-johannes-plenio-1996035.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2021/12/pexels-johannes-plenio-1996035.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"pexels-johannes-plenio-1996035-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:43:"pexels-johannes-plenio-1996035-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2021/12/pexels-johannes-plenio-1996035.jpg";s:8:"filesize";i:52046;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5888;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-johannes-plenio-1996035-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30424;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3042;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20213;}s:17:"darknews-featured";a:5:{s:4:"file";s:43:"pexels-johannes-plenio-1996035-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30424;}s:14:"darknews-large";a:5:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23142;}s:15:"darknews-medium";a:5:{s:4:"file";s:42:"pexels-johannes-plenio-1996035-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14495;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_background]]></wp:meta_key>
@@ -544,9 +552,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-johannes-plenio-1996035.jpg]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/cropped-pexels-johannes-plenio-1996035-jpg/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/cropped-pexels-johannes-plenio-1996035-jpg/</link>
 		<pubDate>Thu, 16 Dec 2021 07:11:19 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/cropped-pexels-johannes-plenio-1996035.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -565,14 +573,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/cropped-pexels-johannes-plenio-1996035.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/cropped-pexels-johannes-plenio-1996035.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/cropped-pexels-johannes-plenio-1996035.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:50:"2021/12/cropped-pexels-johannes-plenio-1996035.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:49:"cropped-pexels-johannes-plenio-1996035-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"cropped-pexels-johannes-plenio-1996035-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-768x204.jpg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:51:"cropped-pexels-johannes-plenio-1996035-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-825x399.jpg";s:5:"width";i:825;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-590x399.jpg";s:5:"width";i:590;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:399;s:4:"file";s:50:"2021/12/cropped-pexels-johannes-plenio-1996035.jpg";s:8:"filesize";i:20713;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:49:"cropped-pexels-johannes-plenio-1996035-300x80.jpg";s:5:"width";i:300;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2663;}s:5:"large";a:5:{s:4:"file";s:51:"cropped-pexels-johannes-plenio-1996035-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12188;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1717;}s:12:"medium_large";a:5:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-768x204.jpg";s:5:"width";i:768;s:6:"height";i:204;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8339;}s:17:"darknews-featured";a:5:{s:4:"file";s:51:"cropped-pexels-johannes-plenio-1996035-1024x272.jpg";s:5:"width";i:1024;s:6:"height";i:272;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12188;}s:14:"darknews-large";a:5:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-825x399.jpg";s:5:"width";i:825;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11406;}s:15:"darknews-medium";a:5:{s:4:"file";s:50:"cropped-pexels-johannes-plenio-1996035-590x399.jpg";s:5:"width";i:590;s:6:"height";i:399;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7670;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -589,9 +597,9 @@
 							</item>
 					<item>
 		<title><![CDATA[pexels-snapwire-670061]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-snapwire-670061/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-snapwire-670061/</link>
 		<pubDate>Thu, 16 Dec 2021 09:04:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-snapwire-670061.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -599,8 +607,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 09:04:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 09:04:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-snapwire-670061]]></wp:post_name>
@@ -610,21 +618,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-snapwire-670061.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:794;s:4:"file";s:34:"2021/12/pexels-snapwire-670061.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:34:"pexels-snapwire-670061-300x186.jpg";s:5:"width";i:300;s:6:"height";i:186;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"pexels-snapwire-670061-1024x635.jpg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"pexels-snapwire-670061-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"pexels-snapwire-670061-768x476.jpg";s:5:"width";i:768;s:6:"height";i:476;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:35:"pexels-snapwire-670061-1024x635.jpg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:34:"pexels-snapwire-670061-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:34:"pexels-snapwire-670061-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:794;s:4:"file";s:34:"2021/12/pexels-snapwire-670061.jpg";s:8:"filesize";i:70996;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-snapwire-670061-300x186.jpg";s:5:"width";i:300;s:6:"height";i:186;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6207;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-snapwire-670061-1024x635.jpg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39531;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-snapwire-670061-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3379;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-snapwire-670061-768x476.jpg";s:5:"width";i:768;s:6:"height";i:476;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25135;}s:17:"darknews-featured";a:5:{s:4:"file";s:35:"pexels-snapwire-670061-1024x635.jpg";s:5:"width";i:1024;s:6:"height";i:635;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39531;}s:14:"darknews-large";a:5:{s:4:"file";s:34:"pexels-snapwire-670061-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30490;}s:15:"darknews-medium";a:5:{s:4:"file";s:34:"pexels-snapwire-670061-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18153;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-konevi-2236674]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/</link>
 		<pubDate>Thu, 16 Dec 2021 09:06:22 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -632,8 +640,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 09:06:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 09:06:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-konevi-2236674]]></wp:post_name>
@@ -643,21 +651,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-konevi-2236674.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-konevi-2236674.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-konevi-2236674.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2021/12/pexels-konevi-2236674.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:33:"pexels-konevi-2236674-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-konevi-2236674-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-konevi-2236674-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:33:"pexels-konevi-2236674-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:34:"pexels-konevi-2236674-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:33:"pexels-konevi-2236674-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:33:"pexels-konevi-2236674-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2021/12/pexels-konevi-2236674.jpg";s:8:"filesize";i:100137;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:33:"pexels-konevi-2236674-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7322;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-konevi-2236674-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52849;}s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-konevi-2236674-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3467;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-konevi-2236674-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33123;}s:17:"darknews-featured";a:5:{s:4:"file";s:34:"pexels-konevi-2236674-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52849;}s:14:"darknews-large";a:5:{s:4:"file";s:33:"pexels-konevi-2236674-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38465;}s:15:"darknews-medium";a:5:{s:4:"file";s:33:"pexels-konevi-2236674-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22517;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-af-themes-main-dark-8-300x300]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/cropped-af-themes-main-dark-8-300x300/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/cropped-af-themes-main-dark-8-300x300/</link>
 		<pubDate>Fri, 17 Dec 2021 05:13:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/cropped-af-themes-main-dark-8-300x300-1.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -676,21 +684,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/cropped-af-themes-main-dark-8-300x300-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/cropped-af-themes-main-dark-8-300x300-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/cropped-af-themes-main-dark-8-300x300-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:51:"2021/12/cropped-af-themes-main-dark-8-300x300-1.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:51:"cropped-af-themes-main-dark-8-300x300-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:51:"2021/12/cropped-af-themes-main-dark-8-300x300-1.png";s:8:"filesize";i:33106;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:51:"cropped-af-themes-main-dark-8-300x300-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11427;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mikhail-nilov-7582655]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-mikhail-nilov-7582655/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-mikhail-nilov-7582655/</link>
 		<pubDate>Wed, 22 Dec 2021 08:11:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-mikhail-nilov-7582655.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -698,8 +706,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-22 08:11:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-22 08:11:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-mikhail-nilov-7582655]]></wp:post_name>
@@ -709,21 +717,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-mikhail-nilov-7582655.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-mikhail-nilov-7582655.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-mikhail-nilov-7582655.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2021/12/pexels-mikhail-nilov-7582655.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"pexels-mikhail-nilov-7582655-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:41:"pexels-mikhail-nilov-7582655-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2021/12/pexels-mikhail-nilov-7582655.jpg";s:8:"filesize";i:145362;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14362;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7582655-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82958;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6969;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55359;}s:17:"darknews-featured";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7582655-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82958;}s:14:"darknews-large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62318;}s:15:"darknews-medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7582655-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38552;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-roxanne-minnish-7976216]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-roxanne-minnish-7976216/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-roxanne-minnish-7976216/</link>
 		<pubDate>Wed, 22 Dec 2021 08:11:30 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-roxanne-minnish-7976216.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -731,8 +739,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-22 08:11:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-22 08:11:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-roxanne-minnish-7976216]]></wp:post_name>
@@ -742,21 +750,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-roxanne-minnish-7976216.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-roxanne-minnish-7976216.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-roxanne-minnish-7976216.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2021/12/pexels-roxanne-minnish-7976216.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"pexels-roxanne-minnish-7976216-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:43:"pexels-roxanne-minnish-7976216-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2021/12/pexels-roxanne-minnish-7976216.jpg";s:8:"filesize";i:180276;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13380;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-roxanne-minnish-7976216-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93775;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6285;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58379;}s:17:"darknews-featured";a:5:{s:4:"file";s:43:"pexels-roxanne-minnish-7976216-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93775;}s:14:"darknews-large";a:5:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68207;}s:15:"darknews-medium";a:5:{s:4:"file";s:42:"pexels-roxanne-minnish-7976216-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39457;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-pascal-renet-1089306]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/pexels-pascal-renet-1089306/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/pexels-pascal-renet-1089306/</link>
 		<pubDate>Wed, 22 Dec 2021 08:13:00 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-pascal-renet-1089306.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -764,8 +772,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-22 08:13:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-22 08:13:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-pascal-renet-1089306]]></wp:post_name>
@@ -775,21 +783,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-pascal-renet-1089306.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-pascal-renet-1089306.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-pascal-renet-1089306.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2021/12/pexels-pascal-renet-1089306.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:39:"pexels-pascal-renet-1089306-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"pexels-pascal-renet-1089306-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:39:"pexels-pascal-renet-1089306-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"pexels-pascal-renet-1089306-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:40:"pexels-pascal-renet-1089306-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:39:"pexels-pascal-renet-1089306-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:39:"pexels-pascal-renet-1089306-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2021/12/pexels-pascal-renet-1089306.jpg";s:8:"filesize";i:63506;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:39:"pexels-pascal-renet-1089306-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5629;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-pascal-renet-1089306-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35064;}s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-pascal-renet-1089306-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3335;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-pascal-renet-1089306-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22260;}s:17:"darknews-featured";a:5:{s:4:"file";s:40:"pexels-pascal-renet-1089306-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35064;}s:14:"darknews-large";a:5:{s:4:"file";s:39:"pexels-pascal-renet-1089306-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26321;}s:15:"darknews-medium";a:5:{s:4:"file";s:39:"pexels-pascal-renet-1089306-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15881;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-spacex-586040]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/pexels-spacex-586040/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/pexels-spacex-586040/</link>
 		<pubDate>Wed, 22 Dec 2021 08:14:38 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-spacex-586040.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -797,8 +805,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-22 08:14:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-22 08:14:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pexels-spacex-586040]]></wp:post_name>
@@ -808,21 +816,21 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-spacex-586040.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-spacex-586040.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/pexels-spacex-586040.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2021/12/pexels-spacex-586040.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:32:"pexels-spacex-586040-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"pexels-spacex-586040-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"pexels-spacex-586040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"pexels-spacex-586040-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:33:"pexels-spacex-586040-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:32:"pexels-spacex-586040-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:32:"pexels-spacex-586040-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2021/12/pexels-spacex-586040.jpg";s:8:"filesize";i:211947;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:32:"pexels-spacex-586040-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12905;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-spacex-586040-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108177;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-spacex-586040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5989;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-spacex-586040-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66025;}s:17:"darknews-featured";a:5:{s:4:"file";s:33:"pexels-spacex-586040-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108177;}s:14:"darknews-large";a:5:{s:4:"file";s:32:"pexels-spacex-586040-825x575.jpg";s:5:"width";i:825;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77838;}s:15:"darknews-medium";a:5:{s:4:"file";s:32:"pexels-spacex-586040-590x410.jpg";s:5:"width";i:590;s:6:"height";i:410;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43699;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[cropped-pexels-pascal-renet-1089306.jpg]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/cropped-pexels-pascal-renet-1089306-jpg/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/cropped-pexels-pascal-renet-1089306-jpg/</link>
 		<pubDate>Wed, 22 Dec 2021 08:19:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/wp-content/uploads/sites/15/2021/12/cropped-pexels-pascal-renet-1089306.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -841,14 +849,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/cropped-pexels-pascal-renet-1089306.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/cropped-pexels-pascal-renet-1089306.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2021/12/cropped-pexels-pascal-renet-1089306.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:310;s:4:"file";s:47:"2021/12/cropped-pexels-pascal-renet-1089306.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:46:"cropped-pexels-pascal-renet-1089306-300x62.jpg";s:5:"width";i:300;s:6:"height";i:62;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:48:"cropped-pexels-pascal-renet-1089306-1024x212.jpg";s:5:"width";i:1024;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-768x159.jpg";s:5:"width";i:768;s:6:"height";i:159;s:9:"mime-type";s:10:"image/jpeg";}s:17:"darknews-featured";a:4:{s:4:"file";s:48:"cropped-pexels-pascal-renet-1089306-1024x212.jpg";s:5:"width";i:1024;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";}s:14:"darknews-large";a:4:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-825x310.jpg";s:5:"width";i:825;s:6:"height";i:310;s:9:"mime-type";s:10:"image/jpeg";}s:15:"darknews-medium";a:4:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-590x310.jpg";s:5:"width";i:590;s:6:"height";i:310;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:310;s:4:"file";s:47:"2021/12/cropped-pexels-pascal-renet-1089306.jpg";s:8:"filesize";i:12111;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:46:"cropped-pexels-pascal-renet-1089306-300x62.jpg";s:5:"width";i:300;s:6:"height";i:62;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1267;}s:5:"large";a:5:{s:4:"file";s:48:"cropped-pexels-pascal-renet-1089306-1024x212.jpg";s:5:"width";i:1024;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6453;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:1336;}s:12:"medium_large";a:5:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-768x159.jpg";s:5:"width";i:768;s:6:"height";i:159;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3868;}s:17:"darknews-featured";a:5:{s:4:"file";s:48:"cropped-pexels-pascal-renet-1089306-1024x212.jpg";s:5:"width";i:1024;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6453;}s:14:"darknews-large";a:5:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-825x310.jpg";s:5:"width";i:825;s:6:"height";i:310;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7194;}s:15:"darknews-medium";a:5:{s:4:"file";s:47:"cropped-pexels-pascal-renet-1089306-590x310.jpg";s:5:"width";i:590;s:6:"height";i:310;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5384;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -864,56 +872,10 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/sample-page/</link>
-		<pubDate>Wed, 22 Dec 2021 10:03:26 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/arabic-news/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/darknews-pro/arabic-news/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-22 10:03:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-22 10:03:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:03:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:03:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/</link>
 		<pubDate>Thu, 16 Dec 2021 06:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?page_id=41</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -939,9 +901,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/blog/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/blog/</link>
 		<pubDate>Thu, 16 Dec 2021 06:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?page_id=42</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -967,9 +929,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/facebook/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/facebook/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/facebook/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1012,9 +974,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/instagram/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/instagram/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/instagram/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1057,9 +1019,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/twitter/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/twitter/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/twitter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1102,9 +1064,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/youtube/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/youtube/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/youtube/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1147,9 +1109,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Pinterest]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/pinterest/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/pinterest/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/pinterest/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1192,9 +1154,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Linkedin]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/linkedin/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/linkedin/</link>
 		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/linkedin/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1237,9 +1199,9 @@
 							</item>
 					<item>
 		<title><![CDATA[مسكن]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/%d9%85%d8%b3%d9%83%d9%86/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/%d9%85%d8%b3%d9%83%d9%86/</link>
 		<pubDate>Thu, 16 Dec 2021 07:00:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?page_id=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1265,9 +1227,9 @@
 							</item>
 					<item>
 		<title><![CDATA[مدونة]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/%d9%85%d8%af%d9%88%d9%86%d8%a9/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/%d9%85%d8%af%d9%88%d9%86%d8%a9/</link>
 		<pubDate>Thu, 16 Dec 2021 07:00:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?page_id=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1293,9 +1255,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/68/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/68/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/68/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1334,9 +1296,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/69/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/69/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/69/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1375,9 +1337,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/70/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/70/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/70/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1416,9 +1378,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/71/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/71/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/71/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1457,9 +1419,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/72/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/72/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/72/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1498,9 +1460,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/74/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/74/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:36 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/74/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1539,9 +1501,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/75/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/75/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:36 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/75/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1580,9 +1542,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/sample-page-2-2/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/sample-page-2-2/</link>
 		<pubDate>Thu, 16 Dec 2021 05:26:29 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1626,9 +1588,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/sample-page-2/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/sample-page-2-3/</link>
 		<pubDate>Wed, 22 Dec 2021 06:33:07 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/darknews/arabic-news/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -1658,6 +1620,52 @@
 		<wp:post_modified_gmt><![CDATA[2021-12-22 06:33:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-2-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/sample-page-2/</link>
+		<pubDate>Wed, 22 Dec 2021 10:03:26 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/darknews-pro/arabic-news/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.afthemes.com/darknews-pro/arabic-news/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>180</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-22 10:03:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-22 10:03:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-22 10:03:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-22 10:03:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -1671,18 +1679,64 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/sample-page/</link>
+		<pubDate>Fri, 15 Jul 2022 09:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/darknews-pro/arabic-news/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demos.afthemes.com/darknews-pro/arabic-news/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-15 09:04:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-15 09:04:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:04:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:04:44]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[فيروس كورونا: من أين جاء متحور أوميكرون ولماذا يهتم العلماء بمعرفة منشأه؟]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%ac%d8%a7%d8%a1-%d9%85%d8%aa%d8%ad%d9%88%d8%b1-%d8%a3%d9%88%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%86/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%ac%d8%a7%d8%a1-%d9%85%d8%aa%d8%ad%d9%88%d8%b1-%d8%a3%d9%88%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%86/</link>
 		<pubDate>Thu, 16 Dec 2021 05:45:07 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -1755,8 +1809,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:45:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:45:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%ac%d8%a7%d8%a1-%d9%85%d8%aa%d8%ad%d9%88%d8%b1-%d8%a3%d9%88%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%86]]></wp:post_name>
@@ -1782,22 +1836,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[امرأة تتولى قيادة شرطة نيويورك للمرة الأولى منذ 176 عاما]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7/</link>
 		<pubDate>Thu, 16 Dec 2021 05:51:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=8</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -1870,8 +1924,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:51:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:51:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%a7%d9%85%d8%b1%d8%a3%d8%a9-%d8%aa%d8%aa%d9%88%d9%84%d9%89-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d8%b4%d8%b1%d8%b7%d8%a9-%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83-%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7]]></wp:post_name>
@@ -1901,22 +1955,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[التغير المناخي: كيف تحولت بقعة من نفايات البلاستيك إلى موطن لكائنات بحرية؟]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%aa-%d8%a8%d9%82%d8%b9%d8%a9-%d9%85%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%aa-%d8%a8%d9%82%d8%b9%d8%a9-%d9%85%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7/</link>
 		<pubDate>Thu, 16 Dec 2021 05:56:43 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -1989,8 +2043,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 05:56:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 05:56:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a-%d9%83%d9%8a%d9%81-%d8%aa%d8%ad%d9%88%d9%84%d8%aa-%d8%a8%d9%82%d8%b9%d8%a9-%d9%85%d9%86-%d9%86%d9%81%d8%a7%d9%8a%d8%a7]]></wp:post_name>
@@ -2020,22 +2074,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[روسيا وأوكرانيا: المفوضية الأوروبية تحذر من "ثمن غال" لأي عمل عدائي ضد كييف]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa/</link>
 		<pubDate>Thu, 16 Dec 2021 06:01:53 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2108,8 +2162,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:01:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:01:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%88%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d9%81%d9%88%d8%b6%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9-%d8%aa]]></wp:post_name>
@@ -2139,22 +2193,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[كأس العرب: تونس تواجه الجزائر في نهائي البطولة بعد إقصائهما مصر وقطر]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%a7/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%a7/</link>
 		<pubDate>Thu, 16 Dec 2021 06:03:11 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=18</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2227,8 +2281,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:03:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:03:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%aa%d9%88%d9%86%d8%b3-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d9%81%d9%8a-%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d8%a7]]></wp:post_name>
@@ -2258,22 +2312,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[علماء الصواريخ وجراحو الأعصاب "ليسوا بالضرورة أكثر ذكاء"]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/</link>
 		<pubDate>Thu, 16 Dec 2021 06:07:59 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2346,8 +2400,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:07:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:07:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8]]></wp:post_name>
@@ -2385,22 +2439,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[عطلة نهاية الأسبوع في الإمارات: لماذا قررت الدولة الخليجية تغييرها وكيف استقبلها المغردون؟]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/</link>
 		<pubDate>Thu, 16 Dec 2021 06:12:57 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=25</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2473,8 +2527,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:12:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:12:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82]]></wp:post_name>
@@ -2512,22 +2566,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[أفغانستان: طالبان تصدر مرسوما لـ"إقرار حقوق المرأة" لا يشير إلى التعليم أو العمل]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/</link>
 		<pubDate>Thu, 16 Dec 2021 06:16:16 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=28</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2600,8 +2654,8 @@
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:16:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:16:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1]]></wp:post_name>
@@ -2639,22 +2693,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[بايدن يعلن خطة إنفاق اجتماعي بقيمة 1.75 ترليون دولار]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/</link>
 		<pubDate>Thu, 16 Dec 2021 06:24:45 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=32</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2727,8 +2781,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:24:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:24:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1]]></wp:post_name>
@@ -2759,22 +2813,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[مافيا المخدرات: رئيس الإكوادور يطلب مساعدة دولية لمواجهتها]]></title>
-		<link>https://demo.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/</link>
+		<link>https://demos.afthemes.com/darknews-pro/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/</link>
 		<pubDate>Thu, 16 Dec 2021 06:28:40 +0000</pubDate>
-		<dc:creator><![CDATA[-sup3rv1s0r]]></dc:creator>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=35</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demo.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/17/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:cover {"url":"https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg","id":113} -->
+<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/darknews-pro/arabic-news/wp-content/uploads/sites/15/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -2846,8 +2900,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:28:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:28:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-22 10:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-22 10:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-07-15 09:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-15 09:05:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3]]></wp:post_name>
@@ -2885,7 +2939,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
