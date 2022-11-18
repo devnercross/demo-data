@@ -2227,6 +2227,24 @@
           "catgory": "General",
           "slug": "chinese-news",
           "preview": "https://demos.afthemes.com/broadnews/chinese-news/"
+        },
+        "general": {
+          "name": "General",
+          "catgory": "General",
+          "slug": "general",
+          "preview": "https://demos.afthemes.com/broadnews/general/"
+        },
+        "spotlight": {
+          "name": "Spotlight",
+          "catgory": "Sport",
+          "slug": "spotlight",
+          "preview": "https://demos.afthemes.com/broadnews/spotlight/"
+        },
+        "large": {
+          "name": "Large",
+          "catgory": "Fashion",
+          "slug": "large",
+          "preview": "https://demos.afthemes.com/broadnews/large/"
         }
       }
     },
@@ -2270,6 +2288,24 @@
           "catgory": "General",
           "slug": "chinese-news",
           "preview": "https://demos.afthemes.com/broadnews-pro/chinese-news/"
+        },
+        "general": {
+          "name": "General Pro",
+          "catgory": "General",
+          "slug": "general",
+          "preview": "https://demos.afthemes.com/broadnews-pro/general/"
+        },
+        "spotlight": {
+          "name": "Spotlight Pro",
+          "catgory": "Sport",
+          "slug": "spotlight",
+          "preview": "https://demos.afthemes.com/broadnews-pro/spotlight/"
+        },
+        "large": {
+          "name": "Large Pro",
+          "catgory": "Fashion",
+          "slug": "large",
+          "preview": "https://demos.afthemes.com/broadnews-pro/large/"
         }
       }
     }          
