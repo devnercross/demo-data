@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-07 10:52" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-23 05:08" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,14 +28,14 @@
 <channel>
 	<title>Athletics Mag Pro</title>
 	<link>https://demos.afthemes.com/covernews-pro/athletics-mag</link>
-	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Wed, 07 Sep 2022 10:52:17 +0000</pubDate>
+	<description>Just another CoverNews Pro site</description>
+	<pubDate>Wed, 23 Nov 2022 05:08:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/athletics-mag</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -351,7 +351,7 @@
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/athletics-mag/wp-content/uploads/sites/6/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
@@ -1166,6 +1166,14 @@
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.2963715147877419298083623289130628108978271484375;s:5:"bytes";i:12883;s:11:"size_before";i:243242;s:10:"size_after";i:230359;s:4:"time";d:0.560000000000000053290705182007513940334320068359375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:4.53000000000000024868995751603506505489349365234375;s:5:"bytes";i:226;s:11:"size_before";i:4991;s:10:"size_after";i:4765;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:7.1500000000000003552713678800500929355621337890625;s:5:"bytes";i:2284;s:11:"size_before";i:31936;s:10:"size_after";i:29652;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:3.479999999999999982236431605997495353221893310546875;s:5:"bytes";i:185;s:11:"size_before";i:5311;s:10:"size_after";i:5126;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:6.4900000000000002131628207280300557613372802734375;s:5:"bytes";i:1364;s:11:"size_before";i:21010;s:10:"size_after";i:19646;s:4:"time";d:0.190000000000000002220446049250313080847263336181640625;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:7.1699999999999999289457264239899814128875732421875;s:5:"bytes";i:4624;s:11:"size_before";i:64457;s:10:"size_after";i:59833;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.36000000000000031974423109204508364200592041015625;s:5:"bytes";i:2362;s:11:"size_before";i:44088;s:10:"size_after";i:41726;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:29652;s:10:"size_after";i:29652;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:4.61000000000000031974423109204508364200592041015625;s:5:"bytes";i:1177;s:11:"size_before";i:25539;s:10:"size_after";i:24362;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:4.07000000000000028421709430404007434844970703125;s:5:"bytes";i:661;s:11:"size_before";i:16258;s:10:"size_after";i:15597;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1668532669]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Facebook]]></title>
@@ -1857,28 +1865,28 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/185/</link>
-		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/214/</link>
+		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/185/</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=214</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>185</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_id>216</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[185]]></wp:post_name>
+		<wp:post_name><![CDATA[214]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -1898,39 +1906,39 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/186/</link>
-		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/215/</link>
+		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/186/</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=215</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>186</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_id>217</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[186]]></wp:post_name>
+		<wp:post_name><![CDATA[215]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[164]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -1976,7 +1984,129 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/187/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/185/</link>
+		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/185/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>185</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[185]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/186/</link>
+		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/186/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>186</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[186]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/187/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/187/</guid>
@@ -1984,10 +2114,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>187</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[187]]></wp:post_name>
@@ -2018,10 +2148,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/188/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/188/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/188/</guid>
@@ -2029,10 +2175,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[188]]></wp:post_name>
@@ -2059,10 +2205,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/189/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/189/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/189/</guid>
@@ -2070,10 +2236,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>189</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[189]]></wp:post_name>
@@ -2104,10 +2270,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/190/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/190/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/190/</guid>
@@ -2115,10 +2297,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[190]]></wp:post_name>
@@ -2149,10 +2331,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/191/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/191/</link>
 		<pubDate>Wed, 10 Feb 2021 08:09:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/191/</guid>
@@ -2160,10 +2358,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:09:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:09:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:09:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[191]]></wp:post_name>
@@ -2194,10 +2392,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/194/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/194/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/194/</guid>
@@ -2205,10 +2419,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>194</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[194]]></wp:post_name>
@@ -2239,10 +2453,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/195/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/195/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/195/</guid>
@@ -2250,10 +2480,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[195]]></wp:post_name>
@@ -2284,10 +2514,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/196/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/196/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/196/</guid>
@@ -2295,10 +2541,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[196]]></wp:post_name>
@@ -2329,21 +2575,37 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/197/</link>
+		<title><![CDATA[‘Somebody threatened to burn the school down’]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/197/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/197/</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[197]]></wp:post_name>
@@ -2374,10 +2636,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/198/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/198/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/198/</guid>
@@ -2385,10 +2663,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -2419,10 +2697,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/199/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/199/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/199/</guid>
@@ -2430,10 +2724,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -2464,10 +2758,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/200/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/200/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/200/</guid>
@@ -2475,10 +2785,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>200</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[200]]></wp:post_name>
@@ -2509,10 +2819,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/201/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/201/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/201/</guid>
@@ -2520,10 +2846,10 @@
 		<content:encoded><![CDATA[Exclusive]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[201]]></wp:post_name>
@@ -2550,10 +2876,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/202/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/202/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/202/</guid>
@@ -2561,10 +2907,10 @@
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>202</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[202]]></wp:post_name>
@@ -2591,10 +2937,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/all-demos/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/all-demos/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/all-demos/</guid>
@@ -2602,10 +2968,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>203</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -2636,10 +3002,26 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/covernews-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Covernews Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/covernews-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/covernews-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/covernews-pro/</guid>
@@ -2647,10 +3029,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>204</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[covernews-pro]]></wp:post_name>
@@ -2683,203 +3065,101 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sport Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/sport-pro/</link>
-		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/216/</link>
+		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/sport-pro/</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=216</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>205</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_id>218</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sport-pro]]></wp:post_name>
+		<wp:post_name><![CDATA[216]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Fashion Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/fashion-pro/</link>
-		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/218/</link>
+		<pubDate>Wed, 10 Feb 2021 08:24:04 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/fashion-pro/</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/218/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>206</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_id>219</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 08:24:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:24:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 08:24:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 08:24:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fashion-pro]]></wp:post_name>
+		<wp:post_name><![CDATA[218]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[206]]></wp:meta_value>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_format]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Classic Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/classic-pro/</link>
-		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/classic-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>207</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[classic-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>21</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[203]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/classic-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Travel Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/travel-pro/</link>
-		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/travel-pro/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>208</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[travel-pro]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>22</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[203]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[208]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3220,6 +3500,250 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Sport Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/sport-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/sport-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>205</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sport-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>19</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fashion Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/fashion-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/fashion-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>206</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fashion-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>20</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[206]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Classic Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/classic-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/classic-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>207</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[classic-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>21</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[207]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Travel Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/travel-pro/</link>
+		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/travel-pro/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>208</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel-pro]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>22</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[203]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[208]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Sample Page]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/sample-page-2/</link>
 		<pubDate>Thu, 24 Dec 2020 16:47:38 +0000</pubDate>
@@ -3295,7 +3819,7 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							</item>
 					<item>
 		<title><![CDATA[Wedding Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/wedding-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/wedding-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/wedding-pro/</guid>
@@ -3303,10 +3827,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>211</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wedding-pro]]></wp:post_name>
@@ -3339,12 +3863,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/wedding-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/wedding/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Minimal Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/minimal-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/minimal-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/minimal-pro/</guid>
@@ -3352,10 +3888,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>212</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimal-pro]]></wp:post_name>
@@ -3388,12 +3924,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/minimal-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/minimal/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gadget Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/gadget-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/gadget-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/gadget-pro/</guid>
@@ -3401,10 +3949,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadget-pro]]></wp:post_name>
@@ -3437,12 +3985,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/gadgets-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/gadgets/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/business-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/business-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/business-pro/</guid>
@@ -3450,10 +4010,10 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-pro]]></wp:post_name>
@@ -3486,12 +4046,24 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Buy Now]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/buy-now/</link>
+		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2022/11/22/buy-now/</link>
 		<pubDate>Wed, 10 Feb 2021 08:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/buy-now/</guid>
@@ -3499,16 +4071,16 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:20:39]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 11:56:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:20:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:20:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 11:56:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 11:56:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>27</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3533,169 +4105,21 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/checkout/]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/214/</link>
-		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=214</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>216</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[214]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/215/</link>
-		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=215</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>217</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[215]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[164]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/216/</link>
-		<pubDate>Wed, 10 Feb 2021 08:23:25 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/?p=216</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>218</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:23:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:23:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:23:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[216]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/athletics-mag/2021/02/10/218/</link>
-		<pubDate>Wed, 10 Feb 2021 08:24:04 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/athletics-mag/2021/02/10/218/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>219</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 08:24:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 08:24:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 08:24:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 08:24:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[218]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_format]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

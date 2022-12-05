@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-08 05:42" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-23 05:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Travel Pro </title>
 	<link>https://demos.afthemes.com/covernews-pro/travel</link>
 	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Thu, 08 Sep 2022 05:42:24 +0000</pubDate>
+	<pubDate>Wed, 23 Nov 2022 05:25:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/travel</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -161,7 +161,7 @@
 	<wp:term><wp:term_id>10</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Social menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
 		<title><![CDATA[cropped-pexels-photo-196666.jpeg]]></title>
@@ -917,7 +917,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/09/63/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/63/</link>
 		<pubDate>Mon, 09 Apr 2018 14:48:53 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/2018/04/09/</guid>
@@ -925,10 +925,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-09 14:48:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-09 14:48:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-09 14:48:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-09 14:48:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -954,6 +954,26 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1492,7 +1512,7 @@
 														</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/all-demos/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/all-demos/</link>
 		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=167</guid>
@@ -1500,10 +1520,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>167</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -1534,10 +1554,26 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/storymag-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[StoryMag Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/default/</link>
+		<title><![CDATA[Covernews Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/default/</link>
 		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=168</guid>
@@ -1545,10 +1581,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -1581,7 +1617,202 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sport Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/news-portal/</link>
+		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[news-portal]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[169]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/storymag-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fashion Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/minimal/</link>
+		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=170</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[minimal]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Recipe Pro]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/architecture-interior/</link>
+		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=171</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>171</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[architecture-interior]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[167]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/recipe/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1619,138 +1850,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:25.110594048029415858991342247463762760162353515625;s:5:"bytes";i:17483;s:11:"size_before";i:69624;s:10:"size_after";i:52141;s:4:"time";d:1.890000000000000124344978758017532527446746826171875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:31.42999999999999971578290569595992565155029296875;s:5:"bytes";i:1040;s:11:"size_before";i:3309;s:10:"size_after";i:2269;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:24.92999999999999971578290569595992565155029296875;s:5:"bytes";i:3991;s:11:"size_before";i:16007;s:10:"size_after";i:12016;s:4:"time";d:0.179999999999999993338661852249060757458209991455078125;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:39.0499999999999971578290569595992565155029296875;s:5:"bytes";i:883;s:11:"size_before";i:2261;s:10:"size_after";i:1378;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:27.260000000000001563194018672220408916473388671875;s:5:"bytes";i:2997;s:11:"size_before";i:10995;s:10:"size_after";i:7998;s:4:"time";d:0.2300000000000000099920072216264088638126850128173828125;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:32.909999999999996589394868351519107818603515625;s:5:"bytes";i:2264;s:11:"size_before";i:6879;s:10:"size_after";i:4615;s:4:"time";d:0.289999999999999980015985556747182272374629974365234375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:34.090000000000003410605131648480892181396484375;s:5:"bytes";i:2249;s:11:"size_before";i:6597;s:10:"size_after";i:4348;s:4:"time";d:0.1000000000000000055511151231257827021181583404541015625;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:12016;s:10:"size_after";i:12016;s:4:"time";d:0.440000000000000002220446049250313080847263336181640625;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:35.07000000000000028421709430404007434844970703125;s:5:"bytes";i:2190;s:11:"size_before";i:6245;s:10:"size_after";i:4055;s:4:"time";d:0.340000000000000024424906541753443889319896697998046875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:35.159999999999996589394868351519107818603515625;s:5:"bytes";i:1869;s:11:"size_before";i:5315;s:10:"size_after";i:3446;s:4:"time";d:0.25;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/?p=210</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=210</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>210</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:10:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:10:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533179412]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/?p=211</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=211</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>211</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:10:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:10:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533179412]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/?p=212</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=212</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>212</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:10:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:10:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1533179459]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1919,6 +2018,126 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[LIVING LAGOM IN SWEDEN: AN INTERVIEW WITH LOLA]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/</link>
+		<pubDate>Sat, 07 Apr 2018 09:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=31</guid>
+		<description></description>
+		<content:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-07 09:35:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:35:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[living-lagom-in-sweden-an-interview-with-lola-akerstrom]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[A JOURNEY TO MADAGASCAR: THE PRIVILEGE OF TRAVEL]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/</link>
+		<pubDate>Sat, 07 Apr 2018 09:36:48 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=34</guid>
+		<description></description>
+		<content:encoded><![CDATA[Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+
+Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Cras ultricies ligula sed magna dictum porta. Cras ultricies ligula sed magna dictum porta. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-07 09:36:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:36:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[a-journey-through-madagascar-notes-on-the-privilege-of-travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="category" nicename="long-trip"><![CDATA[Long trip]]></category>
+		<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[HOW TO PICK THE BEST CAMERA FOR TRAVEL]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/</link>
+		<pubDate>Sat, 07 Apr 2018 09:40:41 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh.
+
+Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Proin eget tortor risus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2018-04-07 09:40:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-04-07 09:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-pick-the-best-camera-for-travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="flight"><![CDATA[Flight]]></category>
+		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Resources]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/travel/resources/</link>
 		<pubDate>Sat, 07 Apr 2018 11:32:44 +0000</pubDate>
@@ -1975,155 +2194,8 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sport Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/news-portal/</link>
-		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=169</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[news-portal]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[169]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Fashion Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/minimal/</link>
-		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=170</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>170</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimal]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Recipe Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/architecture-interior/</link>
-		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=171</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>171</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[architecture-interior]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[171]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/recipe-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Minimal Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/photography/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/photography/</link>
 		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=172</guid>
@@ -2131,10 +2203,10 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[photography]]></wp:post_name>
@@ -2167,12 +2239,24 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/minimal-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/minimal/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/travel-blog/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/travel-blog/</link>
 		<pubDate>Sun, 15 Apr 2018 18:51:54 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=173</guid>
@@ -2180,10 +2264,10 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:51:54]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:51:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:51:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-blog]]></wp:post_name>
@@ -2216,12 +2300,24 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/15/home-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/home-2/</link>
 		<pubDate>Sun, 15 Apr 2018 18:52:20 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=174</guid>
@@ -2229,10 +2325,10 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-15 18:52:20]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-15 18:52:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-15 18:52:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-2]]></wp:post_name>
@@ -2263,10 +2359,26 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demo.afthemes.com/elegant-magazine-pro/travel-blog/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Buy Now]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/16/buy-now/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/buy-now/</link>
 		<pubDate>Mon, 16 Apr 2018 03:15:10 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine-pro/travel-blog/?p=175</guid>
@@ -2274,10 +2386,10 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-16 03:15:10]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-04-16 03:15:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-16 03:15:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-16 03:15:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[buy-now]]></wp:post_name>
@@ -2307,6 +2419,22 @@ Curabitur aliquet quam id dui posuere blandit. Mauris blandit aliquet elit, eget
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/checkout?edd_action=add_to_cart&download_id=1137]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-04-16]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2429,7 +2557,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/08/02/213/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/213/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=213</guid>
@@ -2437,10 +2565,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[213]]></wp:post_name>
@@ -2467,10 +2595,30 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/08/02/214/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/214/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=214</guid>
@@ -2478,10 +2626,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>216</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[214]]></wp:post_name>
@@ -2512,10 +2660,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/08/02/215/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/215/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=215</guid>
@@ -2523,10 +2687,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>217</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[215]]></wp:post_name>
@@ -2557,10 +2721,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/08/02/216/</link>
+		<link>https://demos.afthemes.com/covernews-pro/travel/2022/11/22/216/</link>
 		<pubDate>Thu, 02 Aug 2018 03:11:46 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/travel-pro/?p=216</guid>
@@ -2568,10 +2748,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<content:encoded><![CDATA[Offers]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>218</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-02 03:11:46]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:14:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-02 03:11:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-02 03:11:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:14:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:14:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[216]]></wp:post_name>
@@ -2602,125 +2782,21 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/sto
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[LIVING LAGOM IN SWEDEN: AN INTERVIEW WITH LOLA]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/living-lagom-in-sweden-an-interview-with-lola-akerstrom/</link>
-		<pubDate>Sat, 07 Apr 2018 09:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=31</guid>
-		<description></description>
-		<content:encoded><![CDATA[Nulla porttitor accumsan tincidunt. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Donec sollicitudin molestie malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:35:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-07 09:35:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-07 09:35:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[living-lagom-in-sweden-an-interview-with-lola-akerstrom]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[A JOURNEY TO MADAGASCAR: THE PRIVILEGE OF TRAVEL]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/a-journey-through-madagascar-notes-on-the-privilege-of-travel/</link>
-		<pubDate>Sat, 07 Apr 2018 09:36:48 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=34</guid>
-		<description></description>
-		<content:encoded><![CDATA[Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies ligula sed magna dictum porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec sollicitudin molestie malesuada. Donec sollicitudin molestie malesuada. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Nulla quis lorem ut libero malesuada feugiat. Nulla porttitor accumsan tincidunt. Cras ultricies ligula sed magna dictum porta. Nulla porttitor accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Cras ultricies ligula sed magna dictum porta. Cras ultricies ligula sed magna dictum porta. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:36:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-07 09:36:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-07 09:36:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[a-journey-through-madagascar-notes-on-the-privilege-of-travel]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
-		<category domain="category" nicename="long-trip"><![CDATA[Long trip]]></category>
-		<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[HOW TO PICK THE BEST CAMERA FOR TRAVEL]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/travel/2018/04/07/how-to-pick-the-best-camera-for-travel/</link>
-		<pubDate>Sat, 07 Apr 2018 09:40:41 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/elegant-magazine/travel-blog/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus. Cras ultricies ligula sed magna dictum porta. Proin eget tortor risus. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Sed porttitor lectus nibh.
-
-Nulla porttitor accumsan tincidunt. Nulla porttitor accumsan tincidunt. Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Proin eget tortor risus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec rutrum congue leo eget malesuada.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. ]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2018-04-07 09:40:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-04-07 09:40:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-04-07 09:40:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-pick-the-best-camera-for-travel]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="flight"><![CDATA[Flight]]></category>
-		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
-		<category domain="category" nicename="travel-tips"><![CDATA[Travel tips]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[elegant-magazine-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-02]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

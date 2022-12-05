@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-08 05:45" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-23 05:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Wedding Pro</title>
 	<link>https://demos.afthemes.com/covernews-pro/wedding</link>
 	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Thu, 08 Sep 2022 05:45:39 +0000</pubDate>
+	<pubDate>Wed, 23 Nov 2022 05:30:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/wedding</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -273,7 +273,7 @@
 	<wp:term><wp:term_id>20</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/wedding/wp-content/uploads/sites/14/2018/07/cropped-af-themes-main-white-01-150x150.png</url>
@@ -1630,7 +1630,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/618/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/618/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=618</guid>
@@ -1638,10 +1638,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>618</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[618]]></wp:post_name>
@@ -1668,10 +1668,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/619/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/619/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=619</guid>
@@ -1679,10 +1699,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>619</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[619]]></wp:post_name>
@@ -1709,10 +1729,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/620/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/620/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=620</guid>
@@ -1720,10 +1760,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>620</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[620]]></wp:post_name>
@@ -1754,46 +1794,58 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/621/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/632/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=621</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=632</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>621</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_id>632</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[621]]></wp:post_name>
+		<wp:post_name><![CDATA[632]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[619]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -1802,39 +1854,39 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/622/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/633/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=622</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=633</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>622</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_id>633</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[622]]></wp:post_name>
+		<wp:post_name><![CDATA[633]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_value><![CDATA[416]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -1843,39 +1895,39 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/623/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/634/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=623</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=634</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>623</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_id>634</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[623]]></wp:post_name>
+		<wp:post_name><![CDATA[634]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[415]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
@@ -2243,7 +2295,190 @@ Visitor comments may be checked through an automated spam detection service.
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/624/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/621/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=621</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>621</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[621]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[619]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/622/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=622</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>622</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[622]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/623/</link>
+		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=623</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>623</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[623]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu-items"><![CDATA[Main menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/624/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=624</guid>
@@ -2251,10 +2486,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>624</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[624]]></wp:post_name>
@@ -2281,10 +2516,30 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/all-demos-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/all-demos-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=625</guid>
@@ -2292,10 +2547,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>625</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos-2]]></wp:post_name>
@@ -2326,10 +2581,26 @@ Visitor comments may be checked through an automated spam detection service.
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/covernews-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/business-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/business-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=626</guid>
@@ -2337,10 +2608,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>626</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-pro]]></wp:post_name>
@@ -2373,12 +2644,24 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Covernews Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/covernews-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/covernews-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=627</guid>
@@ -2386,10 +2669,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>627</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[covernews-pro]]></wp:post_name>
@@ -2422,12 +2705,24 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/sport-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/sport-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=628</guid>
@@ -2435,10 +2730,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>628</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport-pro]]></wp:post_name>
@@ -2471,12 +2766,24 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/fashion-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/fashion-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=629</guid>
@@ -2484,10 +2791,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>629</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-pro]]></wp:post_name>
@@ -2520,12 +2827,24 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/travel-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/travel-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=630</guid>
@@ -2533,10 +2852,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>630</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-pro]]></wp:post_name>
@@ -2569,12 +2888,24 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Gadgets Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/gadgets-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/wedding/2022/11/22/gadgets-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:22:17 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=631</guid>
@@ -2582,10 +2913,10 @@ Visitor comments may be checked through an automated spam detection service.
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>631</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:16:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:16:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:16:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gadgets-pro]]></wp:post_name>
@@ -2618,130 +2949,19 @@ Visitor comments may be checked through an automated spam detection service.
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/gadgets-pro/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/632/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=632</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>632</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[632]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/gadgets/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/633/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=633</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>633</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[633]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[416]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/wedding/2021/02/10/634/</link>
-		<pubDate>Wed, 10 Feb 2021 11:22:56 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/wedding-pro/?p=634</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>634</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:22:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:22:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:22:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[634]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="top-menu-items"><![CDATA[Top menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[415]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3090,8 +3310,8 @@ really a tremendous site.]]></wp:comment_content>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="category" nicename="model"><![CDATA[Model]]></category>
 		<category domain="category" nicename="trends"><![CDATA[Trends]]></category>
@@ -3197,8 +3417,8 @@ Sed porttitor lectus nibh. Sed porttitor lectus nibh. Curabitur non nulla sit am
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+										<category domain="post_tag" nicename="beauty"><![CDATA[Beauty]]></category>
+		<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life style]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-01 05:04" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-21 11:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>أخبار عربية</title>
 	<link>https://demos.afthemes.com/chromenews/arabic-news</link>
 	<description></description>
-	<pubDate>Thu, 01 Sep 2022 05:04:48 +0000</pubDate>
+	<pubDate>Mon, 21 Nov 2022 11:06:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/chromenews/</wp:base_site_url>
@@ -92,6 +92,13 @@
 		<wp:cat_name><![CDATA[علم]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[chromenews]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[chromenews]]></wp:term_name>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[chromenews-pro]]></wp:term_slug>
@@ -180,7 +187,7 @@
 	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social]]></wp:term_slug><wp:term_name><![CDATA[Social]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/cropped-af-themes-main-dark-8-300x300-1-150x150.png</url>
@@ -1120,55 +1127,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[ينكدين]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/10/linkedin/</link>
-		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/linkedin/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-10 12:06:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-16 06:50:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-10 12:06:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-16 06:50:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://linkedin.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-12-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/01/11/68/</link>
 		<pubDate>Thu, 16 Dec 2021 07:12:20 +0000</pubDate>
@@ -1652,96 +1610,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[كل العروض]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/11/%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6/</link>
-		<pubDate>Fri, 11 Feb 2022 11:51:47 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/arabic-news/2022/02/11/%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>224</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-11 11:51:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-11 11:51:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Chromenews]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/11/chromenews/</link>
-		<pubDate>Fri, 11 Feb 2022 11:51:47 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/arabic-news/2022/02/11/chromenews/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-11 11:51:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-11 11:51:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[chromenews]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[224]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[225]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/chromenews/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[cropped-pexels-walid-ahmad-1509582]]></title>
 		<link>https://demos.afthemes.com/chromenews/arabic-news/cropped-pexels-walid-ahmad-1509582/</link>
 		<pubDate>Tue, 05 Jul 2022 04:50:41 +0000</pubDate>
@@ -1776,6 +1644,105 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
 		<wp:meta_value><![CDATA[chromenews]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[black-banner]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/black-banner/</link>
+		<pubDate>Wed, 21 Sep 2022 10:56:14 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/black-banner.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>244</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-21 10:56:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-21 10:56:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 10:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 10:56:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[black-banner]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/black-banner.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/black-banner.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:24:"2022/09/black-banner.png";s:8:"filesize";i:17622;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:23:"black-banner-300x32.png";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7798;}s:5:"large";a:5:{s:4:"file";s:25:"black-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46106;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"black-banner-150x125.png";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4934;}s:12:"medium_large";a:5:{s:4:"file";s:23:"black-banner-768x82.png";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28436;}s:19:"chromenews-featured";a:5:{s:4:"file";s:25:"black-banner-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46106;}s:16:"chromenews-large";a:5:{s:4:"file";s:24:"black-banner-825x125.png";s:5:"width";i:825;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15648;}s:17:"chromenews-medium";a:5:{s:4:"file";s:24:"black-banner-590x125.png";s:5:"width";i:590;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12001;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chromenews-sidebar]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/chromenews-sidebar/</link>
+		<pubDate>Wed, 21 Sep 2022 10:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/Chromenews-sidebar.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>246</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-21 10:57:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-21 10:57:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 10:57:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 10:57:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chromenews-sidebar]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/Chromenews-sidebar.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/Chromenews-sidebar.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:500;s:4:"file";s:30:"2022/09/Chromenews-sidebar.png";s:8:"filesize";i:196923;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:30:"Chromenews-sidebar-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:89652;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"Chromenews-sidebar-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28236;}s:17:"chromenews-medium";a:5:{s:4:"file";s:30:"Chromenews-sidebar-500x410.png";s:5:"width";i:500;s:6:"height";i:410;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:193438;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[content-black]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/content-black/</link>
+		<pubDate>Wed, 21 Sep 2022 11:02:33 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>248</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-21 11:02:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-21 11:02:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 11:02:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 11:02:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[content-black]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/content-black.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1170;s:6:"height";i:125;s:4:"file";s:25:"2022/09/content-black.png";s:8:"filesize";i:15927;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:24:"content-black-300x32.png";s:5:"width";i:300;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7523;}s:5:"large";a:5:{s:4:"file";s:26:"content-black-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:45743;}s:9:"thumbnail";a:5:{s:4:"file";s:25:"content-black-150x125.png";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4834;}s:12:"medium_large";a:5:{s:4:"file";s:24:"content-black-768x82.png";s:5:"width";i:768;s:6:"height";i:82;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:26965;}s:19:"chromenews-featured";a:5:{s:4:"file";s:26:"content-black-1024x109.png";s:5:"width";i:1024;s:6:"height";i:109;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:45743;}s:16:"chromenews-large";a:5:{s:4:"file";s:25:"content-black-825x125.png";s:5:"width";i:825;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14601;}s:17:"chromenews-medium";a:5:{s:4:"file";s:25:"content-black-590x125.png";s:5:"width";i:590;s:6:"height";i:125;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11680;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2396,375 +2363,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[علماء الصواريخ وجراحو الأعصاب "ليسوا بالضرورة أكثر ذكاء"]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/</link>
-		<pubDate>Thu, 16 Dec 2021 06:07:59 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=22</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
-<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
-<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
-<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
-<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
-<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
-<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3>  آخر مشاركة  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3> التصنيفات  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories /--></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
-]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-16 06:07:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-16 06:07:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%d8%ac%d9%86%d8%b1%d8%a7%d9%84-%d9%84%d9%88%d8%a7%d8%a1"><![CDATA[جنرال لواء]]></category>
-		<category domain="category" nicename="%d8%b9%d9%84%d9%85"><![CDATA[علم]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[عطلة نهاية الأسبوع في الإمارات: لماذا قررت الدولة الخليجية تغييرها وكيف استقبلها المغردون؟]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/</link>
-		<pubDate>Thu, 16 Dec 2021 06:12:57 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=25</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
-<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
-<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
-<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
-<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
-<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
-<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3>  آخر مشاركة  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3> التصنيفات  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories /--></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
-]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-16 06:12:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-16 06:12:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a"><![CDATA[سياسي]]></category>
-		<category domain="category" nicename="%d8%b9%d9%84%d9%85"><![CDATA[علم]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[173]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[أفغانستان: طالبان تصدر مرسوما لـ"إقرار حقوق المرأة" لا يشير إلى التعليم أو العمل]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/</link>
-		<pubDate>Thu, 16 Dec 2021 06:16:16 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=28</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
-<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
-<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
-<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
-<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
-<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
-<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
-<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3>  آخر مشاركة  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:latest-posts /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3> التصنيفات  </h3>
-<!-- /wp:heading -->
-
-<!-- wp:categories /--></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
-]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2021-12-16 06:16:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-12-16 06:16:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9"><![CDATA[العالمية]]></category>
-		<category domain="category" nicename="%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a"><![CDATA[سياسي]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[164]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://demos.afthemes.com/chromenews/arabic-news/</link>
 		<pubDate>Thu, 16 Dec 2021 06:38:14 +0000</pubDate>
@@ -2834,6 +2432,55 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
 		<wp:meta_value><![CDATA[e6ffb362-5b52-403b-a8aa-da2b8f2c52fb]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ينكدين]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/10/linkedin/</link>
+		<pubDate>Thu, 16 Dec 2021 06:50:50 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/2021/12/16/linkedin/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-10 12:06:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-16 06:50:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-10 12:06:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-16 06:50:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[linkedin]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social"><![CDATA[Social]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://linkedin.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-12-16]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2982,6 +2629,96 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[كل العروض]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/11/%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6/</link>
+		<pubDate>Fri, 11 Feb 2022 11:51:47 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/arabic-news/2022/02/11/%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>224</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-11 11:51:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-11 11:51:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%d9%83%d9%84-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b6]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chromenews]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/02/11/chromenews/</link>
+		<pubDate>Fri, 11 Feb 2022 11:51:47 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/chromenews/arabic-news/2022/02/11/chromenews/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-11 11:51:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-11 11:51:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-11 11:51:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chromenews]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="menu"><![CDATA[Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[224]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[225]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.afthemes.com/chromenews/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3223,11 +2960,11 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[بايدن يعلن خطة إنفاق اجتماعي بقيمة 1.75 ترليون دولار]]></title>
-		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/</link>
-		<pubDate>Thu, 16 Dec 2021 06:24:45 +0000</pubDate>
+		<title><![CDATA[علماء الصواريخ وجراحو الأعصاب "ليسوا بالضرورة أكثر ذكاء"]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8/</link>
+		<pubDate>Thu, 16 Dec 2021 06:07:59 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=32</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
@@ -3304,11 +3041,412 @@
 <!-- /wp:columns -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
 ]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-16 06:07:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-16 06:07:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%d8%b9%d9%84%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d8%b5%d9%88%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%ac%d8%b1%d8%a7%d8%ad%d9%88-%d8%a7%d9%84%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8-%d9%84%d9%8a%d8%b3%d9%88%d8%a7-%d8%a8]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%d8%ac%d9%86%d8%b1%d8%a7%d9%84-%d9%84%d9%88%d8%a7%d8%a1"><![CDATA[جنرال لواء]]></category>
+		<category domain="category" nicename="%d8%b9%d9%84%d9%85"><![CDATA[علم]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-compact]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[عطلة نهاية الأسبوع في الإمارات: لماذا قررت الدولة الخليجية تغييرها وكيف استقبلها المغردون؟]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82/</link>
+		<pubDate>Thu, 16 Dec 2021 06:12:57 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
+<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113,"dimRatio":50,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
+<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
+<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
+<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>  آخر مشاركة  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3> التصنيفات  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:categories /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
+]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-16 06:12:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-16 06:12:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 11:09:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 11:09:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%d8%b9%d8%b7%d9%84%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%82]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a"><![CDATA[سياسي]]></category>
+		<category domain="category" nicename="%d8%b9%d9%84%d9%85"><![CDATA[علم]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-right]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[أفغانستان: طالبان تصدر مرسوما لـ"إقرار حقوق المرأة" لا يشير إلى التعليم أو العمل]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1/</link>
+		<pubDate>Thu, 16 Dec 2021 06:16:16 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=28</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
+<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113,"dimRatio":50,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
+<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
+<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
+<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>  آخر مشاركة  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3> التصنيفات  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:categories /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
+]]></excerpt:encoded>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2021-12-16 06:16:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-12-16 06:16:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 11:08:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 11:08:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%d8%a3%d9%81%d8%ba%d8%a7%d9%86%d8%b3%d8%aa%d8%a7%d9%86-%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d9%86-%d8%aa%d8%b5%d8%af%d8%b1-%d9%85%d8%b1%d8%b3%d9%88%d9%85%d8%a7-%d9%84%d9%80%d8%a5%d9%82%d8%b1%d8%a7%d8%b1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9"><![CDATA[العالمية]]></category>
+		<category domain="category" nicename="%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a"><![CDATA[سياسي]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[morenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[164]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[بايدن يعلن خطة إنفاق اجتماعي بقيمة 1.75 ترليون دولار]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2021/12/16/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1/</link>
+		<pubDate>Thu, 16 Dec 2021 06:24:45 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/morenews/arabic-news/?p=32</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true,"style":{"typography":{"fontSize":"18px"}}} -->
+<p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113,"dimRatio":50,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:media-text {"mediaId":114,"mediaLink":"https://demo.afthemes.com/morenews/arabic-news/2021/12/16/%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3/pexels-konevi-2236674/","mediaType":"image"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="https://demo.afthemes.com/morenews/arabic-news/wp-content/uploads/sites/14/2021/12/pexels-konevi-2236674-1024x682.jpg" alt="" class="wp-image-114 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"color":{"background":"#313335"}},"textColor":"luminous-vivid-amber","fontSize":"normal"} -->
+<p class="has-luminous-vivid-amber-color has-text-color has-background has-normal-font-size" style="background-color:#313335"> أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:heading {"level":4,"textColor":"vivid-red"} -->
+<h4 class="has-vivid-red-color has-text-color"> يحتاجه دب. هناك الكثير من </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center"> بعض الأحيان يكون لدى الكثير من الناس </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"vivid-red","textColor":"white"} -->
+<p class="has-white-color has-vivid-red-background-color has-text-color has-background">  للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:paragraph -->
+<p> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">. لا حاجة للقطط الآن تحتاج إلى الكثير من الحبوب. كتلة الحياة بأسعار معقولة لتحسين الجلاد. في بعض الأحيان تكون عواقب الحرية ممتعة في بعض الأحيان. أنا أكره سعر اللعبة الآن الأريكة حكيمة والدببة غير تقليدية.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"},"color":{"background":"#cccccc"}}} -->
+<p class="has-background" style="background-color:#cccccc;font-size:18px"> إنه يحتاج إلى القطة وهو الآن بحاجة إلى الكثير من الألم في الحلق. سحر السرير هو ألم كبير لعملائنا. لا ينبغي حتى للأعضاء أن يهتموا بالحلوى الناعمة. لكن الألم يحتاج الآن إلى دواء. والجهاز المناعي للسرير هو مدخل الكثير من الدببة ، لكن الدببة ستفعل ذلك. لكن غدا يجب أن نعيش لنزين القوس بالقوس. إنه يحتاج إلى تخمير عظيم للسهام ، وليس إلى منصة العصا. يمكنك إنشاء اللاعبين أو سعر السرير بدلاً من سعر الأسد في حياتك. تخمير الأسهم ليس منصة التصنيع. الضحك مجرد شيء محزن. صعب غدا بعض سهام الحياة ستشفى الآن. انتقام زوجي وجع كبير في التخطيط للألم. اينيس </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3>  آخر مشاركة  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:latest-posts /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3> التصنيفات  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:categories /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية.
+]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:24:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:24:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 11:08:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 11:08:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%a9-%d8%a5%d9%86%d9%81%d8%a7%d9%82-%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-%d8%a8%d9%82%d9%8a%d9%85%d8%a9-1-75-%d8%aa%d8%b1]]></wp:post_name>
@@ -3345,6 +3483,10 @@
 		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[مافيا المخدرات: رئيس الإكوادور يطلب مساعدة دولية لمواجهتها]]></title>
@@ -3357,8 +3499,12 @@
 <p class="has-drop-cap" style="font-size:18px"> الألم بحد ذاته هو حب الألم ، المشاكل البيئية الرئيسية ، لكني أعطي هذا النوع من الوقت للتراجع ، بحيث يكون هناك بعض الألم والألم العظيمين. هذا يعني أن الجلاد سيرغب في تعليق سعر الرسوم المتحركة القوي. يبدو الأمر كما لو أن الأطفال يقاتلون من أجل الغد الأصعب. إنه يحب أن يبدأ المرض ولكن الدببة بحاجة إلى تزيين كتلة الفقر. الرعاية الصحية يحتاج إلى العناية. هذا يعني أن الجلاد سيرغب في تعليق سعر الكارتون. أنا أكره زمن العفاريت ، البروتين المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113} -->
-<div class="wp-block-cover has-background-dim"><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:cover {"url":"https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg","id":113,"dimRatio":50,"isDark":false} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-113" alt="" src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2021/12/pexels-snapwire-670061.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
 <p class="has-text-align-center has-medium-font-size">  المنتقم في السكر الآن. اينيس. تم تصحيحه مجانًا ولكن الحلق قبيح. مجانًا الآن ، تختلف العواقب أحيانًا ، لكن الثعلب يحبها كثيرًا. كما يسد الحلق العنصر بأكمله ، فهو ليس عطلة نهاية الأسبوع. على سبيل المثال ، يجب مراقبة الكثير من الأرض غدًا.   </p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
@@ -3397,6 +3543,10 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
+<!-- wp:image {"id":248,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://afthemes.com/products/chromenews-pro/" target="_blank" rel="noreferrer noopener"><img src="https://demos.afthemes.com/chromenews/arabic-news/wp-content/uploads/sites/4/2022/09/content-black-1024x109.png" alt="" class="wp-image-248"/></a></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
 <p style="font-size:18px"> يحب أن يكون جزءًا من الأصول ، حتى يتمكن من إنقاذ حياته بأكملها. إنها لفكرة رائعة أن تكون حزينًا. فالأسد سهل أو يحتاجه دب. هناك الكثير من الركض في مقدمة الكرة. كارول. لذلك ، فهو يحتاجني ، ولكن من أجل الحرية ، ولكن من أجل الحلق. في بعض الأحيان يكون لدى الكثير من الناس علاقة كبيرة به. لكني أكره أن أكون الأكثر مكروهًا للأكثر إثارة ليس الأمر سهلاً ولكنه سيكون رائعًا. أحتاج إلى نصائحي وفقًا لذلك ، ولكن مجانًا. وانا اكره مميزات مشاكل الفناء الخلفي ولكن فقر عملائنا. كيفية تزيين العفاريت في الرسوم المتحركة</p>
 <!-- /wp:paragraph -->
@@ -3430,8 +3580,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2021-12-16 06:28:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-12-16 06:28:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-05 04:50:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-05 04:50:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-18 17:03:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-18 17:03:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[%d9%85%d8%a7%d9%81%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%8a%d8%b7%d9%84%d8%a8-%d9%85%d8%b3]]></wp:post_name>
@@ -3467,6 +3617,14 @@
 		<wp:meta_key><![CDATA[chromenews-meta-content-mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single-content-mode-boxed]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[chromenews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
@@ -3492,6 +3650,31 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="chromenews-pro"><![CDATA[chromenews-pro]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.afthemes.com/chromenews/arabic-news/2022/09/21/wp-global-styles-chromenews/</link>
+		<pubDate>Wed, 21 Sep 2022 11:02:21 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.afthemes.com/chromenews/arabic-news/2022/09/21/wp-global-styles-chromenews/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>247</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-21 11:02:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-21 11:02:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-21 11:02:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-21 11:02:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-chromenews]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="chromenews"><![CDATA[chromenews]]></category>
 						</item>
 				</channel>
 </rss>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-07 10:37" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-23 05:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,14 +28,14 @@
 <channel>
 	<title>Beauty Mag Pro</title>
 	<link>https://demos.afthemes.com/covernews-pro/beauty-mag</link>
-	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Wed, 07 Sep 2022 10:37:26 +0000</pubDate>
+	<description>Just another CoverNews Pro Demo</description>
+	<pubDate>Wed, 23 Nov 2022 05:06:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/beauty-mag</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -199,7 +199,7 @@
 	<wp:term><wp:term_id>14</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/beauty-mag/wp-content/uploads/sites/4/2018/08/cropped-af-themes-main-dark-1-150x150.png</url>
@@ -406,14 +406,6 @@
 		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1612334399]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.516017994683389158439013044699095189571380615234375;s:5:"bytes";i:8859;s:11:"size_before";i:352104;s:10:"size_after";i:343245;s:4:"time";d:0.44000000000000005773159728050814010202884674072265625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:4.36000000000000031974423109204508364200592041015625;s:5:"bytes";i:252;s:11:"size_before";i:5774;s:10:"size_after";i:5522;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:3.029999999999999804600747665972448885440826416015625;s:5:"bytes";i:1516;s:11:"size_before";i:49974;s:10:"size_after";i:48458;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.3499999999999996447286321199499070644378662109375;s:5:"bytes";i:223;s:11:"size_before";i:5125;s:10:"size_after";i:4902;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:3.12000000000000010658141036401502788066864013671875;s:5:"bytes";i:938;s:11:"size_before";i:30052;s:10:"size_after";i:29114;s:4:"time";d:0.08000000000000000166533453693773481063544750213623046875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:2.899999999999999911182158029987476766109466552734375;s:5:"bytes";i:2957;s:11:"size_before";i:102018;s:10:"size_after";i:99061;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:2.720000000000000195399252334027551114559173583984375;s:5:"bytes";i:1660;s:11:"size_before";i:61132;s:10:"size_after";i:59472;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:48458;s:10:"size_after";i:48458;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:2.589999999999999857891452847979962825775146484375;s:5:"bytes";i:811;s:11:"size_before";i:31338;s:10:"size_after";i:30527;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:2.75;s:5:"bytes";i:502;s:11:"size_before";i:18233;s:10:"size_after";i:17731;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}}}]]></wp:meta_value>
 		</wp:postmeta>
@@ -555,6 +547,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:2.26920120400848102093505076481960713863372802734375;s:5:"bytes";i:8059;s:11:"size_before";i:355147;s:10:"size_after";i:347088;s:4:"time";d:0.520000000000000017763568394002504646778106689453125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";i:0;}s:5:"sizes";a:9:{s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:3.689999999999999946709294817992486059665679931640625;s:5:"bytes";i:357;s:11:"size_before";i:9678;s:10:"size_after";i:9321;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:2.70999999999999996447286321199499070644378662109375;s:5:"bytes";i:1871;s:11:"size_before";i:69044;s:10:"size_after";i:67173;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.17999999999999971578290569595992565155029296875;s:5:"bytes";i:249;s:11:"size_before";i:4807;s:10:"size_after";i:4558;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:2.819999999999999840127884453977458178997039794921875;s:5:"bytes";i:1218;s:11:"size_before";i:43163;s:10:"size_after";i:41945;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:2.54999999999999982236431605997495353221893310546875;s:5:"bytes";i:2000;s:11:"size_before";i:78480;s:10:"size_after";i:76480;s:4:"time";d:0.0899999999999999966693309261245303787291049957275390625;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:2.819999999999999840127884453977458178997039794921875;s:5:"bytes";i:1257;s:11:"size_before";i:44575;s:10:"size_after";i:43318;s:4:"time";d:0.13000000000000000444089209850062616169452667236328125;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:67173;s:10:"size_after";i:67173;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:2.87000000000000010658141036401502788066864013671875;s:5:"bytes";i:679;s:11:"size_before";i:23664;s:10:"size_after";i:22985;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:2.939999999999999946709294817992486059665679931640625;s:5:"bytes";i:428;s:11:"size_before";i:14563;s:10:"size_after";i:14135;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1668530734]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -958,10 +958,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:598;s:4:"file";s:43:"2022/07/cropped-pexels-photo-1051574-1.jpeg";s:8:"filesize";i:158822;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:42:"cropped-pexels-photo-1051574-1-300x94.jpeg";s:5:"width";i:300;s:6:"height";i:94;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5774;}s:5:"large";a:5:{s:4:"file";s:44:"cropped-pexels-photo-1051574-1-1024x322.jpeg";s:5:"width";i:1024;s:6:"height";i:322;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50000;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-pexels-photo-1051574-1-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5133;}s:12:"medium_large";a:5:{s:4:"file";s:43:"cropped-pexels-photo-1051574-1-768x242.jpeg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30045;}s:9:"1536x1536";a:5:{s:4:"file";s:44:"cropped-pexels-photo-1051574-1-1536x483.jpeg";s:5:"width";i:1536;s:6:"height";i:483;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101515;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:44:"cropped-pexels-photo-1051574-1-1115x598.jpeg";s:5:"width";i:1115;s:6:"height";i:598;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102018;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:43:"cropped-pexels-photo-1051574-1-800x500.jpeg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61120;}s:18:"covernews-featured";a:5:{s:4:"file";s:44:"cropped-pexels-photo-1051574-1-1024x322.jpeg";s:5:"width";i:1024;s:6:"height";i:322;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50000;}s:16:"covernews-medium";a:5:{s:4:"file";s:43:"cropped-pexels-photo-1051574-1-540x340.jpeg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31336;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:43:"cropped-pexels-photo-1051574-1-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18221;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

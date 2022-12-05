@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-07 10:45" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-21 11:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Business Pro</title>
 	<link>https://demos.afthemes.com/covernews-pro/business</link>
 	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Wed, 07 Sep 2022 10:45:12 +0000</pubDate>
+	<pubDate>Mon, 21 Nov 2022 11:59:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/business</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -214,7 +214,7 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/08/cropped-af-themes-main-dark-1-1-150x150.png</url>
@@ -225,6 +225,96 @@
 </image> 
 
 		<item>
+		<title><![CDATA[Facebook]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/facebook/</link>
+		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=44</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[facebook]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Twitter]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/twitter/</link>
+		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[twitter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[af-themes main dark]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/business/af-themes-main-dark/</link>
 		<pubDate>Wed, 01 Aug 2018 03:20:33 +0000</pubDate>
@@ -714,11 +804,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[kreeti]]></wp:meta_value>
+		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:4.731077896055893461380037479102611541748046875;s:5:"bytes";i:22502;s:11:"size_before";i:475621;s:10:"size_after";i:453119;s:4:"time";d:0.289999999999999980015985556747182272374629974365234375;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:8:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:6.05999999999999960920149533194489777088165283203125;s:5:"bytes";i:593;s:11:"size_before";i:9786;s:10:"size_after";i:9193;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:6.79000000000000003552713678800500929355621337890625;s:5:"bytes";i:666;s:11:"size_before";i:9805;s:10:"size_after";i:9139;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.1699999999999999289457264239899814128875732421875;s:5:"bytes";i:2568;s:11:"size_before";i:49625;s:10:"size_after";i:47057;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.17999999999999971578290569595992565155029296875;s:5:"bytes";i:4120;s:11:"size_before";i:79589;s:10:"size_after";i:75469;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.71999999999999975131004248396493494510650634765625;s:5:"bytes";i:5920;s:11:"size_before";i:103562;s:10:"size_after";i:97642;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:75469;s:10:"size_after";i:75469;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:5.660000000000000142108547152020037174224853515625;s:5:"bytes";i:4018;s:11:"size_before";i:71011;s:10:"size_after";i:66993;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:6.0099999999999997868371792719699442386627197265625;s:5:"bytes";i:4617;s:11:"size_before";i:76774;s:10:"size_after";i:72157;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1668531064]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -890,240 +984,44 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-gadgets-iphone-laptop-163143-1.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-gadgets-iphone-laptop-163143-jpg/</link>
-		<pubDate>Sat, 02 May 2020 15:31:49 +0000</pubDate>
+		<title><![CDATA[cropped-af-themes-main-dark-1-1.png]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/cropped-af-themes-main-dark-1-1-png/</link>
+		<pubDate>Thu, 24 Sep 2020 05:37:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/business/wp-content/uploads/sites/11/2019/06/cropped-gadgets-iphone-laptop-163143.jpg</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/08/cropped-af-themes-main-dark-1-1.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/08/cropped-af-themes-main-dark-1-1.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>273</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-02 15:31:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-02 15:31:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 15:31:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 15:31:49]]></wp:post_modified_gmt>
+		<wp:post_id>288</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-24 05:37:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-24 05:37:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-09-24 05:37:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-24 05:37:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-gadgets-iphone-laptop-163143-jpg]]></wp:post_name>
+		<wp:post_name><![CDATA[cropped-af-themes-main-dark-1-1-png]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2019/06/cropped-gadgets-iphone-laptop-163143-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/06/cropped-gadgets-iphone-laptop-163143-1.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:50:"2019/06/cropped-gadgets-iphone-laptop-163143-1.jpg";s:8:"filesize";i:250163;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:49:"cropped-gadgets-iphone-laptop-163143-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7772;}s:5:"large";a:5:{s:4:"file";s:51:"cropped-gadgets-iphone-laptop-163143-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86075;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"cropped-gadgets-iphone-laptop-163143-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7176;}s:12:"medium_large";a:5:{s:4:"file";s:50:"cropped-gadgets-iphone-laptop-163143-1-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52935;}s:9:"1536x1536";a:5:{s:4:"file";s:51:"cropped-gadgets-iphone-laptop-163143-1-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:164237;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:51:"cropped-gadgets-iphone-laptop-163143-1-1115x599.jpg";s:5:"width";i:1115;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150322;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:50:"cropped-gadgets-iphone-laptop-163143-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88069;}s:18:"covernews-featured";a:5:{s:4:"file";s:51:"cropped-gadgets-iphone-laptop-163143-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86075;}s:16:"covernews-medium";a:5:{s:4:"file";s:50:"cropped-gadgets-iphone-laptop-163143-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47523;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:50:"cropped-gadgets-iphone-laptop-163143-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28451;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:43:"2018/08/cropped-af-themes-main-dark-1-1.png";s:8:"filesize";i:16693;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46510;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13583;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-512x500.png";s:5:"width";i:512;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20624;}s:16:"covernews-medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-512x340.png";s:5:"width";i:512;s:6:"height";i:340;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15033;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:35670;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_newsever-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1588433550]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsever-pro]]></wp:meta_value>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:6.415245345769125862034343299455940723419189453125;s:5:"bytes";i:45369;s:11:"size_before";i:707206;s:10:"size_after";i:661837;s:4:"time";d:0.29000000000000003552713678800500929355621337890625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.1500000000000003552713678800500929355621337890625;s:5:"bytes";i:298;s:11:"size_before";i:7183;s:10:"size_after";i:6885;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:5.07000000000000028421709430404007434844970703125;s:5:"bytes";i:394;s:11:"size_before";i:7775;s:10:"size_after";i:7381;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:5.11000000000000031974423109204508364200592041015625;s:5:"bytes";i:2705;s:11:"size_before";i:52922;s:10:"size_after";i:50217;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:5.70000000000000017763568394002504646778106689453125;s:5:"bytes";i:4910;s:11:"size_before";i:86101;s:10:"size_after";i:81191;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:8.2400000000000002131628207280300557613372802734375;s:5:"bytes";i:17109;s:11:"size_before";i:207741;s:10:"size_after";i:190632;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:8.5099999999999997868371792719699442386627197265625;s:5:"bytes";i:10695;s:11:"size_before";i:125662;s:10:"size_after";i:114967;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:81191;s:10:"size_after";i:81191;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:6.32000000000000028421709430404007434844970703125;s:5:"bytes";i:4307;s:11:"size_before";i:68110;s:10:"size_after";i:63803;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:7.019999999999999573674358543939888477325439453125;s:5:"bytes";i:4951;s:11:"size_before";i:70521;s:10:"size_after";i:65570;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-adult-agent-banking-684387.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-adult-agent-banking-684387-jpg/</link>
-		<pubDate>Sat, 02 May 2020 15:32:40 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/newsever-pro/business/wp-content/uploads/sites/11/2018/07/cropped-adult-agent-banking-684387.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>275</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-02 15:32:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-02 15:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-02 15:32:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-02 15:32:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-adult-agent-banking-684387-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/07/cropped-adult-agent-banking-684387.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/cropped-adult-agent-banking-684387.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:46:"2018/07/cropped-adult-agent-banking-684387.jpg";s:8:"filesize";i:45069;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:45:"cropped-adult-agent-banking-684387-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3537;}s:5:"large";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18130;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"cropped-adult-agent-banking-684387-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3776;}s:12:"medium_large";a:5:{s:4:"file";s:46:"cropped-adult-agent-banking-684387-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12050;}s:9:"1536x1536";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33232;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1115x599.jpg";s:5:"width";i:1115;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32744;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:46:"cropped-adult-agent-banking-684387-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22951;}s:18:"covernews-featured";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18130;}s:16:"covernews-medium";a:5:{s:4:"file";s:46:"cropped-adult-agent-banking-684387-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13188;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:46:"cropped-adult-agent-banking-684387-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8724;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_newsever-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1588433579]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newsever-pro]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.16676389906036259702659663162194192409515380859375;s:5:"bytes";i:8325;s:11:"size_before";i:161126;s:10:"size_after";i:152801;s:4:"time";d:0.2400000000000000188737914186276611872017383575439453125;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:3.680000000000000159872115546022541821002960205078125;s:5:"bytes";i:139;s:11:"size_before";i:3779;s:10:"size_after";i:3640;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:1.4699999999999999733546474089962430298328399658203125;s:5:"bytes";i:52;s:11:"size_before";i:3540;s:10:"size_after";i:3488;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.3300000000000000710542735760100185871124267578125;s:5:"bytes";i:522;s:11:"size_before";i:12064;s:10:"size_after";i:11542;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.1500000000000003552713678800500929355621337890625;s:5:"bytes";i:1113;s:11:"size_before";i:18112;s:10:"size_after";i:16999;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:8.28999999999999914734871708787977695465087890625;s:5:"bytes";i:3392;s:11:"size_before";i:40916;s:10:"size_after";i:37524;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:5.28000000000000024868995751603506505489349365234375;s:5:"bytes";i:1565;s:11:"size_before";i:29643;s:10:"size_after";i:28078;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:16999;s:10:"size_after";i:16999;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:4.12000000000000010658141036401502788066864013671875;s:5:"bytes";i:697;s:11:"size_before";i:16902;s:10:"size_after";i:16205;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:4.410000000000000142108547152020037174224853515625;s:5:"bytes";i:845;s:11:"size_before";i:19171;s:10:"size_after";i:18326;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-charts-data-desk-669615.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-charts-data-desk-669615-jpg/</link>
-		<pubDate>Thu, 24 Sep 2020 05:28:57 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/07/cropped-charts-data-desk-669615.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>283</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-24 05:28:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-24 05:28:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-24 05:28:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-24 05:28:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-charts-data-desk-669615-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/07/cropped-charts-data-desk-669615.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/cropped-charts-data-desk-669615.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:43:"2018/07/cropped-charts-data-desk-669615.jpg";s:8:"filesize";i:143828;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:42:"cropped-charts-data-desk-669615-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5528;}s:5:"large";a:5:{s:4:"file";s:44:"cropped-charts-data-desk-669615-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42984;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-charts-data-desk-669615-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3723;}s:12:"medium_large";a:5:{s:4:"file";s:43:"cropped-charts-data-desk-669615-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25640;}s:9:"1536x1536";a:5:{s:4:"file";s:44:"cropped-charts-data-desk-669615-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89770;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:44:"cropped-charts-data-desk-669615-1115x599.jpg";s:5:"width";i:1115;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79465;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:43:"cropped-charts-data-desk-669615-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44533;}s:18:"covernews-featured";a:5:{s:4:"file";s:44:"cropped-charts-data-desk-669615-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42984;}s:16:"covernews-medium";a:5:{s:4:"file";s:43:"cropped-charts-data-desk-669615-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21951;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:43:"cropped-charts-data-desk-669615-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12839;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1600925339]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:6.157239884672691232481156475841999053955078125;s:5:"bytes";i:22274;s:11:"size_before";i:361753;s:10:"size_after";i:339479;s:4:"time";d:0.25;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:5.13999999999999968025576890795491635799407958984375;s:5:"bytes";i:191;s:11:"size_before";i:3716;s:10:"size_after";i:3525;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:4.36000000000000031974423109204508364200592041015625;s:5:"bytes";i:241;s:11:"size_before";i:5529;s:10:"size_after";i:5288;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:6.67999999999999971578290569595992565155029296875;s:5:"bytes";i:1712;s:11:"size_before";i:25641;s:10:"size_after";i:23929;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.79999999999999982236431605997495353221893310546875;s:5:"bytes";i:2927;s:11:"size_before";i:43017;s:10:"size_after";i:40090;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:6.5999999999999996447286321199499070644378662109375;s:5:"bytes";i:7316;s:11:"size_before";i:110880;s:10:"size_after";i:103564;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:7.11000000000000031974423109204508364200592041015625;s:5:"bytes";i:4735;s:11:"size_before";i:66643;s:10:"size_after";i:61908;s:4:"time";d:0.0299999999999999988897769753748434595763683319091796875;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:40090;s:10:"size_after";i:40090;s:4:"time";d:0.059999999999999997779553950749686919152736663818359375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:7.839999999999999857891452847979962825775146484375;s:5:"bytes";i:2479;s:11:"size_before";i:31604;s:10:"size_after";i:29125;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:7.71999999999999975131004248396493494510650634765625;s:5:"bytes";i:2673;s:11:"size_before";i:34633;s:10:"size_after";i:31960;s:4:"time";d:0.040000000000000000832667268468867405317723751068115234375;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Facebook]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/facebook/</link>
-		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=44</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[facebook]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Twitter]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/twitter/</link>
-		<pubDate>Wed, 18 Jul 2018 12:08:58 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=45</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 12:08:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 12:08:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 12:08:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[twitter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="social-menu-items"><![CDATA[Social menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:27.654596430263783446434899815358221530914306640625;s:5:"bytes";i:28013;s:11:"size_before";i:101296;s:10:"size_after";i:73283;s:4:"time";d:0.70000000000000006661338147750939242541790008544921875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.590000000000003410605131648480892181396484375;s:5:"bytes";i:4093;s:11:"size_before";i:10888;s:10:"size_after";i:6795;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:38.3599999999999994315658113919198513031005859375;s:5:"bytes";i:12662;s:11:"size_before";i:33009;s:10:"size_after";i:20347;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:18.660000000000000142108547152020037174224853515625;s:5:"bytes";i:3090;s:11:"size_before";i:16560;s:10:"size_after";i:13470;s:4:"time";d:0.1700000000000000122124532708767219446599483489990234375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:20.129999999999999005240169935859739780426025390625;s:5:"bytes";i:4028;s:11:"size_before";i:20006;s:10:"size_after";i:15978;s:4:"time";d:0.14000000000000001332267629550187848508358001708984375;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:19.870000000000000994759830064140260219573974609375;s:5:"bytes";i:4140;s:11:"size_before";i:20833;s:10:"size_after";i:16693;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1262,93 +1160,31 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-adult-agent-banking-684387-1.jpg]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-adult-agent-banking-684387-1-jpg/</link>
-		<pubDate>Thu, 24 Sep 2020 05:31:51 +0000</pubDate>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/?page_id=145</link>
+		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/07/cropped-adult-agent-banking-684387-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=3</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Who we are</h2><p>Our website address is: https://demo.afthemes.com/covernews.</p><h2>What personal data we collect and why we collect it</h2><h3>Comments</h3><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h3>Media</h3><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h3>Contact forms</h3><h3>Cookies</h3><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h3>Embedded content from other websites</h3><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><h3>Analytics</h3><h2>Who we share your data with</h2><h2>How long we retain your data</h2><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2>What rights you have over your data</h2><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2>Where we send your data</h2><p>Visitor comments may be checked through an automated spam detection service.</p><h2>Your contact information</h2><h2>Additional information</h2><h3>How we protect your data</h3><h3>What data breach procedures we have in place</h3><h3>What third parties we receive data from</h3><h3>What automated decision making and/or profiling we do with user data</h3><h3>Industry regulatory disclosure requirements</h3>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>286</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-24 05:31:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-24 05:31:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-24 05:31:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-24 05:31:51]]></wp:post_modified_gmt>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date><![CDATA[2018-08-08 05:09:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-08-08 05:09:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-adult-agent-banking-684387-1-jpg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/07/cropped-adult-agent-banking-684387-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/07/cropped-adult-agent-banking-684387-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:48:"2018/07/cropped-adult-agent-banking-684387-1.jpg";s:8:"filesize";i:45407;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3642;}s:5:"large";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18312;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3628;}s:12:"medium_large";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12227;}s:9:"1536x1536";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33367;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1115x599.jpg";s:5:"width";i:1115;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32390;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22391;}s:18:"covernews-featured";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18312;}s:16:"covernews-medium";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12949;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8539;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_covernews-pro]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1600925547]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:5.5040201757890532263672866974957287311553955078125;s:5:"bytes";i:8817;s:11:"size_before";i:160192;s:10:"size_after";i:151375;s:4:"time";d:0.54000000000000003552713678800500929355621337890625;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:9:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:4.0800000000000000710542735760100185871124267578125;s:5:"bytes";i:148;s:11:"size_before";i:3629;s:10:"size_after";i:3481;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:1.399999999999999911182158029987476766109466552734375;s:5:"bytes";i:51;s:11:"size_before";i:3648;s:10:"size_after";i:3597;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:12:"medium_large";O:8:"stdClass":5:{s:7:"percent";d:4.07000000000000028421709430404007434844970703125;s:5:"bytes";i:498;s:11:"size_before";i:12221;s:10:"size_after";i:11723;s:4:"time";d:0.0200000000000000004163336342344337026588618755340576171875;}s:5:"large";O:8:"stdClass":5:{s:7:"percent";d:6.0999999999999996447286321199499070644378662109375;s:5:"bytes";i:1116;s:11:"size_before";i:18294;s:10:"size_after";i:17178;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:21:"covernews-slider-full";O:8:"stdClass":5:{s:7:"percent";d:8.6500000000000003552713678800500929355621337890625;s:5:"bytes";i:3537;s:11:"size_before";i:40896;s:10:"size_after";i:37359;s:4:"time";d:0.14000000000000001332267629550187848508358001708984375;}s:23:"covernews-slider-center";O:8:"stdClass":5:{s:7:"percent";d:6.05999999999999960920149533194489777088165283203125;s:5:"bytes";i:1750;s:11:"size_before";i:28888;s:10:"size_after";i:27138;s:4:"time";d:0.11000000000000000055511151231257827021181583404541015625;}s:18:"covernews-featured";O:8:"stdClass":5:{s:7:"percent";i:0;s:5:"bytes";i:0;s:11:"size_before";i:17178;s:10:"size_after";i:17178;s:4:"time";d:0.05000000000000000277555756156289135105907917022705078125;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:4.5999999999999996447286321199499070644378662109375;s:5:"bytes";i:772;s:11:"size_before";i:16788;s:10:"size_after";i:16016;s:4:"time";d:0.01000000000000000020816681711721685132943093776702880859375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:5.07000000000000028421709430404007434844970703125;s:5:"bytes";i:945;s:11:"size_before";i:18650;s:10:"size_after";i:17705;s:4:"time";d:0.11999999999999999555910790149937383830547332763671875;}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[cropped-af-themes-main-dark-1-1.png]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-af-themes-main-dark-1-1-png/</link>
-		<pubDate>Thu, 24 Sep 2020 05:37:30 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/08/cropped-af-themes-main-dark-1-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/wp-content/uploads/sites/2/2018/08/cropped-af-themes-main-dark-1-1.png]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>288</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-24 05:37:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-24 05:37:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-09-24 05:37:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-09-24 05:37:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-af-themes-main-dark-1-1-png]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/08/cropped-af-themes-main-dark-1-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:43:"2018/08/cropped-af-themes-main-dark-1-1.png";s:8:"filesize";i:16693;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:46510;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13583;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-512x500.png";s:5:"width";i:512;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20624;}s:16:"covernews-medium";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-512x340.png";s:5:"width";i:512;s:6:"height";i:340;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15033;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:43:"cropped-af-themes-main-dark-1-1-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:35670;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wp-smpro-smush-data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{s:5:"stats";a:8:{s:7:"percent";d:27.654596430263783446434899815358221530914306640625;s:5:"bytes";i:28013;s:11:"size_before";i:101296;s:10:"size_after";i:73283;s:4:"time";d:0.70000000000000006661338147750939242541790008544921875;s:11:"api_version";s:3:"1.0";s:5:"lossy";b:0;s:9:"keep_exif";b:1;}s:5:"sizes";a:5:{s:9:"thumbnail";O:8:"stdClass":5:{s:7:"percent";d:37.590000000000003410605131648480892181396484375;s:5:"bytes";i:4093;s:11:"size_before";i:10888;s:10:"size_after";i:6795;s:4:"time";d:0.070000000000000006661338147750939242541790008544921875;}s:6:"medium";O:8:"stdClass":5:{s:7:"percent";d:38.3599999999999994315658113919198513031005859375;s:5:"bytes";i:12662;s:11:"size_before";i:33009;s:10:"size_after";i:20347;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}s:16:"covernews-medium";O:8:"stdClass":5:{s:7:"percent";d:18.660000000000000142108547152020037174224853515625;s:5:"bytes";i:3090;s:11:"size_before";i:16560;s:10:"size_after";i:13470;s:4:"time";d:0.1700000000000000122124532708767219446599483489990234375;}s:23:"covernews-medium-square";O:8:"stdClass":5:{s:7:"percent";d:20.129999999999999005240169935859739780426025390625;s:5:"bytes";i:4028;s:11:"size_before";i:20006;s:10:"size_after";i:15978;s:4:"time";d:0.14000000000000001332267629550187848508358001708984375;}s:4:"full";O:8:"stdClass":5:{s:7:"percent";d:19.870000000000000994759830064140260219573974609375;s:5:"bytes";i:4140;s:11:"size_before";i:20833;s:10:"size_after";i:16693;s:4:"time";d:0.1600000000000000033306690738754696212708950042724609375;}}}]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1864,40 +1700,167 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[cropped-adult-agent-banking-684387-1]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/cropped-adult-agent-banking-684387-1/</link>
-		<pubDate>Thu, 07 Jul 2022 08:56:41 +0000</pubDate>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/303/</link>
+		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2022/07/cropped-adult-agent-banking-684387-1.jpg</guid>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=303</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>308</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-07 08:56:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-07-07 08:56:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-07 08:56:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-07 08:56:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>304</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-adult-agent-banking-684387-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[303]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demos.afthemes.com/covernews-pro/business/wp-content/uploads/sites/5/2022/07/cropped-adult-agent-banking-684387-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/07/cropped-adult-agent-banking-684387-1.jpg]]></wp:meta_value>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1900;s:6:"height";i:599;s:4:"file";s:48:"2022/07/cropped-adult-agent-banking-684387-1.jpg";s:8:"filesize";i:45407;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:47:"cropped-adult-agent-banking-684387-1-300x95.jpg";s:5:"width";i:300;s:6:"height";i:95;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3642;}s:5:"large";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18312;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3628;}s:12:"medium_large";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-768x242.jpg";s:5:"width";i:768;s:6:"height";i:242;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12227;}s:9:"1536x1536";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1536x484.jpg";s:5:"width";i:1536;s:6:"height";i:484;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33367;}s:21:"covernews-slider-full";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1115x599.jpg";s:5:"width";i:1115;s:6:"height";i:599;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32390;}s:23:"covernews-slider-center";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-800x500.jpg";s:5:"width";i:800;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22391;}s:18:"covernews-featured";a:5:{s:4:"file";s:49:"cropped-adult-agent-banking-684387-1-1024x323.jpg";s:5:"width";i:1024;s:6:"height";i:323;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18312;}s:16:"covernews-medium";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-540x340.jpg";s:5:"width";i:540;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12949;}s:23:"covernews-medium-square";a:5:{s:4:"file";s:48:"cropped-adult-agent-banking-684387-1-400x250.jpg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8539;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[covernews-pro]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/304/</link>
+		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=304</guid>
+		<description></description>
+		<content:encoded><![CDATA[Quisque veritatis reprehenderit lobortis, distinctio bibendum lobortis habitasse, penatibus autem, vitae suscipit recusandae. Egestas! Quisque laboris eiusmod mollitia eleifend, sapien, dui? Magnam, quam mollit, netus pretium porttitor posuere.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>305</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[304]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/305/</link>
+		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=305</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>306</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[305]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/306/</link>
+		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=306</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>307</wp:post_id>
+		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[306]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[category]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2436,6 +2399,73 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
+		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
+		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
+		<description></description>
+		<content:encoded><![CDATA[Molestiae exercitation ridiculus dolore, metus, quaerat! Auctor consequuntur commodi. Esse. Assumenda luctus, dictumst eu varius repellat quae erat! Malesuada odio officiis phasellus sunt voluptatem quaerat facere? Wisi cumque hac veniam. Maecenas litora! Pretium ultricies mollis molestie, porta perferendis odit exercitationem, tempus pharetra, sed quis. Quia, quam veritatis voluptatibus sem habitasse. Perferendis mattis nec laudantium. Tellus omnis harum, mollit. Felis ridiculus? Eligendi risus amet consectetuer litora officiis lobortis mollis adipisicing interdum sollicitudin facilisis urna harum omnis volutpat autem consequat. Imperdiet facilisis! Nec corrupti eleifend expedita excepturi ullamco. Taciti maxime vestibulum quisquam, laoreet quia doloribus earum voluptatum, quod. Eum eu eum ipsa.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
+		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://demos.afthemes.com/covernews-pro/business/</link>
 		<pubDate>Wed, 18 Jul 2018 11:55:09 +0000</pubDate>
@@ -2517,34 +2547,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/?page_id=145</link>
-		<pubDate>Wed, 08 Aug 2018 05:09:49 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h2>Who we are</h2><p>Our website address is: https://demo.afthemes.com/covernews.</p><h2>What personal data we collect and why we collect it</h2><h3>Comments</h3><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h3>Media</h3><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h3>Contact forms</h3><h3>Cookies</h3><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h3>Embedded content from other websites</h3><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><h3>Analytics</h3><h2>Who we share your data with</h2><h2>How long we retain your data</h2><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2>What rights you have over your data</h2><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2>Where we send your data</h2><p>Visitor comments may be checked through an automated spam detection service.</p><h2>Your contact information</h2><h2>Additional information</h2><h3>How we protect your data</h3><h3>What data breach procedures we have in place</h3><h3>What third parties we receive data from</h3><h3>What automated decision making and/or profiling we do with user data</h3><h3>Industry regulatory disclosure requirements</h3>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>145</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-08 05:09:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-08-08 05:09:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-08-08 05:09:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2683,237 +2685,6 @@ Lorem ipsum dolor sit amet,sed diam nonumy eirmod tempor invidunt ut labore et d
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/303/</link>
-		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=303</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>304</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[303]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/304/</link>
-		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=304</guid>
-		<description></description>
-		<content:encoded><![CDATA[Quisque veritatis reprehenderit lobortis, distinctio bibendum lobortis habitasse, penatibus autem, vitae suscipit recusandae. Egestas! Quisque laboris eiusmod mollitia eleifend, sapien, dui? Magnam, quam mollit, netus pretium porttitor posuere.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>305</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[304]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/305/</link>
-		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=305</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>306</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[305]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2021/02/10/306/</link>
-		<pubDate>Wed, 10 Feb 2021 07:06:42 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/business-pro/?p=306</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>307</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 07:06:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 07:06:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 07:06:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[306]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-items"><![CDATA[Footer menu items]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[category]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Google hit with record EU fine over Shopping service]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/business/2018/07/18/google-hit-with-record-eu-fine-over-shopping-service/</link>
-		<pubDate>Wed, 18 Jul 2018 11:50:24 +0000</pubDate>
-		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.afthemes.com/storymag-pro/?p=33</guid>
-		<description></description>
-		<content:encoded><![CDATA[Molestiae exercitation ridiculus dolore, metus, quaerat! Auctor consequuntur commodi. Esse. Assumenda luctus, dictumst eu varius repellat quae erat! Malesuada odio officiis phasellus sunt voluptatem quaerat facere? Wisi cumque hac veniam. Maecenas litora! Pretium ultricies mollis molestie, porta perferendis odit exercitationem, tempus pharetra, sed quis. Quia, quam veritatis voluptatibus sem habitasse. Perferendis mattis nec laudantium. Tellus omnis harum, mollit. Felis ridiculus? Eligendi risus amet consectetuer litora officiis lobortis mollis adipisicing interdum sollicitudin facilisis urna harum omnis volutpat autem consequat. Imperdiet facilisis! Nec corrupti eleifend expedita excepturi ullamco. Taciti maxime vestibulum quisquam, laoreet quia doloribus earum voluptatum, quod. Eum eu eum ipsa.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2018-07-18 11:50:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-07-18 11:50:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-07-18 11:50:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[storymag-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_bj_lazy_load_skip_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[af_post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kriti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[kreeti-meta-content-alignment]]></wp:meta_key>
-		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[covernews-meta-content-mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single-content-mode-default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

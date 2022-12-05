@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-08 05:38" -->
+	<!-- generator="WordPress/6.1.1" created="2022-11-23 05:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Top News Pro </title>
 	<link>https://demos.afthemes.com/covernews-pro/top-news</link>
 	<description>Just another CoverNews Pro Sites site</description>
-	<pubDate>Thu, 08 Sep 2022 05:38:00 +0000</pubDate>
+	<pubDate>Wed, 23 Nov 2022 05:20:14 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews-pro/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.afthemes.com/covernews-pro/top-news</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[wpafthemes@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wpafthemes@gmail.com]]></wp:author_login><wp:author_email><![CDATA[wpafthemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[AF themes]]></wp:author_display_name><wp:author_first_name><![CDATA[AF]]></wp:author_first_name><wp:author_last_name><![CDATA[themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -212,7 +212,7 @@
 	<wp:term><wp:term_id>15</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews-pro/top-news/wp-content/uploads/sites/12/2018/08/cropped-af-themes-main-dark-1-1-150x150.png</url>
@@ -1507,7 +1507,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/184/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/184/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=184</guid>
@@ -1515,10 +1515,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>184</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[184]]></wp:post_name>
@@ -1545,10 +1545,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/185/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/185/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=185</guid>
@@ -1556,10 +1576,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>185</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[185]]></wp:post_name>
@@ -1586,10 +1606,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/186/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/186/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=186</guid>
@@ -1597,10 +1637,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>186</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[186]]></wp:post_name>
@@ -1631,10 +1671,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/187/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/187/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=187</guid>
@@ -1642,10 +1698,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>187</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[187]]></wp:post_name>
@@ -1672,10 +1728,30 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/188/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/188/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=188</guid>
@@ -1683,10 +1759,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[188]]></wp:post_name>
@@ -1717,10 +1793,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/189/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/189/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=189</guid>
@@ -1728,10 +1820,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>189</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[189]]></wp:post_name>
@@ -1762,10 +1854,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/190/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/190/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=190</guid>
@@ -1773,10 +1881,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[190]]></wp:post_name>
@@ -1807,10 +1915,26 @@
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/191/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/191/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=191</guid>
@@ -1818,10 +1942,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[191]]></wp:post_name>
@@ -1851,6 +1975,22 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1951,7 +2091,7 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/192/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/192/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=192</guid>
@@ -1959,10 +2099,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>192</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[192]]></wp:post_name>
@@ -1993,10 +2133,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/193/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/193/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=193</guid>
@@ -2004,10 +2160,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[193]]></wp:post_name>
@@ -2038,10 +2194,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[‘Somebody threatened to burn the school down’]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/somebody-threatened-to-burn-the-school-down-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/somebody-threatened-to-burn-the-school-down-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=194</guid>
@@ -2049,10 +2221,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>194</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down-2]]></wp:post_name>
@@ -2083,10 +2255,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/195/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/195/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=195</guid>
@@ -2094,10 +2282,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[195]]></wp:post_name>
@@ -2128,10 +2316,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/196/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/196/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=196</guid>
@@ -2139,10 +2343,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[196]]></wp:post_name>
@@ -2173,10 +2377,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/197/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/197/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=197</guid>
@@ -2184,10 +2404,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[197]]></wp:post_name>
@@ -2218,10 +2438,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/198/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/198/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=198</guid>
@@ -2229,10 +2465,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[Exclusive]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -2259,10 +2495,30 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/199/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/199/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=199</guid>
@@ -2270,10 +2526,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -2300,10 +2556,30 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/all-demos-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/all-demos-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=200</guid>
@@ -2311,10 +2587,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>200</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos-2]]></wp:post_name>
@@ -2345,10 +2621,26 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://afthemes.com/covernews-pro-a-premium-multipurpose-wordpress-news-theme/]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Covernews Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/covernews-pro-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/covernews-pro-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=201</guid>
@@ -2356,10 +2648,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[covernews-pro-2]]></wp:post_name>
@@ -2392,12 +2684,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sport Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/sport-pro-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/sport-pro-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=202</guid>
@@ -2405,10 +2709,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>202</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sport-pro-2]]></wp:post_name>
@@ -2441,12 +2745,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/sport-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/sport/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/fashion-pro-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/fashion-pro-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=203</guid>
@@ -2454,10 +2770,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>203</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-pro-2]]></wp:post_name>
@@ -2490,12 +2806,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/fashion-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/fashion/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Classic Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/classic-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/classic-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=204</guid>
@@ -2503,10 +2831,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>204</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic-pro]]></wp:post_name>
@@ -2539,12 +2867,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/classic-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/classic/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/travel-pro-2/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/travel-pro-2/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=205</guid>
@@ -2552,10 +2892,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>205</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel-pro-2]]></wp:post_name>
@@ -2588,12 +2928,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/storymag-pro/travel-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/travel/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Wedding Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/wedding-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/wedding-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=206</guid>
@@ -2601,10 +2953,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>206</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wedding-pro]]></wp:post_name>
@@ -2637,12 +2989,24 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/wedding-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/wedding/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Business Pro]]></title>
-		<link>https://demos.afthemes.com/covernews-pro/top-news/2021/02/10/business-pro/</link>
+		<link>https://demos.afthemes.com/covernews-pro/top-news/2022/11/22/business-pro/</link>
 		<pubDate>Wed, 10 Feb 2021 11:04:37 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/top-news/?p=207</guid>
@@ -2650,10 +3014,10 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>207</wp:post_id>
-		<wp:post_date><![CDATA[2021-02-10 11:04:37]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-11-22 12:11:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-10 11:04:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-10 11:04:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-22 12:11:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-22 12:11:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-pro]]></wp:post_name>
@@ -2686,7 +3050,19 @@ As a new WordPress user, you should go to <a href="https://demo.afthemes.com/cov
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.afthemes.com/covernews-pro/business-pro/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demos.afthemes.com/covernews-pro/business/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2021-02-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
